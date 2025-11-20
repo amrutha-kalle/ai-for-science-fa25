@@ -65,6 +65,25 @@ def extract_composition_from_cif(cif_path: str) -> str:
             return None
 
 
+def extract_cif_content(cif_path: str) -> Optional[str]:
+    """
+    Extract CIF file content as text (first 2000 characters for prompt).
+    
+    Args:
+        cif_path: Path to the CIF file
+        
+    Returns:
+        CIF content as string or None if failed
+    """
+    try:
+        with open(cif_path, 'r') as f:
+            content = f.read()
+            return content[:2000]
+    except Exception as e:
+        print(f"Error reading CIF content from {cif_path}: {e}")
+        return None
+
+
 def load_chemeleon_model():
     """Load the chemeleon model."""
     print("Loading chemeleon model...")
@@ -213,13 +232,20 @@ def process_cif_files(
         # Prompt 1: Chemical composition as text
         text_prompt_1 = f"A crystal structure of {composition}"
         
-        # Prompt 2: Detailed description (could include structural info)
-        text_prompt_2 = f"A crystal structure with composition {composition}"
+        # Prompt 2: CIF file content as text input
+        cif_content = extract_cif_content(str(cif_path))
+        if cif_content is None:
+            print(f"✗ Failed to extract CIF content from {cif_path.name}")
+            continue
+        text_prompt_2 = cif_content
         
         print(f"Generating samples with n_atoms={n_atoms}...")
+        print(f"  Prompt 1: Composition-based")
+        print(f"  Prompt 2: CIF content-based ({len(cif_content)} chars)")
         
         # Run chemeleon with composition-based prompt
         samples_1 = run_chemeleon_sample(chemeleon, text_prompt_1, n_atoms, n_samples=2)
+        # Run chemeleon with CIF content-based prompt
         samples_2 = run_chemeleon_sample(chemeleon, text_prompt_2, n_atoms, n_samples=2)
         
         if samples_1 is None or samples_2 is None:
@@ -233,12 +259,37 @@ def process_cif_files(
         info_samples_1 = [extract_structure_info(atoms) for atoms in samples_1]
         info_samples_2 = [extract_structure_info(atoms) for atoms in samples_2]
         
+        # Save generated CIF structures
+        cif_base_name = cif_path.stem  # Remove .cif extension
+        gen_cifs_dir = Path(output_dir) / "generated_cifs" / cif_base_name
+        gen_cifs_dir.mkdir(parents=True, exist_ok=True)
+        
+        sample_1_paths = []
+        sample_2_paths = []
+        
+        # Save prompt 1 samples (composition-based)
+        for i, atoms in enumerate(samples_1):
+            cif_file = gen_cifs_dir / f"prompt1_sample{i}.cif"
+            ase_write(str(cif_file), atoms)
+            sample_1_paths.append(str(cif_file))
+        
+        # Save prompt 2 samples (CIF-content-based)
+        for i, atoms in enumerate(samples_2):
+            cif_file = gen_cifs_dir / f"prompt2_sample{i}.cif"
+            ase_write(str(cif_file), atoms)
+            sample_2_paths.append(str(cif_file))
+        
+        print(f"✓ Saved {len(samples_1)} + {len(samples_2)} CIF files to {gen_cifs_dir}")
+        
         # Pairwise comparisons
         comparisons = {
             "cif_name": cif_path.name,
             "composition": composition,
             "text_prompt_1": text_prompt_1,
-            "text_prompt_2": text_prompt_2,
+            "text_prompt_1_type": "composition-based",
+            "text_prompt_2_type": "cif-content-based",
+            "sample_1_paths": sample_1_paths,
+            "sample_2_paths": sample_2_paths,
             "samples_1_info": info_samples_1,
             "samples_2_info": info_samples_2,
             "pairwise_similarities": [],
@@ -293,6 +344,10 @@ def process_cif_files(
     print(f"  - final_results.json")
     print(f"  - compositions.json")
     print(f"  - comparisons.pkl")
+    print(f"")
+    print(f"Analysis compared:")
+    print(f"  Prompt 1: Composition-based (e.g., 'A crystal structure of K2U1Pd2S2')")
+    print(f"  Prompt 2: CIF-content-based (using actual CIF file text as input)")
     
     # Generate summary statistics
     generate_summary_report(results, output_dir)
