@@ -1,0 +1,38 @@
+data_K2Ti1In1
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+K 0.8200 2.2000 1.5200
+Ti 1.5400 1.4000 0.8517
+In 1.7800 1.5500 0.9400
+_symmetry_space_group_name_H-M Pmmm
+_cell_length_a 3.8988
+_cell_length_b 5.2329
+_cell_length_c 6.2864
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 47
+_chemical_formula_structural K2TiIn
+_chemical_formula_sum 'K2 Ti1 In1'
+_cell_volume 129.0597
+_cell_formula_units_Z 1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K K0 1 0.0000 0.0000 0.0000 1
+K K1 1 0.5000 0.5000 0.0000 1
+Ti Ti2 1 0.5000 0.0000 0.5000 1
+In In3 1 0.0000 0.5000 0.5000 1
+

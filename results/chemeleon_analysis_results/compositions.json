@@ -1,0 +1,462 @@
+[
+  {
+    "cif_name": "MP_mp-1192306__1.cif",
+    "composition": "K2U1Pd2S2"
+  },
+  {
+    "cif_name": "MP_mp-1193874__1.cif",
+    "composition": "U1Br1O3"
+  },
+  {
+    "cif_name": "MP_mp-757181__1.cif",
+    "composition": "Li1Fe3Sn1O4"
+  },
+  {
+    "cif_name": "NOMAD_-517WIqw8WxFytRnJmbUgrKXkXmC__1.cif",
+    "composition": "Ca2Be1B1"
+  },
+  {
+    "cif_name": "NOMAD_0DZPHpXoNj1l125XcHsc3ry2YU6g__1.cif",
+    "composition": "K2Ti1In1"
+  },
+  {
+    "cif_name": "NOMAD_0h3BbNI9iKW-xNLE3udmNxFBom8I__1.cif",
+    "composition": "K1Al1Cd1"
+  },
+  {
+    "cif_name": "NOMAD_2HCCYYDPoUoogXJ0TRvikHtVu5sc__1.cif",
+    "composition": "K1Ga1Re1Ir1"
+  },
+  {
+    "cif_name": "NOMAD_2v0E9rXoLklzzeritff2rAUia8Kd__1.cif",
+    "composition": "Sc1Tl1Pd2"
+  },
+  {
+    "cif_name": "NOMAD_2v1U-kcEsEFYLj8a3on4EfPmRGnt__1.cif",
+    "composition": "Fe2Tc1"
+  },
+  {
+    "cif_name": "NOMAD_4-c_tT3D3WSOKqIWxqIBR2MIHJ9Z__1.cif",
+    "composition": "Ba1Mn1Nb1"
+  },
+  {
+    "cif_name": "NOMAD_4AQ1o7kIJZJMuxDR6rAmzwdlae30__1.cif",
+    "composition": "Ca1Y1Pd1W1"
+  },
+  {
+    "cif_name": "NOMAD_4Dd3tcVT0e46cnaQzy7tE0lTqyym__1.cif",
+    "composition": "Bi2Sb1"
+  },
+  {
+    "cif_name": "NOMAD_53RTcYEjVkoUFeKBWyNN75ca_JhZ__1.cif",
+    "composition": "B1Se1"
+  },
+  {
+    "cif_name": "NOMAD_5B11PoEvMz-EY5sdOj-1g8P0mwxq__1.cif",
+    "composition": "K1Zr1Sc1Pd1"
+  },
+  {
+    "cif_name": "NOMAD_5dsQ_-f1QYppA5YXCGUnRfItOFIP__1.cif",
+    "composition": "Hf2Mn1Cd1"
+  },
+  {
+    "cif_name": "NOMAD_66iyrPRN7N1S10_WRA3I6Wt9HgSR__1.cif",
+    "composition": "Ni1As1Au1"
+  },
+  {
+    "cif_name": "NOMAD_6IwOLCDWDdarerlovbyDfvSTJUMj__1.cif",
+    "composition": "Zr1Cd2Hg1"
+  },
+  {
+    "cif_name": "NOMAD_9pm59vxyAd1B8oqz0uaykxw3u6ur__1.cif",
+    "composition": "Na1Hf1Cd2"
+  },
+  {
+    "cif_name": "NOMAD_Bc6qHqcuQ8y6OfIkAPPscVzmvq0U__1.cif",
+    "composition": "Cd1Ga1Sn1W1"
+  },
+  {
+    "cif_name": "NOMAD_CMTDr6zxdqo9QFhTzfgiyspWI5-z__1.cif",
+    "composition": "Pt2Au1"
+  },
+  {
+    "cif_name": "NOMAD_D32d-no_ssXgejO2Nppn8mBTBiLu__1.cif",
+    "composition": "K2Hf1"
+  },
+  {
+    "cif_name": "NOMAD_EuJ8M30i8L8F3fmKFeLtyOOp8pLR__1.cif",
+    "composition": "Sr1Nb2Pb1"
+  },
+  {
+    "cif_name": "NOMAD_FeeCxrhHp8flUfjZ8qmBLn4qj7Nt__1.cif",
+    "composition": "Te1Se1Cl1"
+  },
+  {
+    "cif_name": "NOMAD_HQ8QXT5SvrgQO2OFQ8gDk415ttAs__1.cif",
+    "composition": "Hf1Zr1Co1Pt1"
+  },
+  {
+    "cif_name": "NOMAD_I91y-HLen3fkBahZUWd7jkDOv7Tc__1.cif",
+    "composition": "Y1Bi1Os1"
+  },
+  {
+    "cif_name": "NOMAD_IPI_6zm86vzvZ9b_xgyfx8EoXY9h__1.cif",
+    "composition": "Hg1Ir1Cl1"
+  },
+  {
+    "cif_name": "NOMAD_IrNPjnfL4NTdvSV8L0ZKyyVkNEYl__1.cif",
+    "composition": "Li2Bi1Cl1"
+  },
+  {
+    "cif_name": "NOMAD_L5xs4_jbXPBxJeja3UR3N9ZdDmPc__1.cif",
+    "composition": "Ta1Be1Ir1"
+  },
+  {
+    "cif_name": "NOMAD_M5vTyBBxJlAQqNFCM_DIcsDQnQd8__1.cif",
+    "composition": "Zr1Ti2Be1"
+  },
+  {
+    "cif_name": "NOMAD_M_n6xU-1949moStnPGWhc948xarl__1.cif",
+    "composition": "Mn1Ir1Pt1"
+  },
+  {
+    "cif_name": "NOMAD_NYyMZzU3zM1cRfxqSRuYkkDUSnHB__1.cif",
+    "composition": "Y2Sb1Os1"
+  },
+  {
+    "cif_name": "NOMAD_OECBTkiQ6TTzOkNZJJDZzSylegSP__1.cif",
+    "composition": "Cd1Te1Ru1"
+  },
+  {
+    "cif_name": "NOMAD_OGVp2hYxEqfODfUdhLRO0PIQBP3t__1.cif",
+    "composition": "Mn1B1Ru1"
+  },
+  {
+    "cif_name": "NOMAD_QEHxSPLJpgJsArKsjJ2rkY9UtuUU__1.cif",
+    "composition": "Ba1Ir1Rh2"
+  },
+  {
+    "cif_name": "NOMAD_QVKXL6IQOvfjY_d36Z96P67QH19L__1.cif",
+    "composition": "K1Cd1Cl2"
+  },
+  {
+    "cif_name": "NOMAD_RVGEfCGfzrtuNEFwIHv6NSGKt2qY__1.cif",
+    "composition": "Sr1In1"
+  },
+  {
+    "cif_name": "NOMAD_RcANIGQFDrLcBOL0ET3Q8uyPlKfS__1.cif",
+    "composition": "V1In1B2"
+  },
+  {
+    "cif_name": "NOMAD_T_dTBw9IBTWMKEZEDS22I3tDeCi1__1.cif",
+    "composition": "As2C2"
+  },
+  {
+    "cif_name": "NOMAD_URgJoNQ4RMqRXWDC-_o7QmdadI7u__1.cif",
+    "composition": "Ca1Cr1Sb2"
+  },
+  {
+    "cif_name": "NOMAD_V7BWz9Y1HpncoSgFx_bospMZYpcT__1.cif",
+    "composition": "Li1Te1Se1"
+  },
+  {
+    "cif_name": "NOMAD_XCnx_a7p9-eXihvw1xMkpekr6osQ__1.cif",
+    "composition": "V2Cr1Fe1"
+  },
+  {
+    "cif_name": "NOMAD_YfKx4htPJ1-tLywogVJNsoZRhSnb__1.cif",
+    "composition": "Ge3Te3"
+  },
+  {
+    "cif_name": "NOMAD_ZTaMw8sh7SSExPWMu4QqtWDq_mUz__1.cif",
+    "composition": "Sc1Tl2Se1"
+  },
+  {
+    "cif_name": "NOMAD_ZnxDv6uPZVD5YsmbgSqVIKBlctuS__1.cif",
+    "composition": "Ca1Mg1Sc1Hg1"
+  },
+  {
+    "cif_name": "NOMAD__X5-a2pm2n9uPUe419zf3pqONJpA__1.cif",
+    "composition": "Sr1Tc1Pb1"
+  },
+  {
+    "cif_name": "NOMAD__msm3mElqzA9ACGLEizp2XoL6a1M__1.cif",
+    "composition": "Pu1Fe1"
+  },
+  {
+    "cif_name": "NOMAD_a7-0UPEA-yCAHazxo_QiPOofwNzz__1.cif",
+    "composition": "La1Zr2Bi1"
+  },
+  {
+    "cif_name": "NOMAD_aIzaY-_AGwspe_PgLu29V-3qk9gH__1.cif",
+    "composition": "Hg1P1Pb1"
+  },
+  {
+    "cif_name": "NOMAD_ap9qQXMN71EWSITJ_qCJCuwPlQvX__1.cif",
+    "composition": "Cu1B2Pd1"
+  },
+  {
+    "cif_name": "NOMAD_atUvtuarmVQZTdoNzVkKY-GkPuEo__1.cif",
+    "composition": "Ca1Pd1Rh2"
+  },
+  {
+    "cif_name": "NOMAD_bwBDtvFzD-rPcxNlYPDOGykZpRHB__1.cif",
+    "composition": "Pd1Pb1W1"
+  },
+  {
+    "cif_name": "NOMAD_c9z6dgndpMGnmaE21gTrvYOj0XyJ__1.cif",
+    "composition": "Be1Cd1Te1"
+  },
+  {
+    "cif_name": "NOMAD_cxT-hsGR5oFXKydakD3IQuQ34tp-__1.cif",
+    "composition": "Ta1Ag1"
+  },
+  {
+    "cif_name": "NOMAD_dMEEOqHwPRs7OgYwRbbbTxBSFZEM__1.cif",
+    "composition": "Ca1Be1Hg1"
+  },
+  {
+    "cif_name": "NOMAD_ds5VduCDjWgOXwOZhFL8V-IwsNDf__1.cif",
+    "composition": "Sr1Mg1Ta1Tl1"
+  },
+  {
+    "cif_name": "NOMAD_egb4OPFIgltxwHwASue_bum6VsAp__1.cif",
+    "composition": "V1Re1Hg1"
+  },
+  {
+    "cif_name": "NOMAD_feoQR8lK9E5QTPZWSpE_AR4OVcEF__1.cif",
+    "composition": "Ga2Tc1Pb1"
+  },
+  {
+    "cif_name": "NOMAD_fm9513VAwuHQpQwj2Pyl2v_ikq8f__1.cif",
+    "composition": "Ac1Ge1Os1"
+  },
+  {
+    "cif_name": "NOMAD_hLS4NyKuLmlfH1-tp6YEtsOeqsUX__1.cif",
+    "composition": "Ba1Sr1Bi1Rh1"
+  },
+  {
+    "cif_name": "NOMAD_hcGR1g0cEzOGjf5i3UpWHbYsbch1__1.cif",
+    "composition": "Na2Al1Te1"
+  },
+  {
+    "cif_name": "NOMAD_jIobA0XTagqyTmnKRfqNM-owYEwL__1.cif",
+    "composition": "Nb2Ru2"
+  },
+  {
+    "cif_name": "NOMAD_jwB1XSINx6mnAQ1jTfGkTiufs82w__1.cif",
+    "composition": "Ba1Hf1Zr2"
+  },
+  {
+    "cif_name": "NOMAD_kA-ki1thX23Qgpfpd8yEWPc0ZeNQ__1.cif",
+    "composition": "Cu1Pb1Br1"
+  },
+  {
+    "cif_name": "NOMAD_kAbq-8iXpjjmTLRsrpbZ6-e9pWP2__1.cif",
+    "composition": "Ru1Pb1W1"
+  },
+  {
+    "cif_name": "NOMAD_k__Cqz1-JEJwY7kVTwDeaZuVZdCn__1.cif",
+    "composition": "Cd1Ru1Cl1"
+  },
+  {
+    "cif_name": "NOMAD_l31ABWdzWQfXprBTZfbHKeueTfRB__1.cif",
+    "composition": "Ni1Ir1Se1"
+  },
+  {
+    "cif_name": "NOMAD_l3ErfDF76ZjDbUjXoLmcwvoMG1Fw__1.cif",
+    "composition": "Zn1Sn1Te1"
+  },
+  {
+    "cif_name": "NOMAD_lXmugWwvjNnXLO1kDiLBODkD8_ZJ__1.cif",
+    "composition": "Na2Be1Tc1"
+  },
+  {
+    "cif_name": "NOMAD_mK4f3Pti-1ZM1qkk08rMHYQHgZbf__1.cif",
+    "composition": "Cd1Ge1Pd2"
+  },
+  {
+    "cif_name": "NOMAD_nKRx9djvsCJrWM3BP_mj4Z7PbeWn__1.cif",
+    "composition": "Te1Mo1Pt1"
+  },
+  {
+    "cif_name": "NOMAD_nur72yPDExz0Heb8FRbExT13FQzD__1.cif",
+    "composition": "Nb1Tl1Ge2"
+  },
+  {
+    "cif_name": "NOMAD_ox1q_p4bA3NQ8q-Hx0w_kaQOrRvq__1.cif",
+    "composition": "Cr1Cd1Br2"
+  },
+  {
+    "cif_name": "NOMAD_pNVExc-4WAoKTPFUS5O_Gu8K2193__1.cif",
+    "composition": "K1Na1Cr2"
+  },
+  {
+    "cif_name": "NOMAD_s-xK_rbDVxCAZ3w9dTzDH-M8iaui__1.cif",
+    "composition": "La1Tl2Pd1"
+  },
+  {
+    "cif_name": "NOMAD_sA4O-2Q_GSiQwRw_iobcPLtloUUh__1.cif",
+    "composition": "Ca1Ni2Ge1"
+  },
+  {
+    "cif_name": "NOMAD_sJ8oeGBkTmWzFljDCLJPQjMuu5Ej__1.cif",
+    "composition": "K2Al1Ag1"
+  },
+  {
+    "cif_name": "NOMAD_srgS4Xi2GsV-orZUPisG3hmV5VH-__1.cif",
+    "composition": "Nb1Mo1Rh1"
+  },
+  {
+    "cif_name": "NOMAD_uPYr5ki6g3FeXcMQWiBjZ6ZtDVtq__1.cif",
+    "composition": "La2Ru1Au1"
+  },
+  {
+    "cif_name": "NOMAD_x2m0Kc9qoeJeXqY1CTSYvGZry2ub__1.cif",
+    "composition": "Ti1Re1Pd1"
+  },
+  {
+    "cif_name": "NOMAD_x41ioA5hWRoug0k8DYuHkZkW_IhF__1.cif",
+    "composition": "Ge1B1Te1"
+  },
+  {
+    "cif_name": "NOMAD_xUOJho7MX1SJejjrTEAGNKe2eHy6__1.cif",
+    "composition": "Be1Cu1As1"
+  },
+  {
+    "cif_name": "NOMAD_yW2RvB7mtOU8xSHEPjdjTVW361kR__1.cif",
+    "composition": "Nb1Tc1Pd1"
+  },
+  {
+    "cif_name": "NOMAD_z5gzwgUIOu_qSdZzOQaGrC2nNns-__1.cif",
+    "composition": "Si1As1Pt1"
+  },
+  {
+    "cif_name": "NOMAD_zyIgTZwQtMjSTrSbkV2sTOjyDMdu__1.cif",
+    "composition": "Be1Cu1Au2"
+  },
+  {
+    "cif_name": "OQMD_10023__1.cif",
+    "composition": "Ho1Si1Rh1"
+  },
+  {
+    "cif_name": "OQMD_1020518__1.cif",
+    "composition": "Ge1Bi1Os1Au1"
+  },
+  {
+    "cif_name": "OQMD_1032960__1.cif",
+    "composition": "Ba1Na1Nb1Ni1"
+  },
+  {
+    "cif_name": "OQMD_1115807__1.cif",
+    "composition": "Sc2Ni1Hg1"
+  },
+  {
+    "cif_name": "OQMD_1123677__1.cif",
+    "composition": "Nb1Ag1Os1"
+  },
+  {
+    "cif_name": "OQMD_1124650__1.cif",
+    "composition": "Lu1Sc1Ag1"
+  },
+  {
+    "cif_name": "OQMD_1273066__1.cif",
+    "composition": "Ti1S1O1"
+  },
+  {
+    "cif_name": "OQMD_1519516__1.cif",
+    "composition": "Ho1Re1Te2"
+  },
+  {
+    "cif_name": "OQMD_1522734__1.cif",
+    "composition": "Er1Bi1I1O1"
+  },
+  {
+    "cif_name": "OQMD_1559030__1.cif",
+    "composition": "Al2Tc1Os1"
+  },
+  {
+    "cif_name": "OQMD_1594161__1.cif",
+    "composition": "Yb1Ho1"
+  },
+  {
+    "cif_name": "OQMD_1625625__1.cif",
+    "composition": "Ti1Ni1Sn2"
+  },
+  {
+    "cif_name": "OQMD_1673381__1.cif",
+    "composition": "Ca1Yb1Ga2Ge1Pt1"
+  },
+  {
+    "cif_name": "OQMD_1716571__1.cif",
+    "composition": "Ti1Mn1F3"
+  },
+  {
+    "cif_name": "OQMD_1745589__1.cif",
+    "composition": "Ba1Ni1P1"
+  },
+  {
+    "cif_name": "OQMD_21597__1.cif",
+    "composition": "Na1Nd1Os1O3"
+  },
+  {
+    "cif_name": "OQMD_26253__1.cif",
+    "composition": "Eu2Ge3"
+  },
+  {
+    "cif_name": "OQMD_30268__1.cif",
+    "composition": "Y2Fe3"
+  },
+  {
+    "cif_name": "OQMD_362319__1.cif",
+    "composition": "Sc1Al1B1"
+  },
+  {
+    "cif_name": "OQMD_474448__1.cif",
+    "composition": "Lu1Th1Nb1"
+  },
+  {
+    "cif_name": "OQMD_483222__1.cif",
+    "composition": "Np1Zn1Ru1"
+  },
+  {
+    "cif_name": "OQMD_484203__1.cif",
+    "composition": "Ac1Zr1Zn1"
+  },
+  {
+    "cif_name": "OQMD_496798__1.cif",
+    "composition": "Dy1Y1Zn1"
+  },
+  {
+    "cif_name": "OQMD_557156__1.cif",
+    "composition": "Tb1Ho1Zr1"
+  },
+  {
+    "cif_name": "OQMD_557496__1.cif",
+    "composition": "Zr1Pa1Os1"
+  },
+  {
+    "cif_name": "OQMD_569801__1.cif",
+    "composition": "Na1Pm1Co1"
+  },
+  {
+    "cif_name": "OQMD_690787__1.cif",
+    "composition": "Co1O2"
+  },
+  {
+    "cif_name": "OQMD_764773__1.cif",
+    "composition": "Hf1Co1B1Pt1"
+  },
+  {
+    "cif_name": "OQMD_8260__1.cif",
+    "composition": "Np1As1"
+  },
+  {
+    "cif_name": "OQMD_829052__1.cif",
+    "composition": "Yb1Nd1Pd1"
+  },
+  {
+    "cif_name": "OQMD_881712__1.cif",
+    "composition": "Li1Nb1Au1"
+  }
+]

@@ -1,0 +1,42 @@
+data_Ca2Yb4Ga6Ge4Pt2
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Ca 1.0000 1.8000 1.1400
+Yb 1.1000 1.7500 1.0840
+Ga 1.8100 1.3000 0.7600
+Ge 2.0100 1.2500 0.7700
+Pt 2.2800 1.3500 0.8050
+_symmetry_space_group_name_H-M Amm2
+_cell_length_a 4.3398
+_cell_length_b 12.0891
+_cell_length_c 6.9379
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 38
+_chemical_formula_structural CaYb2Ga3Ge2Pt
+_chemical_formula_sum 'Ca2 Yb4 Ga6 Ge4 Pt2'
+_cell_volume 366.5297
+_cell_formula_units_Z 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca Ca0 2 0.0000 0.0000 0.4143 1
+Yb Yb1 4 0.0000 0.2076 0.7922 1
+Ga Ga2 4 0.5000 0.1173 0.1176 1
+Ga Ga3 2 0.5000 0.0000 0.7646 1
+Ge Ge4 4 0.5000 0.1674 0.5005 1
+Pt Pt5 2 0.0000 0.0000 0.9973 1
+

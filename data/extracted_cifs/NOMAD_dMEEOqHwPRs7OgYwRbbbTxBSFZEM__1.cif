@@ -1,0 +1,37 @@
+data_Ca2Be2Hg4
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Ca 1.0000 1.8000 1.1400
+Be 1.5700 1.0500 0.5900
+Hg 2.0000 1.5000 1.2450
+_symmetry_space_group_name_H-M Cmmm
+_cell_length_a 6.2261
+_cell_length_b 6.7835
+_cell_length_c 4.1551
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 65
+_chemical_formula_structural CaBeHg2
+_chemical_formula_sum 'Ca2 Be2 Hg4'
+_cell_volume 175.5180
+_cell_formula_units_Z 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca Ca0 2 0.0000 0.0000 0.5000 1
+Be Be1 2 0.0000 0.5000 0.5000 1
+Hg Hg2 4 0.2500 0.2500 0.0000 1
+

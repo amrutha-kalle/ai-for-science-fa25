@@ -377,8 +377,8 @@ def generate_summary_report(results: Dict, output_dir: str) -> None:
 
 if __name__ == "__main__":
     # Configuration
-    CIF_DIR = "/Users/sathv/random/chemeleon/extracted_cifs"
-    OUTPUT_DIR = "/Users/sathv/random/chemeleon/chemeleon_analysis_results"
+    CIF_DIR = "../data/extracted_cifs"
+    OUTPUT_DIR = "../results/chemeleon_analysis_results"
     MAX_CIFS = None  # Set to a number to limit processing (e.g., 10 for testing)
     
     print("Starting CIF analysis with Chemeleon...")

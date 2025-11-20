@@ -1,0 +1,36 @@
+data_Pt64Au32
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Pt 2.2800 1.3500 0.8050
+Au 2.5400 1.3500 1.0700
+_symmetry_space_group_name_H-M Fd-3m
+_cell_length_a 11.9117
+_cell_length_b 11.9117
+_cell_length_c 11.9117
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 227
+_chemical_formula_structural Pt2Au
+_chemical_formula_sum 'Pt64 Au32'
+_cell_volume 1689.0777
+_cell_formula_units_Z 32
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pt Pt0 48 0.0000 0.0000 0.1756 1
+Pt Pt1 16 0.1250 0.1250 0.6250 1
+Au Au2 32 0.0928 0.0928 0.4072 1
+

@@ -1,0 +1,38 @@
+data_Hf4Mn2Cd2
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Hf 1.3000 1.5500 0.8500
+Mn 1.5500 1.4000 0.6483
+Cd 1.6900 1.5500 1.0900
+_symmetry_space_group_name_H-M Cm
+_cell_length_a 10.7194
+_cell_length_b 3.2286
+_cell_length_c 4.7432
+_cell_angle_alpha 90.0000
+_cell_angle_beta 115.2399
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 8
+_chemical_formula_structural Hf2MnCd
+_chemical_formula_sum 'Hf4 Mn2 Cd2'
+_cell_volume 147.5287
+_cell_formula_units_Z 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Hf Hf0 2 0.2118 0.0000 0.7112 1
+Hf Hf1 2 0.4994 0.5000 0.0034 1
+Mn Mn2 2 0.0093 0.5000 0.5163 1
+Cd Cd3 2 0.2794 0.5000 0.2691 1
+

@@ -1,0 +1,38 @@
+data_V2In2B4
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+V 1.6300 1.3500 0.7775
+In 1.7800 1.5500 0.9400
+B 2.0400 0.8500 0.4100
+_symmetry_space_group_name_H-M Cm
+_cell_length_a 9.9445
+_cell_length_b 3.3618
+_cell_length_c 3.0207
+_cell_angle_alpha 90.0000
+_cell_angle_beta 105.2309
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 8
+_chemical_formula_structural VInB2
+_chemical_formula_sum 'V2 In2 B4'
+_cell_volume 98.8461
+_cell_formula_units_Z 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+V V0 2 0.2558 0.0000 0.1357 1
+In In1 2 0.0480 0.5000 0.4657 1
+B B2 2 0.3093 0.5000 0.6656 1
+B B3 2 0.3868 0.5000 0.2330 1
+

@@ -1,0 +1,38 @@
+data_La2Zr4Bi2
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+La 1.1000 1.9500 1.1720
+Zr 1.3300 1.5500 0.8600
+Bi 2.0200 1.6000 1.0350
+_symmetry_space_group_name_H-M Cmm2
+_cell_length_a 4.2901
+_cell_length_b 5.2789
+_cell_length_c 9.7172
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 35
+_chemical_formula_structural LaZr2Bi
+_chemical_formula_sum 'La2 Zr4 Bi2'
+_cell_volume 220.3753
+_cell_formula_units_Z 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+La La0 2 0.0000 0.5000 0.2426 1
+Zr Zr1 2 0.0000 0.0000 0.9710 1
+Zr Zr2 2 0.0000 0.5000 0.7584 1
+Bi Bi3 2 0.0000 0.0000 0.5280 1
+

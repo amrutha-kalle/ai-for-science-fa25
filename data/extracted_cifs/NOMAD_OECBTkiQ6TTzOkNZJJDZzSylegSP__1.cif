@@ -1,0 +1,37 @@
+data_Cd4Te4Ru16
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Cd 1.6900 1.5500 1.0900
+Te 2.1000 1.4000 1.2933
+Ru 2.2000 1.3000 0.6610
+_symmetry_space_group_name_H-M F-43m
+_cell_length_a 7.4510
+_cell_length_b 7.4510
+_cell_length_c 7.4510
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 216
+_chemical_formula_structural CdTeRu4
+_chemical_formula_sum 'Cd4 Te4 Ru16'
+_cell_volume 413.6577
+_cell_formula_units_Z 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cd Cd0 4 0.0000 0.0000 0.0000 1
+Te Te1 4 0.2500 0.2500 0.7500 1
+Ru Ru2 16 0.1248 0.1248 0.3752 1
+

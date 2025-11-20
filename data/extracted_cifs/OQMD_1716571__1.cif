@@ -1,0 +1,39 @@
+data_Ti2Mn2F10
+loop_
+_atom_type_symbol
+_atom_type_electronegativity
+_atom_type_radius
+_atom_type_ionic_radius
+Ti 1.5400 1.4000 0.8517
+Mn 1.5500 1.4000 0.6483
+F 3.9800 0.5000 0.7050
+_symmetry_space_group_name_H-M Immm
+_cell_length_a 3.7737
+_cell_length_b 6.1844
+_cell_length_c 7.7689
+_cell_angle_alpha 90.0000
+_cell_angle_beta 90.0000
+_cell_angle_gamma 90.0000
+_symmetry_Int_Tables_number 71
+_chemical_formula_structural TiMnF5
+_chemical_formula_sum 'Ti2 Mn2 F10'
+_cell_volume 180.6915
+_cell_formula_units_Z 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_site_type_symbol
+_atom_site_label
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ti Ti0 2 0.0000 0.0000 0.5000 1
+Mn Mn1 2 0.0000 0.0000 0.0000 1
+F F2 4 0.0000 0.0000 0.2508 1
+F F3 4 0.0000 0.3071 0.5000 1
+F F4 2 0.0000 0.5000 0.0000 1
+
