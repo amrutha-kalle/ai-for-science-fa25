@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BrClErGeKNaNdP
+_chemical_formula_sum              "Br1 Cl1 Er1 Ge1 K1 Na1 Nd1 P1"
+_cell_length_a       6.17230365749776
+_cell_length_b       6.1591671627365825
+_cell_length_c       6.136250972747803
+_cell_angle_alpha    89.91071730819603
+_cell_angle_beta     89.94501812018694
+_cell_angle_gamma    89.88707081365897
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.028046632185578346  0.10853011906147003  0.9535338282585144  1.0000
+  Cl  Cl1       1.0  0.5257007479667664  0.606755256652832  0.9568185806274414  1.0000
+  Er  Er1       1.0  0.027792086824774742  0.6067413091659546  0.9501017332077026  1.0000
+  Ge  Ge1       1.0  0.024804038926959038  0.6075063347816467  0.45470336079597473  1.0000
+  K   K1        1.0  0.5268216133117676  0.11017011106014252  0.9532861709594727  1.0000
+  Na  Na1       1.0  0.02722526714205742  0.10871347784996033  0.4541095197200775  1.0000
+  Nd  Nd1       1.0  0.5250013470649719  0.6085796356201172  0.45378604531288147  1.0000
+  P   P1        1.0  0.5271709561347961  0.10796191543340683  0.45620062947273254  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Be2Cd2FNdTe3
+_chemical_formula_sum              "Be2 Cd2 F1 Nd1 Te3"
+_cell_length_a       6.19780167083976
+_cell_length_b       6.174363534657714
+_cell_length_c       6.1633219718933105
+_cell_angle_alpha    95.49266731946406
+_cell_angle_beta     95.50570874623666
+_cell_angle_gamma    95.0901576932363
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.5775477290153503  0.35942721366882324  0.8536843061447144  1.0000
+  Be  Be2       1.0  0.6960374116897583  0.5254607796669006  0.047524780035018914  1.0000
+  Cd  Cd1       1.0  0.3041194975376129  0.1407211571931839  0.06893205642700195  1.0000
+  Cd  Cd2       1.0  0.6244910955429077  0.10561145097017288  0.5692163705825806  1.0000
+  F   F1        1.0  0.26904216408729553  0.16733384132385254  0.6697161793708801  1.0000
+  Nd  Nd1       1.0  0.2227395623922348  0.5720893144607544  0.6628257632255554  1.0000
+  Te  Te1       1.0  0.8989577889442444  0.3127671778202057  0.2904745042324066  1.0000
+  Te  Te2       1.0  0.8653465509414673  0.8199704885482788  0.8426495790481567  1.0000
+  Te  Te3       1.0  0.39930960536003113  0.7126721143722534  0.24722996354103088  1.0000

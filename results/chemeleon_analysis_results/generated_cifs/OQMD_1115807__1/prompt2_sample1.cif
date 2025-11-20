@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2KNiScSeTe2Zr
+_chemical_formula_sum              "Hg2 K1 Ni1 Sc1 Se1 Te2 Zr1"
+_cell_length_a       6.153455296257028
+_cell_length_b       6.142508749440066
+_cell_length_c       6.144584655761719
+_cell_angle_alpha    102.35993622837482
+_cell_angle_beta     100.8314403861451
+_cell_angle_gamma    101.14303619585715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25578340888023376  0.4116888642311096  0.7042341828346252  1.0000
+  Hg  Hg2       1.0  0.24285058677196503  0.46960440278053284  0.19506461918354034  1.0000
+  K   K1        1.0  0.7624901533126831  0.6472329497337341  0.5036936402320862  1.0000
+  Ni  Ni1       1.0  0.5205331444740295  0.7704172730445862  0.02971139550209049  1.0000
+  Sc  Sc1       1.0  0.1368468850851059  0.9384558796882629  0.18036450445652008  1.0000
+  Se  Se1       1.0  0.787601888179779  0.6076343655586243  0.9682832956314087  1.0000
+  Te  Te1       1.0  0.29237768054008484  0.9511443376541138  0.7602738738059998  1.0000
+  Te  Te2       1.0  0.7652026414871216  0.11852851510047913  0.360698401927948  1.0000
+  Zr  Zr1       1.0  0.77861487865448  0.22377048432826996  0.9316606521606445  1.0000

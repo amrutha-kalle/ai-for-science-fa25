@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       F2O2SrTeW
+_chemical_formula_sum              "F2 O2 Sr1 Te1 W1"
+_cell_length_a       4.000607013617446
+_cell_length_b       4.000342335070554
+_cell_length_c       10.233572959899902
+_cell_angle_alpha    78.68200943848599
+_cell_angle_beta     78.56024888402507
+_cell_angle_gamma    59.96317568963679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7770047187805176  0.6225979924201965  0.41746535897254944  1.0000
+  F   F2        1.0  0.08049305528402328  0.941105306148529  0.5043607354164125  1.0000
+  O   O1        1.0  0.18766768276691437  0.024377232417464256  0.20594100654125214  1.0000
+  O   O2        1.0  0.5523403882980347  0.3959202170372009  0.0703054890036583  1.0000
+  Sr  Sr1       1.0  0.4766313135623932  0.319734662771225  0.32541218400001526  1.0000
+  Te  Te1       1.0  0.9717461466789246  0.8174408674240112  0.8373460173606873  1.0000
+  W   W1        1.0  0.2500537633895874  0.10501188784837723  0.011933881789445874  1.0000

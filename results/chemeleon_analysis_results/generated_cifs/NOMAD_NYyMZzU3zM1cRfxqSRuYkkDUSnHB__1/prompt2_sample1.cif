@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeNOsPrSSbTeY
+_chemical_formula_sum              "Ge1 N1 Os1 Pr1 S1 Sb1 Te1 Y1"
+_cell_length_a       6.0554569728982
+_cell_length_b       6.039364650731551
+_cell_length_c       6.044966220855713
+_cell_angle_alpha    68.83518399581885
+_cell_angle_beta     68.76509122950313
+_cell_angle_gamma    68.547552965711
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9253347516059875  0.9499951004981995  0.3947707414627075  1.0000
+  N   N1        1.0  0.7423312664031982  0.7771929502487183  0.6943346858024597  1.0000
+  Os  Os1       1.0  0.9459919929504395  0.5220532417297363  0.8683232069015503  1.0000
+  Pr  Pr1       1.0  0.5274945497512817  0.59370356798172  0.5174696445465089  1.0000
+  S   S1        1.0  0.7083294987678528  0.2788165509700775  0.1637385040521622  1.0000
+  Sb  Sb1       1.0  0.15334118902683258  0.706544816493988  0.060180928558111225  1.0000
+  Te  Te1       1.0  0.15946775674819946  0.21197570860385895  0.5864832401275635  1.0000
+  Y   Y1        1.0  0.5079680681228638  0.046509046107530594  0.9475716948509216  1.0000

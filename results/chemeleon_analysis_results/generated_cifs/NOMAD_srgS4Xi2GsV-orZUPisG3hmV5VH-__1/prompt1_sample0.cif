@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo2Nb2Rh5
+_chemical_formula_sum              "Mo2 Nb2 Rh5"
+_cell_length_a       3.2984476840715224
+_cell_length_b       6.330309289741113
+_cell_length_c       7.037207126617432
+_cell_angle_alpha    90.0484994901512
+_cell_angle_beta     89.87616150649164
+_cell_angle_gamma    90.03882484518182
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.9745084643363953  0.2664318084716797  0.5377777814865112  1.0000
+  Mo  Mo2       1.0  0.9735811352729797  0.1618019938468933  0.994885265827179  1.0000
+  Nb  Nb1       1.0  0.9751110672950745  0.8062765598297119  0.6582376956939697  1.0000
+  Nb  Nb2       1.0  0.9737668633460999  0.664762020111084  0.16179342567920685  1.0000
+  Rh  Rh1       1.0  0.47550150752067566  0.5861528515815735  0.46218928694725037  1.0000
+  Rh  Rh2       1.0  0.4731670320034027  0.33625665307044983  0.20428577065467834  1.0000
+  Rh  Rh3       1.0  0.474494993686676  0.8556730151176453  0.9456536769866943  1.0000
+  Rh  Rh4       1.0  0.47433388233184814  0.4512237012386322  0.8183773756027222  1.0000
+  Rh  Rh5       1.0  0.47650468349456787  0.9693570137023926  0.3503919839859009  1.0000

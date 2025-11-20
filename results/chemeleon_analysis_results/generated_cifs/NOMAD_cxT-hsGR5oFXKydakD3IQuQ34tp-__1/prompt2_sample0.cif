@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrClGeHfHgY
+_chemical_formula_sum              "Br1 Cl1 Ge1 Hf1 Hg1 Y1"
+_cell_length_a       4.555505984197339
+_cell_length_b       4.53557517424095
+_cell_length_c       8.88980770111084
+_cell_angle_alpha    90.05256503525639
+_cell_angle_beta     90.03195437814729
+_cell_angle_gamma    120.10376194972214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.42157384753227234  0.6173046231269836  0.6079365015029907  1.0000
+  Cl  Cl1       1.0  0.7566516995429993  0.2843027114868164  0.8752655982971191  1.0000
+  Ge  Ge1       1.0  0.7565067410469055  0.28352591395378113  0.3087821006774903  1.0000
+  Hf  Hf1       1.0  0.42130616307258606  0.6160190105438232  0.2078505903482437  1.0000
+  Hg  Hg1       1.0  0.09072019904851913  0.9478526711463928  0.0831465721130371  1.0000
+  Y   Y1        1.0  0.09002576023340225  0.9475818872451782  0.45118069648742687  1.0000

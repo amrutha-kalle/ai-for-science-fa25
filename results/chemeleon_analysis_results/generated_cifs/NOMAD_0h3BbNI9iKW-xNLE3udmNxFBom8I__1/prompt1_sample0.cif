@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2Cd3K3
+_chemical_formula_sum              "Al2 Cd3 K3"
+_cell_length_a       6.607356182824054
+_cell_length_b       6.617849605252539
+_cell_length_c       7.063788890838623
+_cell_angle_alpha    118.25247394012129
+_cell_angle_beta     117.82334784891727
+_cell_angle_gamma    90.09696320823942
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4669046401977539  0.8931916952133179  0.20007482171058655  1.0000
+  Al  Al2       1.0  0.8987659215927124  0.8848324418067932  0.20218823850154877  1.0000
+  Cd  Cd1       1.0  0.3156660199165344  0.7904362678527832  0.4894326329231262  1.0000
+  Cd  Cd2       1.0  0.41944006085395813  0.3715197443962097  0.19760029017925262  1.0000
+  Cd  Cd3       1.0  0.9067485332489014  0.37358853220939636  0.20052078366279602  1.0000
+  K   K1        1.0  0.38779816031455994  0.35887232422828674  0.6862640976905823  1.0000
+  K   K2        1.0  0.9238043427467346  0.895972728729248  0.7259754538536072  1.0000
+  K   K3        1.0  0.8964505791664124  0.3924092948436737  0.7109423279762268  1.0000

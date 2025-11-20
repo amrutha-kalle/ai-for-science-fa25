@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BrHgNiSbScSeTeTiY
+_chemical_formula_sum              "Br1 Hg1 Ni1 Sb1 Sc1 Se1 Te1 Ti1 Y1"
+_cell_length_a       6.085642750335141
+_cell_length_b       6.069217880470939
+_cell_length_c       6.0496625900268555
+_cell_angle_alpha    99.40455860679828
+_cell_angle_beta     99.1466703698918
+_cell_angle_gamma    98.30720502775209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.9055274128913879  0.0987045019865036  0.46114468574523926  1.0000
+  Hg  Hg1       1.0  0.3982195258140564  0.2758921682834625  0.819037139415741  1.0000
+  Ni  Ni1       1.0  0.5100374221801758  0.9692443013191223  0.455467164516449  1.0000
+  Sb  Sb1       1.0  0.8912521600723267  0.4749285578727722  0.052497129887342474  1.0000
+  Sc  Sc1       1.0  0.7685044407844543  0.9648955464363098  0.9527319669723511  1.0000
+  Se  Se1       1.0  0.3428836166858673  0.8560321927070618  0.05346836522221567  1.0000
+  Te  Te1       1.0  0.5694720149040222  0.6136654019355774  0.5478342771530151  1.0000
+  Ti  Ti1       1.0  0.25456494092941284  0.24704928696155548  0.24455970525741577  1.0000
+  Y   Y1        1.0  0.06712426990270615  0.6399756669998169  0.5863357186317444  1.0000

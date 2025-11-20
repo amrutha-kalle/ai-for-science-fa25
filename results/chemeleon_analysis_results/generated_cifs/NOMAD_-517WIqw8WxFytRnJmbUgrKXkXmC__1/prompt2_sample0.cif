@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Be2CaF2PrTeZr
+_chemical_formula_sum              "Be2 Ca1 F2 Pr1 Te1 Zr1"
+_cell_length_a       5.837660184212252
+_cell_length_b       5.8037061634411105
+_cell_length_c       5.788843631744385
+_cell_angle_alpha    64.15061934467482
+_cell_angle_beta     64.4095084598063
+_cell_angle_gamma    64.61096319460896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.41752615571022034  0.5723762512207031  0.605257511138916  1.0000
+  Be  Be2       1.0  0.31838369369506836  0.4570675194263458  0.9974863529205322  1.0000
+  Ca  Ca1       1.0  0.6605116724967957  0.046056848019361496  0.4589449465274811  1.0000
+  F   F1        1.0  0.33506160974502563  0.8045416474342346  0.7675825953483582  1.0000
+  F   F2        1.0  0.5039132833480835  0.20947265625  0.843133270740509  1.0000
+  Pr  Pr1       1.0  0.9606367945671082  0.2857372462749481  0.7766287326812744  1.0000
+  Te  Te1       1.0  0.8602157831192017  0.5633580088615417  0.23440843820571897  1.0000
+  Zr  Zr1       1.0  0.31905126571655273  0.7986916303634644  0.17677257955074313  1.0000

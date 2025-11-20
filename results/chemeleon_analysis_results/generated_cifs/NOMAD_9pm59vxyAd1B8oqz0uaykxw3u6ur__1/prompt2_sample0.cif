@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CdClCuGeHfNa2Te2
+_chemical_formula_sum              "Cd1 Cl1 Cu1 Ge1 Hf1 Na2 Te2"
+_cell_length_a       6.4282022448268785
+_cell_length_b       6.43363900417937
+_cell_length_c       6.628961563110352
+_cell_angle_alpha    90.5882845607791
+_cell_angle_beta     90.4861127221038
+_cell_angle_gamma    118.02294597104826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.824934720993042  0.5926299095153809  0.9814014434814453  1.0000
+  Cl  Cl1       1.0  0.21785153448581696  0.61051344871521  0.8528221249580383  1.0000
+  Cu  Cu1       1.0  0.6920095682144165  0.7580069303512573  0.5337579846382141  1.0000
+  Ge  Ge1       1.0  0.048301905393600464  0.8132853507995605  0.3483157455921173  1.0000
+  Hf  Hf1       1.0  0.4385460615158081  0.8744580149650574  0.200557142496109  1.0000
+  Na  Na1       1.0  0.9604997634887695  0.3249908983707428  0.43679922819137573  1.0000
+  Na  Na2       1.0  0.295600026845932  0.08760145306587219  0.7264577746391296  1.0000
+  Te  Te1       1.0  0.45501071214675903  0.39323118329048157  0.29191404581069946  1.0000
+  Te  Te2       1.0  0.7671706676483154  0.047048378735780716  0.8583006858825682  1.0000

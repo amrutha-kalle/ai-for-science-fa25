@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ho3Rh3Si3
+_chemical_formula_sum              "Ho3 Rh3 Si3"
+_cell_length_a       3.9919228672018234
+_cell_length_b       6.196809014392288
+_cell_length_c       6.857179641723633
+_cell_angle_alpha    93.22524385949626
+_cell_angle_beta     90.0202874615222
+_cell_angle_gamma    109.01883642396373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.4387187361717224  0.42645326256752014  0.026693293824791908  1.0000
+  Ho  Ho2       1.0  0.2980576157569885  0.1599045693874359  0.5237939953804016  1.0000
+  Ho  Ho3       1.0  0.16083784401416779  0.8614569902420044  0.012145239859819416  1.0000
+  Rh  Rh1       1.0  0.8073022365570068  0.1614675372838974  0.20416907966136932  1.0000
+  Rh  Rh2       1.0  0.5713291168212891  0.7168452739715576  0.6620621681213379  1.0000
+  Rh  Rh3       1.0  0.022832132875919342  0.5908285975456238  0.3810747563838958  1.0000
+  Si  Si1       1.0  0.9579907655715942  0.48777493834495544  0.714917004108429  1.0000
+  Si  Si2       1.0  0.7762838006019592  0.1089450940489769  0.8279723525047302  1.0000
+  Si  Si3       1.0  0.6316302418708801  0.8109259009361267  0.3284401297569275  1.0000

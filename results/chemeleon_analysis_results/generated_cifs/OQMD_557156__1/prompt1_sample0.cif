@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CdHo3OTb2Zr2
+_chemical_formula_sum              "Cd1 Ho3 O1 Tb2 Zr2"
+_cell_length_a       3.9598644535496854
+_cell_length_b       6.810756345393006
+_cell_length_c       8.44010066986084
+_cell_angle_alpha    92.51952174961396
+_cell_angle_beta     90.02281693568165
+_cell_angle_gamma    90.06592391372949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5195913910865784  0.3415752053260803  0.6852542757987976  1.0000
+  Ho  Ho1       1.0  0.5196290016174316  0.3614073097705841  0.2097359001636505  1.0000
+  Ho  Ho2       1.0  0.020768001675605774  0.6037591099739075  0.9448513388633728  1.0000
+  Ho  Ho3       1.0  0.5198202729225159  0.8259940147399902  0.6807183027267456  1.0000
+  O   O1        1.0  0.02142665907740593  0.9300359487533569  0.6812086105346681  1.0000
+  Tb  Tb1       1.0  0.017856808379292488  0.10847192257642746  0.9434239864349366  1.0000
+  Tb  Tb2       1.0  0.021111968904733658  0.10692854970693588  0.447710245847702  1.0000
+  Zr  Zr1       1.0  0.5208428502082825  0.8415889739990234  0.20512673258781436  1.0000
+  Zr  Zr2       1.0  0.019038258120417595  0.602344810962677  0.4462935924530029  1.0000

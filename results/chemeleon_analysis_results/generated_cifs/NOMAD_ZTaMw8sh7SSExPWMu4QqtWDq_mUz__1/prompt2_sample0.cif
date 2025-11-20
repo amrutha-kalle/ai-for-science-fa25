@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BrGdGeHgScTe2WY
+_chemical_formula_sum              "Br1 Gd1 Ge1 Hg1 Sc1 Te2 W1 Y1"
+_cell_length_a       6.973611752774213
+_cell_length_b       6.968576600296311
+_cell_length_c       7.027623653411865
+_cell_angle_alpha    65.85728599596183
+_cell_angle_beta     65.88304490984807
+_cell_angle_gamma    65.10063469550187
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.8373688459396362  0.9598495364189148  0.01817651279270649  1.0000
+  Gd  Gd1       1.0  0.2928459048271179  0.7010519504547119  0.9725020527839662  1.0000
+  Ge  Ge1       1.0  0.2511206567287445  0.8907455205917358  0.26852318644523615  1.0000
+  Hg  Hg1       1.0  0.8705788850784302  0.4024012088775635  0.07708194106817245  1.0000
+  Sc  Sc1       1.0  0.09049920737743378  0.06772002577781677  0.5669481158256531  1.0000
+  Te  Te1       1.0  0.3778263330459595  0.16622759401798248  0.6624615192413329  1.0000
+  Te  Te2       1.0  0.7104758620262146  0.47052934765815735  0.6362731456756592  1.0000
+  W   W1        1.0  0.3544183075428009  0.5959813594818115  0.5184487700462341  1.0000
+  Y   Y1        1.0  0.8181644082069397  0.869023859500885  0.46759331226348877  1.0000

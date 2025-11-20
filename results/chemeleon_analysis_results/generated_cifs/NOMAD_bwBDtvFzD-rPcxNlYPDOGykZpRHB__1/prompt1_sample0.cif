@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pb3Pd3W2
+_chemical_formula_sum              "Pb3 Pd3 W2"
+_cell_length_a       4.638650934650344
+_cell_length_b       5.887142361028018
+_cell_length_c       5.854232311248779
+_cell_angle_alpha    102.61464713490957
+_cell_angle_beta     89.97294033247529
+_cell_angle_gamma    89.99508334310313
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.24193580448627472  0.14843784272670746  0.04471871256828308  1.0000
+  Pb  Pb2       1.0  0.24386714398860931  0.5709356069564819  0.6213895082473755  1.0000
+  Pb  Pb3       1.0  0.7424665093421936  0.8759351968765259  0.3346431851387024  1.0000
+  Pd  Pd1       1.0  0.7420858144760132  0.369742214679718  0.8302250504493713  1.0000
+  Pd  Pd2       1.0  0.2424873262643814  0.07881239801645279  0.5698976516723633  1.0000
+  Pd  Pd3       1.0  0.2451198846101761  0.6247135996818542  0.12479809671640396  1.0000
+  W   W1        1.0  0.7370901703834534  0.8743977546691895  0.8264713287353516  1.0000
+  W   W2        1.0  0.742973268032074  0.3748351037502289  0.31927382946014404  1.0000

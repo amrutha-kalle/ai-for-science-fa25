@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeBrClO2W
+_chemical_formula_sum              "Be1 Br1 Cl1 O2 W1"
+_cell_length_a       4.546010657067722
+_cell_length_b       4.5155776072302345
+_cell_length_c       4.569857120513916
+_cell_angle_alpha    90.10570945474774
+_cell_angle_beta     90.11541240688476
+_cell_angle_gamma    89.84740276427598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.015732115134596825  0.9387108683586121  0.638935387134552  1.0000
+  Br  Br1       1.0  0.015393650159239769  0.9383938908576965  0.1392676681280136  1.0000
+  Cl  Cl1       1.0  0.5211549997329712  0.4398607611656189  0.13947685062885284  1.0000
+  O   O1        1.0  0.5223690867424011  0.9372837543487549  0.6379513144493103  1.0000
+  O   O2        1.0  0.02228660322725773  0.43740591406822205  0.6386828422546387  1.0000
+  W   W1        1.0  0.5205698013305664  0.43534108996391296  0.639218270778656  1.0000

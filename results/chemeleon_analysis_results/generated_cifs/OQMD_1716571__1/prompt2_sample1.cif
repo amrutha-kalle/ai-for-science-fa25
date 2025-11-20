@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       ClF4GdGeHf
+_chemical_formula_sum              "Cl1 F4 Gd1 Ge1 Hf1"
+_cell_length_a       5.627345742861472
+_cell_length_b       5.610112858315572
+_cell_length_c       6.313849925994873
+_cell_angle_alpha    63.58449135361001
+_cell_angle_beta     63.65049951280803
+_cell_angle_gamma    59.91495356316209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.48417940735816956  0.8868792653083801  0.705840229988098  1.0000
+  F   F1        1.0  0.9925281405448914  0.9536160826683044  0.23986031115055087  1.0000
+  F   F2        1.0  0.36532729864120483  0.37543752789497375  0.23721128702163696  1.0000
+  F   F3        1.0  0.5954787731170654  0.754143476486206  0.23814910650253293  1.0000
+  F   F4        1.0  0.12631283700466156  0.5116901397705078  0.7901535034179688  1.0000
+  Gd  Gd1       1.0  0.9921677708625793  0.38399261236190796  0.19869686663150787  1.0000
+  Ge  Ge1       1.0  0.7590106725692749  0.1380215883255005  0.904201328754425  1.0000
+  Hf  Hf1       1.0  0.2526986598968506  0.6318531036376953  0.43799638748168945  1.0000

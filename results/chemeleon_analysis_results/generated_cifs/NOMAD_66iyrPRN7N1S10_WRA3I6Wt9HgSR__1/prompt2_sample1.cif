@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       As2Au2BrHg2IZr
+_chemical_formula_sum              "As2 Au2 Br1 Hg2 I1 Zr1"
+_cell_length_a       6.397433999899851
+_cell_length_b       6.393171112688875
+_cell_length_c       6.403865337371826
+_cell_angle_alpha    101.53731420680124
+_cell_angle_beta     101.40867937260613
+_cell_angle_gamma    101.41707014203412
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.4750712215900421  0.5972216129302979  0.840721845626831  1.0000
+  As  As2       1.0  0.14800573885440826  0.1548548936843872  0.11331149935722351  1.0000
+  Au  Au1       1.0  0.8167111277580261  0.838881254196167  0.06466486304998396  1.0000
+  Au  Au2       1.0  0.3045322299003601  0.8319017291069031  0.06679262965917585  1.0000
+  Br  Br1       1.0  0.6214838624000549  0.026219291612505913  0.4412826895713806  1.0000
+  Hg  Hg1       1.0  0.2443522810935974  0.150059312582016  0.7156311869621277  1.0000
+  Hg  Hg2       1.0  0.8252388834953308  0.3745756447315216  0.9277174472808838  1.0000
+  I   I1        1.0  0.9638427495956421  0.6055059432983398  0.4463978409767151  1.0000
+  Zr  Zr1       1.0  0.44752803444862366  0.430179625749588  0.4354735016822815  1.0000

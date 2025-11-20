@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe3Pu3
+_chemical_formula_sum              "Fe3 Pu3"
+_cell_length_a       3.7724902809519323
+_cell_length_b       3.9225656992031106
+_cell_length_c       7.854038238525391
+_cell_angle_alpha    104.31723069375435
+_cell_angle_beta     103.64255714832896
+_cell_angle_gamma    90.13100965263982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.349111944437027  0.24023540318012238  0.6944618225097656  1.0000
+  Fe  Fe2       1.0  0.10613252967596054  0.4961867332458496  0.1866385042667389  1.0000
+  Fe  Fe3       1.0  0.5243586301803589  0.41184523701667786  0.024594029411673546  1.0000
+  Pu  Pu1       1.0  0.9460974931716919  0.8403691053390503  0.8838843107223511  1.0000
+  Pu  Pu2       1.0  0.26799339056015015  0.6658515334129333  0.53230881690979  1.0000
+  Pu  Pu3       1.0  0.6635724902153015  0.06346193701028824  0.32102006673812866  1.0000

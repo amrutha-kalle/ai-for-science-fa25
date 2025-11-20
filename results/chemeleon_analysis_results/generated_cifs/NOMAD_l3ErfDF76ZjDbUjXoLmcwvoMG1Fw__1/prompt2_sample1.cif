@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BrGeKNbScSiSnTe2
+_chemical_formula_sum              "Br1 Ge1 K1 Nb1 Sc1 Si1 Sn1 Te2"
+_cell_length_a       6.301122368006863
+_cell_length_b       6.293508555603102
+_cell_length_c       7.3482770919799805
+_cell_angle_alpha    89.9556502939066
+_cell_angle_beta     89.96563903887396
+_cell_angle_gamma    119.94277008352755
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.2678886353969574  0.5869261622428894  0.0018791262991726398  1.0000
+  Ge  Ge1       1.0  0.5983979105949402  0.25007686018943787  0.25152492523193365  1.0000
+  K   K1        1.0  0.2609008550643921  0.5860321521759033  0.47629818320274353  1.0000
+  Nb  Nb1       1.0  0.7625929117202759  0.09611273556947708  0.989828884601593  1.0000
+  Sc  Sc1       1.0  0.761256992816925  0.586458683013916  0.9858974218368529  1.0000
+  Si  Si1       1.0  0.7570469379425049  0.8962241411209106  0.692321002483368  1.0000
+  Sn  Sn1       1.0  0.15843886137008667  0.014166681095957756  0.822281002998352  1.0000
+  Te  Te1       1.0  0.6135880351066589  0.24889428913593292  0.6678019762039185  1.0000
+  Te  Te2       1.0  0.9371530413627625  0.9078446626663208  0.29600614309310913  1.0000

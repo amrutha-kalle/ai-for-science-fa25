@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CuLaPd2ScTeWYZr2
+_chemical_formula_sum              "Cu1 La1 Pd2 Sc1 Te1 W1 Y1 Zr2"
+_cell_length_a       5.935796843898572
+_cell_length_b       5.931286406973834
+_cell_length_c       7.94697380065918
+_cell_angle_alpha    68.21656940704464
+_cell_angle_beta     68.07944369357236
+_cell_angle_gamma    59.88532120850137
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.9626684188842773  2.1586442016996443e-05  0.8868337869644165  1.0000
+  La  La1       1.0  0.5242577791213989  0.5251845121383667  0.747214674949646  1.0000
+  Pd  Pd1       1.0  0.4858579635620117  0.9979791641235352  0.8852240443229675  1.0000
+  Pd  Pd2       1.0  0.6908339858055115  0.23432710766792297  0.1777452081441879  1.0000
+  Sc  Sc1       1.0  0.20758220553398132  0.7306811809539795  0.1759801059961319  1.0000
+  Te  Te1       1.0  0.9296937584877014  0.9386383295059204  0.5462901592254639  1.0000
+  W   W1        1.0  0.2125404179096222  0.23238737881183624  0.17570121586322784  1.0000
+  Y   Y1        1.0  0.6637769937515259  0.7105528116226196  0.30073317885398865  1.0000
+  Zr  Zr1       1.0  0.2683224678039551  0.26393771171569824  0.5288470983505249  1.0000
+  Zr  Zr2       1.0  0.9591782689094543  0.49725475907325745  0.9088079929351807  1.0000

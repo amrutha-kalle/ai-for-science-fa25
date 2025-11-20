@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsBaCuErGe2MnNbW
+_chemical_formula_sum              "As1 Ba1 Cu1 Er1 Ge2 Mn1 Nb1 W1"
+_cell_length_a       5.5702338846195305
+_cell_length_b       5.5699528428073775
+_cell_length_c       8.091102600097656
+_cell_angle_alpha    69.68340838864633
+_cell_angle_beta     69.66484357542113
+_cell_angle_gamma    59.745825800549284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.482347309589386  0.2862017750740051  0.9610177278518677  1.0000
+  Ba  Ba1       1.0  0.3270910978317261  0.15984487533569336  0.3805703818798065  1.0000
+  Cu  Cu1       1.0  0.7425575256347656  0.5536041259765625  0.14949044585227966  1.0000
+  Er  Er1       1.0  0.5982210636138916  0.41682448983192444  0.5840954184532166  1.0000
+  Ge  Ge1       1.0  0.015644032508134842  0.3205386698246002  0.8324406147003175  1.0000
+  Ge  Ge2       1.0  0.9444152116775513  0.7597607970237732  0.5103044509887696  1.0000
+  Mn  Mn1       1.0  0.5366643071174622  0.7992416024208069  0.8320609331130981  1.0000
+  Nb  Nb1       1.0  0.009932531975209713  0.7974526286125183  0.8339048624038695  1.0000
+  W   W1        1.0  0.09293688088655472  0.9111389517784119  0.11392255127429962  1.0000

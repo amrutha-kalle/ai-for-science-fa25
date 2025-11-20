@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsCPrSbTeW
+_chemical_formula_sum              "As1 C1 Pr1 Sb1 Te1 W1"
+_cell_length_a       4.9818435814569675
+_cell_length_b       4.956380862626595
+_cell_length_c       4.957387924194336
+_cell_angle_alpha    90.15520704819758
+_cell_angle_beta     90.06257350544519
+_cell_angle_gamma    89.97595809498794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5120974779129028  0.49570828676223755  0.38741904497146606  1.0000
+  C   C1        1.0  0.5114719867706299  0.09123743325471878  0.658944308757782  1.0000
+  Pr  Pr1       1.0  0.011153857223689556  7.395283319056034e-06  0.39329594373703003  1.0000
+  Sb  Sb1       1.0  0.5130707025527954  0.992339551448822  0.00870566163212061  1.0000
+  Te  Te1       1.0  0.014147081412374973  0.5003220438957214  0.8895578980445862  1.0000
+  W   W1        1.0  0.5122499465942383  0.49706828594207764  0.8843639492988586  1.0000

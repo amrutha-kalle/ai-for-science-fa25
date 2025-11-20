@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       As4Be4Cu
+_chemical_formula_sum              "As4 Be4 Cu1"
+_cell_length_a       3.2979671046374297
+_cell_length_b       5.725713420085494
+_cell_length_c       7.276183605194092
+_cell_angle_alpha    99.93184985079913
+_cell_angle_beta     89.82622888448387
+_cell_angle_gamma    106.77562176393627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.22365422546863556  0.31597065925598145  0.06408558040857314  1.0000
+  As  As2       1.0  0.9086806774139404  0.7952935099601746  0.8464871048927308  1.0000
+  As  As3       1.0  0.14398428797721863  0.28856751322746277  0.5893462896347046  1.0000
+  As  As4       1.0  0.942112922668457  0.8270432353019714  0.3155496418476105  1.0000
+  Be  Be1       1.0  0.49438461661338806  0.938285231590271  0.07344252616167068  1.0000
+  Be  Be2       1.0  0.8223238587379456  0.572272539138794  0.06013822555541992  1.0000
+  Be  Be3       1.0  0.6059930324554443  0.16874466836452484  0.8049835562705994  1.0000
+  Be  Be4       1.0  0.5640309453010559  0.09543073177337646  0.4331141710281372  1.0000
+  Cu  Cu1       1.0  0.3317503035068512  0.7183455228805542  0.570931077003479  1.0000

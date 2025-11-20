@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       As3C3
+_chemical_formula_sum              "As3 C3"
+_cell_length_a       3.2103657748639094
+_cell_length_b       3.234385087924882
+_cell_length_c       9.042288780212402
+_cell_angle_alpha    90.1318538756223
+_cell_angle_beta     89.99768671789568
+_cell_angle_gamma    121.12363205495029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8245912790298462  0.9508069753646851  0.9454190731048584  1.0000
+  As  As2       1.0  0.153690904378891  0.618457019329071  0.5656902194023133  1.0000
+  As  As3       1.0  0.8274891376495361  0.9513424634933472  0.27994343638420105  1.0000
+  C   C1        1.0  0.49394768476486206  0.2836267054080963  0.4228006601333618  1.0000
+  C   C2        1.0  0.4989612400531769  0.2843096852302551  0.8418406248092651  1.0000
+  C   C3        1.0  0.15474958717823029  0.6244577765464783  0.11631872504949567  1.0000

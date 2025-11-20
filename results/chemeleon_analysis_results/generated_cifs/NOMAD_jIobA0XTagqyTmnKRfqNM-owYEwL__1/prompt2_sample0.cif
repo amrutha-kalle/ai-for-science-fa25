@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CrHoPdTe2W
+_chemical_formula_sum              "Cr1 Ho1 Pd1 Te2 W1"
+_cell_length_a       5.567921644010499
+_cell_length_b       5.544151366978842
+_cell_length_c       5.768835544586182
+_cell_angle_alpha    61.02760208864159
+_cell_angle_beta     61.240782209653155
+_cell_angle_gamma    59.72491129770159
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.3965064287185669  0.4463902711868286  0.1100439429283142  1.0000
+  Ho  Ho1       1.0  0.727675199508667  0.7874638438224792  0.4551783800125122  1.0000
+  Pd  Pd1       1.0  0.3843986392021179  0.4401415288448334  0.625762939453125  1.0000
+  Te  Te1       1.0  0.7339325547218323  0.7975152730941772  0.949648380279541  1.0000
+  Te  Te2       1.0  0.07297893613576889  0.12600836157798767  0.28230127692222595  1.0000
+  W   W1        1.0  0.0710243433713913  0.12477081269025803  0.7921770215034485  1.0000

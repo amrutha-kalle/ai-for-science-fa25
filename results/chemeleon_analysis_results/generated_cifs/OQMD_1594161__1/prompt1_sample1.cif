@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho5O
+_chemical_formula_sum              "Ho5 O1"
+_cell_length_a       4.981992218369106
+_cell_length_b       6.104962634945742
+_cell_length_c       6.115005970001221
+_cell_angle_alpha    77.22912530088908
+_cell_angle_beta     66.13084370321218
+_cell_angle_gamma    66.00262881950808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.03923952206969261  0.8643104434013367  0.47519537806510925  1.0000
+  Ho  Ho2       1.0  0.8547276854515076  0.6463885307312012  0.07110232114791869  1.0000
+  Ho  Ho3       1.0  0.456208735704422  0.256655216217041  0.25405582785606384  1.0000
+  Ho  Ho4       1.0  0.253875732421875  0.043804991990327835  0.871530294418335  1.0000
+  Ho  Ho5       1.0  0.6512776613235474  0.4546351432800293  0.6656970381736755  1.0000
+  O   O1        1.0  0.7468276023864746  0.04731348529458046  0.8761367201805115  1.0000

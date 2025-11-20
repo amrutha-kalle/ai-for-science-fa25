@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgBrClGdHfHgKLi
+_chemical_formula_sum              "Ag1 Br1 Cl1 Gd1 Hf1 Hg1 K1 Li1"
+_cell_length_a       5.993276631829418
+_cell_length_b       5.971010375231596
+_cell_length_c       6.408627986907959
+_cell_angle_alpha    90.02083923836435
+_cell_angle_beta     90.11214338988701
+_cell_angle_gamma    120.01763711934144
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.08682273328304291  0.6062320470809937  0.6108905076980591  1.0000
+  Br  Br1       1.0  0.754874050617218  0.6125845909118652  0.2739722430706024  1.0000
+  Cl  Cl1       1.0  0.07635916024446487  0.27791377902030945  0.27113711833953863  1.0000
+  Gd  Gd1       1.0  0.0702444538474083  0.9522523283958435  0.933132529258728  1.0000
+  Hf  Hf1       1.0  0.7521019577980042  0.27588093280792236  0.9340053200721741  1.0000
+  Hg  Hg1       1.0  0.4266700744628906  0.9516454339027405  0.27414137125015264  1.0000
+  K   K1        1.0  0.41524070501327515  0.6171912550926208  0.925350248813629  1.0000
+  Li  Li1       1.0  0.42524823546409607  0.27982378005981445  0.6097131371498108  1.0000

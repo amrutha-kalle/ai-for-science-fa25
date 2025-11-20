@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B4Be2Ca2
+_chemical_formula_sum              "B4 Be2 Ca2"
+_cell_length_a       3.5641591396325243
+_cell_length_b       3.778915204709605
+_cell_length_c       8.43165397644043
+_cell_angle_alpha    102.39030081102423
+_cell_angle_beta     102.3454605606303
+_cell_angle_gamma    90.40411628942967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.7580923438072205  0.321752667427063  0.9636914730072021  1.0000
+  B   B2        1.0  0.37230384349823  0.9383759498596191  0.1829039752483368  1.0000
+  B   B3        1.0  0.30647534132003784  0.389723539352417  0.08862842619419098  1.0000
+  B   B4        1.0  0.8705750107765198  0.43611782789230347  0.18057896196842194  1.0000
+  Be  Be1       1.0  0.631618857383728  0.19338040053844452  0.7155957818031311  1.0000
+  Be  Be2       1.0  0.9162147641181946  0.9801557660102844  0.27374303340911865  1.0000
+  Ca  Ca1       1.0  0.19417981803417206  0.765560507774353  0.8395878076553345  1.0000
+  Ca  Ca2       1.0  0.5063334703445435  0.566551923751831  0.4516464173793793  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FFe2GdGePr
+_chemical_formula_sum              "F1 Fe2 Gd1 Ge1 Pr1"
+_cell_length_a       4.058933174220671
+_cell_length_b       4.0631504785648564
+_cell_length_c       8.813936233520508
+_cell_angle_alpha    76.68996287644212
+_cell_angle_beta     76.78429323410262
+_cell_angle_gamma    59.8386077090916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.26938676834106445  0.7335092425346375  0.4616045653820038  1.0000
+  Fe  Fe1       1.0  0.7406637072563171  0.19067583978176117  0.05095797404646873  1.0000
+  Fe  Fe2       1.0  0.43727242946624756  0.8920353651046753  0.9588040113449097  1.0000
+  Gd  Gd1       1.0  0.5517877340316772  0.00506186205893755  0.6215691566467285  1.0000
+  Ge  Ge1       1.0  0.14269043505191803  0.5873944759368896  0.8786711692810059  1.0000
+  Pr  Pr1       1.0  0.9989747405052185  0.4513702094554901  0.2830931842327118  1.0000

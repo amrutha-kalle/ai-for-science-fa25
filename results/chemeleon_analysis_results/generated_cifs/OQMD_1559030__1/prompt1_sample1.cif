@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al2Os3SiTc3
+_chemical_formula_sum              "Al2 Os3 Si1 Tc3"
+_cell_length_a       5.16243674196386
+_cell_length_b       5.156493156014254
+_cell_length_c       5.896082878112793
+_cell_angle_alpha    104.47123998870309
+_cell_angle_beta     89.98193239302472
+_cell_angle_gamma    120.40174515637877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7611239552497864  0.4272122085094452  0.14452369511127472  1.0000
+  Al  Al2       1.0  0.763330340385437  0.4247915744781494  0.6432949304580688  1.0000
+  Os  Os1       1.0  0.7644062042236328  0.9193298816680908  0.9743785858154297  1.0000
+  Os  Os2       1.0  0.763665497303009  0.9225915670394897  0.4570271670818329  1.0000
+  Os  Os3       1.0  0.25941455364227295  0.4044756591320038  0.3620385229587555  1.0000
+  Si  Si1       1.0  0.4165346622467041  0.7696517705917358  0.672111451625824  1.0000
+  Tc  Tc1       1.0  0.26080045104026794  0.4011189341545105  0.8682565093040466  1.0000
+  Tc  Tc2       1.0  0.26046842336654663  0.9435457587242126  0.44665098190307617  1.0000
+  Tc  Tc3       1.0  0.261962890625  0.9254382848739624  0.9708712697029114  1.0000

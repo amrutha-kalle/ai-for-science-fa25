@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiCHLa2NiPZr
+_chemical_formula_sum              "Bi1 C1 H1 La2 Ni1 P1 Zr1"
+_cell_length_a       6.224883522816673
+_cell_length_b       6.222171204896461
+_cell_length_c       6.2144036293029785
+_cell_angle_alpha    61.27426170055256
+_cell_angle_beta     61.54939016793502
+_cell_angle_gamma    61.321556505738876
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.7548069953918457  0.9433616995811462  0.04681673645973202  1.0000
+  C   C1        1.0  0.28309598565101624  0.938995897769928  0.584266722202301  1.0000
+  H   H1        1.0  0.28011012077331543  0.46192798018455505  0.026433059945702553  1.0000
+  La  La1       1.0  0.27783769369125366  0.4483894109725952  0.543587327003479  1.0000
+  La  La2       1.0  0.03632131963968277  0.1803414225578308  0.27072554826736445  1.0000
+  Ni  Ni1       1.0  0.20641134679317474  0.7901220917701721  0.9258888959884644  1.0000
+  P   P1        1.0  0.7589540481567383  0.4545033574104309  0.5855249762535095  1.0000
+  Zr  Zr1       1.0  0.6479893922805786  0.8606855869293213  0.6490533947944641  1.0000

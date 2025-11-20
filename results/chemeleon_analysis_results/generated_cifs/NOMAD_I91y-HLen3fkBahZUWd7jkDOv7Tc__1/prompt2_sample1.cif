@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Bi3GeNOsPrY
+_chemical_formula_sum              "Bi3 Ge1 N1 Os1 Pr1 Y1"
+_cell_length_a       5.80498931158384
+_cell_length_b       5.805462717938652
+_cell_length_c       5.803011417388916
+_cell_angle_alpha    98.11709452382114
+_cell_angle_beta     97.72279549438163
+_cell_angle_gamma    98.19274001538525
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.27088868618011475  0.10232697427272797  0.29240521788597107  1.0000
+  Bi  Bi2       1.0  0.7237614989280701  0.819176435470581  0.15136903524398804  1.0000
+  Bi  Bi3       1.0  0.5681793689727783  0.30502504110336304  0.9054195880889893  1.0000
+  Ge  Ge1       1.0  0.8802057504653931  0.45460817217826843  0.41602078080177307  1.0000
+  N   N1        1.0  0.04486473649740219  0.6898649334907532  0.7399515509605408  1.0000
+  Os  Os1       1.0  0.14540748298168182  0.6040596961975098  0.024426665157079697  1.0000
+  Pr  Pr1       1.0  0.4234415590763092  0.6826351284980774  0.5709834694862366  1.0000
+  Y   Y1        1.0  0.9854974746704102  0.09212107211351395  0.7311641573905945  1.0000

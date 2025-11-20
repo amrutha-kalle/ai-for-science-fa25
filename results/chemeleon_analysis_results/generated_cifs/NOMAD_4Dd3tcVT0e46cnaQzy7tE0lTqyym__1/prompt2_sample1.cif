@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Bi2NPrSbTe
+_chemical_formula_sum              "Bi2 N1 Pr1 Sb1 Te1"
+_cell_length_a       4.351620351326508
+_cell_length_b       4.333984908785248
+_cell_length_c       10.678367614746094
+_cell_angle_alpha    89.98761710085613
+_cell_angle_beta     89.93811627409752
+_cell_angle_gamma    120.01828423017359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.8025636076927185  0.8101345896720886  0.39546093344688416  1.0000
+  Bi  Bi2       1.0  0.1380050629377365  0.4760652184486389  0.05508152768015862  1.0000
+  N   N1        1.0  0.13782763481140137  0.47297292947769165  0.5105821490287781  1.0000
+  Pr  Pr1       1.0  0.47364699840545654  0.14899921417236328  0.6111992597579956  1.0000
+  Sb  Sb1       1.0  0.47835037112236023  0.1430555284023285  0.2006581574678421  1.0000
+  Te  Te1       1.0  0.8059982657432556  0.809729278087616  0.7982228994369507  1.0000

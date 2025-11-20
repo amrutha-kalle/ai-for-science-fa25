@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Be5GeLiScTa
+_chemical_formula_sum              "Be5 Ge1 Li1 Sc1 Ta1"
+_cell_length_a       5.173100656781872
+_cell_length_b       5.160773935591024
+_cell_length_c       5.176765441894531
+_cell_angle_alpha    67.74708136420092
+_cell_angle_beta     67.57676923269268
+_cell_angle_gamma    67.04352167434692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.2813796401023865  0.5918731689453125  0.5886430144309998  1.0000
+  Be  Be2       1.0  0.7390321493148804  0.43077173829078674  0.25957363843917847  1.0000
+  Be  Be3       1.0  0.023457320407032967  0.9977785348892212  0.3849768042564392  1.0000
+  Be  Be4       1.0  0.4163185656070709  0.7678036093711853  0.10295588523149486  1.0000
+  Be  Be5       1.0  0.03568414971232414  0.5740674734115601  0.3384988307952881  1.0000
+  Ge  Ge1       1.0  0.24787700176239014  0.2610640823841095  0.9972012639045715  1.0000
+  Li  Li1       1.0  0.7340192794799805  0.4279610514640808  0.7611507773399353  1.0000
+  Sc  Sc1       1.0  0.4625609815120697  0.05735889822244644  0.49985212087631226  1.0000
+  Ta  Ta1       1.0  0.916889488697052  0.8680271506309509  0.9106974601745605  1.0000

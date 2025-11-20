@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd3Hf4Mn2
+_chemical_formula_sum              "Cd3 Hf4 Mn2"
+_cell_length_a       3.278993262169135
+_cell_length_b       7.860300971477443
+_cell_length_c       7.891055107116699
+_cell_angle_alpha    119.75034082353828
+_cell_angle_beta     90.04119904014642
+_cell_angle_gamma    90.01226131961685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.9737701416015625  0.37097811698913574  0.7629161477088928  1.0000
+  Cd  Cd2       1.0  0.970257580280304  0.3786749243736267  0.4210224151611328  1.0000
+  Cd  Cd3       1.0  0.4737727642059326  0.6937716603279114  0.4629196524620056  1.0000
+  Hf  Hf1       1.0  0.47118738293647766  0.3123658299446106  0.06361708045005798  1.0000
+  Hf  Hf2       1.0  0.9705978035926819  0.9931601881980896  0.7428717613220215  1.0000
+  Hf  Hf3       1.0  0.474062442779541  0.7383026480674744  0.895598828792572  1.0000
+  Hf  Hf4       1.0  0.47177934646606445  0.037813443690538406  0.39499151706695557  1.0000
+  Mn  Mn1       1.0  0.973305344581604  0.030631596222519875  0.10026029497385025  1.0000
+  Mn  Mn2       1.0  0.972298800945282  0.679702877998352  0.16980692744255063  1.0000

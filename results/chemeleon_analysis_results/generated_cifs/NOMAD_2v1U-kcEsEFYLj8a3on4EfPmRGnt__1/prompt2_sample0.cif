@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BeCuFeGePbSc
+_chemical_formula_sum              "Be1 Cu1 Fe1 Ge1 Pb1 Sc1"
+_cell_length_a       5.089517247306581
+_cell_length_b       5.057790683850321
+_cell_length_c       5.11359167098999
+_cell_angle_alpha    61.07963292558248
+_cell_angle_beta     61.19722889485661
+_cell_angle_gamma    60.715919527592746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.3507009744644165  0.6741036772727966  0.49364885687828064  1.0000
+  Cu  Cu1       1.0  0.3541247844696045  0.1748872995376587  0.4984581172466278  1.0000
+  Fe  Fe1       1.0  0.8532159924507141  0.17138099670410156  0.49687302112579346  1.0000
+  Ge  Ge1       1.0  0.34638622403144836  0.1634865701198578  0.027263058349490176  1.0000
+  Pb  Pb1       1.0  0.7194461226463318  0.5421947240829468  0.8678066730499265  1.0000
+  Sc  Sc1       1.0  0.9559984803199768  0.7838526368141174  0.169894129037857  1.0000

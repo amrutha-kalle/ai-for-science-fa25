@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Be3Ca4Hg2
+_chemical_formula_sum              "Be3 Ca4 Hg2"
+_cell_length_a       4.246386832740319
+_cell_length_b       6.919945760239549
+_cell_length_c       6.90422248840332
+_cell_angle_alpha    119.97596365987842
+_cell_angle_beta     89.94820268779395
+_cell_angle_gamma    90.05251849395111
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Be  Be1       1.0  0.8914222121238708  0.470794141292572  0.9691159129142761  1.0000
+  Be  Be2       1.0  0.39171895384788513  0.15735161304473877  0.3414544463157654  1.0000
+  Be  Be3       1.0  0.8922368884086609  0.8499652147293091  0.6453806161880493  1.0000
+  Ca  Ca1       1.0  0.39021775126457214  0.1541893184185028  0.9099739789962769  1.0000
+  Ca  Ca2       1.0  0.39087095856666565  0.7323713898658752  0.30431169271469116  1.0000
+  Ca  Ca3       1.0  0.3919374942779541  0.569764256477356  0.7287402153015137  1.0000
+  Ca  Ca4       1.0  0.8921441435813904  0.1537306010723114  0.5422671437263489  1.0000
+  Hg  Hg1       1.0  0.8920361995697021  0.9041402339935303  0.05857059732079506  1.0000
+  Hg  Hg2       1.0  0.8949556946754456  0.41384246945381165  0.3417167663574219  1.0000

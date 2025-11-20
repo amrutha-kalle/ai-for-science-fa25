@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BBeErMnPPrTeV
+_chemical_formula_sum              "B1 Be1 Er1 Mn1 P1 Pr1 Te1 V1"
+_cell_length_a       5.774306006455426
+_cell_length_b       5.740231569033535
+_cell_length_c       5.722412109375
+_cell_angle_alpha    62.17558463369015
+_cell_angle_beta     62.383893515239386
+_cell_angle_gamma    62.09616490047896
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.24642716348171234  0.11989519000053406  0.7015857100486755  1.0000
+  Be  Be1       1.0  0.22306884825229645  0.5283918380737305  0.7018285393714905  1.0000
+  Er  Er1       1.0  0.7433879375457764  0.09682923555374146  0.4913692772388458  1.0000
+  Mn  Mn1       1.0  0.15028366446495056  0.4688476622104645  0.3711950480937958  1.0000
+  P   P1        1.0  0.33028069138526917  0.9154434204101562  0.5068376064300537  1.0000
+  Pr  Pr1       1.0  0.6396775841712952  0.5001476407051086  0.8666335940361022  1.0000
+  Te  Te1       1.0  0.8811447620391846  0.77106112241745  0.06587103009223934  1.0000
+  V   V1        1.0  0.24398186802864075  0.09623312205076218  0.062149841338396065  1.0000

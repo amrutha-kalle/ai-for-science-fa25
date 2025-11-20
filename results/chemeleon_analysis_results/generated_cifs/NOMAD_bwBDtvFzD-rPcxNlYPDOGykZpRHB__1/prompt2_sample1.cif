@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FNaPbTe3W2
+_chemical_formula_sum              "F1 Na1 Pb1 Te3 W2"
+_cell_length_a       6.574647643032733
+_cell_length_b       6.555264500544304
+_cell_length_c       6.589656829833984
+_cell_angle_alpha    62.73715388908529
+_cell_angle_beta     62.879348623014174
+_cell_angle_gamma    62.46193769486728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.8546628355979919  0.2569720149040222  0.5277896523475647  1.0000
+  Na  Na1       1.0  0.10705805569887161  0.49968448281288147  0.6281681656837463  1.0000
+  Pb  Pb1       1.0  0.7636854648590088  0.8139176964759827  0.9878972768783569  1.0000
+  Te  Te1       1.0  0.4203857481479645  0.4238252639770508  0.05429304018616675  1.0000
+  Te  Te2       1.0  0.07362747192382812  0.02489137463271618  0.06094664707779884  1.0000
+  Te  Te3       1.0  0.48789137601852417  0.8871065974235535  0.5705556273460388  1.0000
+  W   W1        1.0  0.17812806367874146  0.1303187906742096  0.3323075473308563  1.0000
+  W   W2        1.0  0.6899952292442322  0.23103542625904083  0.3344072103500366  1.0000

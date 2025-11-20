@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AuBeBiCuGePdPrScTm
+_chemical_formula_sum              "Au1 Be1 Bi1 Cu1 Ge1 Pd1 Pr1 Sc1 Tm1"
+_cell_length_a       6.156033812484917
+_cell_length_b       6.139367187922038
+_cell_length_c       6.163344383239746
+_cell_angle_alpha    68.70783885583562
+_cell_angle_beta     68.5997610257245
+_cell_angle_gamma    68.55989139894284
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.837378740310669  0.8390822410583496  0.0883809775114059  1.0000
+  Be  Be1       1.0  0.39180776476860046  0.24335113167762756  0.07561652362346649  1.0000
+  Bi  Bi1       1.0  0.5977001190185547  0.991250216960907  0.5467655658721923  1.0000
+  Cu  Cu1       1.0  0.07504028081893921  0.08741457015275955  0.38410916924476624  1.0000
+  Ge  Ge1       1.0  0.11804806441068649  0.4971732795238495  0.3010782301425934  1.0000
+  Pd  Pd1       1.0  0.675059974193573  0.4555036425590515  0.3848218321800232  1.0000
+  Pr  Pr1       1.0  0.8857445120811462  0.2889213263988495  0.8607333898544312  1.0000
+  Sc  Sc1       1.0  0.40021297335624695  0.816027045249939  0.06605784595012665  1.0000
+  Tm  Tm1       1.0  0.23497813940048218  0.6394939422607422  0.6975134611129761  1.0000

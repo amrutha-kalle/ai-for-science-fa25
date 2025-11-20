@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2Hf3Na3O
+_chemical_formula_sum              "Cd2 Hf3 Na3 O1"
+_cell_length_a       5.822049659889206
+_cell_length_b       5.845359030203263
+_cell_length_c       5.81564998626709
+_cell_angle_alpha    90.03183377925822
+_cell_angle_beta     89.99310786923023
+_cell_angle_gamma    90.01618426309197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2667599618434906  0.2394750416278839  0.5012496709823608  1.0000
+  Cd  Cd2       1.0  0.9782978296279907  0.8735266327857971  0.24002952873706818  1.0000
+  Hf  Hf1       1.0  0.46987223625183105  0.00915483944118023  0.0051149120554327965  1.0000
+  Hf  Hf2       1.0  0.9743903875350952  0.865945041179657  0.7605198621749878  1.0000
+  Hf  Hf3       1.0  0.28051671385765076  0.5249386429786682  0.005283885169774294  1.0000
+  Na  Na1       1.0  0.4727349281311035  0.7464280724525452  0.5019015073776245  1.0000
+  Na  Na2       1.0  0.7804253101348877  0.37772542238235474  0.234467014670372  1.0000
+  Na  Na3       1.0  0.7839656472206116  0.37044844031333923  0.7375956773757935  1.0000
+  O   O1        1.0  0.6234955191612244  0.6909171938896179  0.9158672094345093  1.0000

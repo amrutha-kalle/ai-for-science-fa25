@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba3Hf2PrZr3
+_chemical_formula_sum              "Ba3 Hf2 Pr1 Zr3"
+_cell_length_a       4.77832750251374
+_cell_length_b       6.941390650032908
+_cell_length_c       9.294209480285645
+_cell_angle_alpha    111.25339176581642
+_cell_angle_beta     104.48426766812408
+_cell_angle_gamma    90.07465780348132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.1892906278371811  0.7864972352981567  0.47323140501976013  1.0000
+  Ba  Ba2       1.0  0.7352228164672852  0.3084847927093506  0.5762326121330261  1.0000
+  Ba  Ba3       1.0  0.05544857308268547  0.20740103721618652  0.21299634873867035  1.0000
+  Hf  Hf1       1.0  0.8712073564529419  0.8722258806228638  0.8309626579284668  1.0000
+  Hf  Hf2       1.0  0.9535974860191345  0.5447562336921692  0.9991875886917114  1.0000
+  Pr  Pr1       1.0  0.36576715111732483  0.6206558346748352  0.8276447653770447  1.0000
+  Zr  Zr1       1.0  0.38439908623695374  0.20367588102817535  0.8754851222038269  1.0000
+  Zr  Zr2       1.0  0.5185509920120239  0.8785843253135681  0.13415184617042542  1.0000
+  Zr  Zr3       1.0  0.5477043390274048  0.48558181524276733  0.19085164368152618  1.0000

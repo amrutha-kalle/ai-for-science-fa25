@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CF2PbTeW2Zr
+_chemical_formula_sum              "C1 F2 Pb1 Te1 W2 Zr1"
+_cell_length_a       5.695907704638738
+_cell_length_b       5.69726963820693
+_cell_length_c       6.113786220550537
+_cell_angle_alpha    90.14468104789921
+_cell_angle_beta     89.92499734435603
+_cell_angle_gamma    119.63167610406691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.010624459013342857  0.8565756678581238  0.527101159095764  1.0000
+  F   F1        1.0  0.6832438111305237  0.15986411273479462  0.5241429805755614  1.0000
+  F   F2        1.0  0.34400656819343567  0.46488478779792786  0.5353595614433287  1.0000
+  Pb  Pb1       1.0  0.9705646634101868  0.12844078242778778  0.10148853808641434  1.0000
+  Te  Te1       1.0  0.284952849149704  0.7339144349098206  0.04889097809791565  1.0000
+  W   W1        1.0  0.016465701162815094  0.5279539823532104  0.5308842062950133  1.0000
+  W   W2        1.0  0.6603760123252869  0.7940187454223633  0.4509789049625397  1.0000
+  Zr  Zr1       1.0  0.33654341101646423  0.12261541187763214  0.7032599449157715  1.0000

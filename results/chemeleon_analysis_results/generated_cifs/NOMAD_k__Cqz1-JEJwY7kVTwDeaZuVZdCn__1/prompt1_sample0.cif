@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd3Cl4Ru2
+_chemical_formula_sum              "Cd3 Cl4 Ru2"
+_cell_length_a       6.323831921690472
+_cell_length_b       6.384989888760522
+_cell_length_c       6.674447059631348
+_cell_angle_alpha    107.1330709152715
+_cell_angle_beta     105.21515586461669
+_cell_angle_gamma    115.20203462919471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.26750174164772034  0.16692663729190826  0.1640370637178421  1.0000
+  Cd  Cd2       1.0  0.4495882987976074  0.6885281801223755  0.9626086354255676  1.0000
+  Cd  Cd3       1.0  0.7564108967781067  0.18158775568008423  0.6651409268379211  1.0000
+  Cl  Cl1       1.0  0.997839093208313  0.6421369910240173  0.912849247455597  1.0000
+  Cl  Cl2       1.0  0.2641986906528473  0.18034657835960388  0.7026979327201843  1.0000
+  Cl  Cl3       1.0  0.7263346910476685  0.18296502530574799  0.20503422617912295  1.0000
+  Cl  Cl4       1.0  0.584672212600708  0.7104151844978333  0.4046866297721863  1.0000
+  Ru  Ru1       1.0  0.9835342168807983  0.6650397777557373  0.46784469485282904  1.0000
+  Ru  Ru2       1.0  0.20417407155036926  0.4512281119823456  0.4698399007320404  1.0000

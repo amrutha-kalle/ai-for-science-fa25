@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       As2Pt3Si4
+_chemical_formula_sum              "As2 Pt3 Si4"
+_cell_length_a       3.660952836228503
+_cell_length_b       3.9657471147970624
+_cell_length_c       10.407196044921875
+_cell_angle_alpha    89.96550624328376
+_cell_angle_beta     100.62497905589582
+_cell_angle_gamma    89.9674417268743
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9124170541763306  0.4900384247303009  0.5096901655197145  1.0000
+  As  As2       1.0  0.2756732106208801  0.9864574074745178  0.2132571041584015  1.0000
+  Pt  Pt1       1.0  0.14016442000865936  0.015562213025987148  0.9617339372634888  1.0000
+  Pt  Pt2       1.0  0.33074238896369934  0.5068597793579102  0.33667194843292236  1.0000
+  Pt  Pt3       1.0  0.9883547425270081  0.01236487366259098  0.6404880285263062  1.0000
+  Si  Si1       1.0  0.5562320351600647  0.0108651677146554  0.7925764918327332  1.0000
+  Si  Si2       1.0  0.6347416639328003  0.5054142475128174  0.9558696746826172  1.0000
+  Si  Si3       1.0  0.05674084275960922  0.5150195360183716  0.801495373249054  1.0000
+  Si  Si4       1.0  0.7587215304374695  0.4901065230369568  0.17967423796653748  1.0000

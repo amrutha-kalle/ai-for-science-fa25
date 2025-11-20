@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Mo3Pt2Te4
+_chemical_formula_sum              "Mo3 Pt2 Te4"
+_cell_length_a       5.9109947689021825
+_cell_length_b       5.918242485577784
+_cell_length_c       5.907156467437744
+_cell_angle_alpha    90.05176132177803
+_cell_angle_beta     90.01629926477352
+_cell_angle_gamma    90.00042379748504
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.4368661046028137  0.286601185798645  0.5530806779861451  1.0000
+  Mo  Mo2       1.0  0.4364277720451355  0.7846099734306335  0.5525452494621277  1.0000
+  Mo  Mo3       1.0  0.18737058341503143  0.032623838633298874  0.2894241511821747  1.0000
+  Pt  Pt1       1.0  0.9267926812171936  0.7860475182533264  0.5542231798171997  1.0000
+  Pt  Pt2       1.0  0.931472659111023  0.28738588094711304  0.5545410513877869  1.0000
+  Te  Te1       1.0  0.6881799697875977  0.5328834652900696  0.8491362333297731  1.0000
+  Te  Te2       1.0  0.17789939045906067  0.5348974466323853  0.2465828508138657  1.0000
+  Te  Te3       1.0  0.6832433342933655  0.03418155387043953  0.2461729645729065  1.0000
+  Te  Te4       1.0  0.18079446256160736  0.037428323179483414  0.8306909799575806  1.0000

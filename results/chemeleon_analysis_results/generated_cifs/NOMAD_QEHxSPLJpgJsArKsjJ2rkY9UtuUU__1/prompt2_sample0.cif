@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BaBiBrFGeRhScWXe
+_chemical_formula_sum              "Ba1 Bi1 Br1 F1 Ge1 Rh1 Sc1 W1 Xe1"
+_cell_length_a       6.362057916903014
+_cell_length_b       6.410161269690456
+_cell_length_c       7.250422477722168
+_cell_angle_alpha    91.19678171301301
+_cell_angle_beta     115.36009842642156
+_cell_angle_gamma    118.7076022905222
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9331161975860596  0.208440363407135  0.9237766265869141  1.0000
+  Bi  Bi1       1.0  0.8277530074119568  0.8828637599945068  0.43012744188308716  1.0000
+  Br  Br1       1.0  0.1492714285850525  0.5218924283981323  0.44133010506629944  1.0000
+  F   F1        1.0  0.4421998858451843  0.0970681831240654  0.43581122159957886  1.0000
+  Ge  Ge1       1.0  0.3149283230304718  0.9220660328865051  0.9241118431091309  1.0000
+  Rh  Rh1       1.0  0.8598073720932007  0.6438826322555542  0.7224652171134949  1.0000
+  Sc  Sc1       1.0  0.5991098284721375  0.3657686114311218  0.26711952686309814  1.0000
+  W   W1        1.0  0.1121850237250328  0.8155173659324646  0.1733640432357788  1.0000
+  Xe  Xe1       1.0  0.5987834334373474  0.5185856819152832  0.9237403869628906  1.0000

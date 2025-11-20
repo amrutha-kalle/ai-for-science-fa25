@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       DyF2GeHgIScY
+_chemical_formula_sum              "Dy1 F2 Ge1 Hg1 I1 Sc1 Y1"
+_cell_length_a       5.999857549065413
+_cell_length_b       5.991042942950554
+_cell_length_c       6.969079494476318
+_cell_angle_alpha    64.8273707478463
+_cell_angle_beta     64.77775499515087
+_cell_angle_gamma    60.23599836076823
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.518406867980957  0.3770638704299927  0.6623603105545044  1.0000
+  F   F1        1.0  0.4406873881816864  0.3633177578449249  0.3763177692890167  1.0000
+  F   F2        1.0  0.9125887155532837  0.36493027210235596  0.3802897334098816  1.0000
+  Ge  Ge1       1.0  0.446808785200119  0.8244341611862183  0.44690337777137756  1.0000
+  Hg  Hg1       1.0  0.8895887732505798  0.7583563923835754  0.5837356448173523  1.0000
+  I   I1        1.0  0.07488545030355453  0.9757152199745178  0.9482104778289794  1.0000
+  Sc  Sc1       1.0  0.685884952545166  0.5952180027961731  0.14584319293498993  1.0000
+  Y   Y1        1.0  0.32574328780174255  0.21848942339420319  0.18252377212047577  1.0000

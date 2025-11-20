@@ -127,8 +127,8 @@ UNIQUE COMPOSITIONS EXTRACTED:
 STRUCTURAL COMPARISON STATISTICS:
 --------------------------------------------------------------------------------
   Total Pairwise Comparisons: 460
-  Comparisons with Same Composition: 118 (25.7%)
-  Average Volume Difference: 6.60%
-  Average Cell Similarity: 0.924
+  Comparisons with Same Composition: 0 (0.0%)
+  Average Volume Difference: 16.91%
+  Average Cell Similarity: 0.778
 
 ================================================================================

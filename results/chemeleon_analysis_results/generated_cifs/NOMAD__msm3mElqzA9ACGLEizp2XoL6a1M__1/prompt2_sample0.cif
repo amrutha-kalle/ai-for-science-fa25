@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F2FeLaPZr
+_chemical_formula_sum              "F2 Fe1 La1 P1 Zr1"
+_cell_length_a       3.869110883092987
+_cell_length_b       3.8670954409984932
+_cell_length_c       9.444135665893555
+_cell_angle_alpha    78.35475995760864
+_cell_angle_beta     78.13375730032426
+_cell_angle_gamma    59.58426691030281
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9714189767837524  0.8534690737724304  0.9138127565383913  1.0000
+  F   F2        1.0  0.5852941870689392  0.45899972319602966  0.06601980328559875  1.0000
+  Fe  Fe1       1.0  0.5348761081695557  0.4105672836303711  0.2671193480491638  1.0000
+  La  La1       1.0  0.12896011769771576  0.006275036837905645  0.474089115858078  1.0000
+  P   P1        1.0  0.4020708203315735  0.2723846733570099  0.6608532667160034  1.0000
+  Zr  Zr1       1.0  0.6803284883499146  0.5508371591567993  0.8267741799354554  1.0000

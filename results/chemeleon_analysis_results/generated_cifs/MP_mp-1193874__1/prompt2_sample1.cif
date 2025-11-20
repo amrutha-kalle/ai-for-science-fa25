@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrGeO4Pb
+_chemical_formula_sum              "Br1 Ge1 O4 Pb1"
+_cell_length_a       5.307755707497773
+_cell_length_b       5.291656366749847
+_cell_length_c       5.313278675079346
+_cell_angle_alpha    99.06097733634363
+_cell_angle_beta     97.50519540883379
+_cell_angle_gamma    97.82321532145365
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.6921306252479553  0.769797146320343  0.668714702129364  1.0000
+  Ge  Ge1       1.0  0.35171326994895935  0.09390047937631607  0.3562341332435608  1.0000
+  O   O1        1.0  0.2212408483028412  0.22353290021419525  0.6716012358665466  1.0000
+  O   O2        1.0  0.19742809236049652  0.2795352339744568  0.2133648544549942  1.0000
+  O   O3        1.0  0.6303356885910034  0.1639266163110733  0.22512181103229523  1.0000
+  O   O4        1.0  0.20654577016830444  0.793648898601532  0.2037714272737503  1.0000
+  Pb  Pb1       1.0  0.916802167892456  0.44147008657455444  0.9819322824478149  1.0000

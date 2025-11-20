@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B3Mn3Ru2
+_chemical_formula_sum              "B3 Mn3 Ru2"
+_cell_length_a       2.97470521491167
+_cell_length_b       5.340188247233613
+_cell_length_c       6.210738658905029
+_cell_angle_alpha    115.07270192077192
+_cell_angle_beta     103.91726745392306
+_cell_angle_gamma    90.05065267986203
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.7646701335906982  0.9524956345558167  0.9959736466407776  1.0000
+  B   B2        1.0  0.43591946363449097  0.7189094424247742  0.3692188858985901  1.0000
+  B   B3        1.0  0.12079985439777374  0.3338604271411896  0.7233596444129944  1.0000
+  Mn  Mn1       1.0  0.6208097338676453  0.0823344811797142  0.7276428937911987  1.0000
+  Mn  Mn2       1.0  0.2547842860221863  0.711524486541748  0.011946643702685833  1.0000
+  Mn  Mn3       1.0  0.5805279612541199  0.5455809235572815  0.6159086227416992  1.0000
+  Ru  Ru1       1.0  0.32583922147750854  0.28391802310943604  0.12404107302427292  1.0000
+  Ru  Ru2       1.0  0.9517530202865601  0.9866009950637817  0.365007609128952  1.0000

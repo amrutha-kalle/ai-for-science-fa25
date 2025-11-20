@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Bi2HfHgRuSrTaTeY
+_chemical_formula_sum              "Bi2 Hf1 Hg1 Ru1 Sr1 Ta1 Te1 Y1"
+_cell_length_a       6.25427634950878
+_cell_length_b       6.268861250641445
+_cell_length_c       6.266463756561279
+_cell_angle_alpha    91.4565756556196
+_cell_angle_beta     91.60723637217576
+_cell_angle_gamma    91.02912193077051
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.7227469682693481  0.20012478530406952  0.8847635984420776  1.0000
+  Bi  Bi2       1.0  0.030421502888202667  0.681467592716217  0.1057707816362381  1.0000
+  Hf  Hf1       1.0  0.9973298907279968  0.42979058623313904  0.5416383147239685  1.0000
+  Hg  Hg1       1.0  0.008967376314103603  0.8901287913322449  0.591751456260681  1.0000
+  Ru  Ru1       1.0  0.33447909355163574  0.16748547554016113  0.5964709520339966  1.0000
+  Sr  Sr1       1.0  0.48723745346069336  0.699705958366394  0.822448194026947  1.0000
+  Ta  Ta1       1.0  0.6857894062995911  0.05877729132771492  0.34999656677246094  1.0000
+  Te  Te1       1.0  0.545401394367218  0.4889220893383026  0.3589871823787689  1.0000
+  Y   Y1        1.0  0.20509950816631317  0.16594170033931732  0.09529154747724533  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HHfHg2INpSbTeZn
+_chemical_formula_sum              "H1 Hf1 Hg2 I1 Np1 Sb1 Te1 Zn1"
+_cell_length_a       6.5640026576612955
+_cell_length_b       6.579152452826112
+_cell_length_c       6.603564739227295
+_cell_angle_alpha    68.34646486827869
+_cell_angle_beta     68.3491811694972
+_cell_angle_gamma    68.15473288722407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0020531415939331055  0.2042776495218277  0.9999355673789978  1.0000
+  Hf  Hf1       1.0  0.859270453453064  0.40687188506126404  0.2486521303653717  1.0000
+  Hg  Hg1       1.0  0.762039065361023  0.375813364982605  0.8045347929000854  1.0000
+  Hg  Hg2       1.0  0.6721055507659912  0.8953024744987488  0.4393244683742523  1.0000
+  I   I1        1.0  0.36497727036476135  0.42703792452812195  0.4785338044166565  1.0000
+  Np  Np1       1.0  0.19692955911159515  0.7990676760673523  0.9802019000053406  1.0000
+  Sb  Sb1       1.0  0.09914271533489227  0.9914711713790894  0.44317400455474854  1.0000
+  Te  Te1       1.0  0.6914006471633911  0.8422823548316956  0.959160327911377  1.0000
+  Zn  Zn1       1.0  0.29498061537742615  0.19584469497203827  0.015231315046548852  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BiCrEuFeTe3V
+_chemical_formula_sum              "Bi1 Cr1 Eu1 Fe1 Te3 V1"
+_cell_length_a       4.311553548677077
+_cell_length_b       7.168522015634999
+_cell_length_c       7.118396759033203
+_cell_angle_alpha    119.90727801322963
+_cell_angle_beta     89.91415995039989
+_cell_angle_gamma    90.09482066649538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.09314021468162537  0.8873160481452942  0.16055010259151453  1.0000
+  Cr  Cr1       1.0  0.08813178539276123  0.9763484597206116  0.6287657022476196  1.0000
+  Eu  Eu1       1.0  0.08928348869085312  0.3945799469947815  0.19740867614746094  1.0000
+  Fe  Fe1       1.0  0.5902960896492004  0.09662985056638718  0.4516949653625489  1.0000
+  Te  Te1       1.0  0.09457454830408096  0.37759271264076233  0.6389104723930359  1.0000
+  Te  Te2       1.0  0.5918107032775879  0.7244170904159546  0.4663909375667572  1.0000
+  Te  Te3       1.0  0.5925917625427246  0.17910778522491455  0.8837918043136597  1.0000
+  V   V1        1.0  0.5897223353385925  0.5928874015808105  0.8973371982574462  1.0000

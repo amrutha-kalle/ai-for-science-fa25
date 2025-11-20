@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cr2K3Na3
+_chemical_formula_sum              "Cr2 K3 Na3"
+_cell_length_a       6.128771014862396
+_cell_length_b       6.526755277184874
+_cell_length_c       7.858002185821533
+_cell_angle_alpha    77.87470127996895
+_cell_angle_beta     66.43358788231149
+_cell_angle_gamma    61.96169787189765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.623219907283783  0.823941171169281  0.1732566952705383  1.0000
+  Cr  Cr2       1.0  0.8029178977012634  0.6535423398017883  0.43032506108283997  1.0000
+  K   K1        1.0  0.9032590985298157  0.20547842979431152  0.23152589797973627  1.0000
+  K   K2        1.0  0.6692391037940979  0.06368325650691986  0.7718341350555419  1.0000
+  K   K3        1.0  0.24334275722503662  0.6606033444404602  0.0015924168983474426  1.0000
+  Na  Na1       1.0  0.32175496220588684  0.6319952011108398  0.44219788908958435  1.0000
+  Na  Na2       1.0  0.3262987732887268  0.06736447662115097  0.5058184266090392  1.0000
+  Na  Na3       1.0  0.9324758052825928  0.45789578557014465  0.7893518209457397  1.0000

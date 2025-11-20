@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FLaSSrTeVW
+_chemical_formula_sum              "F1 La1 S1 Sr1 Te1 V1 W1"
+_cell_length_a       5.104122267910153
+_cell_length_b       5.097555040220695
+_cell_length_c       7.7627739906311035
+_cell_angle_alpha    70.75860408196007
+_cell_angle_beta     70.47911923068739
+_cell_angle_gamma    59.43574910739035
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4411456286907196  0.5909691452980042  0.6368151903152466  1.0000
+  La  La1       1.0  0.80031818151474  0.9496430158615112  0.5461775064468384  1.0000
+  S   S1        1.0  0.9506639242172241  0.09700610488653183  0.09995585680007935  1.0000
+  Sr  Sr1       1.0  0.6029748320579529  0.7554787993431091  0.14380119740962982  1.0000
+  Te  Te1       1.0  0.18982066214084625  0.3437056243419647  0.37944120168685913  1.0000
+  V   V1        1.0  0.06426263600587845  0.19821688532829285  0.7790341377258301  1.0000
+  W   W1        1.0  0.3315834701061249  0.49173399806022644  0.9414746165275574  1.0000

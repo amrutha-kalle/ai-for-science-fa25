@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ag4Ta2
+_chemical_formula_sum              "Ag4 Ta2"
+_cell_length_a       5.162782028550031
+_cell_length_b       5.156225117626685
+_cell_length_c       5.232964515686035
+_cell_angle_alpha    104.30052293349871
+_cell_angle_beta     104.25731723791804
+_cell_angle_gamma    119.51878724662244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.39757463335990906  0.45382845401763916  0.1098707318305969  1.0000
+  Ag  Ag2       1.0  0.7403642535209656  0.11781099438667297  0.11160466820001605  1.0000
+  Ag  Ag3       1.0  0.06321892887353897  0.7877405285835266  0.11168491840362545  1.0000
+  Ag  Ag4       1.0  0.5657356381416321  0.2880469262599945  0.6154904961585999  1.0000
+  Ta  Ta1       1.0  0.8980391025543213  0.9485135674476624  0.6127314567565918  1.0000
+  Ta  Ta2       1.0  0.22681689262390137  0.6205180883407593  0.6131885051727295  1.0000

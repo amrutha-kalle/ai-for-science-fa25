@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CuGeInReSrTe
+_chemical_formula_sum              "Cu1 Ge1 In1 Re1 Sr1 Te1"
+_cell_length_a       5.376781835777976
+_cell_length_b       5.359597918693559
+_cell_length_c       5.376769542694092
+_cell_angle_alpha    90.05122584314663
+_cell_angle_beta     90.13168226996083
+_cell_angle_gamma    89.9987688712671
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.251235693693161  0.583815336227417  0.189519003033638  1.0000
+  Ge  Ge1       1.0  0.2560950219631195  0.08148033171892166  0.1898607760667801  1.0000
+  In  In1       1.0  0.2538774609565735  0.5807919502258301  0.6888711452484131  1.0000
+  Re  Re1       1.0  0.755956768989563  0.08007458597421646  0.18628333508968353  1.0000
+  Sr  Sr1       1.0  0.7546624541282654  0.584772527217865  0.18946991860866547  1.0000
+  Te  Te1       1.0  0.7526606321334839  0.08187466114759445  0.6879492998123169  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Br5CuPb3
+_chemical_formula_sum              "Br5 Cu1 Pb3"
+_cell_length_a       6.851358529727707
+_cell_length_b       6.8679936303883595
+_cell_length_c       6.945276737213135
+_cell_angle_alpha    97.76538391579065
+_cell_angle_beta     99.76305477246024
+_cell_angle_gamma    107.36926502047018
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.760686457157135  0.8901528716087341  0.0996037721633911  1.0000
+  Br  Br2       1.0  0.1203126534819603  0.5673677325248718  0.04126159846782685  1.0000
+  Br  Br3       1.0  0.8495721817016602  0.40880608558654785  0.47080856561660767  1.0000
+  Br  Br4       1.0  0.5167815685272217  0.7468910813331604  0.5540997385978699  1.0000
+  Br  Br5       1.0  0.2775111198425293  0.09930441528558731  0.8380959033966063  1.0000
+  Cu  Cu1       1.0  0.3990415036678314  0.8575403690338135  0.9696493148803711  1.0000
+  Pb  Pb1       1.0  0.5006353259086609  0.45544999837875366  0.1872982382774353  1.0000
+  Pb  Pb2       1.0  0.12947553396224976  0.8272734880447388  0.4192309081554413  1.0000
+  Pb  Pb3       1.0  0.8350376486778259  0.16655376553535461  0.7868160009384155  1.0000

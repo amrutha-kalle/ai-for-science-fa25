@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AuBeCGeI2RhSi2
+_chemical_formula_sum              "Au1 Be1 C1 Ge1 I2 Rh1 Si2"
+_cell_length_a       6.048070619569642
+_cell_length_b       6.0635401019788695
+_cell_length_c       6.795440196990967
+_cell_angle_alpha    89.97413815320387
+_cell_angle_beta     89.96478277766829
+_cell_angle_gamma    119.89009291408132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.23049208521842957  0.11614952981472015  0.3702978491783142  1.0000
+  Be  Be1       1.0  0.5304853916168213  0.20778502523899078  0.06509111821651459  1.0000
+  C   C1        1.0  0.24387109279632568  0.0997154638171196  0.9396450519561768  1.0000
+  Ge  Ge1       1.0  0.9077151417732239  0.4401763677597046  0.2369164377450943  1.0000
+  I   I1        1.0  0.8996103405952454  0.4515092372894287  0.738422989845276  1.0000
+  I   I2        1.0  0.5676774382591248  0.7775541543960571  0.3569587171077728  1.0000
+  Rh  Rh1       1.0  0.9701033234596252  0.8221461176872253  0.06506284326314926  1.0000
+  Si  Si1       1.0  0.23593898117542267  0.1004825308918953  0.6883180737495422  1.0000
+  Si  Si2       1.0  0.43858253955841064  0.8927569389343262  0.87075537443161  1.0000

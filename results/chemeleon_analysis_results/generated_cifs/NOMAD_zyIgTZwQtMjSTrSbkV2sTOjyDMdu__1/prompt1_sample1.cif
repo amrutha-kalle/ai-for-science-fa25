@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au4Be3Cu2
+_chemical_formula_sum              "Au4 Be3 Cu2"
+_cell_length_a       4.507954446152984
+_cell_length_b       4.514712090763966
+_cell_length_c       6.093823432922363
+_cell_angle_alpha    89.98595063326908
+_cell_angle_beta     90.04316339851417
+_cell_angle_gamma    96.42945423991071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.867190957069397  0.4927680492401123  0.00020430248696357012  1.0000
+  Au  Au2       1.0  0.4714435338973999  0.8687732815742493  0.997506320476532  1.0000
+  Au  Au3       1.0  0.8713021874427795  0.5180574655532837  0.5021551251411438  1.0000
+  Au  Au4       1.0  0.3578132688999176  0.35328152775764465  0.7429276108741761  1.0000
+  Be  Be1       1.0  0.29143235087394714  0.5221515893936157  0.2449837476015091  1.0000
+  Be  Be2       1.0  0.544314444065094  0.19878998398780823  0.24643947184085846  1.0000
+  Be  Be3       1.0  0.964036226272583  0.9677959680557251  0.7447896003723145  1.0000
+  Cu  Cu1       1.0  0.46897637844085693  0.8769408464431763  0.5024191141128541  1.0000
+  Cu  Cu2       1.0  0.9871392250061035  0.016785087063908577  0.24636566638946533  1.0000

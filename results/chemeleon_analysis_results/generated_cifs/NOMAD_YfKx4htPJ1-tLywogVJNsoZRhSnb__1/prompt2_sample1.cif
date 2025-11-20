@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BrErGe2HgTe
+_chemical_formula_sum              "Br1 Er1 Ge2 Hg1 Te1"
+_cell_length_a       5.653054521080848
+_cell_length_b       5.610361312543535
+_cell_length_c       5.547229290008545
+_cell_angle_alpha    93.0732490657635
+_cell_angle_beta     93.01687909156098
+_cell_angle_gamma    91.84743934069611
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.20591922104358673  0.3779553174972534  0.3127155303955078  1.0000
+  Er  Er1       1.0  0.8031403422355652  0.6070179343223572  0.09283295273780823  1.0000
+  Ge  Ge1       1.0  0.6467341780662537  0.0967591255903244  0.15981702506542206  1.0000
+  Ge  Ge2       1.0  0.3688145577907562  0.8178584575653076  0.9734816551208496  1.0000
+  Hg  Hg1       1.0  0.539985179901123  0.11822764575481415  0.6760544776916504  1.0000
+  Te  Te1       1.0  0.8938500285148621  0.7715389728546143  0.6028740406036377  1.0000

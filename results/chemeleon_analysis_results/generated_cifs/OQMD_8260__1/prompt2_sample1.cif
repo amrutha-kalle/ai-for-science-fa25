@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsGeHoTbW2
+_chemical_formula_sum              "As1 Ge1 Ho1 Tb1 W2"
+_cell_length_a       4.881557229268479
+_cell_length_b       4.8484062358579925
+_cell_length_c       6.463038444519043
+_cell_angle_alpha    90.05964136836272
+_cell_angle_beta     90.05942652462117
+_cell_angle_gamma    120.06600588312881
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.765130877494812  0.28054529428482056  0.5676953792572021  1.0000
+  Ge  Ge1       1.0  0.4332320988178253  0.6159437298774719  0.9216328859329224  1.0000
+  Ho  Ho1       1.0  0.09598008543252945  0.9466766715049744  0.7439870834350586  1.0000
+  Tb  Tb1       1.0  0.7638986110687256  0.27980050444602966  0.08858629316091537  1.0000
+  W   W1        1.0  0.09744086116552353  0.9469877481460571  0.24250744283199308  1.0000
+  W   W2        1.0  0.4317969083786011  0.6129515767097473  0.41676217317581177  1.0000

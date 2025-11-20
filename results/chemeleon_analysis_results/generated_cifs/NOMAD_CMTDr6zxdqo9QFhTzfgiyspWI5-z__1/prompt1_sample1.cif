@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au3Pt3
+_chemical_formula_sum              "Au3 Pt3"
+_cell_length_a       4.5885081441060285
+_cell_length_b       4.596412196580636
+_cell_length_c       5.569756507873535
+_cell_angle_alpha    89.98797999802774
+_cell_angle_beta     89.99536929632953
+_cell_angle_gamma    119.46985273836508
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.9837211966514587  0.9040706753730774  0.4095104634761811  1.0000
+  Au  Au2       1.0  0.6466126441955566  0.2250959426164627  0.152081698179245  1.0000
+  Au  Au3       1.0  0.32181286811828613  0.5601433515548706  0.4094332754611969  1.0000
+  Pt  Pt1       1.0  0.32020890712738037  0.5589856505393982  0.9119343161582947  1.0000
+  Pt  Pt2       1.0  0.6430515646934509  0.2240462452173233  0.6577893495559692  1.0000
+  Pt  Pt3       1.0  0.9852036237716675  0.9021453261375427  0.9111346006393433  1.0000

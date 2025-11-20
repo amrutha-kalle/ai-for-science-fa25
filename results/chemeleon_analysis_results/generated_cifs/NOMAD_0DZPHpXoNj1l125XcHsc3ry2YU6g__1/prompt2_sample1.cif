@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FKNPbScTeTiY
+_chemical_formula_sum              "F1 K1 N1 Pb1 Sc1 Te1 Ti1 Y1"
+_cell_length_a       5.946980779580866
+_cell_length_b       5.965747064761183
+_cell_length_c       5.87277364730835
+_cell_angle_alpha    97.7941213555833
+_cell_angle_beta     97.52074860930246
+_cell_angle_gamma    96.80090679570785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.548477053642273  0.590227484703064  0.8943430781364441  1.0000
+  K   K1        1.0  0.845514178276062  0.8635954260826111  0.2178889513015747  1.0000
+  N   N1        1.0  0.0831083133816719  0.626495897769928  0.8892356157302856  1.0000
+  Pb  Pb1       1.0  0.32936325669288635  0.3703600764274597  0.3738623261451721  1.0000
+  Sc  Sc1       1.0  0.7974709868431091  0.5060077905654907  0.6630094647407532  1.0000
+  Te  Te1       1.0  0.8506462574005127  0.06226823478937149  0.7438517212867737  1.0000
+  Ti  Ti1       1.0  0.2643939256668091  0.40107429027557373  0.9387797117233276  1.0000
+  Y   Y1        1.0  0.3363431394100189  0.8786274790763855  0.7447308301925659  1.0000
