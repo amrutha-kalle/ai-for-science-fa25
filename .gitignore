@@ -1,0 +1,6 @@
+cgcnn/cgcnn_eval
+cgcnn/checkpoint.pth.tar
+cgcnn/model_best.pth.tar
+cgcnn/root_dir
+cgcnn/cgcnn/__pycache__
+cgcnn/.DS_Store
