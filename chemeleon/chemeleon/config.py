@@ -80,7 +80,7 @@ def config():
     # training
     num_nodes = 1  # number of nodes for distributed training
     devices = 1  # number of GPUs to use
-    accelerator = "gpu"  # "cpu", "gpu"
+    accelerator = "cpu"  # "cpu", "gpu"
     max_epochs = 1000
     deterministic = True  # set True for reproducibility
     log_dir = "./logs"
@@ -100,6 +100,9 @@ def config():
     use_gep = False
     gep_hidden_dim = clip_dim   # or 768 explicitly
     lambda_gep = 0.1
+
+    # NEW: optional override for CLIP checkpoint
+    path_ckpt_clip = None
 
 
 ################

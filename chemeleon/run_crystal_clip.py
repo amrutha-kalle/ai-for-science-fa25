@@ -39,14 +39,24 @@ def main(_config):
     module = CrystalClip(_config)
     print(module)
 
+    # ----- choose checkpoint filename based on dataset -----
+    if _config.get("dataset_name") == "my-ds":
+        ckpt_filename = "clip_GEP_new_data"
+    else:
+        ckpt_filename = "clip_GEP"
+
     # set checkpoint callback
     checkpoint_callback = ModelCheckpoint(
         monitor="val/loss",
         save_top_k=1,
         save_last=True,
         mode="min",
-        filename="best-{epoch}",
+        filename=ckpt_filename,          # -> clip_GEP*.ckpt or clip_GEP_new_data*.ckpt
+        # If your PL version supports it and you want exactly "clip_GEP.ckpt"
+        # without extra metric info, you can also add:
+        # auto_insert_metric_name=False,
     )
+
     lr_callback = LearningRateMonitor(logging_interval="step")
     early_stop_callback = EarlyStopping(
         monitor="val/loss",

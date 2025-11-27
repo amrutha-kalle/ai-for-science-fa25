@@ -36,13 +36,22 @@ class Chemeleon(BaseModule):
         self.time_embed = SinusoidalTimeEmbeddings(_config["time_dim"])
         # text embedding
         self.text_guide = _config["text_guide"]
+        # NEW: allow path_ckpt_clip from either kwargs OR config
+        path_ckpt_clip = kwargs.get(
+            "path_ckpt_clip",
+            _config.get("path_ckpt_clip", None),
+        )
+
         if self.text_guide:
-            if "path_ckpt_clip" in kwargs:
+            if path_ckpt_clip is not None:
+                print(f"[Chemeleon] Loading CrystalClip from: {path_ckpt_clip}")
                 pretrained_clip_model = CrystalClip.load_from_checkpoint(
-                    kwargs["path_ckpt_clip"]
+                    path_ckpt_clip,
+                    map_location=self.device,
                 )
             else:
                 pretrained_clip_model = None
+
             self.cond_drop_prob = _config["cond_drop_prob"]
             self.text_encoder = TextEncoder(
                 text_encoder_name=_config["text_encoder"],
@@ -98,6 +107,7 @@ class Chemeleon(BaseModule):
     def load_general_text_model(cls, *args, **kwargs):
         path_ckpt_chemeleon = PATH_CHEMELEON_GENERAL_TEXT
         path_ckpt_clip = PATH_CLIP_GENERAL_TEXT
+
 
         # Check and download checkpoints if not exists
         if not os.path.exists(path_ckpt_chemeleon):
