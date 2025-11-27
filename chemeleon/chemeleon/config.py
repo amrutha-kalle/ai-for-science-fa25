@@ -136,6 +136,9 @@ def clip_prompt():
     group_name = "crystal_clip"
 
     text_targets = ["prompt"]
+    use_gep = True
+    gep_hidden_dim = 768   # optional, already = clip_dim
+    lambda_gep = 0.1
 
 
 #########
@@ -301,6 +304,9 @@ def chemeleon_clip_prompt():
 
     text_targets = ["prompt"]
     text_encoder = "chemeleon/clip-mp-prompt"
+    use_gep = True
+    gep_hidden_dim = 768   # optional, already = clip_dim
+    lambda_gep = 0.1
 
 
 @ex.named_config
