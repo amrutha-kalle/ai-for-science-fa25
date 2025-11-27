@@ -16,8 +16,10 @@ def config():
     sweep = False  # sweep mode for wandb
 
     # dataset
-    dataset_name = "mp-40"
-    data_dir = "data/mp-40"
+    # dataset_name = "mp-40"
+    # data_dir = "data/mp-40"
+    dataset_name = "my-ds"
+    data_dir = "data/my-ds"
 
     # dataloader
     batch_size = 128
