@@ -127,6 +127,11 @@ class TextEncoder(nn.Module):
         return model, tokenizer
 
     def text_encode(self, batch_text: List[str], device: str) -> torch.Tensor:
+        
+        if self.clip_model is not None:
+            self.clip_model.to(device)
+            # Use the stoichiometry-aware helper if available
+            return self.clip_model.get_conditioning_embeds(batch_text).to(device)
         tokenized = self.tokenizer.batch_encode_plus(
             batch_text,
             padding="longest",
@@ -176,10 +181,10 @@ class TextEncoder(nn.Module):
             )
             embeddings = outputs.last_hidden_state[:, 0, :]  # [B, D]
 
-        # projection layer when using contrastive learning model
-        if self.clip_model is not None:  # contrastive learning model
-            self.clip_model.text_proj = self.clip_model.text_proj.to(device)
-            embeddings = self.clip_model.text_proj(embeddings)
+        # # projection layer when using contrastive learning model
+        # if self.clip_model is not None:  # contrastive learning model
+        #     self.clip_model.text_proj = self.clip_model.text_proj.to(device)
+        #     embeddings = self.clip_model.text_proj(embeddings)
 
         return embeddings
 

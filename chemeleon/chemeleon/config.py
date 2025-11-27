@@ -94,6 +94,11 @@ def config():
     optimization_test = False  # it takes too long to run, so default is False
     wandb_id = None
 
+    # GEP / stoichiometry-aware options
+    use_gep = False
+    gep_hidden_dim = clip_dim   # or 768 explicitly
+    lambda_gep = 0.1
+
 
 ################
 # Crystal Clip #
@@ -104,6 +109,9 @@ def clip_composition():
     group_name = "crystal_clip"
 
     text_targets = ["composition"]
+    use_gep = True
+    gep_hidden_dim = 768   # optional, already = clip_dim
+    lambda_gep = 0.1
 
 
 @ex.named_config
@@ -164,6 +172,9 @@ def chemeleon_clip_composition():
 
     text_targets = ["composition"]
     text_encoder = "chemeleon/clip-mp-composition"
+    use_gep = True
+    gep_hidden_dim = 768   # optional, already = clip_dim
+    lambda_gep = 0.1
 
 
 @ex.named_config
