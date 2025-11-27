@@ -21,7 +21,7 @@ def config():
 
     # dataloader
     batch_size = 128
-    num_workers = 0
+    num_workers = 30
     pin_memory = True
 
     # decoder
