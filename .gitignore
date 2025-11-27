@@ -4,3 +4,9 @@ cgcnn/model_best.pth.tar
 cgcnn/root_dir
 cgcnn/cgcnn/__pycache__
 cgcnn/.DS_Store
+CrystaLLM/crystallm.egg-info/
+CrystaLLM/crystallm/__pycache__/
+.vscode/
+junk.ipynb
+chemeleon/data/my-ds/.env
+src/.env
