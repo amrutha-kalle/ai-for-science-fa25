@@ -10,3 +10,4 @@ CrystaLLM/crystallm/__pycache__/
 junk.ipynb
 chemeleon/data/my-ds/.env
 src/.env
+chemeleon/data/my-ds/prompts
