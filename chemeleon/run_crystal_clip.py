@@ -40,10 +40,17 @@ def main(_config):
     print(module)
 
     # ----- choose checkpoint filename based on dataset -----
-    if _config.get("dataset_name") == "my-ds":
+    if _config.get("dataset_name") == "my-ds" and _config.get("use_gep"):
         ckpt_filename = "clip_GEP_new_data"
+        print("Using new dataset checkpoint with GEP")
+    elif _config.get("dataset_name") == "my-ds" and not _config.get("use_gep"):
+        ckpt_filename = "clip_no_GEP_new_data"
+        print("Using new dataset checkpoint without GEP")
+    elif _config.get("use_gep"):
+        ckpt_filename = "clip_GEP_old_data"
+        print("Using old dataset checkpoint with GEP")
     else:
-        ckpt_filename = "clip_GEP"
+        ckpt_filename = "clip_no_GEP_old_data"
 
     # set checkpoint callback
     checkpoint_callback = ModelCheckpoint(
