@@ -23,7 +23,7 @@ def config():
 
     # dataloader
     batch_size = 128
-    num_workers = 0
+    num_workers = 5
     pin_memory = True
 
     # decoder
@@ -75,12 +75,12 @@ def config():
     weight_decay = 0
     scheduler = "reduce_on_plateau"  # "constant", "cosine", "reduce_on_plateau", "constant_with_warmup"
     patience = 200  # patience for reduce_on_plateau scheduler
-    early_stopping = 300  # patience for early stopping
+    early_stopping = 100  # patience for early stopping
 
     # training
     num_nodes = 1  # number of nodes for distributed training
     devices = 1  # number of GPUs to use
-    accelerator = "cpu"  # "cpu", "gpu"
+    accelerator = "gpu"  # "cpu", "gpu"
     max_epochs = 1000
     deterministic = True  # set True for reproducibility
     log_dir = "./logs"
