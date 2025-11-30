@@ -9,16 +9,78 @@ from pymatgen.core import Composition
 from pymatgen.io.cif import CifBlock
 from pymatgen.symmetry.groups import SpaceGroup
 from pymatgen.core.operations import SymmOp
+from ase.optimize import BFGS
+from ase.vibrations import Vibrations
+from mace.calculators import mace_mp
+from ase import Atoms
+import numpy as np
+import os
+import csv
 
+
+# ----------------------------
+# Convert CIF string → ASE Atoms
+# ----------------------------
+def cif_to_ase(cif_string):
+    struct = Structure.from_str(cif_string, fmt="cif")
+    symbols = [str(s.specie) for s in struct]
+    positions = struct.frac_coords @ struct.lattice.matrix
+    cell = struct.lattice.matrix
+    return Atoms(symbols=symbols, positions=positions, cell=cell, pbc=True)
+
+# ----------------------------
+# Relax structure using MLFF
+# ----------------------------
+def relax_structure(atoms):
+    atoms = atoms.copy()
+    calc = mace_mp()
+    atoms.set_calculator(calc)
+    dyn = BFGS(atoms, logfile=None)
+    dyn.run(fmax=0.03)     # convergence threshold
+    return atoms
+
+# ----------------------------
+# Compute phonons (local minimum check)
+# ----------------------------
+def compute_phonons(atoms, indices=None):
+    """
+    indices = list of atom indices to displace, or None for all atoms.
+    """
+    atoms = atoms.copy()
+    calc = mace_mp()
+    atoms.set_calculator(calc)
+
+    vib = Vibrations(atoms, indices=indices)
+    vib.run()
+    freqs = vib.get_frequencies()  # in cm^-1
+    vib.clean()
+    return freqs
+
+# ----------------------------
+# Full metastability evaluation
+# ----------------------------
+def evaluate_metastability(cif_string, phonon_subset=None):
+    atoms = cif_to_ase(cif_string)
+
+    # 1. Relaxation
+    relaxed = relax_structure(atoms)
+    energy = relaxed.get_potential_energy() / len(relaxed)
+
+    # 2. Dynamical stability via phonons
+    freqs = compute_phonons(relaxed, indices=phonon_subset)
+    n_imag = np.sum(freqs < 0)
+
+    return {
+        "energy_eV_per_atom": energy,
+        "num_imaginary_modes": int(n_imag),
+        "is_dynamically_stable": (n_imag == 0)
+    }
 
 def extract_data_formula(cif_str):
     match = re.search(r"data_([A-Za-z0-9]+)\n", cif_str)
     if match:
         return match.group(1)
     raise Exception(f"could not find data_ in:\n{cif_str}")
-
-
-
 
 # Returns true if chemical formula is consistent throughout the generated CIF
 def formula_consistent(cif_str):
@@ -30,8 +92,6 @@ def formula_consistent(cif_str):
     formula_structural = Composition(cif_data[list(cif_data.keys())[0]]["_chemical_formula_structural"])
 
     return formula_data.reduced_formula == formula_sum.reduced_formula == formula_structural.reduced_formula
-
-
 
 # Returns true if the atom site multiplicty is consistent throughout the generated CIF
 def atom_site_multiplicity_consistent(cif_str):
@@ -49,7 +109,6 @@ def atom_site_multiplicity_consistent(cif_str):
                 actual_atoms[atom_type] += int(multiplicity)
 
     return expected_atoms == actual_atoms
-
 
 # Returns true if the stated space group is consistent with the detected space group
 def space_group_consistent(cif_str):
@@ -70,7 +129,6 @@ def space_group_consistent(cif_str):
     is_match = stated_space_group.strip() == detected_space_group.strip()
 
     return is_match
-
 
 # Determine if the bond length is reasonable
 def bond_length_reasonableness_score(cif_str, tolerance=0.32, h_factor=2.5):
@@ -131,13 +189,13 @@ def bond_length_reasonableness_score(cif_str, tolerance=0.32, h_factor=2.5):
 
     return normalized_score
 
-def is_valid(cif_str, bond_legnth_acceptability_cutoff=1.0):
+def is_valid(cif_str, bond_length_acceptability_cutoff=1.0):
     if not formula_consistent(cif_str):
         return False
     if not atom_site_multiplicity_consistent(cif_str):
         return False
     bond_length_score = bond_length_reasonableness_score(cif_str)
-    if bond_length_score < bond_legnth_acceptability_cutoff:
+    if bond_length_score < bond_length_acceptability_cutoff:
         return False
     if not space_group_consistent(cif_str):
         return False
@@ -185,7 +243,6 @@ def replace_symmetry_operators(cif_str, space_group_symbol):
 
     return cif_str_updated
 
-
 def extract_space_group_symbol(cif_str):
     match = re.search(r"_symmetry_space_group_name_H-M\s+('([^']+)'|(\S+))", cif_str)
     if match:
@@ -193,29 +250,87 @@ def extract_space_group_symbol(cif_str):
     raise Exception(f"could not extract space group from:\n{cif_str}")
 
 
-
 # given CIF as a string, figure out if it's valid
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(usage="given cif as txt file, determine if it is valid")
-    parser.add_argument("-c", "--cif", dest="cif_file", help="path to cif file", required=True)
+    parser = argparse.ArgumentParser(usage="given directory of cif files, measure validity and store results in cif")
+    parser.add_argument("-d", "--dir", dest="cif_dir", help="path to directory containing cif files", required=True)
+    parser.add_argument("-o", "--output", dest="csv_file", help="path to output csv file", default="./validity_results.csv")
+    parser.add_argument("--skip-meta", dest="skip_meta", action="store_true", help="skip metastability calculation")
 
     args = parser.parse_args()
-    cif_file = args.cif_file
-
-
-    with open(cif_file, "r") as f:
-        cif = f.read()
-    if not is_sensible(cif):
-        print("CIF is not sensible")
-        exit
-    space_group_symbol = extract_space_group_symbol(cif)
-    if space_group_symbol is not None and space_group_symbol != "P 1":
-        cif = replace_symmetry_operators(cif, space_group_symbol)
+    cif_dir = args.cif_dir
+    csv_file = args.csv_file
+    skip_meta = args.skip_meta
     
-    if is_valid(cif):
-        print("Provided CIF is valid")
-    else:
-        print("Provided CIF is not valid")
+
+    rows = []
+
+    for filename in os.listdir(cif_dir):
+        if not filename.lower().endswith(".cif"):
+            continue
+
+        path = os.path.join(cif_dir, filename)
+        with open(path, "r") as f:
+            cif = f.read()
+
+        # Sensible?
+        sens = is_sensible(cif)
+
+        # Fix sym ops
+        sg = extract_space_group_symbol(cif)
+        if sg and sg != "P 1":
+            cif = replace_symmetry_operators(cif, sg)
+
+        # Compute validity components
+        f_cons = formula_consistent(cif)
+        a_cons = atom_site_multiplicity_consistent(cif)
+        sg_cons = space_group_consistent(cif)
+        bond = bond_length_reasonableness_score(cif)
+        valid = f_cons and a_cons and sg_cons and bond >= 1.0
+
+        # Metastability
+        if skip_meta:
+            meta = {
+                "energy_eV_per_atom": None,
+                "num_imaginary_modes": None,
+                "is_dynamically_stable": None
+            }
+        else:
+            meta = evaluate_metastability(cif)
+
+        rows.append({
+            "filename": filename,
+            "is_sensible": sens,
+            "formula_consistent": f_cons,
+            "atom_site_consistent": a_cons,
+            "space_group_consistent": sg_cons,
+            "bond_length_score": bond,
+            "is_valid": valid,
+            "energy_eV_per_atom": meta["energy_eV_per_atom"],
+            "num_imaginary_modes": meta["num_imaginary_modes"],
+            "is_dynamically_stable": meta["is_dynamically_stable"],
+        })
+
+    # Write CSV
+    with open(csv_file, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+    # with open(cif_file, "r") as f:
+    #     cif = f.read()
+    # if not is_sensible(cif):
+    #     print("CIF is not sensible")
+    #     exit
+    # space_group_symbol = extract_space_group_symbol(cif)
+    # if space_group_symbol is not None and space_group_symbol != "P 1":
+    #     cif = replace_symmetry_operators(cif, space_group_symbol)
+    
+    # if is_valid(cif):
+    #     print("Provided CIF is valid")
+    # else:
+    #     print("Provided CIF is not valid")
 
     
     
