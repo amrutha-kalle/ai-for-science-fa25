@@ -250,6 +250,23 @@ def extract_space_group_symbol(cif_str):
     raise Exception(f"could not extract space group from:\n{cif_str}")
 
 
+def electronegativity_stats(cif_string):
+    s = Structure.from_str(cif_string, fmt="cif")
+    en_values = [site.specie.X for site in s if site.specie.X is not None]
+    elements = [site.specie.symbol for site in s]
+    if not en_values:
+        return {"status": "no electronegativity data"}
+    en_arr = np.array(en_values)
+    return {
+        "mean_en": float(en_arr.mean()),
+        "std_en": float(en_arr.std()),
+        "max_en": float(en_arr.max()),
+        "min_en": float(en_arr.min()),
+        "max_diff_pair": float(en_arr.max() - en_arr.min()),
+        "per_site": list(zip(elements, en_arr.tolist()))
+    }
+
+
 # given CIF as a string, figure out if it's valid
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(usage="given directory of cif files, measure validity and store results in cif")
@@ -297,6 +314,8 @@ if __name__ == "__main__":
             }
         else:
             meta = evaluate_metastability(cif)
+        
+        electro_stats = electronegativity_stats(cif)
 
         rows.append({
             "filename": filename,
@@ -309,6 +328,13 @@ if __name__ == "__main__":
             "energy_eV_per_atom": meta["energy_eV_per_atom"],
             "num_imaginary_modes": meta["num_imaginary_modes"],
             "is_dynamically_stable": meta["is_dynamically_stable"],
+            "mean_en": electro_stats["mean_en"],
+            "std_en": electro_stats["std_en"],
+            "max_en": electro_stats["max_en"],
+            "min_en": electro_stats["min_en"],
+            "max_diff_pair": electro_stats["max_diff_pair"],
+            "per_site": electro_stats["per_site"]
+            
         })
 
     # Write CSV
