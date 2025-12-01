@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pt6Si
+_chemical_formula_sum              "Pt6 Si1"
+_cell_length_a       5.0409289262737
+_cell_length_b       5.135326809802503
+_cell_length_c       5.857008457183838
+_cell_angle_alpha    93.30007370851409
+_cell_angle_beta     94.73308820282381
+_cell_angle_gamma    84.70352452581179
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.28270959854125977  0.962282419204712  0.7396299839019775  1.0000
+  Pt  Pt2       1.0  0.03582466021180153  0.7336801886558533  0.04515451565384865  1.0000
+  Pt  Pt3       1.0  0.7737882733345032  0.6132432222366333  0.7030357122421265  1.0000
+  Pt  Pt4       1.0  0.6204836368560791  0.22944188117980957  0.45559409260749817  1.0000
+  Pt  Pt5       1.0  0.12559950351715088  0.35511791706085205  0.5833280682563782  1.0000
+  Pt  Pt6       1.0  0.629966676235199  0.5071659088134766  0.5416975021362305  1.0000
+  Si  Si1       1.0  0.7611231803894043  0.702565610408783  0.15985199809074402  1.0000

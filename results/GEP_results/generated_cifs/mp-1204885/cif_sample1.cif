@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiClPbSSiTiTm
+_chemical_formula_sum              "Bi1 Cl1 Pb1 S1 Si1 Ti1 Tm1"
+_cell_length_a       5.358436058076319
+_cell_length_b       5.5097228503731195
+_cell_length_c       6.577080249786377
+_cell_angle_alpha    114.96456315926926
+_cell_angle_beta     112.92407695852467
+_cell_angle_gamma    89.26757184390928
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.8426617980003357  0.5302086472511292  0.7431198954582214  1.0000
+  Cl  Cl1       1.0  0.09226056933403015  0.3008149564266205  0.14400008320808413  1.0000
+  Pb  Pb1       1.0  0.31978219747543335  0.7023391723632812  0.6550688147544861  1.0000
+  S   S1        1.0  0.8529431223869324  0.7848421335220337  0.5301351547241211  1.0000
+  Si  Si1       1.0  0.5033792853355408  0.0974196121096611  0.531735360622406  1.0000
+  Ti  Ti1       1.0  0.6437022089958191  0.04454926773905754  0.4080777168273926  1.0000
+  Tm  Tm1       1.0  0.20723429322242737  0.1475113481283188  0.5340437889099121  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgNpPrRu2Sb2
+_chemical_formula_sum              "Ag1 Np1 Pr1 Ru2 Sb2"
+_cell_length_a       5.231779861484771
+_cell_length_b       5.235872553724705
+_cell_length_c       6.75394344329834
+_cell_angle_alpha    90.01470271377612
+_cell_angle_beta     88.82614407223932
+_cell_angle_gamma    94.11872755544864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.8826682567596436  0.762013852596283  0.008462943136692047  1.0000
+  Np  Np1       1.0  0.2852820158004761  0.5596773028373718  0.18447391688823703  1.0000
+  Pr  Pr1       1.0  0.8818778991699219  0.24896696209907532  0.34172266721725464  1.0000
+  Ru  Ru1       1.0  0.3212447762489319  0.14869527518749237  0.6784417033195496  1.0000
+  Ru  Ru2       1.0  0.7987973093986511  0.15013889968395233  0.6746081113815308  1.0000
+  Sb  Sb1       1.0  0.9948120713233948  0.8272051811218262  0.171700119972229  1.0000
+  Sb  Sb2       1.0  0.5143527388572693  0.6421972513198853  0.6865591406822205  1.0000

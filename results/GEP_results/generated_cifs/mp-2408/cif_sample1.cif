@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaClGa3PV
+_chemical_formula_sum              "Ba1 Cl1 Ga3 P1 V1"
+_cell_length_a       4.203520663547136
+_cell_length_b       5.288784381453992
+_cell_length_c       5.445111274719238
+_cell_angle_alpha    117.2731651860453
+_cell_angle_beta     90.04539303465954
+_cell_angle_gamma    95.26288850768441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7827012538909912  0.9455860257148742  0.7860963940620423  1.0000
+  Cl  Cl1       1.0  0.7844887971878052  0.6410734057426453  0.6994643211364746  1.0000
+  Ga  Ga1       1.0  0.2776351869106293  0.3689797818660736  0.8684318065643312  1.0000
+  Ga  Ga2       1.0  0.28579097986221313  0.7010030746459961  0.29722321033477783  1.0000
+  Ga  Ga3       1.0  0.7835965156555176  0.3893539607524872  0.7700110077857972  1.0000
+  P   P1        1.0  0.7865421772003174  0.4802235066890716  0.14417718350887299  1.0000
+  V   V1        1.0  0.28413325548171997  0.031124040484428402  0.012343221344053744  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CF4O3
+_chemical_formula_sum              "C1 F4 O3"
+_cell_length_a       4.703552521807608
+_cell_length_b       4.563594692411053
+_cell_length_c       5.649849891662598
+_cell_angle_alpha    117.4306056811759
+_cell_angle_beta     113.80773186982582
+_cell_angle_gamma    90.67721358235457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.02843546494841573  0.9285259246826171  0.8635234236717225  1.0000
+  F   F1        1.0  0.009992783889174461  0.017016729339957237  0.5551194548606873  1.0000
+  F   F2        1.0  0.47717809677124023  0.4060038030147552  0.21026226878166196  1.0000
+  F   F3        1.0  0.501808762550354  0.42667710781097407  0.11707205325365064  1.0000
+  F   F4        1.0  0.009593589231371866  0.43684408068656916  0.7839383482933044  1.0000
+  O   O1        1.0  0.392622172832489  0.5979143381118774  0.957521140575409  1.0000
+  O   O2        1.0  0.2043767124414444  0.646330714225769  0.29204756021499634  1.0000
+  O   O3        1.0  0.7913477420806885  0.12920068204402924  0.04052487760782242  1.0000

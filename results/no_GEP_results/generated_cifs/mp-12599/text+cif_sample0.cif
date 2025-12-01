@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HI3PPrU
+_chemical_formula_sum              "H1 I3 P1 Pr1 U1"
+_cell_length_a       5.268975098732035
+_cell_length_b       4.513855469314592
+_cell_length_c       5.794605255126953
+_cell_angle_alpha    113.10452590455152
+_cell_angle_beta     108.80687620534448
+_cell_angle_gamma    105.90450953578842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.24076732993125916  0.5512498617172241  0.6533945202827454  1.0000
+  I   I1        1.0  0.6832516193389893  0.6807945370674133  0.9869766235351561  1.0000
+  I   I2        1.0  0.9519343972206116  0.03390650451183319  0.2944398522377014  1.0000
+  I   I3        1.0  0.15692536532878876  0.20895838737487793  0.10958581417798995  1.0000
+  P   P1        1.0  0.16474425792694092  0.3231527507305145  0.5847222208976746  1.0000
+  Pr  Pr1       1.0  0.6484957933425903  0.12214816361665726  0.8096736073493956  1.0000
+  U   U1        1.0  0.315926730632782  0.09194384515285492  0.07489923387765884  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co4Sn2Zn
+_chemical_formula_sum              "Co4 Sn2 Zn1"
+_cell_length_a       4.2112949706521485
+_cell_length_b       4.457768529992833
+_cell_length_c       7.941510200500488
+_cell_angle_alpha    89.92997534501349
+_cell_angle_beta     93.6291502323729
+_cell_angle_gamma    91.72304620488949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.18767334520816803  0.25347593426704407  0.336553156375885  1.0000
+  Co  Co2       1.0  0.07797867804765701  0.9832757115364075  0.5759310722351074  1.0000
+  Co  Co3       1.0  0.798376202583313  0.8131793141365051  0.8148428797721863  1.0000
+  Co  Co4       1.0  0.7001374363899231  0.4723173677921295  0.610181987285614  1.0000
+  Sn  Sn1       1.0  0.5323677659034729  0.7643215656280518  0.3252612352371216  1.0000
+  Sn  Sn2       1.0  0.6006293892860413  0.515818178653717  0.16500215232372284  1.0000
+  Zn  Zn1       1.0  0.05373149737715721  0.4949248135089874  0.504393994808197  1.0000

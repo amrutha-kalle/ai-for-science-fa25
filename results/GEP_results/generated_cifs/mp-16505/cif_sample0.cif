@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2La4NiS
+_chemical_formula_sum              "Al2 La4 Ni1 S1"
+_cell_length_a       6.2376146175210065
+_cell_length_b       6.026016669539904
+_cell_length_c       6.92197322845459
+_cell_angle_alpha    116.3083338618924
+_cell_angle_beta     113.86766070166358
+_cell_angle_gamma    98.03622450687155
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6816486120223999  0.6200715899467468  0.7980712652206421  1.0000
+  Al  Al2       1.0  0.8745734691619874  0.8084135055541992  0.052335336804389954  1.0000
+  La  La1       1.0  0.4678966104984284  0.9403288960456848  0.3356678187847138  1.0000
+  La  La2       1.0  0.9599218964576722  0.3203853964805603  0.3307379186153412  1.0000
+  La  La3       1.0  0.4464420080184937  0.6942830681800842  0.8468928933143616  1.0000
+  La  La4       1.0  0.19466422498226166  0.2464539110660553  0.9165472984313965  1.0000
+  Ni  Ni1       1.0  0.8859971761703492  0.5470710396766663  0.0095914201810956  1.0000
+  S   S1        1.0  0.5573492050170898  0.22909368574619293  0.2945103347301483  1.0000

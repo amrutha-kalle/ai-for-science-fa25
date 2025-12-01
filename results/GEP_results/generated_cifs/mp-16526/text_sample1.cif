@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al2NaOPt3
+_chemical_formula_sum              "Al2 Na1 O1 Pt3"
+_cell_length_a       0.531798954784395
+_cell_length_b       5.469477329200755
+_cell_length_c       7.570615291595459
+_cell_angle_alpha    116.12397112397734
+_cell_angle_beta     97.068949849207
+_cell_angle_gamma    143.54618526141115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8702658414840689  0.2790003418922423  0.7830076217651367  1.0000
+  Al  Al2       1.0  0.3903273344039917  0.2980598509311676  0.04739614203572273  1.0000
+  Na  Na1       1.0  0.89008629322052  0.8110142946243286  0.013305839151144007  1.0000
+  O   O1        1.0  0.3832862079143524  0.770498514175415  0.3627794086933136  1.0000
+  Pt  Pt1       1.0  0.8829373717308044  0.3156859278678894  0.10108169913291931  1.0000
+  Pt  Pt2       1.0  0.873457610607148  0.7338396310806276  0.4248076677322388  1.0000
+  Pt  Pt3       1.0  0.3885666728019706  0.47756302356719965  0.6338868737220764  1.0000

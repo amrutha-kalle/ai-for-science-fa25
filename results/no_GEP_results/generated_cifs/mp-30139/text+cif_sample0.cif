@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlBi2BrITbZr
+_chemical_formula_sum              "Al1 Bi2 Br1 I1 Tb1 Zr1"
+_cell_length_a       5.336613854650081
+_cell_length_b       5.574319107506188
+_cell_length_c       6.571208953857422
+_cell_angle_alpha    94.49770303338258
+_cell_angle_beta     89.529453439993
+_cell_angle_gamma    89.64719674693852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.25258153676986694  0.1809040606021881  0.7911146283149719  1.0000
+  Bi  Bi1       1.0  0.08837093412876129  0.849299728870392  0.8083856701850891  1.0000
+  Bi  Bi2       1.0  0.24577425420284268  0.4820095598697663  0.30474162101745605  1.0000
+  Br  Br1       1.0  0.7506548166275024  0.6698064804077148  0.7875767946243286  1.0000
+  I   I1        1.0  0.24715770781040192  0.20382398366928103  0.6567609310150146  1.0000
+  Tb  Tb1       1.0  0.7386718988418579  0.45528161525726324  0.4950122535228729  1.0000
+  Zr  Zr1       1.0  0.7593352794647217  0.9786019325256349  0.9307258725166321  1.0000

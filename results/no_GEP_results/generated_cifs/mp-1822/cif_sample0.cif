@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CrITi5
+_chemical_formula_sum              "Cr1 I1 Ti5"
+_cell_length_a       4.723558640030477
+_cell_length_b       1.8961247072853635
+_cell_length_c       5.792599201202393
+_cell_angle_alpha    141.38560244568953
+_cell_angle_beta     90.47711210923093
+_cell_angle_gamma    128.12155285576813
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.03955156728625296  0.24061198532581327  0.19429512321949005  1.0000
+  I   I1        1.0  0.16087597608566298  0.20271503925323542  0.8122311234474183  1.0000
+  Ti  Ti1       1.0  0.2950091063976289  0.4662254750728611  0.9691783189773561  1.0000
+  Ti  Ti2       1.0  0.30324888229370117  0.37690231204032904  0.10218176245689392  1.0000
+  Ti  Ti3       1.0  0.8096233010292053  0.9170146584510803  0.07435731589794158  1.0000
+  Ti  Ti4       1.0  0.6258960366249084  0.9879016280174255  0.25854355096817017  1.0000
+  Ti  Ti5       1.0  0.2680530846118927  0.5027494430541992  0.5499649643898009  1.0000

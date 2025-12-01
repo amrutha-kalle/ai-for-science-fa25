@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al6Mg3
+_chemical_formula_sum              "Al6 Mg3"
+_cell_length_a       6.169056171580726
+_cell_length_b       6.0895885498154145
+_cell_length_c       5.587832927703857
+_cell_angle_alpha    66.25906529724882
+_cell_angle_beta     66.21631796197063
+_cell_angle_gamma    67.03926467609949
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4290646016597748  0.15051232278347015  0.6098344922065735  1.0000
+  Al  Al2       1.0  0.9279630184173584  0.0004956533666700125  0.9902441501617432  1.0000
+  Al  Al3       1.0  0.4500243365764618  0.13459135591983795  0.2721954584121704  1.0000
+  Al  Al4       1.0  0.9386513829231262  0.055746156722307205  0.9521021842956543  1.0000
+  Al  Al5       1.0  0.9554001092910767  0.6682389974594116  0.8330233693122864  1.0000
+  Al  Al6       1.0  0.9565859436988831  0.5342341065406799  0.13229164481163025  1.0000
+  Mg  Mg1       1.0  0.725584089756012  0.6037076711654663  0.9672722220420837  1.0000
+  Mg  Mg2       1.0  0.38159218430519104  0.7867727279663086  0.6847793459892273  1.0000
+  Mg  Mg3       1.0  0.4290476143360138  0.24973703920841217  0.9000681638717651  1.0000

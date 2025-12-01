@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba4GePSi
+_chemical_formula_sum              "Ba4 Ge1 P1 Si1"
+_cell_length_a       5.73795839076885
+_cell_length_b       5.743325650154043
+_cell_length_c       7.35911226272583
+_cell_angle_alpha    111.25665097390807
+_cell_angle_beta     110.01889467491796
+_cell_angle_gamma    88.77179134645421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.17551597952842712  0.33997032046318054  0.17788259685039517  1.0000
+  Ba  Ba2       1.0  0.17023174464702606  0.988826096057892  0.9275761246681212  1.0000
+  Ba  Ba3       1.0  0.7370787858963013  0.7361682057380676  0.6409898996353149  1.0000
+  Ba  Ba4       1.0  0.20409758388996124  0.7437193393707275  0.4481599628925323  1.0000
+  Ge  Ge1       1.0  0.8362789154052733  0.007777856662869454  0.9389243125915526  1.0000
+  P   P1        1.0  0.4295510053634643  0.32602062821388245  0.6320874094963074  1.0000
+  Si  Si1       1.0  0.700553834438324  0.2468175441026688  0.4255653619766235  1.0000

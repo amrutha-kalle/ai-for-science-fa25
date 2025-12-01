@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2HTb4
+_chemical_formula_sum              "Cd2 H1 Tb4"
+_cell_length_a       4.394116709479137
+_cell_length_b       3.411002916857354
+_cell_length_c       9.207948684692383
+_cell_angle_alpha    121.47790268813685
+_cell_angle_beta     89.54181806883823
+_cell_angle_gamma    93.84508485883448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.003971576690673828  0.6326782703399658  0.09832056611776352  1.0000
+  Cd  Cd2       1.0  0.5153911709785461  0.15200495719909668  0.08035126328468323  1.0000
+  H   H1        1.0  0.5217437148094177  0.5471668839454651  0.20381852984428406  1.0000
+  Tb  Tb1       1.0  0.031458962708711624  0.5175570249557495  0.7330370545387268  1.0000
+  Tb  Tb2       1.0  0.4955187439918518  0.42443495988845825  0.13777488470077515  1.0000
+  Tb  Tb3       1.0  0.5326967835426331  0.7439910173416138  0.08409185707569122  1.0000
+  Tb  Tb4       1.0  0.886090874671936  0.6078729629516602  0.15709398686885834  1.0000

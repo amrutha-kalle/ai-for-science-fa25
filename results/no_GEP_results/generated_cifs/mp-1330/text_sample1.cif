@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al5N
+_chemical_formula_sum              "Al5 N1"
+_cell_length_a       4.861750760256454
+_cell_length_b       5.282956931509812
+_cell_length_c       5.152196407318115
+_cell_angle_alpha    84.1446421027629
+_cell_angle_beta     71.90737909824365
+_cell_angle_gamma    69.85921079853082
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.20808684825897217  0.46340247988700867  0.9592992067337036  1.0000
+  Al  Al2       1.0  0.7136819958686829  0.6751257181167603  0.4066562056541443  1.0000
+  Al  Al3       1.0  0.7172281742095947  0.06737320870161057  0.33821302652359003  1.0000
+  Al  Al4       1.0  0.7284406423568726  0.3574161231517792  0.8472877144813538  1.0000
+  Al  Al5       1.0  0.2115282118320465  0.03166867047548294  0.43768733739852905  1.0000
+  N   N1        1.0  0.7116967439651489  0.12688545882701874  0.27608564496040344  1.0000

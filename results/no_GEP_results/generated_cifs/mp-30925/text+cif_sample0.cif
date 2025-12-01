@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HLa5O2Zn
+_chemical_formula_sum              "H1 La5 O2 Zn1"
+_cell_length_a       5.333175696189148
+_cell_length_b       6.946395794489248
+_cell_length_c       7.103727340698242
+_cell_angle_alpha    91.51650155507413
+_cell_angle_beta     91.58125273606058
+_cell_angle_gamma    88.4136409131819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.3040879964828491  0.32104504108428955  0.7522356510162354  1.0000
+  La  La1       1.0  0.7897377610206604  0.7664077877998352  0.6671974658966064  1.0000
+  La  La2       1.0  0.7866951823234558  0.6123555302619934  0.13734593987464905  1.0000
+  La  La3       1.0  0.29459384083747864  0.158921018242836  0.27443522214889526  1.0000
+  La  La4       1.0  0.26751765608787537  0.9057329297065735  0.9886379837989807  1.0000
+  La  La5       1.0  0.7975894212722778  0.9937843084335327  0.17518000304698944  1.0000
+  O   O1        1.0  0.11651118844747543  0.9139980673789978  0.8418444395065308  1.0000
+  O   O2        1.0  0.31277036666870117  0.2844967842102051  0.06831883639097214  1.0000
+  Zn  Zn1       1.0  0.7894088625907898  0.14652185142040253  0.6123029589653015  1.0000

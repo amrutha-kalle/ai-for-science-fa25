@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       INb5Si
+_chemical_formula_sum              "I1 Nb5 Si1"
+_cell_length_a       5.0548224841825915
+_cell_length_b       6.034594972410196
+_cell_length_c       6.131114482879639
+_cell_angle_alpha    91.86267048154303
+_cell_angle_beta     98.81317934796566
+_cell_angle_gamma    90.74455598801434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.3455120921134949  0.5508613586425781  0.010220527648925781  1.0000
+  Nb  Nb1       1.0  0.33836203813552856  0.7088620662689209  0.8140686750411986  1.0000
+  Nb  Nb2       1.0  0.559859037399292  0.5385907292366028  0.8372427821159362  1.0000
+  Nb  Nb3       1.0  0.8693541884422302  0.8616746664047241  0.9083239436149596  1.0000
+  Nb  Nb4       1.0  0.06725021451711655  0.36299949884414673  0.2327916771173477  1.0000
+  Nb  Nb5       1.0  0.5795295834541321  0.4771708548069  0.7347304224967955  1.0000
+  Si  Si1       1.0  0.07431569695472717  0.9528953433036804  0.24192747473716733  1.0000

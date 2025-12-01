@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaInRu4Sn
+_chemical_formula_sum              "Ba1 In1 Ru4 Sn1"
+_cell_length_a       4.797981309152782
+_cell_length_b       5.248148839220354
+_cell_length_c       6.628511428833008
+_cell_angle_alpha    89.0109164833516
+_cell_angle_beta     89.13107414851993
+_cell_angle_gamma    117.25902397425068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6245778203010559  0.08012380450963974  0.7267778515815734  1.0000
+  In  In1       1.0  0.6210209727287292  0.21134939789772034  0.09171011298894881  1.0000
+  Ru  Ru1       1.0  0.01762303337454796  0.8467487692832947  0.509408712387085  1.0000
+  Ru  Ru2       1.0  0.2848112881183624  0.1182238832116127  0.6236302852630614  1.0000
+  Ru  Ru3       1.0  0.33934569358825684  0.4526676833629608  0.11895188689231871  1.0000
+  Ru  Ru4       1.0  0.35379472374916077  0.7763424515724182  0.35544240474700933  1.0000
+  Sn  Sn1       1.0  0.9180086851119995  0.6418489217758179  0.7931905388832091  1.0000

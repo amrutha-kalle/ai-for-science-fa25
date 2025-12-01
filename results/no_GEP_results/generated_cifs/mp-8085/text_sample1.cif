@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg3P3
+_chemical_formula_sum              "Mg3 P3"
+_cell_length_a       3.7167482214220913
+_cell_length_b       3.8999725259154077
+_cell_length_c       5.001292705535889
+_cell_angle_alpha    88.97471002671824
+_cell_angle_beta     100.06467346965543
+_cell_angle_gamma    93.1527342947091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9697015285491943  0.7722963094711303  0.42824554443359375  1.0000
+  Mg  Mg2       1.0  0.016455931589007378  0.08481927961111067  0.6887769103050232  1.0000
+  Mg  Mg3       1.0  0.9806058406829834  0.13282997906208038  0.5441394448280334  1.0000
+  P   P1        1.0  0.5199571251869202  0.5456133484840393  0.18667012453079224  1.0000
+  P   P2        1.0  0.5073410272598267  0.6211764216423034  0.17740553617477417  1.0000
+  P   P3        1.0  0.9965053796768188  0.9424507617950438  0.5135446190834045  1.0000

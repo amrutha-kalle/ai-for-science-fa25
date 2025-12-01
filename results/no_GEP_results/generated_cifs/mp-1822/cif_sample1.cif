@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsPbTi4Zr
+_chemical_formula_sum              "As1 Pb1 Ti4 Zr1"
+_cell_length_a       5.142230734969965
+_cell_length_b       4.718193991584126
+_cell_length_c       6.8833417892456055
+_cell_angle_alpha    126.95521436755176
+_cell_angle_beta     92.52417749610989
+_cell_angle_gamma    86.73547044529158
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9315913319587709  0.3121407330036164  0.12216096371412277  1.0000
+  Pb  Pb1       1.0  0.426067054271698  0.7672792673110963  0.11130917817354202  1.0000
+  Ti  Ti1       1.0  0.8815960288047792  0.8195583224296571  0.504371702671051  1.0000
+  Ti  Ti2       1.0  0.4270516633987427  0.2518436014652252  0.06415310502052307  1.0000
+  Ti  Ti3       1.0  0.9666243195533754  0.7592541575431825  0.7261858582496643  1.0000
+  Ti  Ti4       1.0  0.3794168531894684  0.15675644576549533  0.8280675411224365  1.0000
+  Zr  Zr1       1.0  0.46548730134963984  0.045966137200593955  0.2561068832874298  1.0000

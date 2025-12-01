@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi5PZn
+_chemical_formula_sum              "Bi5 P1 Zn1"
+_cell_length_a       5.742203077170591
+_cell_length_b       5.982752494230892
+_cell_length_c       6.09950590133667
+_cell_angle_alpha    63.14407398432226
+_cell_angle_beta     61.865904005679575
+_cell_angle_gamma    61.444206777152935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.37454161047935486  0.16571393609046936  0.5106489658355713  1.0000
+  Bi  Bi2       1.0  0.3754991292953491  0.5415991544723511  0.010552896186709404  1.0000
+  Bi  Bi3       1.0  0.7162092924118042  0.2847820520401001  0.1708781123161316  1.0000
+  Bi  Bi4       1.0  0.20979391038417816  0.9111011624336243  0.2858249247074127  1.0000
+  Bi  Bi5       1.0  0.8786852955818176  0.9954862594604492  0.9768738746643066  1.0000
+  P   P1        1.0  0.7304322123527527  0.4926469922065735  0.8206836581230164  1.0000
+  Zn  Zn1       1.0  0.3689434826374054  0.4884636104106903  0.5254638195037842  1.0000

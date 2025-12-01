@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoGaGeHHoPPb4
+_chemical_formula_sum              "Co1 Ga1 Ge1 H1 Ho1 P1 Pb4"
+_cell_length_a       7.274040989868768
+_cell_length_b       7.734957486045042
+_cell_length_c       8.662038803100586
+_cell_angle_alpha    60.56169677542772
+_cell_angle_beta     63.346299208586565
+_cell_angle_gamma    58.994203331803696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6845188140869141  0.7413673400878906  0.9225658774375916  1.0000
+  Ga  Ga1       1.0  0.979847252368927  0.2791505455970764  0.26819857954978943  1.0000
+  Ge  Ge1       1.0  0.11898724734783173  0.1441509872674942  0.6927205920219421  1.0000
+  H   H1        1.0  0.8694601655006409  0.9031698703765869  0.5290420055389404  1.0000
+  Ho  Ho1       1.0  0.8726792335510254  0.8639264702796936  0.6903282999992371  1.0000
+  P   P1        1.0  0.619269847869873  0.47557851672172546  0.6123229265213013  1.0000
+  Pb  Pb1       1.0  0.27731937170028687  0.43044400215148926  0.20865915715694427  1.0000
+  Pb  Pb2       1.0  0.2663315534591675  0.08276968449354172  0.408591091632843  1.0000
+  Pb  Pb3       1.0  0.4927760064601898  0.7983831167221069  0.2689637541770935  1.0000
+  Pb  Pb4       1.0  0.9829347729682922  0.34384119510650635  0.975182831287384  1.0000

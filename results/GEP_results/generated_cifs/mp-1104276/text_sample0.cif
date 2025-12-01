@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErNi3Si3
+_chemical_formula_sum              "Er1 Ni3 Si3"
+_cell_length_a       3.6247475969863485
+_cell_length_b       3.7735411688111857
+_cell_length_c       5.516198635101318
+_cell_angle_alpha    110.59746285224486
+_cell_angle_beta     87.97874156001595
+_cell_angle_gamma    134.29201679982032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.22545477747917175  0.223890021443367  0.034330748021602624  1.0000
+  Ni  Ni1       1.0  0.8546893000602722  0.21559813618659973  0.43995288014411926  1.0000
+  Ni  Ni2       1.0  0.5506107211112976  0.03505946695804596  0.7016279697418213  1.0000
+  Ni  Ni3       1.0  0.8431244492530823  0.027418842539191246  0.6923326849937439  1.0000
+  Si  Si1       1.0  0.9622687101364136  0.5062630772590637  0.32460305094718933  1.0000
+  Si  Si2       1.0  0.8568614721298218  0.7266460061073303  0.19776496291160583  1.0000
+  Si  Si3       1.0  0.43025821447372437  0.8116651177406311  0.23739993572235102  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Er3Se4
+_chemical_formula_sum              "Er3 Se4"
+_cell_length_a       5.291912654368029
+_cell_length_b       5.749026485558143
+_cell_length_c       5.932026386260986
+_cell_angle_alpha    127.05919783012872
+_cell_angle_beta     104.4089416287107
+_cell_angle_gamma    88.5318794471672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.8428261876106262  0.8592310547828674  0.471666544675827  1.0000
+  Er  Er2       1.0  0.864270806312561  0.8353083729743958  0.5236130952835083  1.0000
+  Er  Er3       1.0  0.1295125037431717  0.9831145405769348  0.8565959334373474  1.0000
+  Se  Se1       1.0  0.10527120530605316  0.37954020500183105  0.6646835207939148  1.0000
+  Se  Se2       1.0  0.6373149156570435  0.5664451718330383  0.9605982303619385  1.0000
+  Se  Se3       1.0  0.14177584648132324  0.3783228099346161  0.8735063076019287  1.0000
+  Se  Se4       1.0  0.610576331615448  0.40232792496681213  0.9853239059448242  1.0000

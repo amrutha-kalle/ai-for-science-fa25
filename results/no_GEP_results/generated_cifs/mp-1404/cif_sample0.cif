@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2Ge2I2Zn
+_chemical_formula_sum              "Cd2 Ge2 I2 Zn1"
+_cell_length_a       5.202937647553387
+_cell_length_b       6.200242589326275
+_cell_length_c       7.249815940856934
+_cell_angle_alpha    119.78005134195917
+_cell_angle_beta     90.57741984786436
+_cell_angle_gamma    89.08162529148457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5537749528884888  0.7137075066566467  0.5369861721992493  1.0000
+  Cd  Cd2       1.0  0.052850738167762756  0.3055090308189392  0.954626202583313  1.0000
+  Ge  Ge1       1.0  0.05273479223251343  0.1916973739862442  0.2010163813829422  1.0000
+  Ge  Ge2       1.0  0.5537742972373962  0.36225268244743347  0.9053186774253845  1.0000
+  I   I1        1.0  0.05133216455578804  0.07442399859428406  0.8870964646339417  1.0000
+  I   I2        1.0  0.5469950437545776  0.4781742990016937  0.6261391043663025  1.0000
+  Zn  Zn1       1.0  0.05101248621940613  0.2700674831867218  0.3748835027217865  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoY6
+_chemical_formula_sum              "Co1 Y6"
+_cell_length_a       4.810689166616595
+_cell_length_b       3.9173233630207496
+_cell_length_c       4.652566432952881
+_cell_angle_alpha    60.867074453235695
+_cell_angle_beta     62.3232494690864
+_cell_angle_gamma    58.86861880122108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8792815804481506  0.3272668123245239  0.31703367829322815  1.0000
+  Y   Y1        1.0  0.3594380021095276  0.7406435608863831  0.12868249416351318  1.0000
+  Y   Y2        1.0  0.8318739533424377  0.5161031484603882  0.39845168590545654  1.0000
+  Y   Y3        1.0  0.3768811821937561  0.6399446129798889  0.9609017968177795  1.0000
+  Y   Y4        1.0  0.3367096185684204  0.7384495735168457  0.8252793550491333  1.0000
+  Y   Y5        1.0  0.8829919695854187  0.410066157579422  0.5942805409431458  1.0000
+  Y   Y6        1.0  0.3793761134147644  0.13775907456874847  0.5179570317268372  1.0000

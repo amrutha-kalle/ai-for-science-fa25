@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClGaV4
+_chemical_formula_sum              "Cl1 Ga1 V4"
+_cell_length_a       3.9090582591952225
+_cell_length_b       4.632650300499413
+_cell_length_c       5.770954608917236
+_cell_angle_alpha    101.36290060934992
+_cell_angle_beta     98.77201610039384
+_cell_angle_gamma    90.16194071198272
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5014199018478394  0.6037783026695251  0.7763857245445251  1.0000
+  Ga  Ga1       1.0  0.9781321287155151  0.6183303594589233  0.8615819215774536  1.0000
+  V   V1        1.0  0.4807366728782654  0.8689448833465576  0.4442700445652008  1.0000
+  V   V2        1.0  0.21046008169651031  0.12823586165905  0.3572428226470947  1.0000
+  V   V3        1.0  0.6663074493408203  0.1356874406337738  0.568569004535675  1.0000
+  V   V4        1.0  0.9867755770683289  0.08242543786764145  0.3716426491737366  1.0000

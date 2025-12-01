@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       I2MgPbZn3
+_chemical_formula_sum              "I2 Mg1 Pb1 Zn3"
+_cell_length_a       4.317588165115256
+_cell_length_b       4.636934441384253
+_cell_length_c       10.130803108215332
+_cell_angle_alpha    100.02102896726682
+_cell_angle_beta     89.24617968939664
+_cell_angle_gamma    103.07602312420966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8310018181800842  0.29158639907836914  0.11222457885742188  1.0000
+  I   I2        1.0  0.35315805673599243  0.2445714771747589  0.5358692407608032  1.0000
+  Mg  Mg1       1.0  0.8374097347259521  0.37088268995285034  0.057781871408224106  1.0000
+  Pb  Pb1       1.0  0.3285216987133026  0.33346858620643616  0.265877366065979  1.0000
+  Zn  Zn1       1.0  0.3359973132610321  0.3762991428375244  0.02272951230406761  1.0000
+  Zn  Zn2       1.0  0.7301971912384033  0.34465292096138  0.8345897197723389  1.0000
+  Zn  Zn3       1.0  0.8476883172988892  0.517606794834137  0.5435875654220582  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeIn3NiZn2
+_chemical_formula_sum              "Ge1 In3 Ni1 Zn2"
+_cell_length_a       5.2834707053398065
+_cell_length_b       5.827324329941716
+_cell_length_c       6.681666374206543
+_cell_angle_alpha    82.90713438613793
+_cell_angle_beta     75.57131284345925
+_cell_angle_gamma    75.24427248705543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.6396561861038208  0.5681473016738892  0.5160041451454163  1.0000
+  In  In1       1.0  0.3953302502632141  0.684001088142395  0.9720076322555542  1.0000
+  In  In2       1.0  0.900433361530304  0.5095067024230957  0.020752567797899246  1.0000
+  In  In3       1.0  0.8931795954704285  0.6710613369941711  0.83382648229599  1.0000
+  Ni  Ni1       1.0  0.38236570358276367  0.15077833831310272  0.7512640953063965  1.0000
+  Zn  Zn1       1.0  0.39565765857696533  0.6767892837524414  0.8996878862380981  1.0000
+  Zn  Zn2       1.0  0.8970415592193604  0.8386586308479309  0.7383950352668762  1.0000

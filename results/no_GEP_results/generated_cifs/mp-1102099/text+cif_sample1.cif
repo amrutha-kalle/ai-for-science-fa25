@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeHHo3PPb
+_chemical_formula_sum              "Fe1 H1 Ho3 P1 Pb1"
+_cell_length_a       4.218665965746446
+_cell_length_b       4.445451892256763
+_cell_length_c       5.278722763061523
+_cell_angle_alpha    90.15691336221566
+_cell_angle_beta     91.5366760987094
+_cell_angle_gamma    108.20247148725626
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7715202569961548  0.19593554735183716  0.1617254912853241  1.0000
+  H   H1        1.0  0.8111233711242676  0.03290322795510292  0.9785687923431396  1.0000
+  Ho  Ho1       1.0  0.2886163890361786  0.8169113993644714  0.87965989112854  1.0000
+  Ho  Ho2       1.0  0.31483015418052673  0.5229670405387878  0.7466093301773071  1.0000
+  Ho  Ho3       1.0  0.8084812760353088  0.8398963809013367  0.14854227006435394  1.0000
+  P   P1        1.0  0.30898919701576233  0.8808448314666748  0.14876329898834229  1.0000
+  Pb  Pb1       1.0  0.8159440755844116  0.9205677509307861  0.7772852182388306  1.0000

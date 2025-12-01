@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CCe4FePRuTbTm
+_chemical_formula_sum              "C1 Ce4 Fe1 P1 Ru1 Tb1 Tm1"
+_cell_length_a       4.661353981797593
+_cell_length_b       6.963197009102475
+_cell_length_c       7.145416736602783
+_cell_angle_alpha    120.771666154799
+_cell_angle_beta     95.24164129453494
+_cell_angle_gamma    100.17462756596512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.9412821531295776  0.5612025260925293  0.9176873564720155  1.0000
+  Ce  Ce1       1.0  0.9474198222160339  0.01512404065579176  0.3714397251605988  1.0000
+  Ce  Ce2       1.0  0.9511406421661377  0.2019202709197998  0.9439172744750978  1.0000
+  Ce  Ce3       1.0  0.44088974595069885  0.00848340429365635  0.2731199562549591  1.0000
+  Ce  Ce4       1.0  0.45140352845191956  0.009246855042874813  0.8011849522590638  1.0000
+  Fe  Fe1       1.0  0.4584578573703766  0.8802184462547302  0.9080967903137208  1.0000
+  P   P1        1.0  0.9659222364425659  0.7947072982788086  0.3050369918346405  1.0000
+  Ru  Ru1       1.0  0.7694135904312134  0.6538856625556946  0.7433688044548036  1.0000
+  Tb  Tb1       1.0  0.9624793529510498  0.7941160202026367  0.6608536243438722  1.0000
+  Tm  Tm1       1.0  0.42828914523124695  0.03566289320588112  0.7420287132263185  1.0000

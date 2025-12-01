@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ho5PbZn
+_chemical_formula_sum              "Ho5 Pb1 Zn1"
+_cell_length_a       6.9764819930987425
+_cell_length_b       7.1945108268145725
+_cell_length_c       7.891401290893555
+_cell_angle_alpha    116.28194794532496
+_cell_angle_beta     90.00859946040363
+_cell_angle_gamma    90.24556828804909
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.7662599682807922  0.8611235022544861  0.7495257854461671  1.0000
+  Ho  Ho2       1.0  0.26817747950553894  0.8575084805488586  0.1819260120391846  1.0000
+  Ho  Ho3       1.0  0.7647676467895508  0.20100204646587372  0.15247206389904022  1.0000
+  Ho  Ho4       1.0  0.2686272859573364  0.6441944241523743  0.8575515747070314  1.0000
+  Ho  Ho5       1.0  0.26941239833831787  0.9895492792129517  0.8516111969947816  1.0000
+  Pb  Pb1       1.0  0.7667670845985413  0.9876551032066345  0.699483096599579  1.0000
+  Zn  Zn1       1.0  0.004680846817791462  0.4076703190803528  0.24938592314720157  1.0000

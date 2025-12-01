@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FGeIS2Sb2VZn
+_chemical_formula_sum              "F1 Ge1 I1 S2 Sb2 V1 Zn1"
+_cell_length_a       5.080099093745452
+_cell_length_b       5.681543672437572
+_cell_length_c       8.281156539916992
+_cell_angle_alpha    90.21617908328409
+_cell_angle_beta     88.6555312809464
+_cell_angle_gamma    103.42455447873819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9835993647575378  0.24649468064308164  0.5811313986778259  1.0000
+  Ge  Ge1       1.0  0.47932422161102295  0.8782047033309935  0.4330446124076843  1.0000
+  I   I1        1.0  0.5243092775344849  0.170490562915802  0.8143708109855652  1.0000
+  S   S1        1.0  0.024916861206293106  0.795528769493103  0.21326574683189392  1.0000
+  S   S2        1.0  0.5177842378616333  0.2420564144849777  0.011226801201701164  1.0000
+  Sb  Sb1       1.0  0.526063084602356  0.9309776425361632  0.873989999294281  1.0000
+  Sb  Sb2       1.0  0.5149977803230286  0.9800947904586791  0.15135712921619415  1.0000
+  V   V1        1.0  0.02287130430340767  0.33766090869903564  0.64877849817276  1.0000
+  Zn  Zn1       1.0  0.018157972022891045  0.18770425021648407  0.8707870841026306  1.0000

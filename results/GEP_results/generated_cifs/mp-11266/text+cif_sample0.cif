@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba5Cd2
+_chemical_formula_sum              "Ba5 Cd2"
+_cell_length_a       4.741767166902757
+_cell_length_b       6.347508792441043
+_cell_length_c       10.037361145019531
+_cell_angle_alpha    90.02611091592028
+_cell_angle_beta     88.23694950448996
+_cell_angle_gamma    113.8307068696556
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.466037780046463  0.623492419719696  0.8220553994178772  1.0000
+  Ba  Ba2       1.0  0.413376122713089  0.5929983258247375  0.7077779173851013  1.0000
+  Ba  Ba3       1.0  0.9654077291488647  0.09953010827302933  0.5166266560554504  1.0000
+  Ba  Ba4       1.0  0.9750719666481018  0.8198565244674683  0.29156607389450073  1.0000
+  Ba  Ba5       1.0  0.4425560534000397  0.09846589714288712  0.8976564407348633  1.0000
+  Cd  Cd1       1.0  0.9566992521286011  0.36699795722961426  0.2883654832839966  1.0000
+  Cd  Cd2       1.0  0.9423112869262695  0.20047657191753387  0.9404127597808838  1.0000

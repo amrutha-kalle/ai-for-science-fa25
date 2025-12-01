@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HPPdSV2
+_chemical_formula_sum              "H1 P1 Pd1 S1 V2"
+_cell_length_a       4.071424655370176
+_cell_length_b       4.302449630133632
+_cell_length_c       5.606851577758789
+_cell_angle_alpha    102.88522202729087
+_cell_angle_beta     106.83884002611089
+_cell_angle_gamma    85.57605399838323
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7711119055747987  0.8976052403450012  0.6619769930839539  1.0000
+  P   P1        1.0  0.009369594044983387  0.957438588142395  0.90613454580307  1.0000
+  Pd  Pd1       1.0  0.325884610414505  0.9062351584434509  0.6653352975845337  1.0000
+  S   S1        1.0  0.887526035308838  0.3103002905845642  0.1439531445503235  1.0000
+  V   V1        1.0  0.8000949025154115  0.3385418653488159  0.6706575751304626  1.0000
+  V   V2        1.0  0.33621299266815186  0.6874252557754517  0.4199713468551636  1.0000

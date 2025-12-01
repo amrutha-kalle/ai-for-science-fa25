@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al2CoI3Nb
+_chemical_formula_sum              "Al2 Co1 I3 Nb1"
+_cell_length_a       5.4923169611817855
+_cell_length_b       5.962043164408234
+_cell_length_c       7.231106758117676
+_cell_angle_alpha    120.47129646371984
+_cell_angle_beta     96.42458625015112
+_cell_angle_gamma    90.35123271282116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.24501200020313266  0.7167766690254211  0.05612460896372795  1.0000
+  Al  Al2       1.0  0.8563987016677856  0.750745415687561  0.5469629168510437  1.0000
+  Co  Co1       1.0  0.34617847204208374  0.23113133013248444  0.8896586894989014  1.0000
+  I   I1        1.0  0.8098492622375488  0.9452466368675232  0.7452993392944336  1.0000
+  I   I2        1.0  0.3187730610370636  0.8800907135009766  0.28561106324195856  1.0000
+  I   I3        1.0  0.8107055425643921  0.5765551924705505  0.273773193359375  1.0000
+  Nb  Nb1       1.0  0.8255030512809753  0.30503150820732117  0.6305676698684692  1.0000

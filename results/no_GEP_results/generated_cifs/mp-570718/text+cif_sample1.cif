@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       C2Co2GaGeY
+_chemical_formula_sum              "C2 Co2 Ga1 Ge1 Y1"
+_cell_length_a       5.65977500223926
+_cell_length_b       5.977553197612814
+_cell_length_c       6.856128215789795
+_cell_angle_alpha    89.62670241963846
+_cell_angle_beta     90.03692965556887
+_cell_angle_gamma    92.71985877847278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.5909416675567627  0.19553768634796143  0.011636732146143913  1.0000
+  C   C2        1.0  0.5219085216522217  0.6232004761695862  0.78913414478302  1.0000
+  Co  Co1       1.0  0.08258011937141418  0.03198583051562309  0.383858323097229  1.0000
+  Co  Co2       1.0  0.5768185257911682  0.610892653465271  0.5665172338485718  1.0000
+  Ga  Ga1       1.0  0.898421049118042  0.615068793296814  0.7122732400894165  1.0000
+  Ge  Ge1       1.0  0.05658647790551185  0.9955725669860839  0.769903838634491  1.0000
+  Y   Y1        1.0  0.08102598786354065  0.14354613423347473  0.28516438603401184  1.0000

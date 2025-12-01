@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy3Ga2PU
+_chemical_formula_sum              "Dy3 Ga2 P1 U1"
+_cell_length_a       4.425609725257931
+_cell_length_b       5.688501758536133
+_cell_length_c       6.28759241104126
+_cell_angle_alpha    129.93362740871737
+_cell_angle_beta     89.30475124796824
+_cell_angle_gamma    86.91623913897983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6680402755737305  0.13419562578201294  0.901683509349823  1.0000
+  Dy  Dy2       1.0  0.6636180877685547  0.46222010254859924  0.33246517181396484  1.0000
+  Dy  Dy3       1.0  0.1596558392047882  0.937428891658783  0.6136360764503479  1.0000
+  Ga  Ga1       1.0  0.14886710047721863  0.2306969314813614  0.7419344186782837  1.0000
+  Ga  Ga2       1.0  0.15462344884872437  0.22185967862606049  0.0015184120275080204  1.0000
+  P   P1        1.0  0.6591038107872009  0.5647048950195312  0.8086886405944824  1.0000
+  U   U1        1.0  0.16218705475330353  0.5705682039260864  0.8730186820030212  1.0000

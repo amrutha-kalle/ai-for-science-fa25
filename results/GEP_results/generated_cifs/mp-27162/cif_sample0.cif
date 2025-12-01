@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co2Sc5
+_chemical_formula_sum              "Co2 Sc5"
+_cell_length_a       4.107260710845677
+_cell_length_b       6.823298859938963
+_cell_length_c       6.911590576171875
+_cell_angle_alpha    119.43057106162118
+_cell_angle_beta     87.96207333417844
+_cell_angle_gamma    89.04441456691733
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8871651887893677  0.857579231262207  0.8339232206344604  1.0000
+  Co  Co2       1.0  0.403910756111145  0.27206185460090637  0.6299776434898376  1.0000
+  Sc  Sc1       1.0  0.42057090997695923  0.8516048789024353  0.8413770794868469  1.0000
+  Sc  Sc2       1.0  0.39967861771583557  0.9284295439720154  0.6425274610519409  1.0000
+  Sc  Sc3       1.0  0.8869302272796631  0.45834967494010925  0.9717877507209778  1.0000
+  Sc  Sc4       1.0  0.40971311926841736  0.44196808338165283  0.15082834661006925  1.0000
+  Sc  Sc5       1.0  0.9208902716636658  0.5496283769607544  0.32243430614471436  1.0000

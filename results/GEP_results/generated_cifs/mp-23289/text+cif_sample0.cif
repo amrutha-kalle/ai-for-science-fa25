@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ClK3TaV
+_chemical_formula_sum              "Cl1 K3 Ta1 V1"
+_cell_length_a       6.046229746013026
+_cell_length_b       6.148312997779471
+_cell_length_c       6.973488807678223
+_cell_angle_alpha    116.5295850410208
+_cell_angle_beta     115.25124101598267
+_cell_angle_gamma    89.84548762977798
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9035210013389589  0.983386218547821  0.8901166915893554  1.0000
+  K   K1        1.0  0.39117673039436346  0.22337494790554047  0.8714241385459899  1.0000
+  K   K2        1.0  0.09424491226673128  0.9210259914398193  0.39944338798522955  1.0000
+  K   K3        1.0  0.8698465824127198  0.5047396421432495  0.07183776795864111  1.0000
+  Ta  Ta1       1.0  0.8216265439987184  0.4954003095626831  0.5759225487709045  1.0000
+  V   V1        1.0  0.32704225182533264  0.8323211669921875  0.9286836385726928  1.0000

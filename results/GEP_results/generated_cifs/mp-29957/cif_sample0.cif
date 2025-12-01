@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GePSiYZr3
+_chemical_formula_sum              "Ge1 P1 Si1 Y1 Zr3"
+_cell_length_a       4.700089781990327
+_cell_length_b       6.761176963872823
+_cell_length_c       6.979483127593994
+_cell_angle_alpha    121.13213541792658
+_cell_angle_beta     89.58329394566849
+_cell_angle_gamma    90.11583179099763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5275231599807739  0.07805977016687393  0.43673661351203913  1.0000
+  P   P1        1.0  0.07349738478660583  0.933846354484558  0.8042515516281127  1.0000
+  Si  Si1       1.0  0.5702714323997498  0.4264883697032928  0.12469518929719924  1.0000
+  Y   Y1        1.0  0.07389013469219208  0.1247965171933174  0.11253228783607482  1.0000
+  Zr  Zr1       1.0  0.5762969255447388  0.5033718347549438  0.008911136537790298  1.0000
+  Zr  Zr2       1.0  0.567029595375061  0.39781323075294495  0.3218350708484649  1.0000
+  Zr  Zr3       1.0  0.8066902756690979  0.6963970065116882  0.8138439059257506  1.0000

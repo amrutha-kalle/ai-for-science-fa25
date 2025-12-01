@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsMn3Sb3
+_chemical_formula_sum              "As1 Mn3 Sb3"
+_cell_length_a       4.786249588479427
+_cell_length_b       4.949355355789654
+_cell_length_c       7.857982635498047
+_cell_angle_alpha    90.47688682522161
+_cell_angle_beta     88.88813800781125
+_cell_angle_gamma    103.98533980761505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.6850264072418213  0.5113551616668701  0.6943079829216003  1.0000
+  Mn  Mn1       1.0  0.18757368624210358  0.9035729765892029  0.547865629196167  1.0000
+  Mn  Mn2       1.0  0.19299112260341644  0.2859329879283905  0.6411296129226685  1.0000
+  Mn  Mn3       1.0  0.18090979754924774  0.4940149784088135  0.006067436188459396  1.0000
+  Sb  Sb1       1.0  0.683099627494812  0.5553080439567566  0.5703887939453125  1.0000
+  Sb  Sb2       1.0  0.9266011118888855  0.9213176369667053  0.7740563750267029  1.0000
+  Sb  Sb3       1.0  0.6858285665512085  0.017738407477736473  0.46069777011871343  1.0000

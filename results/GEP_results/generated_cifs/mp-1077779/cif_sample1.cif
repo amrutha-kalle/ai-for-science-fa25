@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErLu5Se
+_chemical_formula_sum              "Er1 Lu5 Se1"
+_cell_length_a       4.296299846781915
+_cell_length_b       6.070166164697917
+_cell_length_c       7.697606563568115
+_cell_angle_alpha    108.49156087355964
+_cell_angle_beta     89.54925017506024
+_cell_angle_gamma    89.13267333300419
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9527707695960999  0.30078938603401184  0.4683273434638977  1.0000
+  Lu  Lu1       1.0  0.9581926465034485  0.9606689810752869  0.5364031791687012  1.0000
+  Lu  Lu2       1.0  0.954212486743927  0.2974308431148529  0.9516856074333191  1.0000
+  Lu  Lu3       1.0  0.455919474363327  0.8023722767829895  0.7826950550079346  1.0000
+  Lu  Lu4       1.0  0.454948753118515  0.3024691641330719  0.985137403011322  1.0000
+  Lu  Lu5       1.0  0.9598492980003357  0.6303787231445312  0.7825482487678528  1.0000
+  Se  Se1       1.0  0.45861107110977173  0.7116410136222839  0.2884959578514099  1.0000

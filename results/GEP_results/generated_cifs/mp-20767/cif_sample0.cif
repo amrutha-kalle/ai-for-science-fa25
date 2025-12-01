@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoLaS2Sb3ScSiSm
+_chemical_formula_sum              "Co1 La1 S2 Sb3 Sc1 Si1 Sm1"
+_cell_length_a       5.4721985090160175
+_cell_length_b       5.898614963961528
+_cell_length_c       7.785459518432617
+_cell_angle_alpha    102.36619284196072
+_cell_angle_beta     92.96454607107184
+_cell_angle_gamma    99.3360408739462
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.08354715257883072  0.25354301929473877  0.6171671748161316  1.0000
+  La  La1       1.0  0.6329250335693359  0.27881869673728943  0.8633145689964294  1.0000
+  S   S1        1.0  0.8551876544952393  0.4836547970771789  0.11578478664159775  1.0000
+  S   S2        1.0  0.48025473952293396  0.12276424467563628  0.3634794056415558  1.0000
+  Sb  Sb1       1.0  0.31469276547431946  0.4582519829273224  0.35650476813316345  1.0000
+  Sb  Sb2       1.0  0.22207069396972656  0.9741795659065245  0.64482581615448  1.0000
+  Sb  Sb3       1.0  0.9717752933502197  0.9517706632614135  0.36510923504829407  1.0000
+  Sc  Sc1       1.0  0.3214120864868164  0.7320452332496643  0.992647647857666  1.0000
+  Si  Si1       1.0  0.20877745747566223  0.7465535402297974  0.8676301836967468  1.0000
+  Sm  Sm1       1.0  0.8552148938179016  0.45280200242996216  0.8574165105819702  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cl2EuGd3Pt2SiZr
+_chemical_formula_sum              "Cl2 Eu1 Gd3 Pt2 Si1 Zr1"
+_cell_length_a       8.032960394174667
+_cell_length_b       8.21103634440086
+_cell_length_c       8.196763038635254
+_cell_angle_alpha    108.5920318439249
+_cell_angle_beta     108.66538047826877
+_cell_angle_gamma    111.26706237974747
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.359195739030838  0.925653338432312  0.4690126478672028  1.0000
+  Cl  Cl2       1.0  0.3734893798828125  0.4745085537433624  0.49407950043678284  1.0000
+  Eu  Eu1       1.0  0.8612022995948793  0.9975439310073853  0.47202709317207336  1.0000
+  Gd  Gd1       1.0  0.8705530762672425  0.4885435104370117  0.16934783756732946  1.0000
+  Gd  Gd2       1.0  0.3693947196006775  0.8631646633148193  0.6606395244598389  1.0000
+  Gd  Gd3       1.0  0.8710506558418275  0.23252619802951813  0.5165375471115112  1.0000
+  Pt  Pt1       1.0  0.3539392650127411  0.7699647545814514  0.6464527249336243  1.0000
+  Pt  Pt2       1.0  0.374737948179245  0.7502753138542175  0.8580806851387024  1.0000
+  Si  Si1       1.0  0.8751272559165956  0.9825875759124756  0.609495222568512  1.0000
+  Zr  Zr1       1.0  0.06961614638566971  0.6398974657058716  0.5456996560096741  1.0000

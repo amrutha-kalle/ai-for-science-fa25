@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FSc5
+_chemical_formula_sum              "F1 Sc5"
+_cell_length_a       4.143131330746869
+_cell_length_b       4.907621987928617
+_cell_length_c       6.821191787719727
+_cell_angle_alpha    114.09372745106147
+_cell_angle_beta     88.90968785813281
+_cell_angle_gamma    94.50520343846468
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4445665776729584  0.4950280487537384  0.9640102386474609  1.0000
+  Sc  Sc1       1.0  0.9662518501281738  0.7706625461578369  0.4915195107460022  1.0000
+  Sc  Sc2       1.0  0.9681113958358765  0.9625244140625  0.29612576961517334  1.0000
+  Sc  Sc3       1.0  0.46878042817115784  0.9732974767684937  0.1769261658191681  1.0000
+  Sc  Sc4       1.0  0.9484947919845581  0.9777462482452393  0.4515033960342407  1.0000
+  Sc  Sc5       1.0  0.45243769884109497  0.2689504325389862  0.4587864577770233  1.0000

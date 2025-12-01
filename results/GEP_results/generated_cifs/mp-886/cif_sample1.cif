@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsGa2O3
+_chemical_formula_sum              "As1 Ga2 O3"
+_cell_length_a       5.339564249989357
+_cell_length_b       5.728536736555759
+_cell_length_c       5.57954216003418
+_cell_angle_alpha    109.50147391634655
+_cell_angle_beta     104.36873311196105
+_cell_angle_gamma    113.46963131307048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.16376753151416779  0.036744460463523865  0.06530585885047913  1.0000
+  Ga  Ga1       1.0  0.5858659148216248  0.43241962790489197  0.949211061000824  1.0000
+  Ga  Ga2       1.0  0.7155429720878601  0.1320909708738327  0.4156409204006195  1.0000
+  O   O1        1.0  0.5774070024490356  0.027554506435990334  0.06033508479595182  1.0000
+  O   O2        1.0  0.9918563365936279  0.9638129472732544  0.3682536780834198  1.0000
+  O   O3        1.0  0.9581927061080933  0.555518388748169  0.48773694038391113  1.0000

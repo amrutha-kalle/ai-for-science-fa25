@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Er2FeI2SeTbUZnZr
+_chemical_formula_sum              "Er2 Fe1 I2 Se1 Tb1 U1 Zn1 Zr1"
+_cell_length_a       4.864459399037995
+_cell_length_b       5.342785694197467
+_cell_length_c       11.344053268432617
+_cell_angle_alpha    94.64006751941808
+_cell_angle_beta     90.17160787722186
+_cell_angle_gamma    93.10618874558257
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.8433580994606017  0.9890052080154419  0.511648952960968  1.0000
+  Er  Er2       1.0  0.47633478045463556  0.7320070862770081  0.6648934483528137  1.0000
+  Fe  Fe1       1.0  0.46413531899452204  0.46229293942451477  0.3528217673301697  1.0000
+  I   I1        1.0  0.3558354079723358  0.16410310566425323  0.759045422077179  1.0000
+  I   I2        1.0  0.427687257528305  0.17225709557533264  0.6448388695716858  1.0000
+  Se  Se1       1.0  0.9445881843566893  0.6616181135177612  0.34724685549736023  1.0000
+  Tb  Tb1       1.0  0.34869715571403503  0.9344597458839417  0.023879561573266983  1.0000
+  U   U1        1.0  0.3496432900428772  0.9824682474136353  0.6834966540336609  1.0000
+  Zn  Zn1       1.0  0.8532966375350951  0.4173017740249634  0.8181623220443726  1.0000
+  Zr  Zr1       1.0  0.9806545972824096  0.060047250241041183  0.038322564214468  1.0000

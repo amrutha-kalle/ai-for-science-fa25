@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IPbV4
+_chemical_formula_sum              "I1 Pb1 V4"
+_cell_length_a       3.375391554632773
+_cell_length_b       4.12216943962524
+_cell_length_c       5.289669036865234
+_cell_angle_alpha    103.48093315852569
+_cell_angle_beta     105.12035187341611
+_cell_angle_gamma    99.23114950054043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.3878919184207916  0.3017390668392181  0.6672559976577759  1.0000
+  Pb  Pb1       1.0  0.6837902665138245  0.9957430362701415  0.5010583996772766  1.0000
+  V   V1        1.0  0.2660363614559173  0.8834081888198851  0.2980436980724334  1.0000
+  V   V2        1.0  0.9041450023651123  0.6695315241813659  0.35339197516441345  1.0000
+  V   V3        1.0  0.9337176084518433  0.663034677505493  0.9871986508369446  1.0000
+  V   V4        1.0  0.15655210614204404  0.9019590616226195  0.6030769944190979  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GdS2SeU4Zn
+_chemical_formula_sum              "Gd1 S2 Se1 U4 Zn1"
+_cell_length_a       5.641428606524807
+_cell_length_b       5.1942095796847205
+_cell_length_c       6.121567726135254
+_cell_angle_alpha    100.5625644182812
+_cell_angle_beta     91.78240448035082
+_cell_angle_gamma    111.99535176614671
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.14127203822135925  0.6584961414337158  0.4613999724388122  1.0000
+  S   S1        1.0  0.6337741017341614  0.18421460688114166  0.5624006390571594  1.0000
+  S   S2        1.0  0.08655808120965958  0.9264125823974609  0.46402874588966364  1.0000
+  Se  Se1       1.0  0.10434392839670181  0.2630924582481384  0.6627050042152404  1.0000
+  U   U1        1.0  0.1259494423866272  0.9541671872138977  0.4457866251468658  1.0000
+  U   U2        1.0  0.09728512912988663  0.47693219780921936  0.8947545289993285  1.0000
+  U   U3        1.0  0.7013004422187805  0.6494970321655273  0.20536956191062924  1.0000
+  U   U4        1.0  0.5099256634712219  0.846990704536438  0.3160194754600525  1.0000
+  Zn  Zn1       1.0  0.622890055179596  0.11968787759542465  0.3167998194694519  1.0000

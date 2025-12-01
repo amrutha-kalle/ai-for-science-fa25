@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       P2RuSc3
+_chemical_formula_sum              "P2 Ru1 Sc3"
+_cell_length_a       3.8629773670224727
+_cell_length_b       4.358270770375171
+_cell_length_c       6.223878383636475
+_cell_angle_alpha    109.9420517664411
+_cell_angle_beta     100.22253527072488
+_cell_angle_gamma    96.26857111461264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.41463255882263184  0.45881152153015137  0.8662933111190796  1.0000
+  P   P2        1.0  0.0004009864642284701  0.9723458886146545  0.30341383814811707  1.0000
+  Ru  Ru1       1.0  0.6582478880882263  0.06362010538578033  0.07280106097459793  1.0000
+  Sc  Sc1       1.0  0.9277043342590332  0.2541227638721466  0.8278571367263794  1.0000
+  Sc  Sc2       1.0  0.9203394055366516  0.39365315437316895  0.5460070371627808  1.0000
+  Sc  Sc3       1.0  0.42138078808784485  0.7681163549423218  0.49289563298225403  1.0000

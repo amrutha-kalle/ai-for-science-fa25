@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       P2PbPd2Pt2
+_chemical_formula_sum              "P2 Pb1 Pd2 Pt2"
+_cell_length_a       5.338558022591295
+_cell_length_b       5.293858380065317
+_cell_length_c       5.692318916320801
+_cell_angle_alpha    66.24362906431871
+_cell_angle_beta     65.49816197251604
+_cell_angle_gamma    62.95773410616666
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.4722605049610138  0.9445536732673645  0.21463926136493683  1.0000
+  P   P2        1.0  0.2930946350097656  0.6936487555503845  0.023923451080918312  1.0000
+  Pb  Pb1       1.0  0.92295241355896  0.26023635268211365  0.7468013167381287  1.0000
+  Pd  Pd1       1.0  0.26977694034576416  0.47862809896469116  0.8018016815185547  1.0000
+  Pd  Pd2       1.0  0.7811020016670227  0.09726426005363464  0.049723025411367416  1.0000
+  Pt  Pt1       1.0  0.02352909743785858  0.9313254356384277  0.27379196882247925  1.0000
+  Pt  Pt2       1.0  0.43292778730392456  0.5839923620223999  0.13369907438755035  1.0000

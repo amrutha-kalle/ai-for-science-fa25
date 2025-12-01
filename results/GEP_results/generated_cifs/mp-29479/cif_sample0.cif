@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       C3F2O3
+_chemical_formula_sum              "C3 F2 O3"
+_cell_length_a       4.236711948275666
+_cell_length_b       4.891659801661992
+_cell_length_c       6.4905548095703125
+_cell_angle_alpha    108.7930126677474
+_cell_angle_beta     111.48282982592619
+_cell_angle_gamma    90.07410878460358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.9794878363609314  0.9262765645980835  0.8511382937431335  1.0000
+  C   C2        1.0  0.347922146320343  0.9371771216392517  0.6867591142654419  1.0000
+  C   C3        1.0  0.7196877002716064  0.3106778860092163  0.46455106139183044  1.0000
+  F   F1        1.0  0.8106939196586609  0.946838915348053  0.17386257648468018  1.0000
+  F   F2        1.0  0.4107479751110077  0.8568322062492371  0.5025479793548584  1.0000
+  O   O1        1.0  0.5048149228096008  0.40527716279029846  0.9421557784080505  1.0000
+  O   O2        1.0  0.03756435588002205  0.6321232914924622  0.8402507305145264  1.0000
+  O   O3        1.0  0.9481773376464844  0.48509278893470764  0.5170701146125793  1.0000

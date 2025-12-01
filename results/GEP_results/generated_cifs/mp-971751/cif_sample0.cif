@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       P2RhSV2
+_chemical_formula_sum              "P2 Rh1 S1 V2"
+_cell_length_a       4.427694110760727
+_cell_length_b       4.870980111169104
+_cell_length_c       5.863141059875488
+_cell_angle_alpha    103.21372021492473
+_cell_angle_beta     96.55648270951154
+_cell_angle_gamma    92.48867726304206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.2898143529891968  0.14942871034145355  0.10728184878826141  1.0000
+  P   P2        1.0  0.8202071189880371  0.5893299579620361  0.333616703748703  1.0000
+  Rh  Rh1       1.0  0.5703229308128357  0.8634687066078186  0.8276341557502747  1.0000
+  S   S1        1.0  0.5780192017555237  0.5337095260620117  0.8295807242393494  1.0000
+  V   V1        1.0  0.5711888670921326  0.1001354530453682  0.6239393949508667  1.0000
+  V   V2        1.0  0.3272233009338379  0.33412957191467285  0.31939372420310974  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoI3Se2Zn
+_chemical_formula_sum              "Co1 I3 Se2 Zn1"
+_cell_length_a       4.5582715904265
+_cell_length_b       4.646868815600235
+_cell_length_c       8.641247749328613
+_cell_angle_alpha    100.29060576040098
+_cell_angle_beta     102.59506318862167
+_cell_angle_gamma    106.52384164263435
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7713226675987244  0.011823046952486038  0.34642237424850464  1.0000
+  I   I1        1.0  0.20042698085308075  0.2559099495410919  0.03383910283446311  1.0000
+  I   I2        1.0  0.4038965404033661  0.5600718259811401  0.5930805206298828  1.0000
+  I   I3        1.0  0.8058862090110779  0.8720547556877136  0.4705767035484314  1.0000
+  Se  Se1       1.0  0.7203903198242188  0.6891229748725891  0.37461408972740173  1.0000
+  Se  Se2       1.0  0.20610186457633972  0.927969753742218  0.2643658220767975  1.0000
+  Zn  Zn1       1.0  0.4505332112312317  0.8372515439987183  0.5306249856948853  1.0000

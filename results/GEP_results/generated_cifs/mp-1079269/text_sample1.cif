@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pt5SiTe
+_chemical_formula_sum              "Pt5 Si1 Te1"
+_cell_length_a       4.179064496202828
+_cell_length_b       5.573581612830451
+_cell_length_c       5.213726043701172
+_cell_angle_alpha    121.2228207901195
+_cell_angle_beta     91.18787255566752
+_cell_angle_gamma    86.10712264785448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.848303496837616  0.5090026259422302  0.04643170535564427  1.0000
+  Pt  Pt2       1.0  0.3674652874469757  0.5918115973472595  0.9689644575119019  1.0000
+  Pt  Pt3       1.0  0.33414673805236816  0.2689269781112671  0.14420224726200104  1.0000
+  Pt  Pt4       1.0  0.3601582646369934  0.06403414160013199  0.2894967496395111  1.0000
+  Pt  Pt5       1.0  0.8386198878288269  0.7964476943016052  0.46322730183601385  1.0000
+  Si  Si1       1.0  0.12509015202522278  0.5817436575889587  0.20622821152210238  1.0000
+  Te  Te1       1.0  0.8555132150650024  0.9319695234298706  0.46481791138648987  1.0000

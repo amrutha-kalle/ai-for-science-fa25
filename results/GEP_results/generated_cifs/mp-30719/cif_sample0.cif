@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaHg2Mg4
+_chemical_formula_sum              "Ba1 Hg2 Mg4"
+_cell_length_a       5.413836589690264
+_cell_length_b       5.7782578503386635
+_cell_length_c       6.131198406219482
+_cell_angle_alpha    63.930198106655496
+_cell_angle_beta     62.694602630197075
+_cell_angle_gamma    62.12829595504372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7095786929130554  0.6069402098655701  0.6947848200798035  1.0000
+  Hg  Hg1       1.0  0.45872828364372253  0.2269904613494873  0.9374213218688966  1.0000
+  Hg  Hg2       1.0  0.01145406998693943  0.2486172914505005  0.02270123921334744  1.0000
+  Mg  Mg1       1.0  0.716084897518158  0.46653324365615845  0.650927722454071  1.0000
+  Mg  Mg2       1.0  0.4973995089530945  0.752873420715332  0.4147153198719025  1.0000
+  Mg  Mg3       1.0  0.11844467371702194  0.4489351809024811  0.3818552494049073  1.0000
+  Mg  Mg4       1.0  0.016890231519937515  0.7406105399131775  0.20342907309532168  1.0000

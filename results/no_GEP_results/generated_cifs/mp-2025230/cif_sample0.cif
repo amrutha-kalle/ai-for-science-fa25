@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CeCoI2MgZnZr
+_chemical_formula_sum              "Ce1 Co1 I2 Mg1 Zn1 Zr1"
+_cell_length_a       4.3164573991769615
+_cell_length_b       3.9206783786116315
+_cell_length_c       11.011301040649414
+_cell_angle_alpha    92.75370439036118
+_cell_angle_beta     91.37281265353825
+_cell_angle_gamma    90.70758022761373
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.01592988334596157  0.9103479385375978  0.42178836464881897  1.0000
+  Co  Co1       1.0  0.014013946987688541  0.3980897068977356  0.5101619958877563  1.0000
+  I   I1        1.0  0.5204078555107117  0.7919856905937195  0.08022355288267136  1.0000
+  I   I2        1.0  0.26950326561927795  0.9769159555435182  0.30717238783836365  1.0000
+  Mg  Mg1       1.0  0.016807502135634422  0.2758721113204956  0.8498817086219788  1.0000
+  Zn  Zn1       1.0  0.5197093486785889  0.07312700152397156  0.9255393147468567  1.0000
+  Zr  Zr1       1.0  0.5226534008979797  0.26674798130989075  0.0428156778216362  1.0000

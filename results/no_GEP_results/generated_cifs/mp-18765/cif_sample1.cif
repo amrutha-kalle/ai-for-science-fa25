@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AlCoGe2I2LiNaNiZr
+_chemical_formula_sum              "Al1 Co1 Ge2 I2 Li1 Na1 Ni1 Zr1"
+_cell_length_a       6.129151659157261
+_cell_length_b       6.594200971837371
+_cell_length_c       6.601443767547607
+_cell_angle_alpha    68.02281994229098
+_cell_angle_beta     67.01754159923846
+_cell_angle_gamma    67.82660569677448
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8915590047836304  0.9216400384902954  0.027150636538863182  1.0000
+  Co  Co1       1.0  0.1293472945690155  0.6613322496414185  0.4794721305370331  1.0000
+  Ge  Ge1       1.0  0.6276098489761353  0.13501273095607758  0.04722137376666069  1.0000
+  Ge  Ge2       1.0  0.8503633737564087  0.22014065086841583  0.4633364677429198  1.0000
+  I   I1        1.0  0.13040691614151  0.4353243410587311  0.7887070178985596  1.0000
+  I   I2        1.0  0.13158482313156128  0.2319125533103943  0.0719582661986351  1.0000
+  Li  Li1       1.0  0.634077787399292  0.9376914501190186  0.6013969779014587  1.0000
+  Na  Na1       1.0  0.8695526123046875  0.5467919111251831  0.6274981498718262  1.0000
+  Ni  Ni1       1.0  0.6416358947753906  0.9164649844169617  0.31299018859863276  1.0000
+  Zr  Zr1       1.0  0.1301514208316803  0.16248007118701935  0.9792197942733765  1.0000

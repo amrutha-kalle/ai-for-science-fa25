@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2O4P2Se
+_chemical_formula_sum              "Ba2 O4 P2 Se1"
+_cell_length_a       5.332581552253929
+_cell_length_b       4.8617265555922895
+_cell_length_c       6.497663974761963
+_cell_angle_alpha    103.73919919451944
+_cell_angle_beta     102.83347653999101
+_cell_angle_gamma    122.03270782565527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5313814282417297  0.15676994621753693  0.9974009394645691  1.0000
+  Ba  Ba2       1.0  0.5527408123016357  0.5002917051315308  0.8118395805358887  1.0000
+  O   O1        1.0  0.22227464616298676  0.9658358693122864  0.18389497697353363  1.0000
+  O   O2        1.0  0.8952187299728394  0.1853446513414383  0.1660870462656021  1.0000
+  O   O3        1.0  0.950780987739563  0.2942608892917633  0.36515307426452637  1.0000
+  O   O4        1.0  0.19973845779895782  0.833655059337616  0.28276526927948004  1.0000
+  P   P1        1.0  0.18549318611621857  0.6646066308021545  0.6538445353507996  1.0000
+  P   P2        1.0  0.8706610798835754  0.8002040386199951  0.48155316710472107  1.0000
+  Se  Se1       1.0  0.560572624206543  0.2826230823993683  0.6838434338569641  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoISc4Si
+_chemical_formula_sum              "Co1 I1 Sc4 Si1"
+_cell_length_a       4.55189327850745
+_cell_length_b       4.70818511740587
+_cell_length_c       6.4968414306640625
+_cell_angle_alpha    90.1352260120266
+_cell_angle_beta     90.4699407945863
+_cell_angle_gamma    107.1932073536652
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5312405228614807  0.556751549243927  0.6052554249763489  1.0000
+  I   I1        1.0  0.13113120198249817  0.10673628002405167  0.1648993045091629  1.0000
+  Sc  Sc1       1.0  0.9618701934814452  0.3723469078540802  0.09635280817747116  1.0000
+  Sc  Sc2       1.0  0.5885887145996094  0.24573077261447906  0.44647496938705444  1.0000
+  Sc  Sc3       1.0  0.5832354426383972  0.4739479422569275  0.41741126775741577  1.0000
+  Sc  Sc4       1.0  0.05952734872698783  0.014718705788254738  0.7743402719497681  1.0000
+  Si  Si1       1.0  0.4783619046211242  0.7674290537834167  0.6515427231788635  1.0000

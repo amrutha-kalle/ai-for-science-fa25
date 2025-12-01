@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CoFI3MoSV2
+_chemical_formula_sum              "Co1 F1 I3 Mo1 S1 V2"
+_cell_length_a       6.5404089107782255
+_cell_length_b       6.537918022720571
+_cell_length_c       7.455249309539795
+_cell_angle_alpha    89.18685587176539
+_cell_angle_beta     89.61876569271199
+_cell_angle_gamma    89.45678770669802
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9999536275863646  0.7015419006347656  0.5658563375473022  1.0000
+  F   F1        1.0  0.8794301152229309  0.19038473069667816  0.48156487941741943  1.0000
+  I   I1        1.0  0.3098404109477997  0.27246060967445374  0.5341974496841431  1.0000
+  I   I2        1.0  0.4412028193473816  0.28874996304512024  0.552046537399292  1.0000
+  I   I3        1.0  0.9656206965446471  0.9416953325271606  0.8084238767623901  1.0000
+  Mo  Mo1       1.0  0.49587357044219965  0.9014259576797485  0.050761450082063675  1.0000
+  S   S1        1.0  0.9846305847167968  0.24116331338882446  0.691872775554657  1.0000
+  V   V1        1.0  0.7526867985725403  0.8815070986747742  0.5318805575370789  1.0000
+  V   V2        1.0  0.4001489579677582  0.04437483102083206  0.005723918322473764  1.0000

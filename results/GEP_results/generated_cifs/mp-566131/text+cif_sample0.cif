@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsF2HK2NRhSi
+_chemical_formula_sum              "As1 F2 H1 K2 N1 Rh1 Si1"
+_cell_length_a       5.30540785069141
+_cell_length_b       5.732084281253985
+_cell_length_c       7.856749534606934
+_cell_angle_alpha    89.58810204175666
+_cell_angle_beta     89.95336889014885
+_cell_angle_gamma    117.03521450715135
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.7244244813919067  0.9306153655052185  0.3988981246948242  1.0000
+  F   F1        1.0  0.42060962319374084  0.5897465944290161  0.16994059085845947  1.0000
+  F   F2        1.0  0.4067821800708771  0.24734409153461456  0.6618450880050659  1.0000
+  H   H1        1.0  0.7271367907524109  0.9649031162261963  0.41707688570022583  1.0000
+  K   K1        1.0  0.09934528172016144  0.08509092032909393  0.8575400114059448  1.0000
+  K   K2        1.0  0.4304357171058655  0.08175995200872421  0.1570899337530136  1.0000
+  N   N1        1.0  0.02289881743490696  0.5826561450958252  0.35829612612724304  1.0000
+  Rh  Rh1       1.0  0.7436274886131287  0.42107152938842773  0.8914430737495422  1.0000
+  Si  Si1       1.0  0.4231720268726349  0.591136634349823  0.9108404517173767  1.0000

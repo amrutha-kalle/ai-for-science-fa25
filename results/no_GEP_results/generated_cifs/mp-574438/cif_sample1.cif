@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HIPbRuTiZn2
+_chemical_formula_sum              "H1 I1 Pb1 Ru1 Ti1 Zn2"
+_cell_length_a       4.5358277853716436
+_cell_length_b       4.481381726692315
+_cell_length_c       6.166997909545898
+_cell_angle_alpha    92.91610123278967
+_cell_angle_beta     90.24967028916215
+_cell_angle_gamma    113.87499894907074
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7393468618392944  0.15954643487930298  0.7678067684173584  1.0000
+  I   I1        1.0  0.045770175755023956  0.05897407606244087  0.7381962537765503  1.0000
+  Pb  Pb1       1.0  0.024201178923249245  0.812739372253418  0.10025288164615631  1.0000
+  Ru  Ru1       1.0  0.7834355235099792  0.7014662027359009  0.3158115744590759  1.0000
+  Ti  Ti1       1.0  0.28956374526023865  0.7359974980354309  0.8627844452857971  1.0000
+  Zn  Zn1       1.0  0.29073119163513184  0.9769502282142639  0.9127215147018433  1.0000
+  Zn  Zn2       1.0  0.7828406095504761  0.32610154151916504  0.022647954523563385  1.0000

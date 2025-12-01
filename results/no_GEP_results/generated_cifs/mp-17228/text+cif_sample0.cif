@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaNi4S3Zn
+_chemical_formula_sum              "Ca1 Ni4 S3 Zn1"
+_cell_length_a       5.670754069618058
+_cell_length_b       4.3722781612434805
+_cell_length_c       6.40369176864624
+_cell_angle_alpha    66.16171727257446
+_cell_angle_beta     63.68296574775758
+_cell_angle_gamma    44.58184973825961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5289142727851868  0.8136084675788879  0.004361400380730629  1.0000
+  Ni  Ni1       1.0  0.6674088835716248  0.5383181571960449  0.959621250629425  1.0000
+  Ni  Ni2       1.0  0.34891024231910706  0.5802948474884033  0.30474063754081726  1.0000
+  Ni  Ni3       1.0  0.08502056449651718  0.7724730968475342  0.45338174700737  1.0000
+  Ni  Ni4       1.0  0.06408167630434036  0.6518317461013794  0.6423949599266052  1.0000
+  S   S1        1.0  0.588161826133728  0.154808908700943  0.7754014134407043  1.0000
+  S   S2        1.0  0.6494856476783752  0.6815211176872253  0.2861272990703583  1.0000
+  S   S3        1.0  0.015746986493468285  0.6539250612258911  0.7617684006690979  1.0000
+  Zn  Zn1       1.0  0.7538830637931824  0.30755412578582764  0.23076455295085907  1.0000

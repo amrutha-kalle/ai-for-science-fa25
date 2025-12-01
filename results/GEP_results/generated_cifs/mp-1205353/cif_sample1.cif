@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       F2Mn3NiRhZn2
+_chemical_formula_sum              "F2 Mn3 Ni1 Rh1 Zn2"
+_cell_length_a       4.882083879927935
+_cell_length_b       5.628226226594699
+_cell_length_c       7.284907817840576
+_cell_angle_alpha    91.53370316807383
+_cell_angle_beta     89.67082316983058
+_cell_angle_gamma    118.94169355075715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.726193904876709  0.8591764569282532  0.15015415847301486  1.0000
+  F   F2        1.0  0.18091584742069244  0.17161601781845093  0.020440552383661274  1.0000
+  Mn  Mn1       1.0  0.727979838848114  0.8637984991073608  0.15138529241085055  1.0000
+  Mn  Mn2       1.0  0.14767462015151978  0.7876927256584167  0.8369135260581971  1.0000
+  Mn  Mn3       1.0  0.4151674509048462  0.5199068188667297  0.6110739707946778  1.0000
+  Ni  Ni1       1.0  0.653465986251831  0.7318416237831116  0.8223928809165956  1.0000
+  Rh  Rh1       1.0  0.8066614270210266  0.37320584058761597  0.20288884639739993  1.0000
+  Zn  Zn1       1.0  0.9059406518936157  0.37905845046043396  0.1542291194200516  1.0000
+  Zn  Zn2       1.0  0.9100430607795715  0.22354041039943695  0.6122652292251588  1.0000

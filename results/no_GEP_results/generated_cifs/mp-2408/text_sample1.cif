@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErGaPd4Ru
+_chemical_formula_sum              "Er1 Ga1 Pd4 Ru1"
+_cell_length_a       4.5154391084271674
+_cell_length_b       4.612744637876673
+_cell_length_c       5.084327697753906
+_cell_angle_alpha    90.43438689184332
+_cell_angle_beta     91.6078074381215
+_cell_angle_gamma    91.12641904854765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.8314914703369141  0.6593129634857178  0.617251455783844  1.0000
+  Ga  Ga1       1.0  0.34450405836105347  0.9129009246826172  0.681410551071167  1.0000
+  Pd  Pd1       1.0  0.30029889941215515  0.6836627125740051  0.42180708050727844  1.0000
+  Pd  Pd2       1.0  0.35072052478790283  0.494973361492157  0.7300019860267639  1.0000
+  Pd  Pd3       1.0  0.8344448208808899  0.9506633281707764  0.19794245064258575  1.0000
+  Pd  Pd4       1.0  0.3443021774291992  0.8831121921539307  0.33773112297058105  1.0000
+  Ru  Ru1       1.0  0.8575900793075562  0.5673596858978271  0.9929238557815552  1.0000

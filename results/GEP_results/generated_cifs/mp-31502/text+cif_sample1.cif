@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdSSbSc3Si
+_chemical_formula_sum              "Cd1 S1 Sb1 Sc3 Si1"
+_cell_length_a       4.5908979992983
+_cell_length_b       6.529523479619292
+_cell_length_c       8.122780799865723
+_cell_angle_alpha    114.23896427653621
+_cell_angle_beta     97.08743545372698
+_cell_angle_gamma    90.28398701717032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6805248260498047  0.901948869228363  0.5104658007621765  1.0000
+  S   S1        1.0  0.45133480429649353  0.23516139388084412  0.23103900253772736  1.0000
+  Sb  Sb1       1.0  0.056902773678302765  0.8982334733009338  0.21988193690776825  1.0000
+  Sc  Sc1       1.0  0.1775379776954651  0.3923737406730652  0.8010894656181335  1.0000
+  Sc  Sc2       1.0  0.7013757228851318  0.6270327568054199  0.08381129056215286  1.0000
+  Sc  Sc3       1.0  0.19110579788684845  0.39404866099357605  0.46971365809440613  1.0000
+  Si  Si1       1.0  0.5071440935134888  0.43604227900505066  0.9710049033164978  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrPr5Tl
+_chemical_formula_sum              "Br1 Pr5 Tl1"
+_cell_length_a       5.76522194124547
+_cell_length_b       6.384608294352462
+_cell_length_c       7.145437717437744
+_cell_angle_alpha    113.04612251570929
+_cell_angle_beta     114.11237165913228
+_cell_angle_gamma    88.65791229624962
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.3558233082294464  0.43594601750373846  0.5624226331710815  1.0000
+  Pr  Pr1       1.0  0.07833056151866913  0.578251302242279  0.3987025022506714  1.0000
+  Pr  Pr2       1.0  0.49823108315467834  0.5511887073516846  0.21310079097747803  1.0000
+  Pr  Pr3       1.0  0.6729098558425903  0.8567476272583009  0.7537890076637268  1.0000
+  Pr  Pr4       1.0  0.16582213342189792  0.9364560246467591  0.05708672106266028  1.0000
+  Pr  Pr5       1.0  0.6592841148376465  0.32455313205718994  0.5581136345863342  1.0000
+  Tl  Tl1       1.0  0.1821531802415848  0.8412337303161622  0.7409234046936035  1.0000

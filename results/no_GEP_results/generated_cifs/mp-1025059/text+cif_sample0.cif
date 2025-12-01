@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ILa4LiPb
+_chemical_formula_sum              "I1 La4 Li1 Pb1"
+_cell_length_a       6.120402706089056
+_cell_length_b       4.7511468450203305
+_cell_length_c       9.787107467651367
+_cell_angle_alpha    104.85755650473678
+_cell_angle_beta     104.81015312706083
+_cell_angle_gamma    131.62415402912342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.6400214433670044  0.22673958539962769  0.5743528008460999  1.0000
+  La  La1       1.0  0.6160217523574829  0.6462036967277527  0.45308631658554077  1.0000
+  La  La2       1.0  0.44424951076507574  0.08523747324943542  0.829321026802063  1.0000
+  La  La3       1.0  0.2072993963956833  0.4847857654094696  0.1856672316789627  1.0000
+  La  La4       1.0  0.9281117320060731  0.15878133475780487  0.36251741647720337  1.0000
+  Li  Li1       1.0  0.7277281880378723  0.3570191264152527  0.8746462464332581  1.0000
+  Pb  Pb1       1.0  0.6159050464630127  0.02508549951016903  0.3400392234325409  1.0000

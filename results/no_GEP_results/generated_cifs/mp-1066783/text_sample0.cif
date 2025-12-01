@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Zr7
+_chemical_formula_sum              "Zr7"
+_cell_length_a       4.725633977229642
+_cell_length_b       4.755995903409907
+_cell_length_c       5.849465847015381
+_cell_angle_alpha    106.944498313225
+_cell_angle_beta     90.24788029737435
+_cell_angle_gamma    86.12220291292692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.876743733882904  0.43967095017433167  0.08658213913440704  1.0000
+  Zr  Zr2       1.0  0.6841368079185486  0.05366486683487892  0.48812985420227045  1.0000
+  Zr  Zr3       1.0  0.7005257606506348  0.03973216190934181  0.12321393936872481  1.0000
+  Zr  Zr4       1.0  0.21545371413230896  0.740483283996582  0.08365660905838013  1.0000
+  Zr  Zr5       1.0  0.20559467375278473  0.6597692370414734  0.27958667278289795  1.0000
+  Zr  Zr6       1.0  0.8932365775108337  0.7057688236236572  0.19133450090885162  1.0000
+  Zr  Zr7       1.0  0.37290576100349426  0.46366098523139954  0.9176920056343079  1.0000

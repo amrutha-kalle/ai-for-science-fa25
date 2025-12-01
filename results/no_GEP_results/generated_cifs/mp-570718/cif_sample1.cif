@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co2Dy2LiMoP
+_chemical_formula_sum              "Co2 Dy2 Li1 Mo1 P1"
+_cell_length_a       4.2319333212632975
+_cell_length_b       4.423069468232542
+_cell_length_c       7.865360260009766
+_cell_angle_alpha    92.05732188024302
+_cell_angle_beta     90.43724471638399
+_cell_angle_gamma    101.73073470558325
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7231239080429077  0.15439914166927338  0.23294079303741458  1.0000
+  Co  Co2       1.0  0.24776078760623932  0.5456605553627014  0.07230601459741594  1.0000
+  Dy  Dy1       1.0  0.24114257097244263  0.24740535020828247  0.3444687128067017  1.0000
+  Dy  Dy2       1.0  0.7581638097763062  0.659082293510437  0.891322433948517  1.0000
+  Li  Li1       1.0  0.3808159828186035  0.995576798915863  0.8915066123008729  1.0000
+  Mo  Mo1       1.0  0.23141026496887207  0.8861720561981201  0.24357846379280093  1.0000
+  P   P1        1.0  0.7487637400627136  0.9050965905189514  0.7531849145889283  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsGaV4
+_chemical_formula_sum              "As1 Ga1 V4"
+_cell_length_a       4.233028700301254
+_cell_length_b       4.671321492391853
+_cell_length_c       6.3982672691345215
+_cell_angle_alpha    123.04486170361696
+_cell_angle_beta     92.88938564124368
+_cell_angle_gamma    93.10405394279522
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9124539494514465  0.7534031271934509  0.6277985572814941  1.0000
+  Ga  Ga1       1.0  0.40258675813674927  0.17273300886154175  0.48876127600669866  1.0000
+  V   V1        1.0  0.8756767511367798  0.09197616577148438  0.3664733171463013  1.0000
+  V   V2        1.0  0.3813230097293854  0.9090546369552612  0.1953970193862916  1.0000
+  V   V3        1.0  0.4574320614337921  0.04954943433403969  0.08045873790979385  1.0000
+  V   V4        1.0  0.9129270315170288  0.8529651165008545  0.5725908279418945  1.0000

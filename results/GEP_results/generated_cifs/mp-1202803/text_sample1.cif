@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       NaRuS2U5
+_chemical_formula_sum              "Na1 Ru1 S2 U5"
+_cell_length_a       5.70436737538122
+_cell_length_b       5.684443056798573
+_cell_length_c       7.220396995544434
+_cell_angle_alpha    100.41236943925655
+_cell_angle_beta     106.30984597612834
+_cell_angle_gamma    91.90632932923359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.2768055498600006  0.06896840035915375  0.8361744284629822  1.0000
+  Ru  Ru1       1.0  0.782227635383606  0.05898105725646019  0.0875975042581558  1.0000
+  S   S1        1.0  0.4528052508831024  0.6420900225639343  0.35246747732162476  1.0000
+  S   S2        1.0  0.08644911646842957  0.27716967463493347  0.8350074291229248  1.0000
+  U   U1        1.0  0.5519071817398071  0.6054438948631287  0.12447775155305862  1.0000
+  U   U2        1.0  0.7961719632148743  0.11460744589567184  0.34628263115882874  1.0000
+  U   U3        1.0  0.31710487604141235  0.05257374048233032  0.528609573841095  1.0000
+  U   U4        1.0  0.21663501858711243  0.5692404508590698  0.8444361686706543  1.0000
+  U   U5        1.0  0.0409613735973835  0.5625507235527039  0.10032922774553299  1.0000

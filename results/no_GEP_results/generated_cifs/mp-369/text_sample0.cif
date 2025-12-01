@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al4Tb3
+_chemical_formula_sum              "Al4 Tb3"
+_cell_length_a       3.8379140016241733
+_cell_length_b       5.136850676430714
+_cell_length_c       6.188882350921631
+_cell_angle_alpha    122.7387199982687
+_cell_angle_beta     88.31301344190462
+_cell_angle_gamma    91.21660486974315
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.3416074216365814  0.3213731050491333  0.002867864677682519  1.0000
+  Al  Al2       1.0  0.6374932527542114  0.6137520670890808  0.7898590564727783  1.0000
+  Al  Al3       1.0  0.11019837111234664  0.22180892527103424  0.6580003499984741  1.0000
+  Al  Al4       1.0  0.6096612811088562  0.2729785144329071  0.2568889856338501  1.0000
+  Tb  Tb1       1.0  0.1057414412498474  0.4940358102321625  0.5309566259384155  1.0000
+  Tb  Tb2       1.0  0.6112915873527527  0.6726553440093994  0.9854472875595093  1.0000
+  Tb  Tb3       1.0  0.11430834978818892  0.7837133407592773  0.1763187050819397  1.0000

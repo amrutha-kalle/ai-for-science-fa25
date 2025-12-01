@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       I2Pt3SeTb
+_chemical_formula_sum              "I2 Pt3 Se1 Tb1"
+_cell_length_a       5.261021314419323
+_cell_length_b       5.796363921229004
+_cell_length_c       6.319544315338135
+_cell_angle_alpha    88.81004133648779
+_cell_angle_beta     92.03119352737396
+_cell_angle_gamma    89.49180471887529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.30414795875549316  0.5846835970878601  0.9030197858810426  1.0000
+  I   I2        1.0  0.7966705560684204  0.9829769134521485  0.4264244735240937  1.0000
+  Pt  Pt1       1.0  0.31105175614356995  0.4623385667800904  0.8199554681777955  1.0000
+  Pt  Pt2       1.0  0.7981021404266357  0.5624114871025085  0.4491755962371827  1.0000
+  Pt  Pt3       1.0  0.8123265504837036  0.3274914026260376  0.267291396856308  1.0000
+  Se  Se1       1.0  0.7919986248016357  0.8611577153205873  0.6852067708969115  1.0000
+  Tb  Tb1       1.0  0.8206477761268616  0.02450072206556797  0.20842581987380984  1.0000

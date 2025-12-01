@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La4Si3
+_chemical_formula_sum              "La4 Si3"
+_cell_length_a       6.351873623570337
+_cell_length_b       5.948126802760434
+_cell_length_c       8.624948501586914
+_cell_angle_alpha    106.33903989306373
+_cell_angle_beta     100.00066663182567
+_cell_angle_gamma    116.61645946797228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.8854565024375916  0.6220405697822571  0.6161198019981384  1.0000
+  La  La2       1.0  0.22633309662342072  0.7935718894004822  0.3524061143398285  1.0000
+  La  La3       1.0  0.5687944293022156  0.2826390862464905  0.3550471067428589  1.0000
+  La  La4       1.0  0.5571523308753967  0.32856425642967224  0.7248863577842712  1.0000
+  Si  Si1       1.0  0.14906813204288483  0.5830294489860535  0.9380955696105957  1.0000
+  Si  Si2       1.0  0.5616568922996521  0.2620876729488373  0.41981950402259827  1.0000
+  Si  Si3       1.0  0.9032055139541626  0.6548674702644348  0.5204130411148071  1.0000

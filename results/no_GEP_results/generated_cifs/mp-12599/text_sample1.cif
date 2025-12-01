@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PrTl6
+_chemical_formula_sum              "Pr1 Tl6"
+_cell_length_a       4.772147666996425
+_cell_length_b       5.097055373951644
+_cell_length_c       5.054980278015137
+_cell_angle_alpha    142.80702075136273
+_cell_angle_beta     121.87111493230569
+_cell_angle_gamma    85.98507545575708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.3320177495479584  0.466675341129303  0.3748382329940796  1.0000
+  Tl  Tl1       1.0  0.7978755831718445  0.2996888160705567  0.3739517033100129  1.0000
+  Tl  Tl2       1.0  0.2562048137187958  0.29061830043792725  0.19283060729503632  1.0000
+  Tl  Tl3       1.0  0.8232640027999878  0.08584122359752655  0.23310476541519168  1.0000
+  Tl  Tl4       1.0  0.8199615478515625  0.6985957026481628  0.6356209516525269  1.0000
+  Tl  Tl5       1.0  0.813547670841217  0.6719429492950441  0.8019008040428163  1.0000
+  Tl  Tl6       1.0  0.31375938653945923  0.03690104186534883  0.7772435545921326  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba6Ge
+_chemical_formula_sum              "Ba6 Ge1"
+_cell_length_a       7.061467150028707
+_cell_length_b       7.158605430540837
+_cell_length_c       7.776325702667236
+_cell_angle_alpha    113.91153032046516
+_cell_angle_beta     111.48895314506751
+_cell_angle_gamma    109.85453579988827
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7535831928253174  0.42058321833610535  0.29704657196998596  1.0000
+  Ba  Ba2       1.0  0.3317295014858246  0.7008899450302124  0.8301843404769897  1.0000
+  Ba  Ba3       1.0  0.7583561539649963  0.05391906946897507  0.7680502533912659  1.0000
+  Ba  Ba4       1.0  0.24286200106143954  0.5280841588973999  0.22847478091716772  1.0000
+  Ba  Ba5       1.0  0.24713607132434848  0.6575459837913513  0.7004272937774658  1.0000
+  Ba  Ba6       1.0  0.7643428444862366  0.10059232264757156  0.2001819759607315  1.0000
+  Ge  Ge1       1.0  0.07754060626029968  0.00017667849897406995  0.8128778338432312  1.0000

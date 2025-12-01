@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al3La3TiZn
+_chemical_formula_sum              "Al3 La3 Ti1 Zn1"
+_cell_length_a       5.235081636994213
+_cell_length_b       7.143168450100359
+_cell_length_c       7.344058990478516
+_cell_angle_alpha    122.64296839690853
+_cell_angle_beta     90.23951217081435
+_cell_angle_gamma    89.50540225868423
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5861589908599854  0.1034356951713562  0.9673320055007936  1.0000
+  Al  Al2       1.0  0.5885030031204224  0.5946735143661499  0.5617620944976807  1.0000
+  Al  Al3       1.0  0.09454969316720963  0.165359228849411  0.3097042143344879  1.0000
+  La  La1       1.0  0.09469980746507645  0.6633157134056091  0.8167811632156373  1.0000
+  La  La2       1.0  0.08868046849966049  0.7782060503959656  0.0668712109327317  1.0000
+  La  La3       1.0  0.5887362360954285  0.530475914478302  0.7886797785758973  1.0000
+  Ti  Ti1       1.0  0.5849356055259705  0.03842785209417343  0.8758881688117982  1.0000
+  Zn  Zn1       1.0  0.5901437997817993  0.868217945098877  0.46146973967552185  1.0000

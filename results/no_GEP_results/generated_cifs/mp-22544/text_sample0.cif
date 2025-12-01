@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       UV7
+_chemical_formula_sum              "U1 V7"
+_cell_length_a       3.6316222450735585
+_cell_length_b       4.395953594639352
+_cell_length_c       5.80834436416626
+_cell_angle_alpha    111.1563119470399
+_cell_angle_beta     103.15532122795221
+_cell_angle_gamma    91.28117567072695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.9446536898612977  0.4909319579601288  0.4806207418441773  1.0000
+  V   V1        1.0  0.43874248862266546  0.5247247219085693  0.14265692234039307  1.0000
+  V   V2        1.0  0.9465143680572511  0.8381924629211426  0.3843487203121186  1.0000
+  V   V3        1.0  0.9521278738975526  0.23533274233341217  0.44174805283546453  1.0000
+  V   V4        1.0  0.4513652622699738  0.040972091257572174  0.508189857006073  1.0000
+  V   V5        1.0  0.4310429394245148  0.46133965253829956  0.7762005925178529  1.0000
+  V   V6        1.0  0.9527817964553834  0.7306738495826721  0.16950148344039917  1.0000
+  V   V7        1.0  0.4420084357261658  0.7247446775436401  0.6514267921447754  1.0000

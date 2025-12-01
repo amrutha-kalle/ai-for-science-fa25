@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaO2P2TlV3
+_chemical_formula_sum              "Ga1 O2 P2 Tl1 V3"
+_cell_length_a       3.677307007050821
+_cell_length_b       4.808440284751321
+_cell_length_c       7.227169990539551
+_cell_angle_alpha    88.34044568653182
+_cell_angle_beta     92.83195872463061
+_cell_angle_gamma    107.19445515719411
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.0002259016036987305  0.06504933536052704  0.16557347774505615  1.0000
+  O   O1        1.0  0.6628825068473816  0.9101912379264832  0.7093245983123779  1.0000
+  O   O2        1.0  0.8080076575279237  0.539742112159729  0.46812552213668823  1.0000
+  P   P1        1.0  0.6534294486045837  0.7218469381332397  0.8218449950218201  1.0000
+  P   P2        1.0  0.1412600725889206  0.24268656969070435  0.6476384997367859  1.0000
+  Tl  Tl1       1.0  0.14326068758964539  0.6036120653152466  0.378187894821167  1.0000
+  V   V1        1.0  0.6330816745758057  0.24055880308151245  0.32464540004730225  1.0000
+  V   V2        1.0  0.14537924528121948  0.8118120431900024  0.5653624534606934  1.0000
+  V   V3        1.0  0.5858818888664246  0.07876638323068619  0.4863173961639405  1.0000

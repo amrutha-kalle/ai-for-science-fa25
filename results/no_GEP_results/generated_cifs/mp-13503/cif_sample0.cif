@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ILuSc3Zn2
+_chemical_formula_sum              "I1 Lu1 Sc3 Zn2"
+_cell_length_a       4.15877767901715
+_cell_length_b       4.673726660500962
+_cell_length_c       8.141103744506836
+_cell_angle_alpha    91.37227427631228
+_cell_angle_beta     89.65519876104166
+_cell_angle_gamma    89.31625877573053
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.47506314516067505  0.040033724159002304  0.40523475408554077  1.0000
+  Lu  Lu1       1.0  0.46982210874557495  0.7504092454910278  0.5829635858535767  1.0000
+  Sc  Sc1       1.0  0.969660222530365  0.9887080192565918  0.565330982208252  1.0000
+  Sc  Sc2       1.0  0.9725237488746643  0.5791574716567993  0.5689210891723633  1.0000
+  Sc  Sc3       1.0  0.47320884466171265  0.8589328527450562  0.8184789419174194  1.0000
+  Zn  Zn1       1.0  0.4677228033542633  0.765061616897583  0.9820006489753723  1.0000
+  Zn  Zn2       1.0  0.9690863490104675  0.6817397475242615  0.2848754823207855  1.0000

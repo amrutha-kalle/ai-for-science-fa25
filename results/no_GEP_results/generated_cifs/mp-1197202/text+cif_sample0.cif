@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IP3PtTi
+_chemical_formula_sum              "I1 P3 Pt1 Ti1"
+_cell_length_a       4.30601886786898
+_cell_length_b       4.368067408226684
+_cell_length_c       5.533539772033691
+_cell_angle_alpha    124.87453605877766
+_cell_angle_beta     102.63350281115663
+_cell_angle_gamma    89.44599581250527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.5103363394737244  0.11427657306194305  0.9031987786293029  1.0000
+  P   P1        1.0  0.13271984457969666  0.42717692255973816  0.9014597535133361  1.0000
+  P   P2        1.0  0.2554905414581299  0.5735707879066467  0.11719062179327014  1.0000
+  P   P3        1.0  0.6970869898796082  0.1622740477323532  0.06629873812198639  1.0000
+  Pt  Pt1       1.0  0.47825682163238525  0.9544339776039124  0.6065630912780762  1.0000
+  Ti  Ti1       1.0  0.19561085104942322  0.6607531905174255  0.026729216799140015  1.0000

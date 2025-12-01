@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaMg3Pt2Zn
+_chemical_formula_sum              "Ga1 Mg3 Pt2 Zn1"
+_cell_length_a       5.159309807497762
+_cell_length_b       5.552149590735731
+_cell_length_c       7.784510612487793
+_cell_angle_alpha    119.81583632968663
+_cell_angle_beta     91.28590768043026
+_cell_angle_gamma    88.31082780313244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.19944320619106293  0.8847693800926208  0.5540888309478759  1.0000
+  Mg  Mg1       1.0  0.07440532743930817  0.626051664352417  0.7958819866180419  1.0000
+  Mg  Mg2       1.0  0.6464829444885254  0.9012812376022339  0.5639675259590148  1.0000
+  Mg  Mg3       1.0  0.5808933973312378  0.6422417759895325  0.2012747675180435  1.0000
+  Pt  Pt1       1.0  0.6453683972358704  0.9176548719406128  0.033884778618812554  1.0000
+  Pt  Pt2       1.0  0.6420222520828247  0.9932259321212769  0.21334575116634366  1.0000
+  Zn  Zn1       1.0  0.12040481716394424  0.8647642135620117  0.5873335003852843  1.0000

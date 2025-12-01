@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErNi5Si
+_chemical_formula_sum              "Er1 Ni5 Si1"
+_cell_length_a       3.924605287719318
+_cell_length_b       3.5660199935112638
+_cell_length_c       4.886619567871094
+_cell_angle_alpha    44.91478136265897
+_cell_angle_beta     58.2961108226099
+_cell_angle_gamma    52.0783345913505
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.1286543309688568  0.8326277732849121  0.9510335326194763  1.0000
+  Ni  Ni1       1.0  0.7175759077072144  0.0925111398100853  0.12824894487857819  1.0000
+  Ni  Ni2       1.0  0.5216419696807861  0.7212972640991211  0.7850997447967529  1.0000
+  Ni  Ni3       1.0  0.7456132173538208  0.07585281878709793  0.7713393568992615  1.0000
+  Ni  Ni4       1.0  0.13643676042556763  0.8248975872993469  0.03358110785484314  1.0000
+  Ni  Ni5       1.0  0.13276411592960358  0.3294001817703247  0.5144524574279785  1.0000
+  Si  Si1       1.0  0.4326039254665375  0.5905002355575562  0.45761212706565857  1.0000

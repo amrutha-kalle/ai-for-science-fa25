@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Br4LiNiRb
+_chemical_formula_sum              "Br4 Li1 Ni1 Rb1"
+_cell_length_a       5.949509241150923
+_cell_length_b       5.379987375613852
+_cell_length_c       6.192006587982178
+_cell_angle_alpha    59.286797643144816
+_cell_angle_beta     68.92406102205808
+_cell_angle_gamma    62.037260479391115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.03846410661935806  0.3087257146835327  0.6014607548713684  1.0000
+  Br  Br2       1.0  0.04305238276720047  0.19111476838588715  0.4177093207836151  1.0000
+  Br  Br3       1.0  0.47274065017700195  0.5775023102760315  0.6020204424858093  1.0000
+  Br  Br4       1.0  0.5464164018630981  0.8553719520568848  0.9640387296676636  1.0000
+  Li  Li1       1.0  0.05770980939269066  0.864420473575592  0.47190788388252247  1.0000
+  Ni  Ni1       1.0  0.8146740794181824  0.41867271065711975  0.30881598591804504  1.0000
+  Rb  Rb1       1.0  0.7939903140068054  0.9863114356994629  0.08501109480857849  1.0000

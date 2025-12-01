@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HIPPbScZr
+_chemical_formula_sum              "H1 I1 P1 Pb1 Sc1 Zr1"
+_cell_length_a       4.158096850665279
+_cell_length_b       3.314823768462173
+_cell_length_c       5.05361795425415
+_cell_angle_alpha    92.53290964121645
+_cell_angle_beta     89.84447233042377
+_cell_angle_gamma    93.97159726671215
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.16966412961483002  0.7293980717658998  0.43853580951690674  1.0000
+  I   I1        1.0  0.5747067332267761  0.5490930676460266  0.07597721368074417  1.0000
+  P   P1        1.0  0.4290766417980194  0.6820280551910402  0.7017383575439453  1.0000
+  Pb  Pb1       1.0  0.6435490250587463  0.5263415575027466  0.19834767282009125  1.0000
+  Sc  Sc1       1.0  0.14394555985927582  0.056713875383138664  0.7315782904624939  1.0000
+  Zr  Zr1       1.0  0.09370139241218567  0.10334622114896776  0.4997300207614898  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlCl2Ga3Mg
+_chemical_formula_sum              "Al1 Cl2 Ga3 Mg1"
+_cell_length_a       5.442695746908871
+_cell_length_b       5.64745351867392
+_cell_length_c       6.120444297790527
+_cell_angle_alpha    108.1040459588924
+_cell_angle_beta     109.23117832919012
+_cell_angle_gamma    110.16669394966642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5605435371398926  0.14441651105880737  0.7392462491989136  1.0000
+  Cl  Cl1       1.0  0.40586310625076294  0.8325528502464294  0.6169689297676085  1.0000
+  Cl  Cl2       1.0  0.919571042060852  0.8322734832763672  0.688466489315033  1.0000
+  Ga  Ga1       1.0  0.047136008739471436  0.18066544830799103  0.3012612760066986  1.0000
+  Ga  Ga2       1.0  0.6007285714149475  0.6688418388366699  0.8278494477272034  1.0000
+  Ga  Ga3       1.0  0.6679644584655762  0.32160866260528564  0.05123292654752728  1.0000
+  Mg  Mg1       1.0  0.24817022681236267  0.8303982615470886  0.10733705759048462  1.0000

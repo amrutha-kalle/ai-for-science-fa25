@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdIPtSc2Zn2
+_chemical_formula_sum              "Cd1 I1 Pt1 Sc2 Zn2"
+_cell_length_a       5.440597347229848
+_cell_length_b       4.827974011334046
+_cell_length_c       7.057254791259766
+_cell_angle_alpha    110.13350244873024
+_cell_angle_beta     107.8148027384269
+_cell_angle_gamma    115.59733954927968
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6565208435058594  0.359443724155426  0.3666791021823883  1.0000
+  I   I1        1.0  0.02498832903802395  0.7701513171195984  0.6121858954429626  1.0000
+  Pt  Pt1       1.0  0.3616546094417572  0.747258722782135  0.7542153000831604  1.0000
+  Sc  Sc1       1.0  0.7391135692596436  0.24341528117656708  0.8176794648170471  1.0000
+  Sc  Sc2       1.0  0.6907645463943481  0.9460128545761108  0.8321723341941833  1.0000
+  Zn  Zn1       1.0  0.026957470923662186  0.22603465616703033  0.09347465634346008  1.0000
+  Zn  Zn2       1.0  0.3696148693561554  0.5753945708274841  0.2046172916889191  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       MoNa2Ni3PbTiZnZr
+_chemical_formula_sum              "Mo1 Na2 Ni3 Pb1 Ti1 Zn1 Zr1"
+_cell_length_a       6.640151387286786
+_cell_length_b       6.439301437779208
+_cell_length_c       6.528786659240723
+_cell_angle_alpha    57.362865671002005
+_cell_angle_beta     61.877842595670714
+_cell_angle_gamma    59.985445716067396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.564608633518219  0.32905009388923645  0.05549439787864685  1.0000
+  Na  Na1       1.0  0.13947638869285583  0.7696471810340881  0.2979244887828827  1.0000
+  Na  Na2       1.0  0.6478528380393982  0.11037585884332658  0.5868740677833557  1.0000
+  Ni  Ni1       1.0  0.9786190390586853  0.5837733149528503  0.13795827329158783  1.0000
+  Ni  Ni2       1.0  0.9707047939300537  0.6984652876853943  0.08945997059345245  1.0000
+  Ni  Ni3       1.0  0.12559132277965543  0.8500562310218812  0.25115519762039185  1.0000
+  Pb  Pb1       1.0  0.6461175680160522  0.56914883852005  0.7894689440727234  1.0000
+  Ti  Ti1       1.0  0.13345971703529358  0.7094387412071228  0.8256875872612  1.0000
+  Zn  Zn1       1.0  0.11468896269798275  0.8257316350936891  0.006563111208379269  1.0000
+  Zr  Zr1       1.0  0.1058904379606247  0.7919912338256836  0.4275989234447479  1.0000

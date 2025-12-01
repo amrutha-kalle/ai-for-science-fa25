@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BCl2GePtRhZr
+_chemical_formula_sum              "B1 Cl2 Ge1 Pt1 Rh1 Zr1"
+_cell_length_a       5.230720332855839
+_cell_length_b       5.759226707561883
+_cell_length_c       5.4970903396606445
+_cell_angle_alpha    110.28973282810568
+_cell_angle_beta     90.78273009108388
+_cell_angle_gamma    90.07076392252232
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.920054018497467  0.9448536038398743  0.9017634391784668  1.0000
+  Cl  Cl1       1.0  0.9217267036437988  0.9323710799217224  0.5216884613037109  1.0000
+  Cl  Cl2       1.0  0.9293480515480042  0.5159302353858948  0.5708251595497131  1.0000
+  Ge  Ge1       1.0  0.4226245582103729  0.3398033380508423  0.9403283596038818  1.0000
+  Pt  Pt1       1.0  0.4254623055458069  0.5621179938316345  0.15608496963977816  1.0000
+  Rh  Rh1       1.0  0.42210426926612854  0.2206982970237732  0.9507942795753479  1.0000
+  Zr  Zr1       1.0  0.9242832064628601  0.38710108399391174  0.9637647867202759  1.0000

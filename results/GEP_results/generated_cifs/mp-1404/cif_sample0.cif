@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd3CsNaSiZn
+_chemical_formula_sum              "Cd3 Cs1 Na1 Si1 Zn1"
+_cell_length_a       6.005696611286979
+_cell_length_b       6.37717696930045
+_cell_length_c       7.269035816192627
+_cell_angle_alpha    71.51807503585032
+_cell_angle_beta     65.4940046268286
+_cell_angle_gamma    60.710779857826374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.20392784476280212  0.6513530611991882  0.5978424549102783  1.0000
+  Cd  Cd2       1.0  0.47607189416885376  0.499355286359787  0.29658806324005127  1.0000
+  Cd  Cd3       1.0  0.7272610664367676  0.1505793035030365  0.012949498370289803  1.0000
+  Cs  Cs1       1.0  0.7102315425872803  0.6624049544334412  0.9097002744674683  1.0000
+  Na  Na1       1.0  0.21988558769226074  0.6527661681175232  0.014761179685592651  1.0000
+  Si  Si1       1.0  0.31407004594802856  0.011657952331006527  0.4983682930469513  1.0000
+  Zn  Zn1       1.0  0.14811353385448456  0.1581374704837799  0.7988694906234741  1.0000

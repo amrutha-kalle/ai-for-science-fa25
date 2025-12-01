@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BCo2SbSmTb4
+_chemical_formula_sum              "B1 Co2 Sb1 Sm1 Tb4"
+_cell_length_a       4.6440264566565395
+_cell_length_b       5.700266378230458
+_cell_length_c       8.847397804260254
+_cell_angle_alpha    105.5946471986736
+_cell_angle_beta     99.57515352737323
+_cell_angle_gamma    89.13099135777415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.4587293565273285  0.08610095083713531  0.34463027119636536  1.0000
+  Co  Co1       1.0  0.7498730421066284  0.7042083144187927  0.15031489729881287  1.0000
+  Co  Co2       1.0  0.7460410594940186  0.7108404040336609  0.8768029808998108  1.0000
+  Sb  Sb1       1.0  0.47356125712394714  0.7041087746620178  0.8881986141204834  1.0000
+  Sm  Sm1       1.0  0.7159490585327148  0.19085456430912018  0.6572760939598083  1.0000
+  Tb  Tb1       1.0  0.46841686964035034  0.4075951874256134  0.13919055461883545  1.0000
+  Tb  Tb2       1.0  0.19992265105247498  0.20375315845012665  0.8767480254173279  1.0000
+  Tb  Tb3       1.0  0.2288091629743576  0.40714406967163086  0.6293330192565918  1.0000
+  Tb  Tb4       1.0  0.20418715476989746  0.70614093542099  0.639915943145752  1.0000

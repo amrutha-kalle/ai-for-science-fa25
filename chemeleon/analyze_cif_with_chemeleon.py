@@ -163,7 +163,7 @@ def load_chemeleon_model(checkpoint_path: Optional[str] = None, clip_checkpoint_
             print("Loading CLIP checkpoint...")
             clip = CrystalClip.load_from_checkpoint(
                 clip_checkpoint_path,
-                map_location="cpu",
+                map_location="cuda",
             )
             # Load the trained weights
             clip.eval()
@@ -174,7 +174,7 @@ def load_chemeleon_model(checkpoint_path: Optional[str] = None, clip_checkpoint_
             chemeleon = Chemeleon.load_from_checkpoint(
                 checkpoint_path,
                 path_ckpt_clip=clip_checkpoint_path,
-                map_location="cpu",
+                map_location="cuda",
             )
             chemeleon.eval()
             print(f"Chemeleon model loaded successfully")

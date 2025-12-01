@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu2Lu2ScZn2
+_chemical_formula_sum              "Cu2 Lu2 Sc1 Zn2"
+_cell_length_a       4.161297781216858
+_cell_length_b       5.17806823516501
+_cell_length_c       6.5269880294799805
+_cell_angle_alpha    115.31381250699796
+_cell_angle_beta     91.50512850794117
+_cell_angle_gamma    87.39874436499929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.23253947496414185  0.4125925302505493  0.7260735630989075  1.0000
+  Cu  Cu2       1.0  0.7415138483047485  0.28850114345550537  0.9823349714279175  1.0000
+  Lu  Lu1       1.0  0.7474578022956848  0.9097899794578551  0.7220679521560669  1.0000
+  Lu  Lu2       1.0  0.7395183444023132  0.7622600793838501  0.7260433435440063  1.0000
+  Sc  Sc1       1.0  0.23460794985294342  0.29277950525283813  0.21439296007156372  1.0000
+  Zn  Zn1       1.0  0.7255985140800476  0.27645888924598694  0.24484817683696747  1.0000
+  Zn  Zn2       1.0  0.24629472196102145  0.7896267771720886  0.4828771948814392  1.0000

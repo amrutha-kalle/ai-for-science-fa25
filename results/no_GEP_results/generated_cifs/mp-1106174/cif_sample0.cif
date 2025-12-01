@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErITb5
+_chemical_formula_sum              "Er1 I1 Tb5"
+_cell_length_a       7.247953257396986
+_cell_length_b       7.2089008608404
+_cell_length_c       7.395660400390625
+_cell_angle_alpha    62.727849475654395
+_cell_angle_beta     62.5268158698753
+_cell_angle_gamma    61.42075388115494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.4703446626663208  0.9809111952781677  0.4927034974098205  1.0000
+  I   I1        1.0  0.829213559627533  0.7652043700218201  0.3391485512256622  1.0000
+  Tb  Tb1       1.0  0.8873174786567688  0.5177133083343506  0.33435076475143427  1.0000
+  Tb  Tb2       1.0  0.7283511757850647  0.38513490557670593  0.8016108870506286  1.0000
+  Tb  Tb3       1.0  0.004188986029475927  0.8476709127426147  0.36585417389869684  1.0000
+  Tb  Tb4       1.0  0.21690134704113007  0.10376179963350296  0.581308901309967  1.0000
+  Tb  Tb5       1.0  0.33273041248321533  0.2256474792957306  0.7754080891609191  1.0000

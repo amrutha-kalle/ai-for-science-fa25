@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Er4Ni3
+_chemical_formula_sum              "Er4 Ni3"
+_cell_length_a       3.6319064456667713
+_cell_length_b       3.5665674955878592
+_cell_length_c       5.894356727600098
+_cell_angle_alpha    89.40062982648324
+_cell_angle_beta     90.29119175872778
+_cell_angle_gamma    90.17038711945375
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.40785714983940125  0.35998931527137756  0.9354069232940674  1.0000
+  Er  Er2       1.0  0.8936522603034973  0.8927425742149353  0.6439659595489502  1.0000
+  Er  Er3       1.0  0.90155029296875  0.7008874416351318  0.7933241724967957  1.0000
+  Er  Er4       1.0  0.16852101683616638  0.08905885368585587  0.5655478835105896  1.0000
+  Ni  Ni1       1.0  0.7942811250686647  0.24495816230773929  0.6531200408935547  1.0000
+  Ni  Ni2       1.0  0.3455531895160675  0.6216862797737122  0.9071853756904602  1.0000
+  Ni  Ni3       1.0  0.8338876366615295  0.5468368530273438  0.9024098515510559  1.0000

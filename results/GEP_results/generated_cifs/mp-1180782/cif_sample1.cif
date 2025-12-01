@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr3F2FeHfK2
+_chemical_formula_sum              "Cr3 F2 Fe1 Hf1 K2"
+_cell_length_a       4.855534728084116
+_cell_length_b       6.741177445607359
+_cell_length_c       7.497838973999023
+_cell_angle_alpha    94.15334822474918
+_cell_angle_beta     89.36754392710735
+_cell_angle_gamma    109.28791605034421
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.35865363478660583  0.27867794036865234  0.977959156036377  1.0000
+  Cr  Cr2       1.0  0.3729614317417145  0.7165817618370056  0.5343040227890015  1.0000
+  Cr  Cr3       1.0  0.8720518946647644  0.2060776799917221  0.2723635137081146  1.0000
+  F   F1        1.0  0.8715294003486633  0.24298407137393951  0.08684676140546799  1.0000
+  F   F2        1.0  0.3742055594921112  0.43466678261756897  0.25045809149742126  1.0000
+  Fe  Fe1       1.0  0.0882457047700882  0.9644626379013062  0.9812179207801819  1.0000
+  Hf  Hf1       1.0  0.5840625762939453  0.9490405917167664  0.4146023988723755  1.0000
+  K   K1        1.0  0.6020681262016296  0.7154349684715271  0.7650071978569032  1.0000
+  K   K2        1.0  0.8762671947479248  0.4449104964733124  0.46568095684051514  1.0000

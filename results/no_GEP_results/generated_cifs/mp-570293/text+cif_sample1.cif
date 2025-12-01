@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga2GeHKSbZr
+_chemical_formula_sum              "Ga2 Ge1 H1 K1 Sb1 Zr1"
+_cell_length_a       4.902453073914032
+_cell_length_b       5.299262383283175
+_cell_length_c       6.10371732711792
+_cell_angle_alpha    70.3290467883847
+_cell_angle_beta     63.48864219504433
+_cell_angle_gamma    60.848861869876814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.3767465353012085  0.4857870042324066  0.34240931272506714  1.0000
+  Ga  Ga2       1.0  0.38255712389945984  0.7348539233207703  0.09505438059568405  1.0000
+  Ge  Ge1       1.0  0.9120668768882751  0.04440972954034805  0.9142886400222779  1.0000
+  H   H1        1.0  0.8623340725898743  0.6489743590354919  0.0812157392501831  1.0000
+  K   K1        1.0  0.6592357754707336  0.9056000709533691  0.7383787035942078  1.0000
+  Sb  Sb1       1.0  0.896729052066803  0.6557395458221436  0.12219332158565523  1.0000
+  Zr  Zr1       1.0  0.38623830676078796  0.5909268260002136  0.1719435155391693  1.0000

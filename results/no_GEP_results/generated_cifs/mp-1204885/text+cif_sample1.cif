@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiPb2SbTiZnZr
+_chemical_formula_sum              "Bi1 Pb2 Sb1 Ti1 Zn1 Zr1"
+_cell_length_a       4.175740057590347
+_cell_length_b       4.734990488088624
+_cell_length_c       8.462956428527832
+_cell_angle_alpha    114.07665676290054
+_cell_angle_beta     89.94118884197906
+_cell_angle_gamma    89.3370028767983
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.11827700585126877  0.13853350281715393  0.28181731700897217  1.0000
+  Pb  Pb1       1.0  0.6154080033302307  0.07179118692874908  0.792759358882904  1.0000
+  Pb  Pb2       1.0  0.6083446741104126  0.8013036251068115  0.19466666877269745  1.0000
+  Sb  Sb1       1.0  0.11335474997758865  0.8111701607704163  0.5896356105804443  1.0000
+  Ti  Ti1       1.0  0.11965681612491608  0.3843875229358673  0.2884308099746704  1.0000
+  Zn  Zn1       1.0  0.6186583638191223  0.44214823842048645  0.23320668935775757  1.0000
+  Zr  Zr1       1.0  0.1110008955001831  0.5984861254692078  0.03218549117445946  1.0000

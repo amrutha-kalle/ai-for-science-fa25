@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ClGaLi5PbPtZn
+_chemical_formula_sum              "Cl1 Ga1 Li5 Pb1 Pt1 Zn1"
+_cell_length_a       5.565531330719607
+_cell_length_b       5.9759778626210664
+_cell_length_c       6.080965042114258
+_cell_angle_alpha    118.6553847822351
+_cell_angle_beta     107.8408016433803
+_cell_angle_gamma    98.05800528320736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3834017217159271  0.8963800072669983  0.10954599082469939  1.0000
+  Ga  Ga1       1.0  0.6173024773597717  0.6461328268051147  0.3625779151916504  1.0000
+  Li  Li1       1.0  0.8941466212272644  0.39338579773902893  0.2556760907173157  1.0000
+  Li  Li2       1.0  0.8574697971343994  0.318325400352478  0.9432852864265441  1.0000
+  Li  Li3       1.0  0.4055928885936737  0.793163001537323  0.2488414943218231  1.0000
+  Li  Li4       1.0  0.06919939070940018  0.5765138864517212  0.84568053483963  1.0000
+  Li  Li5       1.0  0.36929503083229065  0.8285248279571533  0.12842582166194916  1.0000
+  Pb  Pb1       1.0  0.8490970134735107  0.9972801804542542  0.2509024441242218  1.0000
+  Pt  Pt1       1.0  0.4241597652435303  0.8142684698104858  0.31487759947776783  1.0000
+  Zn  Zn1       1.0  0.8945090174674988  0.5470200181007385  0.4093842506408691  1.0000

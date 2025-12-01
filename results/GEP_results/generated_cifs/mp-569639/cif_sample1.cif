@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl3STiTl2
+_chemical_formula_sum              "Cl3 S1 Ti1 Tl2"
+_cell_length_a       5.826102482745153
+_cell_length_b       6.151424498152461
+_cell_length_c       6.139923095703125
+_cell_angle_alpha    98.57092109624178
+_cell_angle_beta     98.00843850507295
+_cell_angle_gamma    93.12102783105061
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.29273277521133423  0.23177586495876312  0.34668898582458496  1.0000
+  Cl  Cl2       1.0  0.8869915008544922  0.7594753503799438  0.7330405712127684  1.0000
+  Cl  Cl3       1.0  0.6013248562812805  0.7391625642776489  0.029168318957090374  1.0000
+  S   S1        1.0  0.11759097874164581  0.8042957782745361  0.030896065756678578  1.0000
+  Ti  Ti1       1.0  0.6041060090065002  0.32029005885124207  0.024704203009605387  1.0000
+  Tl  Tl1       1.0  0.5549229979515076  0.8777800798416138  0.4027734696865081  1.0000
+  Tl  Tl2       1.0  0.0814899355173111  0.06829360127449036  0.16587980091571808  1.0000

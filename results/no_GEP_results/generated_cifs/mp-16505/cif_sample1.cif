@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al4LaMgPtZn
+_chemical_formula_sum              "Al4 La1 Mg1 Pt1 Zn1"
+_cell_length_a       6.293241219672238
+_cell_length_b       6.600583115294615
+_cell_length_c       6.603731632232666
+_cell_angle_alpha    115.60811928190773
+_cell_angle_beta     116.19955114289807
+_cell_angle_gamma    93.03640048722099
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.04592852294445038  0.40613681077957153  0.8786369562149048  1.0000
+  Al  Al2       1.0  0.4992123544216156  0.8803054690361023  0.46963149309158325  1.0000
+  Al  Al3       1.0  0.2263454645872116  0.22265540063381195  0.19006264209747314  1.0000
+  Al  Al4       1.0  0.2121354192495346  0.10549838840961456  0.31050196290016174  1.0000
+  La  La1       1.0  0.21522581577301025  0.9064874649047852  0.7547949552536011  1.0000
+  Mg  Mg1       1.0  0.21759390830993652  0.4870918095111847  0.2654238641262055  1.0000
+  Pt  Pt1       1.0  0.5388637781143188  0.9596017599105835  0.5970340371131897  1.0000
+  Zn  Zn1       1.0  0.7182418704032898  0.28602758049964905  0.0581112802028656  1.0000

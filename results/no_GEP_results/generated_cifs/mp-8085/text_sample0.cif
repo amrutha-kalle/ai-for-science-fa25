@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg4P2
+_chemical_formula_sum              "Mg4 P2"
+_cell_length_a       3.919855372090487
+_cell_length_b       3.844797999835692
+_cell_length_c       6.152449607849121
+_cell_angle_alpha    86.39278022646906
+_cell_angle_beta     99.30194157703073
+_cell_angle_gamma    88.30239659232112
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9915447235107422  0.5664858222007751  0.2709260880947113  1.0000
+  Mg  Mg2       1.0  0.49626487493515015  0.9222483634948729  0.6789621710777283  1.0000
+  Mg  Mg3       1.0  0.46533313393592834  0.1599099338054657  0.24603144824504852  1.0000
+  Mg  Mg4       1.0  0.9532384276390076  0.30704179406166077  0.19104348123073578  1.0000
+  P   P1        1.0  0.4931219518184662  0.8825078010559081  0.4716107249259949  1.0000
+  P   P2        1.0  0.9793570637702942  0.014956618659198282  0.03392134979367254  1.0000

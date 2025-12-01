@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co5Pb2
+_chemical_formula_sum              "Co5 Pb2"
+_cell_length_a       4.872309231084689
+_cell_length_b       4.894239009343614
+_cell_length_c       6.027402877807617
+_cell_angle_alpha    89.70701122717787
+_cell_angle_beta     91.27278424698976
+_cell_angle_gamma    89.13353785199989
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.724739134311676  0.952816903591156  0.4192628264427185  1.0000
+  Co  Co2       1.0  0.7327234745025635  0.13605009019374847  0.10325523465871811  1.0000
+  Co  Co3       1.0  0.23252218961715698  0.5422219634056091  0.4820135831832886  1.0000
+  Co  Co4       1.0  0.2260551005601883  0.44095978140830994  0.8269121050834656  1.0000
+  Co  Co5       1.0  0.22982098162174225  0.9588109850883484  0.013029833324253559  1.0000
+  Pb  Pb1       1.0  0.2330084592103958  0.553214967250824  0.6548325419425964  1.0000
+  Pb  Pb2       1.0  0.7348456978797913  0.06804928183555603  0.10697919130325317  1.0000

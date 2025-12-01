@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al3GeI2
+_chemical_formula_sum              "Al3 Ge1 I2"
+_cell_length_a       4.4887041660612095
+_cell_length_b       3.9124131709312895
+_cell_length_c       6.276184558868408
+_cell_angle_alpha    97.54273495796662
+_cell_angle_beta     102.06387010881268
+_cell_angle_gamma    132.30201072849937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.06517674773931503  0.641356348991394  0.7696700692176819  1.0000
+  Al  Al2       1.0  0.7915330529212952  0.4873572587966919  0.9813439846038818  1.0000
+  Al  Al3       1.0  0.7415926456451416  0.6811100840568542  0.5731794834136963  1.0000
+  Ge  Ge1       1.0  0.7891808152198792  0.9127570986747742  0.4340653121471405  1.0000
+  I   I1        1.0  0.5558851361274719  0.2567134201526642  0.7802808284759521  1.0000
+  I   I2        1.0  0.3228117823600769  0.524546205997467  0.36114081740379333  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2Sb2ScTb2
+_chemical_formula_sum              "Cd2 Sb2 Sc1 Tb2"
+_cell_length_a       5.008959456733231
+_cell_length_b       7.408516065813292
+_cell_length_c       7.637814998626709
+_cell_angle_alpha    120.21613478658765
+_cell_angle_beta     88.57463960626758
+_cell_angle_gamma    94.15378273195424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5440433621406555  0.23871386051177979  0.949285626411438  1.0000
+  Cd  Cd2       1.0  0.0569528192281723  0.6605493426322937  0.13310541212558752  1.0000
+  Sb  Sb1       1.0  0.028600968420505524  0.9170449376106262  0.36229473352432257  1.0000
+  Sb  Sb2       1.0  0.04423290491104126  0.4297564923763275  0.1739827394485474  1.0000
+  Sc  Sc1       1.0  0.028463901951909065  0.9265890717506409  0.19787175953388214  1.0000
+  Tb  Tb1       1.0  0.785650372505188  0.4072015881538391  0.6143438816070557  1.0000
+  Tb  Tb2       1.0  0.5348947048187256  0.9339970946311951  0.6312847137451172  1.0000

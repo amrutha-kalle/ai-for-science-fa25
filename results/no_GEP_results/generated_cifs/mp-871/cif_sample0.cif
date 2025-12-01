@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe2ILuPPbPt
+_chemical_formula_sum              "Fe2 I1 Lu1 P1 Pb1 Pt1"
+_cell_length_a       6.166159170134595
+_cell_length_b       6.30152017518456
+_cell_length_c       6.4155731201171875
+_cell_angle_alpha    64.28204589678336
+_cell_angle_beta     64.26532338886058
+_cell_angle_gamma    60.705146947265476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.13191580772399902  0.2446151077747345  0.6808305382728578  1.0000
+  Fe  Fe2       1.0  0.6170850396156311  0.6270565986633301  0.03249355033040047  1.0000
+  I   I1        1.0  0.5373026132583618  0.9068846702575684  0.45976600050926214  1.0000
+  Lu  Lu1       1.0  0.7077390551567078  0.6524959206581116  0.38048565387725836  1.0000
+  P   P1        1.0  0.28075286746025085  0.11641383916139603  0.9809830188751222  1.0000
+  Pb  Pb1       1.0  0.9423956871032714  0.8640885353088379  0.8827680945396424  1.0000
+  Pt  Pt1       1.0  0.2860340178012848  0.8745344877243042  0.5994739532470703  1.0000

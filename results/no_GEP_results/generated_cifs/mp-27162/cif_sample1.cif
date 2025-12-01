@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoI2PSc3
+_chemical_formula_sum              "Co1 I2 P1 Sc3"
+_cell_length_a       4.408091602528339
+_cell_length_b       4.534920469321616
+_cell_length_c       8.77106761932373
+_cell_angle_alpha    89.27400189791823
+_cell_angle_beta     91.40848795110008
+_cell_angle_gamma    94.95641686611414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.9068193435668945  0.38060590624809265  0.29707005620002747  1.0000
+  I   I1        1.0  0.38578516244888306  0.04512600228190422  0.10059352219104767  1.0000
+  I   I2        1.0  0.8954563736915588  0.44182348251342773  0.5170767307281494  1.0000
+  P   P1        1.0  0.42264825105667114  0.8098714351654053  0.08309819549322128  1.0000
+  Sc  Sc1       1.0  0.899620771408081  0.671988308429718  0.4359860122203827  1.0000
+  Sc  Sc2       1.0  0.7458063960075378  0.4843507707118988  0.8500439524650574  1.0000
+  Sc  Sc3       1.0  0.40687108039855957  0.5920566916465759  0.15096741914749146  1.0000

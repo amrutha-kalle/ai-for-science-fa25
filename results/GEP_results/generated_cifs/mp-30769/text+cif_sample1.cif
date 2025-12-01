@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li6SiZn
+_chemical_formula_sum              "Li6 Si1 Zn1"
+_cell_length_a       4.314917543267154
+_cell_length_b       4.784391342284041
+_cell_length_c       9.026543617248535
+_cell_angle_alpha    91.20088425464176
+_cell_angle_beta     95.58847212884382
+_cell_angle_gamma    90.1778428141655
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.3233681917190552  0.017337912693619728  0.977471113204956  1.0000
+  Li  Li2       1.0  0.21647043526172638  0.25454866886138916  0.49862655997276306  1.0000
+  Li  Li3       1.0  0.9578319787979126  0.2635607123374939  0.5677977800369263  1.0000
+  Li  Li4       1.0  0.49982258677482605  0.7659202814102173  0.08113913238048553  1.0000
+  Li  Li5       1.0  0.3059759736061096  0.4774307608604431  0.7908424139022827  1.0000
+  Li  Li6       1.0  0.8149079084396362  0.5161522030830383  0.4940970540046692  1.0000
+  Si  Si1       1.0  0.014421540312469006  0.5265681743621826  0.9629283547401428  1.0000
+  Zn  Zn1       1.0  0.5998512506484985  0.035421594977378845  0.16813768446445465  1.0000

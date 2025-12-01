@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CsGeLi5P
+_chemical_formula_sum              "Cs1 Ge1 Li5 P1"
+_cell_length_a       6.13765042986503
+_cell_length_b       6.141344576560905
+_cell_length_c       6.219286918640137
+_cell_angle_alpha    62.30311779772141
+_cell_angle_beta     60.32534431105517
+_cell_angle_gamma    60.427799862654574
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.9524149298667908  0.8879960179328918  0.3505515456199646  1.0000
+  Ge  Ge1       1.0  0.446553111076355  0.4284694790840149  0.8388897180557251  1.0000
+  Li  Li1       1.0  0.47245147824287415  0.6768914461135864  0.0932965874671936  1.0000
+  Li  Li2       1.0  0.7914232611656189  0.37050697207450867  0.9366321563720703  1.0000
+  Li  Li3       1.0  0.43157342076301575  0.2139313817024231  0.8087453842163086  1.0000
+  Li  Li4       1.0  0.8930332064628601  0.16437451541423798  0.19489122927188873  1.0000
+  Li  Li5       1.0  0.3750235438346863  0.4253263771533966  0.5697923302650452  1.0000
+  P   P1        1.0  0.1599162518978119  0.6918761730194092  0.792782187461853  1.0000

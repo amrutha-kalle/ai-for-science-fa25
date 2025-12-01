@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al3GaRu2Zr
+_chemical_formula_sum              "Al3 Ga1 Ru2 Zr1"
+_cell_length_a       5.1747258031859635
+_cell_length_b       5.066456857964501
+_cell_length_c       4.6237406730651855
+_cell_angle_alpha    94.23644909211808
+_cell_angle_beta     105.45099706721395
+_cell_angle_gamma    115.06388376553411
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.910139799118042  0.3555263578891754  0.7866724133491516  1.0000
+  Al  Al2       1.0  0.511418879032135  0.5470569133758545  0.06145366281270981  1.0000
+  Al  Al3       1.0  0.5833556056022644  0.5370117425918579  0.022572452202439308  1.0000
+  Ga  Ga1       1.0  0.7792302370071411  0.07804086804389954  0.07105812430381775  1.0000
+  Ru  Ru1       1.0  0.19395649433135986  0.5292502045631409  0.483988881111145  1.0000
+  Ru  Ru2       1.0  0.9601797461509705  0.11344271898269653  0.6859846711158752  1.0000
+  Zr  Zr1       1.0  0.20630180835723877  0.3973712921142578  0.9102953672409058  1.0000

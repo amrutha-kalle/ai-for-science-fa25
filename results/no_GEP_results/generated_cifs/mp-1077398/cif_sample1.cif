@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ILiTb4Zn
+_chemical_formula_sum              "I1 Li1 Tb4 Zn1"
+_cell_length_a       4.528142013990662
+_cell_length_b       4.606562167962737
+_cell_length_c       7.889683246612549
+_cell_angle_alpha    92.08528720535317
+_cell_angle_beta     90.31889036118781
+_cell_angle_gamma    97.30817667759959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.3499256670475006  0.9459694623947144  0.5407241582870483  1.0000
+  Li  Li1       1.0  0.8457174301147461  0.7268436551094055  0.3497259318828583  1.0000
+  Tb  Tb1       1.0  0.8091961145401001  0.5121882557868958  0.8094508051872253  1.0000
+  Tb  Tb2       1.0  0.35433173179626465  0.7112221121788025  0.18349483609199524  1.0000
+  Tb  Tb3       1.0  0.8583318591117859  0.6883769631385803  0.46362632513046265  1.0000
+  Tb  Tb4       1.0  0.3192381262779236  0.002197082620114088  0.7882928252220154  1.0000
+  Zn  Zn1       1.0  0.32866141200065613  0.4647078216075897  0.025700397789478302  1.0000

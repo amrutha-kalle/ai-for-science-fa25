@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ge2ILiMoPPb
+_chemical_formula_sum              "Ge2 I1 Li1 Mo1 P1 Pb1"
+_cell_length_a       4.456845196064703
+_cell_length_b       2.365623151623855
+_cell_length_c       8.684283256530762
+_cell_angle_alpha    143.8854888032689
+_cell_angle_beta     98.26394173246733
+_cell_angle_gamma    117.83461898937014
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.28488075733184803  0.3514299690723416  0.7804813385009765  1.0000
+  Ge  Ge2       1.0  0.7397022247314451  0.8775749206542964  0.6051546335220336  1.0000
+  I   I1        1.0  0.2067660987377166  0.2979499995708462  0.513610005378723  1.0000
+  Li  Li1       1.0  0.44637468457221974  0.3949470818042753  0.4112465679645538  1.0000
+  Mo  Mo1       1.0  0.25745269656181313  0.9470580220222465  0.9414442777633666  1.0000
+  P   P1        1.0  0.1559606343507765  0.5910675525665278  0.5873228311538695  1.0000
+  Pb  Pb1       1.0  0.2621464431285858  0.38504788279533386  0.006755497772246585  1.0000

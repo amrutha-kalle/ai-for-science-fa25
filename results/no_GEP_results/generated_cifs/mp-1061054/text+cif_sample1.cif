@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge5Mg
+_chemical_formula_sum              "Ge5 Mg1"
+_cell_length_a       4.958838211053042
+_cell_length_b       4.725623037200778
+_cell_length_c       5.7591986656188965
+_cell_angle_alpha    98.64451954861859
+_cell_angle_beta     93.90633540905566
+_cell_angle_gamma    122.9382546396355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5048515200614929  0.015330318361520765  0.8005900382995605  1.0000
+  Ge  Ge2       1.0  0.7095925211906433  0.5263393521308899  0.26509764790534973  1.0000
+  Ge  Ge3       1.0  0.5919683575630187  0.8801869750022887  0.4475995898246765  1.0000
+  Ge  Ge4       1.0  0.9776017665863037  0.1796079576015472  0.01587517000734806  1.0000
+  Ge  Ge5       1.0  0.2335180640220642  0.2681008279323578  0.003061130875721574  1.0000
+  Mg  Mg1       1.0  0.03286554291844366  0.19290655851364133  0.6555265784263611  1.0000

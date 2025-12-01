@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoGe2SiTaTb2
+_chemical_formula_sum              "Co1 Ge2 Si1 Ta1 Tb2"
+_cell_length_a       3.949595753532165
+_cell_length_b       4.7412634653343515
+_cell_length_c       7.150182723999023
+_cell_angle_alpha    108.62500811838892
+_cell_angle_beta     91.92946586844113
+_cell_angle_gamma    88.4378554364753
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7291388511657715  0.9435511231422424  0.36734613776206976  1.0000
+  Ge  Ge1       1.0  0.22527220845222473  0.4373082220554352  0.5981085300445557  1.0000
+  Ge  Ge2       1.0  0.2293749749660492  0.18406440317630768  0.7961815595626832  1.0000
+  Si  Si1       1.0  0.7291026711463928  0.44121748208999634  0.0884726196527481  1.0000
+  Ta  Ta1       1.0  0.7262910008430481  0.9416577816009521  0.8004636764526368  1.0000
+  Tb  Tb1       1.0  0.7279009819030762  0.9286612868309021  0.08079712837934491  1.0000
+  Tb  Tb2       1.0  0.2300506830215454  0.4466758668422699  0.11248621344566347  1.0000

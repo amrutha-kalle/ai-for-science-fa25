@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ag3Al4S2
+_chemical_formula_sum              "Ag3 Al4 S2"
+_cell_length_a       4.981696822910753
+_cell_length_b       5.274631038172984
+_cell_length_c       6.2228922843933105
+_cell_angle_alpha    117.84598987399114
+_cell_angle_beta     109.63572206026052
+_cell_angle_gamma    87.49698217890952
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9171129465103149  0.5851904153823853  0.23147040605545044  1.0000
+  Ag  Ag2       1.0  0.43451398611068726  0.10838644206523895  0.0435636043548584  1.0000
+  Ag  Ag3       1.0  0.8961585164070129  0.84135901927948  0.806317150592804  1.0000
+  Al  Al1       1.0  0.4667520821094513  0.033295709639787674  0.44003939628601074  1.0000
+  Al  Al2       1.0  0.21043752133846283  0.17413429915905  0.5047891736030579  1.0000
+  Al  Al3       1.0  0.8785783648490906  0.12710975110530853  0.2545783817768097  1.0000
+  Al  Al4       1.0  0.6252182722091675  0.15147511661052704  0.29886138439178467  1.0000
+  S   S1        1.0  0.9693117141723633  0.7694722414016724  0.23605914413928986  1.0000
+  S   S2        1.0  0.4308565557003021  0.5719706416130066  0.9817491769790648  1.0000

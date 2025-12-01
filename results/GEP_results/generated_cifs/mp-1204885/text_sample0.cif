@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MgPb5Tm
+_chemical_formula_sum              "Mg1 Pb5 Tm1"
+_cell_length_a       6.334483280151728
+_cell_length_b       6.044083109097422
+_cell_length_c       6.243486404418945
+_cell_angle_alpha    141.59541214624446
+_cell_angle_beta     117.63698246732973
+_cell_angle_gamma    86.56965161289027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9757464528083801  0.09881813824176787  0.5130846500396729  1.0000
+  Pb  Pb1       1.0  0.8624648451805115  0.5541034340858461  0.27484083175659185  1.0000
+  Pb  Pb2       1.0  0.6207271218299866  0.6429762244224548  0.130627989768982  1.0000
+  Pb  Pb3       1.0  0.3578357398509979  0.8819133043289185  0.41031163930892955  1.0000
+  Pb  Pb4       1.0  0.1326071172952652  0.27049383521080017  0.8583089709281921  1.0000
+  Pb  Pb5       1.0  0.6165420413017273  0.6909353733062744  0.8703590035438538  1.0000
+  Tm  Tm1       1.0  0.9875585436820984  0.8194825053215027  0.24823954701423656  1.0000

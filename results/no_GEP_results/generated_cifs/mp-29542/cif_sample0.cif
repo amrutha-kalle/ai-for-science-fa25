@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GeI2O3PPbSc
+_chemical_formula_sum              "Ge1 I2 O3 P1 Pb1 Sc1"
+_cell_length_a       5.241197006401506
+_cell_length_b       5.694351830288939
+_cell_length_c       10.653827667236328
+_cell_angle_alpha    90.06456382771307
+_cell_angle_beta     90.7057275206059
+_cell_angle_gamma    101.28181590364278
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9570087790489197  0.5616175532341003  0.6645259261131287  1.0000
+  I   I1        1.0  0.9961695671081543  0.7949849963188171  0.7294567823410034  1.0000
+  I   I2        1.0  0.4834194481372833  0.4017024636268616  0.20047684013843536  1.0000
+  O   O1        1.0  0.7297989726066589  0.6841840147972107  0.635165274143219  1.0000
+  O   O2        1.0  0.321046382188797  0.13587026298046112  0.49889642000198364  1.0000
+  O   O3        1.0  0.36523139476776123  0.5929493308067322  0.3193039894104004  1.0000
+  P   P1        1.0  0.47105705738067627  0.42373761534690857  0.7579692006111145  1.0000
+  Pb  Pb1       1.0  0.9607449173927307  0.6727243065834045  0.6732868552207947  1.0000
+  Sc  Sc1       1.0  0.9620593786239624  0.1800217181444168  0.6628668308258057  1.0000

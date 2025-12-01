@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg2Mn4Tb
+_chemical_formula_sum              "Mg2 Mn4 Tb1"
+_cell_length_a       5.400536804576336
+_cell_length_b       5.581234317355717
+_cell_length_c       5.704980373382568
+_cell_angle_alpha    62.0535243074424
+_cell_angle_beta     62.6802897400504
+_cell_angle_gamma    59.50593059374348
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.9724791049957275  0.188467875123024  0.5430783033370972  1.0000
+  Mg  Mg2       1.0  0.3758884370326996  0.5639402270317078  0.5427785515785217  1.0000
+  Mn  Mn1       1.0  0.874943733215332  0.4252314269542694  0.8124301433563232  1.0000
+  Mn  Mn2       1.0  0.3769546449184418  0.8038471937179565  0.5661189556121826  1.0000
+  Mn  Mn3       1.0  0.8556960225105286  0.30611568689346313  0.05844483897089958  1.0000
+  Mn  Mn4       1.0  0.8677265644073486  0.9275561571121216  0.5754666328430176  1.0000
+  Tb  Tb1       1.0  0.3815697133541107  0.4431992769241333  0.1533960998058319  1.0000

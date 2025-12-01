@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsIMgMn4
+_chemical_formula_sum              "As1 I1 Mg1 Mn4"
+_cell_length_a       4.7093011928595425
+_cell_length_b       5.535303195817282
+_cell_length_c       6.038867950439453
+_cell_angle_alpha    92.22603978496004
+_cell_angle_beta     91.44746744347468
+_cell_angle_gamma    110.06044325166516
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5230011940002441  0.5785163044929504  0.8253054618835448  1.0000
+  I   I1        1.0  0.18603895604610443  0.25755345821380615  0.03784586116671562  1.0000
+  Mg  Mg1       1.0  0.6870724558830261  0.08587884902954102  0.6339641213417053  1.0000
+  Mn  Mn1       1.0  0.9001233577728271  0.8004286885261536  0.12501570582389832  1.0000
+  Mn  Mn2       1.0  0.18012061715126038  0.3591601550579071  0.2992877960205078  1.0000
+  Mn  Mn3       1.0  0.8943732976913452  0.16753648221492767  0.5092740654945374  1.0000
+  Mn  Mn4       1.0  0.695461094379425  0.8046131730079651  0.4403670728206634  1.0000

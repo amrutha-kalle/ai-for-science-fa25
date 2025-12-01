@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BBaClCo3SiYYb
+_chemical_formula_sum              "B1 Ba1 Cl1 Co3 Si1 Y1 Yb1"
+_cell_length_a       4.269627637011702
+_cell_length_b       5.608723308371277
+_cell_length_c       6.820836544036865
+_cell_angle_alpha    117.85731114630748
+_cell_angle_beta     95.6876440199028
+_cell_angle_gamma    88.4782367037879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.5454829335212708  0.9159857034683226  0.5796508193016051  1.0000
+  Ba  Ba1       1.0  0.06965354084968567  0.5745233297348022  0.543705403804779  1.0000
+  Cl  Cl1       1.0  0.3836938142776489  0.9573993086814879  0.27533462643623346  1.0000
+  Co  Co1       1.0  0.12033183127641678  0.9540786147117614  0.7298694849014282  1.0000
+  Co  Co2       1.0  0.11534122377634048  0.6939300298690796  0.14858411252498624  1.0000
+  Co  Co3       1.0  0.08879005908966064  0.46769174933433527  0.6598944067955017  1.0000
+  Si  Si1       1.0  0.5973637104034424  0.6719285249710083  0.7975670695304871  1.0000
+  Y   Y1        1.0  0.853905200958252  0.16130280494689941  0.2133329212665558  1.0000
+  Yb  Yb1       1.0  0.8524454832077026  0.17943722009658813  0.8886187076568604  1.0000

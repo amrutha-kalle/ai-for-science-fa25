@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       IMg3Tb3
+_chemical_formula_sum              "I1 Mg3 Tb3"
+_cell_length_a       6.43817551830457
+_cell_length_b       6.164341504489935
+_cell_length_c       8.539531707763672
+_cell_angle_alpha    70.38736357043885
+_cell_angle_beta     70.01197002961621
+_cell_angle_gamma    61.08293833372608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.15507373213768005  0.47348323464393616  0.6941252946853638  1.0000
+  Mg  Mg1       1.0  0.536022961139679  0.7646262645721436  0.05773889273405075  1.0000
+  Mg  Mg2       1.0  0.7589443922042847  0.8179979920387268  0.33589115738868713  1.0000
+  Mg  Mg3       1.0  0.0038119442760944366  0.44094187021255493  0.8622509241104126  1.0000
+  Tb  Tb1       1.0  0.7449389696121216  0.2521247863769531  0.1945188045501709  1.0000
+  Tb  Tb2       1.0  0.16499216854572296  0.40802696347236633  0.9778018593788147  1.0000
+  Tb  Tb3       1.0  0.25288257002830505  0.8044705986976624  0.9710440039634705  1.0000

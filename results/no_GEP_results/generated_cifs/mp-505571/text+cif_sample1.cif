@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ClMn4NNpPbPrZn
+_chemical_formula_sum              "Cl1 Mn4 N1 Np1 Pb1 Pr1 Zn1"
+_cell_length_a       6.110676502786272
+_cell_length_b       6.008337407745326
+_cell_length_c       6.828762531280518
+_cell_angle_alpha    63.69435868542007
+_cell_angle_beta     63.23490781218251
+_cell_angle_gamma    60.910613923667235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.01671755313873291  0.09484624117612839  0.12974947690963745  1.0000
+  Mn  Mn1       1.0  0.8537532091140747  0.5405383110046387  0.13931061327457434  1.0000
+  Mn  Mn2       1.0  0.8396010994911194  0.3938349187374115  0.8953188061714172  1.0000
+  Mn  Mn3       1.0  0.37092795968055725  0.2435665726661682  0.3940776586532593  1.0000
+  Mn  Mn4       1.0  0.5128247737884521  0.7604390978813171  0.23621375858783722  1.0000
+  N   N1        1.0  0.04643552750349045  0.4207616448402405  0.21457123756408691  1.0000
+  Np  Np1       1.0  0.6801545023918152  0.4705713987350464  0.10659727454185486  1.0000
+  Pb  Pb1       1.0  0.35538074374198914  0.5488165020942688  0.5403210520744324  1.0000
+  Pr  Pr1       1.0  0.4048537313938141  0.13796314597129822  0.423308789730072  1.0000
+  Zn  Zn1       1.0  0.03308465704321861  0.8346256017684937  0.8076772689819336  1.0000

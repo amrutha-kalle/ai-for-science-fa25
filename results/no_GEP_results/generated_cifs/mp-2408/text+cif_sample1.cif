@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsGa3HVZn
+_chemical_formula_sum              "As1 Ga3 H1 V1 Zn1"
+_cell_length_a       3.857855840636258
+_cell_length_b       3.334594741841724
+_cell_length_c       5.714650630950928
+_cell_angle_alpha    127.68877536044927
+_cell_angle_beta     87.64708008187799
+_cell_angle_gamma    94.63138741036201
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8447665572166443  0.3883272409439087  0.3709733188152313  1.0000
+  Ga  Ga1       1.0  0.4555918574333191  0.0688580870628357  0.2684556841850281  1.0000
+  Ga  Ga2       1.0  0.49092522263526917  0.8178958296775818  0.9658123850822449  1.0000
+  Ga  Ga3       1.0  0.47411686182022095  0.8535493016242981  0.10479402542114254  1.0000
+  H   H1        1.0  0.9612476825714111  0.9074952602386473  0.7569308280944824  1.0000
+  V   V1        1.0  0.40971437096595764  0.43807536363601685  0.5625079274177551  1.0000
+  Zn  Zn1       1.0  0.9306900501251221  0.4674422740936279  0.988714873790741  1.0000

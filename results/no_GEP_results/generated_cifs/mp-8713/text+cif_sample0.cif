@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaK3PtS3V
+_chemical_formula_sum              "Ca1 K3 Pt1 S3 V1"
+_cell_length_a       5.581579688978715
+_cell_length_b       6.146080786679468
+_cell_length_c       7.30757999420166
+_cell_angle_alpha    114.10746176234844
+_cell_angle_beta     88.98822923060264
+_cell_angle_gamma    89.45353020803658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.021012021228671074  0.7618935108184814  0.9841643571853637  1.0000
+  K   K1        1.0  0.5247431993484497  0.09158091247081757  0.28500288724899286  1.0000
+  K   K2        1.0  0.02084207907319069  0.09910585731267929  0.4697847664356231  1.0000
+  K   K3        1.0  0.014077853411436081  0.2651671767234802  0.3292500972747802  1.0000
+  Pt  Pt1       1.0  0.5343639254570007  0.3736942708492279  0.19285514950752258  1.0000
+  S   S1        1.0  0.012565241195261478  0.4818570613861084  0.9692248106002807  1.0000
+  S   S2        1.0  0.29670852422714233  0.03851516172289848  0.17113529145717618  1.0000
+  S   S3        1.0  0.5184450149536133  0.3542090952396393  0.7221040725708007  1.0000
+  V   V1        1.0  0.5215868949890137  0.0311308354139328  0.5539979934692383  1.0000

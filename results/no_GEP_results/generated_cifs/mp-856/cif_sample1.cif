@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       IOSbVZn2
+_chemical_formula_sum              "I1 O1 Sb1 V1 Zn2"
+_cell_length_a       4.7399455391515355
+_cell_length_b       4.749084637835934
+_cell_length_c       5.789286136627197
+_cell_angle_alpha    104.51242081817261
+_cell_angle_beta     89.70331313358862
+_cell_angle_gamma    89.44670230034392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.07600939273834229  0.6832378506660461  0.3317033052444458  1.0000
+  O   O1        1.0  0.08775090426206589  0.983748495578766  0.7697307467460632  1.0000
+  Sb  Sb1       1.0  0.082976333796978  0.10827160626649857  0.6671234965324402  1.0000
+  V   V1        1.0  0.5878378748893738  0.8643808960914612  0.28129458427429205  1.0000
+  Zn  Zn1       1.0  0.5802414417266846  0.681820273399353  0.4009464383125305  1.0000
+  Zn  Zn2       1.0  0.5886704921722412  0.5700468420982361  0.13272871077060702  1.0000

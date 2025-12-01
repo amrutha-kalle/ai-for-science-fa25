@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClGa3Mg2V
+_chemical_formula_sum              "Cl1 Ga3 Mg2 V1"
+_cell_length_a       5.536830682542001
+_cell_length_b       5.987746146051402
+_cell_length_c       5.954676628112793
+_cell_angle_alpha    63.86974557932009
+_cell_angle_beta     61.712791098034664
+_cell_angle_gamma    61.267664003592024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.5200974941253662  0.9554792642593384  0.7406231164932251  1.0000
+  Ga  Ga1       1.0  0.15363211929798126  0.9606927037239075  0.7503830790519714  1.0000
+  Ga  Ga2       1.0  0.6452032327651978  0.3534250855445862  0.9182918071746826  1.0000
+  Ga  Ga3       1.0  0.13199548423290253  0.350882887840271  0.6392594575881958  1.0000
+  Mg  Mg1       1.0  0.7709478139877319  0.6073029637336731  0.7327394485473633  1.0000
+  Mg  Mg2       1.0  0.14593736827373505  0.6055849194526672  0.9891238212585449  1.0000
+  V   V1        1.0  0.7682279944419861  0.10070925205945969  0.22878322005271912  1.0000

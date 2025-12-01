@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsILaP2TiV3
+_chemical_formula_sum              "As1 I1 La1 P2 Ti1 V3"
+_cell_length_a       4.788184376224722
+_cell_length_b       4.83448170615226
+_cell_length_c       6.441258907318115
+_cell_angle_alpha    90.86862669801229
+_cell_angle_beta     92.37951422034686
+_cell_angle_gamma    103.23285347375786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.564398467540741  0.8359447121620178  0.7712823748588562  1.0000
+  I   I1        1.0  0.5689398050308228  0.8284896016120911  0.22083957493305206  1.0000
+  La  La1       1.0  0.205160453915596  0.9453690052032471  0.027803847566246986  1.0000
+  P   P1        1.0  0.5475808382034302  0.9201576709747314  0.4227764904499054  1.0000
+  P   P2        1.0  0.09145811200141907  0.4298860430717468  0.8426424264907837  1.0000
+  Ti  Ti1       1.0  0.8949962854385376  0.7304136753082275  0.33825913071632385  1.0000
+  V   V1        1.0  0.2401869297027588  0.05740061402320862  0.6250105500221252  1.0000
+  V   V2        1.0  0.04390411823987961  0.945331871509552  0.9093759059906006  1.0000
+  V   V3        1.0  0.6162864565849304  0.45935407280921936  0.8695201873779297  1.0000

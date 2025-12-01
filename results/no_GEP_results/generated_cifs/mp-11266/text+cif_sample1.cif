@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba3CdTb2Zn
+_chemical_formula_sum              "Ba3 Cd1 Tb2 Zn1"
+_cell_length_a       4.884579363849233
+_cell_length_b       6.003721548411981
+_cell_length_c       9.193367004394531
+_cell_angle_alpha    119.92562855419897
+_cell_angle_beta     92.90749192102427
+_cell_angle_gamma    93.20832006062979
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.345628947019577  0.17576178908348083  0.8179751038551331  1.0000
+  Ba  Ba2       1.0  0.3487832546234131  0.4388884305953979  0.45592430233955383  1.0000
+  Ba  Ba3       1.0  0.8462473750114441  0.6030720472335815  0.8431465029716492  1.0000
+  Cd  Cd1       1.0  0.35007962584495544  0.6919558048248291  0.2657119333744049  1.0000
+  Tb  Tb1       1.0  0.8489127159118652  0.7282518744468689  0.4477229416370392  1.0000
+  Tb  Tb2       1.0  0.8474274277687073  0.8744786381721495  0.3885715007781983  1.0000
+  Zn  Zn1       1.0  0.34954744577407837  0.4214383959770202  0.1043214201927185  1.0000

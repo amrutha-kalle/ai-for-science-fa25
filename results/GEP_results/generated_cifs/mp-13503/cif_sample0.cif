@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sc4Zn3
+_chemical_formula_sum              "Sc4 Zn3"
+_cell_length_a       4.495904685527087
+_cell_length_b       5.218028820272278
+_cell_length_c       7.828149795532227
+_cell_angle_alpha    114.9010579310547
+_cell_angle_beta     95.22962934321399
+_cell_angle_gamma    93.55550441994299
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.245046004652977  0.555188775062561  0.39654675126075745  1.0000
+  Sc  Sc2       1.0  0.6262760758399963  0.7615459561347961  0.46612823009490967  1.0000
+  Sc  Sc3       1.0  0.6963160634040833  0.002904968336224556  0.3297254145145416  1.0000
+  Sc  Sc4       1.0  0.1345166712999344  0.2771226763725281  0.04421871528029442  1.0000
+  Zn  Zn1       1.0  0.6814396977424622  0.6937418580055237  0.8194519281387329  1.0000
+  Zn  Zn2       1.0  0.6449347734451294  0.24118325114250183  0.7319718599319458  1.0000
+  Zn  Zn3       1.0  0.1333727091550827  0.282831609249115  0.05399414896965027  1.0000

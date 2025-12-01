@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoGa3KUV
+_chemical_formula_sum              "Co1 Ga3 K1 U1 V1"
+_cell_length_a       4.475925547514975
+_cell_length_b       5.446274526209758
+_cell_length_c       6.471010208129883
+_cell_angle_alpha    90.24853271789767
+_cell_angle_beta     90.6968359591641
+_cell_angle_gamma    94.05288423949649
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5625641942024231  0.40311485528945923  0.7047777771949768  1.0000
+  Ga  Ga1       1.0  0.06590846925973892  0.5927317142486572  0.708160400390625  1.0000
+  Ga  Ga2       1.0  0.06483014672994614  0.4728148579597473  0.09558882564306259  1.0000
+  Ga  Ga3       1.0  0.5624732375144958  0.9497110247612  0.2146369367837906  1.0000
+  K   K1        1.0  0.05795373022556305  0.9976685643196106  0.9291743040084839  1.0000
+  U   U1        1.0  0.5621449947357178  0.47014835476875305  0.07606729865074158  1.0000
+  V   V1        1.0  0.0536687970161438  0.39728087186813354  0.9242569208145142  1.0000

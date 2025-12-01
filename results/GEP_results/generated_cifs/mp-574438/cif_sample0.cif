@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       RhRu4SiTl
+_chemical_formula_sum              "Rh1 Ru4 Si1 Tl1"
+_cell_length_a       4.3929087537368865
+_cell_length_b       4.781429180187426
+_cell_length_c       6.583345413208008
+_cell_angle_alpha    103.48366004266327
+_cell_angle_beta     104.86129353507327
+_cell_angle_gamma    90.29693356774489
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.6480595469474792  0.07590249925851822  0.536902129650116  1.0000
+  Ru  Ru1       1.0  0.8572691082954407  0.8673784732818604  0.0638842731714249  1.0000
+  Ru  Ru2       1.0  0.15909047424793243  0.5724983811378479  0.603073000907898  1.0000
+  Ru  Ru3       1.0  0.8232037425041199  0.5503408312797546  0.06473308056592941  1.0000
+  Ru  Ru4       1.0  0.9043804407119751  0.35698628425598145  0.1378597468137741  1.0000
+  Si  Si1       1.0  0.1102731004357338  0.07254593074321747  0.8955262899398804  1.0000
+  Tl  Tl1       1.0  0.35200008749961853  0.07683435827493668  0.7419484853744507  1.0000

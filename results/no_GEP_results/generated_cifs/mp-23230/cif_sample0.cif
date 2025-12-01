@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeIP3Pt
+_chemical_formula_sum              "Ge1 I1 P3 Pt1"
+_cell_length_a       4.3550444834730655
+_cell_length_b       5.047666810353369
+_cell_length_c       6.831042289733887
+_cell_angle_alpha    88.10176863347893
+_cell_angle_beta     86.15112569781465
+_cell_angle_gamma    71.8089666682331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5777397751808167  0.5980590581893921  0.8984945416450502  1.0000
+  I   I1        1.0  0.18882763385772705  0.5369429588317871  0.5007731914520264  1.0000
+  P   P1        1.0  0.02291237562894821  0.13016866147518158  0.8123963475227357  1.0000
+  P   P2        1.0  0.07439593970775604  0.7344330549240112  0.2789528965950012  1.0000
+  P   P3        1.0  0.6339942812919617  0.9147896766662598  0.443314403295517  1.0000
+  Pt  Pt1       1.0  0.5583587288856506  0.5835288763046265  0.31679844856262207  1.0000

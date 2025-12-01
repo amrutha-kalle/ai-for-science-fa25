@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlBDy2Tl3
+_chemical_formula_sum              "Al1 B1 Dy2 Tl3"
+_cell_length_a       4.227180598907056
+_cell_length_b       5.158385802501909
+_cell_length_c       5.224931716918945
+_cell_angle_alpha    120.79236805108287
+_cell_angle_beta     90.15212621553691
+_cell_angle_gamma    86.656991144727
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9440410137176514  0.19036869704723358  0.9381493926048279  1.0000
+  B   B1        1.0  0.9428508281707764  0.43967029452323914  0.4410187304019928  1.0000
+  Dy  Dy1       1.0  0.45449426770210266  0.6741428375244141  0.5762098431587219  1.0000
+  Dy  Dy2       1.0  0.4438198506832123  0.6243969798088074  0.4322989583015442  1.0000
+  Tl  Tl1       1.0  0.43441182374954224  0.31923896074295044  0.8536483645439148  1.0000
+  Tl  Tl2       1.0  0.94184410572052  0.9470493793487549  0.3338957726955414  1.0000
+  Tl  Tl3       1.0  0.4336451590061188  0.9419740438461304  0.4391704499721527  1.0000

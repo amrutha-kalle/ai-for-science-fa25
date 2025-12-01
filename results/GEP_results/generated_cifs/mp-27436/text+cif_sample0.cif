@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaBrCaCl3P
+_chemical_formula_sum              "Ba1 Br1 Ca1 Cl3 P1"
+_cell_length_a       5.870755792189818
+_cell_length_b       7.690417850764824
+_cell_length_c       7.7644171714782715
+_cell_angle_alpha    121.08910267097313
+_cell_angle_beta     91.34204559915737
+_cell_angle_gamma    89.57398365120967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6916147470474243  0.7129459977149963  0.632568359375  1.0000
+  Br  Br1       1.0  0.4257179796695709  0.4842448830604553  0.19093897938728333  1.0000
+  Ca  Ca1       1.0  0.686779260635376  0.2450457662343979  0.8324385285377502  1.0000
+  Cl  Cl1       1.0  0.18804308772087097  0.5740968585014343  0.34543079137802124  1.0000
+  Cl  Cl2       1.0  0.7018669843673706  0.4920628070831299  0.17389599978923798  1.0000
+  Cl  Cl3       1.0  0.19886936247348785  0.03465737774968147  0.11051575839519501  1.0000
+  P   P1        1.0  0.7109317779541016  0.8480039834976196  0.08481000363826752  1.0000

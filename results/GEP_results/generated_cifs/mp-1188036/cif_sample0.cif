@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaHoNi5ZnZr2
+_chemical_formula_sum              "Ga1 Ho1 Ni5 Zn1 Zr2"
+_cell_length_a       5.473716376601972
+_cell_length_b       5.698089672378945
+_cell_length_c       6.476548671722412
+_cell_angle_alpha    64.0554326039588
+_cell_angle_beta     63.51016819116713
+_cell_angle_gamma    61.62344432096265
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.31895890831947327  0.37462201714515686  0.8140838146209717  1.0000
+  Ho  Ho1       1.0  0.41165247559547424  0.5499494671821594  0.5264800786972046  1.0000
+  Ni  Ni1       1.0  0.407646507024765  0.06559700518846512  0.07440713047981262  1.0000
+  Ni  Ni2       1.0  0.4059118628501892  0.8759320378303528  0.7580143809318542  1.0000
+  Ni  Ni3       1.0  0.7886301875114441  0.02433791570365429  0.029377002269029652  1.0000
+  Ni  Ni4       1.0  0.08469977229833603  0.3662879168987274  0.5194827318191528  1.0000
+  Ni  Ni5       1.0  0.42191651463508606  0.8602400422096252  0.528502345085144  1.0000
+  Zn  Zn1       1.0  0.788922131061554  0.8552682995796204  0.3106468617916107  1.0000
+  Zr  Zr1       1.0  0.7724822759628296  0.12786690890789032  0.862481415271759  1.0000
+  Zr  Zr2       1.0  0.7727931141853333  0.377002090215683  0.9528466463088989  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba4OZnZr
+_chemical_formula_sum              "Ba4 O1 Zn1 Zr1"
+_cell_length_a       5.155931214950928
+_cell_length_b       4.853111037782401
+_cell_length_c       9.35531234741211
+_cell_angle_alpha    93.56306965336087
+_cell_angle_beta     92.51116304275833
+_cell_angle_gamma    128.04113815033048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.34733831882476807  0.2939687669277191  0.6445209980010986  1.0000
+  Ba  Ba2       1.0  0.8590943217277527  0.2360856533050537  0.8391039371490479  1.0000
+  Ba  Ba3       1.0  0.3737776279449463  0.06607716530561447  0.24017027020454407  1.0000
+  Ba  Ba4       1.0  0.847477376461029  0.7662646174430847  0.04054946452379227  1.0000
+  O   O1        1.0  0.7347868084907532  0.7018187046051025  0.3658287227153778  1.0000
+  Zn  Zn1       1.0  0.7260389924049377  0.16017547249794006  0.16848671436309814  1.0000
+  Zr  Zr1       1.0  0.3879384994506836  0.13971352577209473  0.814271867275238  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hg7
+_chemical_formula_sum              "Hg7"
+_cell_length_a       7.826182589622163
+_cell_length_b       7.783968848317036
+_cell_length_c       8.666741371154785
+_cell_angle_alpha    115.8986038282375
+_cell_angle_beta     105.4509406477332
+_cell_angle_gamma    107.91655421230571
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.3640258610248565  0.3828308880329132  0.6682419180870056  1.0000
+  Hg  Hg2       1.0  0.8421509861946105  0.056025631725788116  0.7782198190689087  1.0000
+  Hg  Hg3       1.0  0.3533639311790466  0.19718454778194427  0.5425163507461548  1.0000
+  Hg  Hg4       1.0  0.8439161181449889  0.4379502832889557  0.6564345955848694  1.0000
+  Hg  Hg5       1.0  0.862201690673828  0.5117374658584595  0.5821017026901245  1.0000
+  Hg  Hg6       1.0  0.35674220323562617  0.1896182745695114  0.8018053770065308  1.0000
+  Hg  Hg7       1.0  0.8586001992225646  0.34845730662345886  0.09104134142398834  1.0000

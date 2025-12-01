@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlBaCsGaV2
+_chemical_formula_sum              "Al1 Ba1 Cs1 Ga1 V2"
+_cell_length_a       3.1678647622345846
+_cell_length_b       5.766192700436111
+_cell_length_c       6.201968669891357
+_cell_angle_alpha    120.06590310766434
+_cell_angle_beta     84.91795423519622
+_cell_angle_gamma    92.63311715044945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.28859710693359375  0.6944240927696228  0.15048788487911227  1.0000
+  Ba  Ba1       1.0  0.7655805349349976  0.48434311151504517  0.634459376335144  1.0000
+  Cs  Cs1       1.0  0.290199339389801  0.6190032362937927  0.6632871627807617  1.0000
+  Ga  Ga1       1.0  0.8005318641662598  0.11703544110059738  0.17358066141605377  1.0000
+  V   V1        1.0  0.7884835004806519  0.9796702861785889  0.42002779245376587  1.0000
+  V   V2        1.0  0.2907683849334717  0.46442949771881104  0.018607255071401596  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HIIrPPbPtTl
+_chemical_formula_sum              "H1 I1 Ir1 P1 Pb1 Pt1 Tl1"
+_cell_length_a       4.556303880901704
+_cell_length_b       4.321012709014044
+_cell_length_c       4.580205917358398
+_cell_angle_alpha    57.244677421112776
+_cell_angle_beta     60.89751149893564
+_cell_angle_gamma    69.1194252473141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.15325859189033506  0.6181442737579346  0.21609805524349213  1.0000
+  I   I1        1.0  0.8847190737724303  0.6079559922218323  0.4257340729236603  1.0000
+  Ir  Ir1       1.0  0.40121918916702265  0.03559364750981331  0.13342687487602237  1.0000
+  P   P1        1.0  0.8982337117195128  0.9188006520271302  0.664019763469696  1.0000
+  Pb  Pb1       1.0  0.41261675953865046  0.12071969360113145  0.6905295848846436  1.0000
+  Pt  Pt1       1.0  0.913891851902008  0.07810726016759872  0.6014716625213623  1.0000
+  Tl  Tl1       1.0  0.6314637660980223  0.9110363125801088  0.808829128742218  1.0000

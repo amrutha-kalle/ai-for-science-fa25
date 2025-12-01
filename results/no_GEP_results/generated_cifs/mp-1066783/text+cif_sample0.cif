@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsPbZr5
+_chemical_formula_sum              "As1 Pb1 Zr5"
+_cell_length_a       5.329339414237082
+_cell_length_b       6.016354402428869
+_cell_length_c       9.076094627380371
+_cell_angle_alpha    121.08685756698249
+_cell_angle_beta     90.06774015280935
+_cell_angle_gamma    89.46996290440131
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.2900104820728302  0.02107926458120346  0.939612627029419  1.0000
+  Pb  Pb1       1.0  0.2383437603712082  0.47243186831474304  0.026912238448858237  1.0000
+  Zr  Zr1       1.0  0.7587409615516663  0.8513690829277039  0.01920510083436961  1.0000
+  Zr  Zr2       1.0  0.2499145120382309  0.6340083479881287  0.6613407731056212  1.0000
+  Zr  Zr3       1.0  0.47722432017326355  0.8922902345657349  0.7036493420600891  1.0000
+  Zr  Zr4       1.0  0.7577608227729797  0.037790849804878235  0.1984340250492096  1.0000
+  Zr  Zr5       1.0  0.7547508478164673  0.1325884461402893  0.5951163172721863  1.0000

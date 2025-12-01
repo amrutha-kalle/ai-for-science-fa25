@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ru4SnTlU
+_chemical_formula_sum              "Ru4 Sn1 Tl1 U1"
+_cell_length_a       4.479373283513977
+_cell_length_b       6.218685838501651
+_cell_length_c       5.646440029144287
+_cell_angle_alpha    130.3054614213172
+_cell_angle_beta     91.40335542104192
+_cell_angle_gamma    91.26553274880646
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.3163760304450989  0.9417518973350525  0.7631703615188599  1.0000
+  Ru  Ru2       1.0  0.8325417637825012  0.27041441202163696  0.9439334869384766  1.0000
+  Ru  Ru3       1.0  0.8330731391906738  0.8097757697105408  0.1743071973323822  1.0000
+  Ru  Ru4       1.0  0.8140791058540344  0.5698196887969971  0.2461990863084793  1.0000
+  Sn  Sn1       1.0  0.3314775228500366  0.1718016117811203  0.8553820252418518  1.0000
+  Tl  Tl1       1.0  0.3294585049152374  0.7649273872375488  0.8175939917564392  1.0000
+  U   U1        1.0  0.8231942057609558  0.29712218046188354  0.5716750621795654  1.0000

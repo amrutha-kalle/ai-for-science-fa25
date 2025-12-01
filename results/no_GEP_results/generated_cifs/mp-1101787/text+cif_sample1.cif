@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LaSi5Zn
+_chemical_formula_sum              "La1 Si5 Zn1"
+_cell_length_a       4.551353445738003
+_cell_length_b       3.757029362866092
+_cell_length_c       7.445140838623047
+_cell_angle_alpha    121.09474164698578
+_cell_angle_beta     112.6534038465019
+_cell_angle_gamma    88.01484460013127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.2450120747089386  0.6415340304374695  0.8703327775001525  1.0000
+  Si  Si1       1.0  0.12201035022735596  0.8825026750564575  0.27426412701606756  1.0000
+  Si  Si2       1.0  0.13711503148078918  0.40951302647590637  0.12026538699865343  1.0000
+  Si  Si3       1.0  0.757538914680481  0.5815460085868835  0.5904485583305359  1.0000
+  Si  Si4       1.0  0.07965926826000214  0.6911876201629639  0.37758231163024897  1.0000
+  Si  Si5       1.0  0.10741464048624039  0.907484233379364  0.040985044091939954  1.0000
+  Zn  Zn1       1.0  0.6223152875900269  0.3466300070285797  0.13777248561382294  1.0000

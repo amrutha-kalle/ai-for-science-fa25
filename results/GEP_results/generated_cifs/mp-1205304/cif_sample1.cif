@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       O3PTi4Zn
+_chemical_formula_sum              "O3 P1 Ti4 Zn1"
+_cell_length_a       5.168119178815667
+_cell_length_b       5.483384232164362
+_cell_length_c       6.343416690826416
+_cell_angle_alpha    111.25705722931365
+_cell_angle_beta     110.31957343666812
+_cell_angle_gamma    99.03347268148545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.2982238829135895  0.9964236617088318  0.351654052734375  1.0000
+  O   O2        1.0  0.43949583172798157  0.47671908140182495  0.6612371206283569  1.0000
+  O   O3        1.0  0.9317595958709717  0.8064635992050171  0.6773690581321716  1.0000
+  P   P1        1.0  0.4052433967590332  0.2057378739118576  0.32856395840644836  1.0000
+  Ti  Ti1       1.0  0.6446592807769775  0.7154180407524109  0.07186649739742279  1.0000
+  Ti  Ti2       1.0  0.06424984335899353  0.07585485279560089  0.8589264154434204  1.0000
+  Ti  Ti3       1.0  0.09363628178834915  0.24178777635097504  0.836035966873169  1.0000
+  Ti  Ti4       1.0  0.6722128391265869  0.45760631561279297  0.15336614847183228  1.0000
+  Zn  Zn1       1.0  0.15787766873836517  0.9369280934333801  0.1483428180217742  1.0000

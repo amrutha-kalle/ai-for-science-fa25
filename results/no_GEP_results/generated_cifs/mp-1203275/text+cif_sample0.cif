@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       As2Co2IOPbVZnZr
+_chemical_formula_sum              "As2 Co2 I1 O1 Pb1 V1 Zn1 Zr1"
+_cell_length_a       5.27127260560588
+_cell_length_b       5.917305130430265
+_cell_length_c       7.205992221832275
+_cell_angle_alpha    89.92430435569572
+_cell_angle_beta     90.6836342410413
+_cell_angle_gamma    90.64959863436599
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.45483157038688654  0.006594338919967412  0.4629886746406555  1.0000
+  As  As2       1.0  0.4774096012115478  0.9537463188171386  0.4046017527580261  1.0000
+  Co  Co1       1.0  0.4701672196388244  0.19485817849636078  0.17051257193088531  1.0000
+  Co  Co2       1.0  0.4646532535552978  0.577939510345459  0.5972000360488892  1.0000
+  I   I1        1.0  0.9662723541259765  0.9015687108039855  0.42533591389656067  1.0000
+  O   O1        1.0  0.9814873933792113  0.6216968894004822  0.7672439217567444  1.0000
+  Pb  Pb1       1.0  0.9736244082450866  0.9558655023574828  0.9325796365737915  1.0000
+  V   V1        1.0  0.4699914157390594  0.5116719603538513  0.4022660553455353  1.0000
+  Zn  Zn1       1.0  0.46379309892654413  0.46490475535392756  0.5176503658294678  1.0000
+  Zr  Zr1       1.0  0.4686478376388549  0.5533391833305359  0.330558717250824  1.0000

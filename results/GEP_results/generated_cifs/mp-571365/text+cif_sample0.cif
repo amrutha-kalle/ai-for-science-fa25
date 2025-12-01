@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClCo2Sn3Zn
+_chemical_formula_sum              "Cl1 Co2 Sn3 Zn1"
+_cell_length_a       4.370367418803614
+_cell_length_b       4.261846233540389
+_cell_length_c       8.297664642333984
+_cell_angle_alpha    90.15399688700626
+_cell_angle_beta     92.10567053969362
+_cell_angle_gamma    88.01572075988041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.22527001798152924  0.4669978618621826  0.6574530005455017  1.0000
+  Co  Co1       1.0  0.4036225378513336  0.4144197404384613  0.2853953540325165  1.0000
+  Co  Co2       1.0  0.949716329574585  0.46139219403266907  0.14619937539100647  1.0000
+  Sn  Sn1       1.0  0.9100930690765381  0.982274055480957  0.13141758739948273  1.0000
+  Sn  Sn2       1.0  0.41668257117271423  0.9547735452651978  0.14324814081192017  1.0000
+  Sn  Sn3       1.0  0.9110350608825684  0.9521660208702087  0.10490209609270096  1.0000
+  Zn  Zn1       1.0  0.2076229751110077  0.30273088812828064  0.6406097412109375  1.0000

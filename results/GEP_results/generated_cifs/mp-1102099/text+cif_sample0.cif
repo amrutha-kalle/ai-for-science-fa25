@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeHo4STb
+_chemical_formula_sum              "Fe1 Ho4 S1 Tb1"
+_cell_length_a       4.305685613981228
+_cell_length_b       6.039534745679538
+_cell_length_c       6.577442646026611
+_cell_angle_alpha    115.58327587893635
+_cell_angle_beta     92.35651757413093
+_cell_angle_gamma    88.2990722023808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.4933887720108032  0.6025606393814087  0.8868646621704102  1.0000
+  Ho  Ho1       1.0  0.9931406378746033  0.07677005976438522  0.6731438636779785  1.0000
+  Ho  Ho2       1.0  0.4936208128929138  0.3571513593196869  0.18769098818302155  1.0000
+  Ho  Ho3       1.0  0.9869639873504639  0.3554041385650635  0.9262660145759583  1.0000
+  Ho  Ho4       1.0  0.493621826171875  0.4064561128616333  0.18442456424236298  1.0000
+  S   S1        1.0  0.48247030377388  0.08114314079284668  0.6189401745796204  1.0000
+  Tb  Tb1       1.0  0.9949794411659241  0.773197591304779  0.22254478931427002  1.0000

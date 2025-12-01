@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mn4Sb3
+_chemical_formula_sum              "Mn4 Sb3"
+_cell_length_a       5.4760932601433465
+_cell_length_b       5.775569418325004
+_cell_length_c       5.33820915222168
+_cell_angle_alpha    60.44267565145179
+_cell_angle_beta     61.324851105979796
+_cell_angle_gamma    60.4265304883316
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.314119815826416  0.6994652152061462  0.4145013689994812  1.0000
+  Mn  Mn2       1.0  0.7044804096221924  0.006751560140401125  0.4140629172325134  1.0000
+  Mn  Mn3       1.0  0.014800791628658772  0.9663676619529724  0.05808403715491295  1.0000
+  Mn  Mn4       1.0  0.4814961552619934  0.9309922456741333  0.6619229912757874  1.0000
+  Sb  Sb1       1.0  0.09655315428972244  0.5769266486167908  0.9488547444343567  1.0000
+  Sb  Sb2       1.0  0.10602634400129318  0.35057303309440613  0.6747448444366455  1.0000
+  Sb  Sb3       1.0  0.5066314339637756  0.2494347244501114  0.421399861574173  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FeNi6Sb
+_chemical_formula_sum              "Fe1 Ni6 Sb1"
+_cell_length_a       4.604253151531135
+_cell_length_b       3.3138294275578617
+_cell_length_c       6.268154621124268
+_cell_angle_alpha    87.21040705283748
+_cell_angle_beta     74.24330607692269
+_cell_angle_gamma    37.6998927839474
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.743507444858551  0.5348380208015442  0.8041197061538695  1.0000
+  Ni  Ni1       1.0  0.8900614380836487  0.04758019372820854  0.8045833110809325  1.0000
+  Ni  Ni2       1.0  0.0012769917957484722  0.09041684120893478  0.4344960153102874  1.0000
+  Ni  Ni3       1.0  0.6447224617004395  0.3740064799785614  0.817113161087036  1.0000
+  Ni  Ni4       1.0  0.23183973133563995  0.753955066204071  0.225684180855751  1.0000
+  Ni  Ni5       1.0  0.648357093334198  0.5094428062438965  0.4108960628509521  1.0000
+  Ni  Ni6       1.0  0.13738490641117096  0.7509205341339111  0.9269007444381713  1.0000
+  Sb  Sb1       1.0  0.3594365119934082  0.008510339073836803  0.04094001650810241  1.0000

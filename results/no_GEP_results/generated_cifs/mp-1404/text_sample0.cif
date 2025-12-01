@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AuCd5La
+_chemical_formula_sum              "Au1 Cd5 La1"
+_cell_length_a       5.449273625000936
+_cell_length_b       5.581568494262054
+_cell_length_c       4.990737438201904
+_cell_angle_alpha    96.2979459266724
+_cell_angle_beta     92.4126366328594
+_cell_angle_gamma    105.10518817843017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.48679062724113464  0.34638306498527527  0.6114469766616821  1.0000
+  Cd  Cd1       1.0  0.47629204392433167  0.4525216817855835  0.4247838258743286  1.0000
+  Cd  Cd2       1.0  0.979688823223114  0.6162212491035461  0.330323189496994  1.0000
+  Cd  Cd3       1.0  0.9786007404327393  0.3076973855495453  0.9461856484413146  1.0000
+  Cd  Cd4       1.0  0.47664448618888855  0.48619017004966736  0.8194606304168701  1.0000
+  Cd  Cd5       1.0  0.9927152395248413  0.11246559768915176  0.339334636926651  1.0000
+  La  La1       1.0  0.47541722655296326  0.4837300777435303  0.3410489857196808  1.0000

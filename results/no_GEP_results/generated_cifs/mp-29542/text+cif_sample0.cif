@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       IKLi2O4P
+_chemical_formula_sum              "I1 K1 Li2 O4 P1"
+_cell_length_a       4.619681617072348
+_cell_length_b       4.510043624679776
+_cell_length_c       9.842308044433594
+_cell_angle_alpha    89.93315509464135
+_cell_angle_beta     90.58300521950164
+_cell_angle_gamma    88.73206860773091
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9090076684951782  0.8344839811325073  0.7413145303726196  1.0000
+  K   K1        1.0  0.5115630030632019  0.7261260747909546  0.32385197281837463  1.0000
+  Li  Li1       1.0  0.4291561245918274  0.7915154695510864  0.6520710587501526  1.0000
+  Li  Li2       1.0  0.8604339361190796  0.21837982535362244  0.12098777294158936  1.0000
+  O   O1        1.0  0.9469146132469177  0.011428066529333591  0.28096410632133484  1.0000
+  O   O2        1.0  0.6038290858268738  0.4430789649486542  0.8549875020980835  1.0000
+  O   O3        1.0  0.4733470678329468  0.2818908989429474  0.5910457372665405  1.0000
+  O   O4        1.0  0.4501664340496063  0.9342643618583679  0.2089148461818695  1.0000
+  P   P1        1.0  0.0018076514825224876  0.5745879411697388  0.30869895219802856  1.0000

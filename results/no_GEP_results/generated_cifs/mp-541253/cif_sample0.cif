@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaKPPbV4Zr
+_chemical_formula_sum              "Ga1 K1 P1 Pb1 V4 Zr1"
+_cell_length_a       5.53412661578268
+_cell_length_b       5.544139154953359
+_cell_length_c       6.525510311126709
+_cell_angle_alpha    94.67219279756351
+_cell_angle_beta     88.20663101544652
+_cell_angle_gamma    89.71874917282746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9359420537948608  0.33584171533584595  0.40962761640548706  1.0000
+  K   K1        1.0  0.5555548071861267  0.37300464510917664  0.9510862231254578  1.0000
+  P   P1        1.0  0.4805656671524048  0.09880593419075012  0.7023096680641174  1.0000
+  Pb  Pb1       1.0  0.7822309136390686  0.8707380890846252  0.44801509380340576  1.0000
+  V   V1        1.0  0.29560476541519165  0.8405053615570068  0.14576750993728638  1.0000
+  V   V2        1.0  0.6739790439605713  0.7971119284629822  0.7985769510269165  1.0000
+  V   V3        1.0  0.2753119468688965  0.44448548555374146  0.4328145980834961  1.0000
+  V   V4        1.0  0.25254228711128235  0.6705036759376526  0.08052551001310349  1.0000
+  Zr  Zr1       1.0  0.7713417410850525  0.3143030107021332  0.8179535865783691  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ga3V2Zn
+_chemical_formula_sum              "Ga3 V2 Zn1"
+_cell_length_a       3.670189566579807
+_cell_length_b       2.309250147022128
+_cell_length_c       4.808699131011963
+_cell_angle_alpha    91.67688582394398
+_cell_angle_beta     85.77001438384224
+_cell_angle_gamma    98.73552750788089
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6438131928443908  0.6406912207603455  0.3600183129310608  1.0000
+  Ga  Ga2       1.0  0.12296611815690993  0.10326368361711502  0.9783584475517273  1.0000
+  Ga  Ga3       1.0  0.9395296573638915  0.3971310555934906  0.1816534399986267  1.0000
+  V   V1        1.0  0.18107326328754422  0.30372729897499084  0.8376537561416626  1.0000
+  V   V2        1.0  0.6488948464393615  0.7926521897315979  0.38269156217575073  1.0000
+  Zn  Zn1       1.0  0.40615892410278315  0.38678064942359924  0.465885192155838  1.0000

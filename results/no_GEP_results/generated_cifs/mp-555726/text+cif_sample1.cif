@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ClGe3ILi2NaPbTi
+_chemical_formula_sum              "Cl1 Ge3 I1 Li2 Na1 Pb1 Ti1"
+_cell_length_a       6.69701852791163
+_cell_length_b       7.02316120821586
+_cell_length_c       8.189221382141113
+_cell_angle_alpha    90.40731294848895
+_cell_angle_beta     89.81300393277088
+_cell_angle_gamma    89.89080623144667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.20624865591526031  0.48149386048316956  0.21025292575359344  1.0000
+  Ge  Ge1       1.0  0.7104557156562805  0.9103730916976929  0.28688329458236694  1.0000
+  Ge  Ge2       1.0  0.20718219876289368  0.8301007747650146  0.7461506724357605  1.0000
+  Ge  Ge3       1.0  0.7070700526237488  0.8311406970024109  0.3904277980327606  1.0000
+  I   I1        1.0  0.220126211643219  0.5181521773338318  0.7348676323890686  1.0000
+  Li  Li1       1.0  0.2235511690378189  0.9190533757209778  0.7286267280578613  1.0000
+  Li  Li2       1.0  0.6508628129959106  0.14307333528995514  0.988757312297821  1.0000
+  Na  Na1       1.0  0.7287993431091309  0.5079644322395325  0.2909851670265198  1.0000
+  Pb  Pb1       1.0  0.21331468224525452  0.792982280254364  0.4082057774066925  1.0000
+  Ti  Ti1       1.0  0.7102472186088562  0.7832846641540527  0.3174176514148712  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb5Tm2
+_chemical_formula_sum              "Pb5 Tm2"
+_cell_length_a       6.875016663118633
+_cell_length_b       6.848463860190482
+_cell_length_c       7.660545349121094
+_cell_angle_alpha    116.05411315945061
+_cell_angle_beta     118.15317773059651
+_cell_angle_gamma    90.46872716404685
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.8616040945053101  0.5900329947471619  0.4833681285381317  1.0000
+  Pb  Pb2       1.0  0.4453878700733185  0.1669851541519165  0.22910630702972412  1.0000
+  Pb  Pb3       1.0  0.10643190890550613  0.07803979516029358  0.4914405643939972  1.0000
+  Pb  Pb4       1.0  0.9331012964248657  0.2657763659954071  0.7459996342658997  1.0000
+  Pb  Pb5       1.0  0.4258514642715454  0.44829338788986206  0.7207726240158081  1.0000
+  Tm  Tm1       1.0  0.404297411441803  0.3394787907600403  0.4881022572517395  1.0000
+  Tm  Tm2       1.0  0.44043323397636414  0.20404748618602753  0.2756974399089813  1.0000

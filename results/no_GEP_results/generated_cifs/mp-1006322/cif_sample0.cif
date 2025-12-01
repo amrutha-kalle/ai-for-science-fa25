@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CCeDyI2LuMgNiPTb
+_chemical_formula_sum              "C1 Ce1 Dy1 I2 Lu1 Mg1 Ni1 P1 Tb1"
+_cell_length_a       5.060691590066637
+_cell_length_b       7.536531007204391
+_cell_length_c       8.034034729003906
+_cell_angle_alpha    121.8737728693314
+_cell_angle_beta     90.85747104964908
+_cell_angle_gamma    87.71452714477407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.8658376336097717  0.7540608644485474  0.8777603507041931  1.0000
+  Ce  Ce1       1.0  0.8524443507194519  0.059067036956548684  0.10447467118501663  1.0000
+  Dy  Dy1       1.0  0.8676035404205322  0.05884974822402  0.4469100534915924  1.0000
+  I   I1        1.0  0.3523857891559601  0.285198450088501  0.22831621766090393  1.0000
+  I   I2        1.0  0.36124664545059204  0.9577832221984862  0.39914485812187195  1.0000
+  Lu  Lu1       1.0  0.8923624157905579  0.48006471991538996  0.9589277505874634  1.0000
+  Mg  Mg1       1.0  0.4318457543849945  0.9901840090751647  0.7823347449302673  1.0000
+  Ni  Ni1       1.0  0.3468626141548157  0.6713451147079468  0.4318010509014129  1.0000
+  P   P1        1.0  0.357662558555603  0.22155547142028809  0.7896015644073486  1.0000
+  Tb  Tb1       1.0  0.36013638973236084  0.379720002412796  0.6262873411178589  1.0000

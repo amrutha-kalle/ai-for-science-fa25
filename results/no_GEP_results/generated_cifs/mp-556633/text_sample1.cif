@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaF3NaV4
+_chemical_formula_sum              "Ca1 F3 Na1 V4"
+_cell_length_a       5.24224123757902
+_cell_length_b       4.913683464668338
+_cell_length_c       5.336503028869629
+_cell_angle_alpha    61.66022601235264
+_cell_angle_beta     60.9280061330264
+_cell_angle_gamma    61.853537222049034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.3823724687099457  0.8326080441474915  0.3260798454284667  1.0000
+  F   F1        1.0  0.8642925024032593  0.33102861046791077  0.5720776915550231  1.0000
+  F   F2        1.0  0.8589279651641846  0.22669440507888794  0.5927372574806212  1.0000
+  F   F3        1.0  0.865456223487854  0.4862004518508911  0.046351242810487664  1.0000
+  Na  Na1       1.0  0.39110663533210754  0.8698228001594543  0.5684478282928467  1.0000
+  V   V1        1.0  0.8888862133026123  0.4841057360172272  0.6834600567817687  1.0000
+  V   V2        1.0  0.886054277420044  0.113438680768013  0.32282155752181996  1.0000
+  V   V3        1.0  0.3885192573070526  0.3581153452396393  0.31585022807121277  1.0000
+  V   V4        1.0  0.37160593271255493  0.731967031955719  0.05521539598703376  1.0000

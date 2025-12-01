@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsCsCuGaMn5Zn
+_chemical_formula_sum              "As1 Cs1 Cu1 Ga1 Mn5 Zn1"
+_cell_length_a       4.760457271524339
+_cell_length_b       5.479156384414473
+_cell_length_c       7.5370025634765625
+_cell_angle_alpha    103.97601397075064
+_cell_angle_beta     89.48487211945574
+_cell_angle_gamma    89.56875187804913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.3369482159614563  0.399092435836792  0.8694874048233032  1.0000
+  Cs  Cs1       1.0  0.8372740149497986  0.2622847855091095  0.022832054644823074  1.0000
+  Cu  Cu1       1.0  0.33158138394355774  0.10708864033222198  0.9525633454322815  1.0000
+  Ga  Ga1       1.0  0.33556342124938965  0.7295989990234375  0.6189550757408142  1.0000
+  Mn  Mn1       1.0  0.33588290214538574  0.19670046865940094  0.6825490593910217  1.0000
+  Mn  Mn2       1.0  0.3364507257938385  0.7027225494384766  0.2033061683177948  1.0000
+  Mn  Mn3       1.0  0.836756706237793  0.251931756734848  0.7300174236297607  1.0000
+  Mn  Mn4       1.0  0.8393667340278625  0.7985389828681946  0.9827072024345398  1.0000
+  Mn  Mn5       1.0  0.3412153720855713  0.6361575722694397  0.2341255396604538  1.0000
+  Zn  Zn1       1.0  0.3365347385406494  0.7664433121681213  0.9479826092720032  1.0000

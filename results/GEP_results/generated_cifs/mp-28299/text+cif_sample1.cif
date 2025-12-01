@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       O2Se3U4
+_chemical_formula_sum              "O2 Se3 U4"
+_cell_length_a       4.401377008931986
+_cell_length_b       6.205537066454972
+_cell_length_c       7.62605619430542
+_cell_angle_alpha    115.27370980839079
+_cell_angle_beta     106.3226784195958
+_cell_angle_gamma    85.82695071204974
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.1748524010181427  0.49721705913543696  0.18571296334266663  1.0000
+  O   O2        1.0  0.5621005892753601  0.9919318556785582  0.6905159950256348  1.0000
+  Se  Se1       1.0  0.7731369733810425  0.1883152723312378  0.5487032532691956  1.0000
+  Se  Se2       1.0  0.2799658477306366  0.5227842330932617  0.7002332210540771  1.0000
+  Se  Se3       1.0  0.2400267869234085  0.15521088242530823  0.5088145732879639  1.0000
+  U   U1        1.0  0.36565014719963074  0.6289023756980896  0.20188859105110168  1.0000
+  U   U2        1.0  0.778319776058197  0.13895833492279053  0.19915533065795898  1.0000
+  U   U3        1.0  0.759645402431488  0.6289790868759155  0.6710408926010132  1.0000
+  U   U4        1.0  0.7701119184494019  0.10942279547452925  0.3944365382194519  1.0000

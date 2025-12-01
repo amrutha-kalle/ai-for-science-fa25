@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PtV4Zn
+_chemical_formula_sum              "Pt1 V4 Zn1"
+_cell_length_a       2.9561690812545858
+_cell_length_b       3.650319722943469
+_cell_length_c       4.880538463592529
+_cell_angle_alpha    92.4073374942566
+_cell_angle_beta     93.30536344467548
+_cell_angle_gamma    94.71720264151725
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.9991561770439147  0.5234969854354858  0.6370301246643066  1.0000
+  V   V1        1.0  0.0031915826257318254  0.6526585221290588  0.13504558801651  1.0000
+  V   V2        1.0  0.5291982889175415  0.12160304188728333  0.4825896620750427  1.0000
+  V   V3        1.0  0.5009427666664124  0.9817739725112915  0.4170343279838562  1.0000
+  V   V4        1.0  0.00029289722442626953  0.7792447805404663  0.8312337398529053  1.0000
+  Zn  Zn1       1.0  0.5058867931365967  0.5314788818359375  0.23217526078224182  1.0000

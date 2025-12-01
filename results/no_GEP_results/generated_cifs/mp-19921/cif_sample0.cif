@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pb5Zr
+_chemical_formula_sum              "Pb5 Zr1"
+_cell_length_a       5.123163119235594
+_cell_length_b       3.7696716415217297
+_cell_length_c       6.71442985534668
+_cell_angle_alpha    64.16040453590773
+_cell_angle_beta     87.11506055261174
+_cell_angle_gamma    90.45585322533945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.9422022700309753  0.9177466630935668  0.9051445126533507  1.0000
+  Pb  Pb2       1.0  0.9583250880241394  0.35055422782897944  0.9712603092193602  1.0000
+  Pb  Pb3       1.0  0.4385119080543518  0.034883707761764526  0.6486024856567382  1.0000
+  Pb  Pb4       1.0  0.0609971359372139  0.05343839898705482  0.5096251964569092  1.0000
+  Pb  Pb5       1.0  0.5072333216667175  0.060474380850791924  0.479200929403305  1.0000
+  Zr  Zr1       1.0  0.8210578560829163  0.7936227917671203  0.9061660766601561  1.0000

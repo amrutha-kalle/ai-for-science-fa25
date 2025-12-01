@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nb2Si5
+_chemical_formula_sum              "Nb2 Si5"
+_cell_length_a       4.3867326265648385
+_cell_length_b       4.987432596395658
+_cell_length_c       6.522963523864746
+_cell_angle_alpha    111.87035187760432
+_cell_angle_beta     100.10027902679654
+_cell_angle_gamma    98.22945890244763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.8388290405273438  0.21046186983585358  0.5796058773994446  1.0000
+  Nb  Nb2       1.0  0.8442879319190979  0.7033166289329529  0.026708276942372253  1.0000
+  Si  Si1       1.0  0.4894048273563385  0.928394615650177  0.12716542184352866  1.0000
+  Si  Si2       1.0  0.6043506264686584  0.5483196973800659  0.6145732998847961  1.0000
+  Si  Si3       1.0  0.20543140172958374  0.1791076511144638  0.1768384426832199  1.0000
+  Si  Si4       1.0  0.9851862192153931  0.40616631507873535  0.05051188915967938  1.0000
+  Si  Si5       1.0  0.37444788217544556  0.9030573964118958  0.6333624124526978  1.0000

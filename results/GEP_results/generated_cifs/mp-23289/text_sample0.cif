@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl4K2
+_chemical_formula_sum              "Cl4 K2"
+_cell_length_a       5.206063178230599
+_cell_length_b       5.787251075620097
+_cell_length_c       8.92391586303711
+_cell_angle_alpha    109.70665166484112
+_cell_angle_beta     104.28155656961218
+_cell_angle_gamma    89.16294388892317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.2053374946117401  0.04215329512953758  0.017827194184064865  1.0000
+  Cl  Cl2       1.0  0.45501080155372614  0.7342180609703064  0.5220098495483398  1.0000
+  Cl  Cl3       1.0  0.17748293280601501  0.7164178490638733  0.010844706557691097  1.0000
+  Cl  Cl4       1.0  0.8234632611274719  0.41130328178405756  0.756513237953186  1.0000
+  K   K1        1.0  0.8542131781578064  0.5496833324432373  0.3550322949886322  1.0000
+  K   K2        1.0  0.8764296770095825  0.22843186557292935  0.021651264280080795  1.0000

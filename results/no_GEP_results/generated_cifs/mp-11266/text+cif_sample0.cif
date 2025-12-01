@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba4Cd2La
+_chemical_formula_sum              "Ba4 Cd2 La1"
+_cell_length_a       6.21750115063514
+_cell_length_b       5.3266230996120205
+_cell_length_c       13.634502410888672
+_cell_angle_alpha    96.36966291317137
+_cell_angle_beta     92.2724235932231
+_cell_angle_gamma    122.62765314341988
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6957225799560547  0.8638467192649841  0.6873762011528016  1.0000
+  Ba  Ba2       1.0  0.6969148516654968  0.965691089630127  0.18265993893146518  1.0000
+  Ba  Ba3       1.0  0.2088281363248825  0.9622268676757812  0.9269323945045472  1.0000
+  Ba  Ba4       1.0  0.19578300416469574  0.39388421177864075  0.9243075847625734  1.0000
+  Cd  Cd1       1.0  0.7111471891403198  0.7251378297805786  0.10649114847183229  1.0000
+  Cd  Cd2       1.0  0.9239640235900879  0.3025031089782715  0.6132611036300659  1.0000
+  La  La1       1.0  0.6627015471458435  0.8819197416305542  0.2341185808181763  1.0000

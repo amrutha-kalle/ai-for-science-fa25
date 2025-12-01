@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaDyI4Ti3
+_chemical_formula_sum              "Ca1 Dy1 I4 Ti3"
+_cell_length_a       6.720169846504607
+_cell_length_b       6.559340093497558
+_cell_length_c       8.960811614990234
+_cell_angle_alpha    76.35874779368126
+_cell_angle_beta     71.05393091154428
+_cell_angle_gamma    71.86099188003527
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6951598525047302  0.4989075064659119  0.30318188667297363  1.0000
+  Dy  Dy1       1.0  0.007640745956450666  0.8425095677375795  0.9281482696533203  1.0000
+  I   I1        1.0  0.7307334542274475  0.3724552392959595  0.07683901488780975  1.0000
+  I   I2        1.0  0.4857964515686035  0.1815500259399414  0.43182438611984253  1.0000
+  I   I3        1.0  0.9904822111129761  0.5664709806442261  0.8808348774909973  1.0000
+  I   I4        1.0  0.21698541939258575  0.12351633608341218  0.5261735916137695  1.0000
+  Ti  Ti1       1.0  0.4962908923625946  0.1433604657649994  0.536220908164978  1.0000
+  Ti  Ti2       1.0  0.5018219351768494  0.3297329246997833  0.6052703261375427  1.0000
+  Ti  Ti3       1.0  0.4851151704788208  0.45795264840126043  0.7658340930938721  1.0000

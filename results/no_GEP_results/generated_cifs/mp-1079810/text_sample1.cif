@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hf4Sn3
+_chemical_formula_sum              "Hf4 Sn3"
+_cell_length_a       4.488240411776881
+_cell_length_b       5.458657934053868
+_cell_length_c       9.066096305847168
+_cell_angle_alpha    111.78332761469159
+_cell_angle_beta     90.2592533990431
+_cell_angle_gamma    88.8952421707659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.41085270047187805  0.30334803462028503  0.39999067783355713  1.0000
+  Hf  Hf2       1.0  0.9122170209884644  0.9779039621353149  0.8408669233322144  1.0000
+  Hf  Hf3       1.0  0.9070513844490051  0.23946765065193176  0.1475115269422531  1.0000
+  Hf  Hf4       1.0  0.4120888113975525  0.7927049398422241  0.9985780119895935  1.0000
+  Sn  Sn1       1.0  0.9123232960700989  0.4336273968219757  0.35880589485168457  1.0000
+  Sn  Sn2       1.0  0.9080402255058289  0.13028112053871155  0.7968657612800598  1.0000
+  Sn  Sn3       1.0  0.40829262137413025  0.20411071181297302  0.8556632995605469  1.0000

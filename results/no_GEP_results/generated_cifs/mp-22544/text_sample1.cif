@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       U4V4
+_chemical_formula_sum              "U4 V4"
+_cell_length_a       4.405730142673631
+_cell_length_b       4.506573861968538
+_cell_length_c       5.413973331451416
+_cell_angle_alpha    121.43141219233065
+_cell_angle_beta     104.95705081378978
+_cell_angle_gamma    97.2898500025415
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.9894455671310425  0.4837076663970948  0.7203324437141418  1.0000
+  U   U2        1.0  0.4902248680591583  0.4437569677829743  0.272469699382782  1.0000
+  U   U3        1.0  0.506086528301239  0.9347255229949952  0.14955449104309082  1.0000
+  U   U4        1.0  0.5217645168304443  0.42934527993202215  0.9328817725181581  1.0000
+  V   V1        1.0  0.9983773231506348  0.8405808210372926  0.49033465981483465  1.0000
+  V   V2        1.0  0.5000910758972168  0.8445298075675965  0.3095757067203522  1.0000
+  V   V3        1.0  0.004982923157513168  0.8036039471626283  0.6582111716270448  1.0000
+  V   V4        1.0  0.0023165231104940436  0.6866117119789125  0.9063727259635926  1.0000

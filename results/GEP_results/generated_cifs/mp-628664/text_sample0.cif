@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AgAuBr2Ce4PbRu
+_chemical_formula_sum              "Ag1 Au1 Br2 Ce4 Pb1 Ru1"
+_cell_length_a       5.185737096574284
+_cell_length_b       6.15345502596617
+_cell_length_c       7.356210708618164
+_cell_angle_alpha    93.41556349714243
+_cell_angle_beta     89.53126895111767
+_cell_angle_gamma    92.55176197531374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.11541311442852019  0.9815523028373719  0.6494132280349731  1.0000
+  Au  Au1       1.0  0.6264252066612244  0.47771608829498297  0.2076888233423233  1.0000
+  Br  Br1       1.0  0.5924026370048523  0.9433157444000245  0.7314843535423279  1.0000
+  Br  Br2       1.0  0.6023587584495544  0.9695361256599427  0.01601797714829445  1.0000
+  Ce  Ce1       1.0  0.5453979969024658  0.28947019577026367  0.4441899061203003  1.0000
+  Ce  Ce2       1.0  0.2859492301940918  0.6610403656959534  0.9419373869895935  1.0000
+  Ce  Ce3       1.0  0.7963185906410218  0.24746449291706088  0.6302285194396973  1.0000
+  Ce  Ce4       1.0  0.0794641450047493  0.1554534137248993  0.4434473514556885  1.0000
+  Pb  Pb1       1.0  0.07301219552755356  0.19514161348342896  0.1393164098262787  1.0000
+  Ru  Ru1       1.0  0.10635118931531905  0.7991635799407959  0.14342734217643738  1.0000

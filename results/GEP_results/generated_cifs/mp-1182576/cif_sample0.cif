@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2O3P2
+_chemical_formula_sum              "Ba2 O3 P2"
+_cell_length_a       4.4074821919988105
+_cell_length_b       4.410856782127203
+_cell_length_c       5.872533798217773
+_cell_angle_alpha    108.87025211820244
+_cell_angle_beta     109.31522857723407
+_cell_angle_gamma    90.9637282969684
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.14110498130321503  0.9734346270561218  0.29013600945472723  1.0000
+  Ba  Ba2       1.0  0.7883762121200562  0.49007290601730347  0.638742208480835  1.0000
+  O   O1        1.0  0.4905050992965698  0.15052181482315063  0.09492596983909607  1.0000
+  O   O2        1.0  0.4832436144351959  0.62898188829422  0.5104071497917175  1.0000
+  O   O3        1.0  0.9312022924423218  0.12491609156131744  0.8034070730209351  1.0000
+  P   P1        1.0  0.33832767605781555  0.4832620322704315  0.8230751752853394  1.0000
+  P   P2        1.0  0.8161160349845886  0.9754709005355835  0.03994303196668625  1.0000

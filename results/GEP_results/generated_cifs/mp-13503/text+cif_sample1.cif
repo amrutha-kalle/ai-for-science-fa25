@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaSc3Zn3
+_chemical_formula_sum              "Ba1 Sc3 Zn3"
+_cell_length_a       4.856814390382345
+_cell_length_b       5.030383617804598
+_cell_length_c       8.375260353088379
+_cell_angle_alpha    111.23498949498034
+_cell_angle_beta     103.96868633942337
+_cell_angle_gamma    89.60006579596893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.4302403926849365  0.3428381085395813  0.3833931088447571  1.0000
+  Sc  Sc1       1.0  0.5976247787475586  0.3174048662185669  0.60465008020401  1.0000
+  Sc  Sc2       1.0  0.0672512948513031  0.8672349452972412  0.6581306457519531  1.0000
+  Sc  Sc3       1.0  0.5553722381591797  0.867523729801178  0.1597723811864853  1.0000
+  Zn  Zn1       1.0  0.8022935390472412  0.6359199285507202  0.5657657384872437  1.0000
+  Zn  Zn2       1.0  0.8035731911659241  0.2120690643787384  0.16682779788970947  1.0000
+  Zn  Zn3       1.0  0.454913467168808  0.3540757894515991  0.9216868877410889  1.0000

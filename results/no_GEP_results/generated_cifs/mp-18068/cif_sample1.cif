@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CaCoFeGaI2OPZnZr
+_chemical_formula_sum              "Ca1 Co1 Fe1 Ga1 I2 O1 P1 Zn1 Zr1"
+_cell_length_a       6.2288571349545245
+_cell_length_b       6.2958717321935636
+_cell_length_c       7.500822067260742
+_cell_angle_alpha    71.57931722881884
+_cell_angle_beta     66.8376346765298
+_cell_angle_gamma    62.05871801889017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6478403806686401  0.0561228021979332  0.009977994486689566  1.0000
+  Co  Co1       1.0  0.14213800430297852  0.9371615052223206  0.05778722465038299  1.0000
+  Fe  Fe1       1.0  0.6937359571456909  0.7009231448173523  0.6099138259887694  1.0000
+  Ga  Ga1       1.0  0.13913235068321228  0.8384490013122559  0.7559205293655394  1.0000
+  I   I1        1.0  0.6430569291114807  0.2951400578022003  0.49199426174163813  1.0000
+  I   I2        1.0  0.6449240446090698  0.8196122646331787  0.7387482523918151  1.0000
+  O   O1        1.0  0.6683695316314697  0.37050923705101013  0.9766477346420287  1.0000
+  P   P1        1.0  0.6433302164077759  0.33259716629981995  0.2166400998830795  1.0000
+  Zn  Zn1       1.0  0.1447496861219406  0.4576529562473297  0.48364815115928644  1.0000
+  Zr  Zr1       1.0  0.16140778362751007  0.4833298921585083  0.372590959072113  1.0000

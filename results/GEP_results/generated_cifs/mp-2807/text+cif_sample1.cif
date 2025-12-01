@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       P3Sc2Ti
+_chemical_formula_sum              "P3 Sc2 Ti1"
+_cell_length_a       4.153902709553295
+_cell_length_b       4.394469895512478
+_cell_length_c       7.9257354736328125
+_cell_angle_alpha    110.13074581749262
+_cell_angle_beta     91.44372019815756
+_cell_angle_gamma    94.63274923797088
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.20667433738708496  0.3391897976398468  0.5731479525566101  1.0000
+  P   P2        1.0  0.7008086442947388  0.3259005546569824  0.6732702851295471  1.0000
+  P   P3        1.0  0.14554418623447418  0.8031544089317322  0.5820496082305908  1.0000
+  Sc  Sc1       1.0  0.686052143573761  0.31798243522644043  0.1341003179550171  1.0000
+  Sc  Sc2       1.0  0.2897110879421234  0.599696159362793  0.35688260197639465  1.0000
+  Ti  Ti1       1.0  0.19581598043441772  0.8376020789146423  0.05150324106216431  1.0000

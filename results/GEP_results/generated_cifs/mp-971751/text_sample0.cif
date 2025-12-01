@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FRh3Se2
+_chemical_formula_sum              "F1 Rh3 Se2"
+_cell_length_a       3.146887152248205
+_cell_length_b       3.2304398344494154
+_cell_length_c       4.550774097442627
+_cell_angle_alpha    119.11276588963311
+_cell_angle_beta     96.05559349933625
+_cell_angle_gamma    78.12216688669761
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.29365506768226624  0.16039571166038513  0.06706050038337708  1.0000
+  Rh  Rh1       1.0  0.28990378975868225  0.10606629401445389  0.5728052854537964  1.0000
+  Rh  Rh2       1.0  0.7949987053871155  0.5996930003166199  0.5704769492149353  1.0000
+  Rh  Rh3       1.0  0.781022310256958  0.6075479388237  0.07130982726812363  1.0000
+  Se  Se1       1.0  0.266565203666687  0.8169798851013184  0.2725800573825836  1.0000
+  Se  Se2       1.0  0.7939320802688599  0.3173411786556244  0.7592750191688538  1.0000

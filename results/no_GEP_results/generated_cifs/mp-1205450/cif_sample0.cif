@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoGaLuNpPPbPr
+_chemical_formula_sum              "Co1 Ga1 Lu1 Np1 P1 Pb1 Pr1"
+_cell_length_a       4.345269630226412
+_cell_length_b       3.928698383134225
+_cell_length_c       7.0634846687316895
+_cell_angle_alpha    107.99045244561343
+_cell_angle_beta     96.82241180487487
+_cell_angle_gamma    105.03339369767059
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2461950182914734  0.5139271020889282  0.20525264739990232  1.0000
+  Ga  Ga1       1.0  0.2658902406692505  0.8289152383804321  0.47084966301918024  1.0000
+  Lu  Lu1       1.0  0.5263498425483704  0.6637825965881348  0.8340530991554259  1.0000
+  Np  Np1       1.0  0.8961935639381409  0.3765040338039398  0.9099773764610289  1.0000
+  P   P1        1.0  0.7922159433364868  0.9339142441749573  0.33594495058059687  1.0000
+  Pb  Pb1       1.0  0.2599865198135376  0.0644424632191658  0.4363797008991241  1.0000
+  Pr  Pr1       1.0  0.989663302898407  0.18209636211395264  0.2156146019697189  1.0000

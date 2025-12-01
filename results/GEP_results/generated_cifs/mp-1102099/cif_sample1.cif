@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HHo4PrS
+_chemical_formula_sum              "H1 Ho4 Pr1 S1"
+_cell_length_a       4.741217749438033
+_cell_length_b       5.586070361570901
+_cell_length_c       6.502006530761719
+_cell_angle_alpha    118.03170804234313
+_cell_angle_beta     94.22690027226712
+_cell_angle_gamma    87.44362130525113
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9204670786857606  0.8332716822624207  0.7619993686676025  1.0000
+  Ho  Ho1       1.0  0.1524101197719574  0.13890297710895538  0.10626056045293808  1.0000
+  Ho  Ho2       1.0  0.42406222224235535  0.5029460787773132  0.2793198227882385  1.0000
+  Ho  Ho3       1.0  0.1549578756093979  0.13041144609451294  0.5966348052024841  1.0000
+  Ho  Ho4       1.0  0.9366819262504579  0.8799013495445251  0.9920886754989625  1.0000
+  Pr  Pr1       1.0  0.6738553047180176  0.44385674595832825  0.8153586983680725  1.0000
+  S   S1        1.0  0.4039844870567322  0.5612912774085999  0.12176518887281419  1.0000

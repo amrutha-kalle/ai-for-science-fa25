@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HHf4Mo2
+_chemical_formula_sum              "H1 Hf4 Mo2"
+_cell_length_a       4.957774364664493
+_cell_length_b       5.453332586562224
+_cell_length_c       5.7344069480896
+_cell_angle_alpha    120.58824612989461
+_cell_angle_beta     93.29453394429932
+_cell_angle_gamma    88.13692164706866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.226828470826149  0.9149470329284668  0.905938446521759  1.0000
+  Hf  Hf1       1.0  0.48333173990249634  0.015740279108285904  0.55137699842453  1.0000
+  Hf  Hf2       1.0  0.2388669103384018  0.6710668206214905  0.8522335290908813  1.0000
+  Hf  Hf3       1.0  0.253790020942688  0.6345317363739014  0.32766246795654297  1.0000
+  Hf  Hf4       1.0  0.7765844464302063  0.21797716617584229  0.015026251785457134  1.0000
+  Mo  Mo1       1.0  0.7601701021194458  0.1833551526069641  0.8180797696113586  1.0000
+  Mo  Mo2       1.0  0.7707899808883667  0.36171355843544006  0.8093240857124329  1.0000

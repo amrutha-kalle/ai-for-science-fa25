@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cs2SeZn4
+_chemical_formula_sum              "Cs2 Se1 Zn4"
+_cell_length_a       4.513802708686791
+_cell_length_b       5.749950692630739
+_cell_length_c       9.574881553649902
+_cell_angle_alpha    80.27025157713021
+_cell_angle_beta     73.24850161592295
+_cell_angle_gamma    66.4343447293597
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.13518108427524567  0.9081786274909973  0.6697759628295898  1.0000
+  Cs  Cs2       1.0  0.7374869585037231  0.15426911413669586  0.9217479825019836  1.0000
+  Se  Se1       1.0  0.195420503616333  0.31804656982421875  0.4858872592449188  1.0000
+  Zn  Zn1       1.0  0.2847205102443695  0.16236063838005066  0.9160860180854797  1.0000
+  Zn  Zn2       1.0  0.3112224042415619  0.664313554763794  0.41831326484680176  1.0000
+  Zn  Zn3       1.0  0.9767449498176576  0.6637980937957764  0.8227071166038513  1.0000
+  Zn  Zn4       1.0  0.5235403180122375  0.16818702220916748  0.16998112201690674  1.0000

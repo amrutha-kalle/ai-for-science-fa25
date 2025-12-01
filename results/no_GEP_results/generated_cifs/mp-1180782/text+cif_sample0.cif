@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       F5Ga2HfZn
+_chemical_formula_sum              "F5 Ga2 Hf1 Zn1"
+_cell_length_a       4.765680714464531
+_cell_length_b       4.85801421991775
+_cell_length_c       6.9950032234191895
+_cell_angle_alpha    117.42612488431045
+_cell_angle_beta     88.98900608336736
+_cell_angle_gamma    96.16770368267468
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7646559476852417  0.6736673712730408  0.15150038897991175  1.0000
+  F   F2        1.0  0.45597144961357117  0.23587502539157867  0.5999380946159362  1.0000
+  F   F3        1.0  0.47809073328971863  0.42643123865127563  0.712730050086975  1.0000
+  F   F4        1.0  0.15948785841464996  0.8338519930839539  0.5011285543441772  1.0000
+  F   F5        1.0  0.9639785885810852  0.009398939087986946  0.24024748802185056  1.0000
+  Ga  Ga1       1.0  0.19713175296783447  0.2713681161403656  0.5760253071784973  1.0000
+  Ga  Ga2       1.0  0.3999703526496887  0.3218030333518982  0.32528397440910334  1.0000
+  Hf  Hf1       1.0  0.9012675285339355  0.7120811343193054  0.6298170089721679  1.0000
+  Zn  Zn1       1.0  0.900231659412384  0.7170969843864441  0.4345827102661132  1.0000

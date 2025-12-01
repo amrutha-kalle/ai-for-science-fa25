@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoMn3Tb2Zn
+_chemical_formula_sum              "Co1 Mn3 Tb2 Zn1"
+_cell_length_a       4.576674405074245
+_cell_length_b       5.07071431190308
+_cell_length_c       6.6507110595703125
+_cell_angle_alpha    113.21127964983033
+_cell_angle_beta     101.8133466080556
+_cell_angle_gamma    86.30508591097795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8043920993804932  0.48692938685417175  0.633882999420166  1.0000
+  Mn  Mn1       1.0  0.8922050595283508  0.731562077999115  0.28196555376052856  1.0000
+  Mn  Mn2       1.0  0.8752703070640564  0.07010389119386673  0.8259285688400269  1.0000
+  Mn  Mn3       1.0  0.3798721432685852  0.3201847970485687  0.6765578389167786  1.0000
+  Tb  Tb1       1.0  0.14771977066993713  0.9001297950744629  0.1389792859554291  1.0000
+  Tb  Tb2       1.0  0.3854060769081116  0.6083561778068542  0.00032223237212747335  1.0000
+  Zn  Zn1       1.0  0.7960259318351746  0.4722084701061249  0.034389007836580276  1.0000

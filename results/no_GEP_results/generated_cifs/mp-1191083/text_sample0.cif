@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hf2Mo5
+_chemical_formula_sum              "Hf2 Mo5"
+_cell_length_a       5.329505805637685
+_cell_length_b       5.3957397298432666
+_cell_length_c       6.746336936950684
+_cell_angle_alpha    118.6030944830896
+_cell_angle_beta     91.1439855873709
+_cell_angle_gamma    105.28847294170036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.9900738000869751  0.7720255851745605  0.41695839166641235  1.0000
+  Hf  Hf2       1.0  0.991850733757019  0.007236681412905455  0.903634011745453  1.0000
+  Mo  Mo1       1.0  0.4897615313529968  0.22205528616905212  0.11624338477849962  1.0000
+  Mo  Mo2       1.0  0.9909030199050903  0.23667916655540466  0.26554879546165466  1.0000
+  Mo  Mo3       1.0  0.49243876338005066  0.8146651983261108  0.48865750432014476  1.0000
+  Mo  Mo4       1.0  0.492693692445755  0.14062991738319397  0.4343507885932923  1.0000
+  Mo  Mo5       1.0  0.9922110438346863  0.7673127055168152  0.7887647747993469  1.0000

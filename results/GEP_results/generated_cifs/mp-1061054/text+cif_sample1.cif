@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgGe4S
+_chemical_formula_sum              "Ag1 Ge4 S1"
+_cell_length_a       4.916370935314515
+_cell_length_b       4.991267875851352
+_cell_length_c       6.924501895904541
+_cell_angle_alpha    109.27658402122222
+_cell_angle_beta     110.31767022414479
+_cell_angle_gamma    89.7703910953706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.36272114515304565  0.7869922518730164  0.5308114886283875  1.0000
+  Ge  Ge1       1.0  0.15038959681987762  0.5696022510528564  0.6054167151451111  1.0000
+  Ge  Ge2       1.0  0.5509765148162842  0.14233796298503876  0.107056625187397  1.0000
+  Ge  Ge3       1.0  0.06334409862756729  0.09701087325811386  0.11699260026216507  1.0000
+  Ge  Ge4       1.0  0.5636060833930969  0.609218418598175  0.22977986931800842  1.0000
+  S   S1        1.0  0.6337807774543762  0.14622271060943604  0.8565749526023865  1.0000

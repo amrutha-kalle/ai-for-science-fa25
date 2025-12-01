@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlCl2OPtScZn
+_chemical_formula_sum              "Al1 Cl2 O1 Pt1 Sc1 Zn1"
+_cell_length_a       4.325766491562935
+_cell_length_b       4.474447353301223
+_cell_length_c       7.339086532592773
+_cell_angle_alpha    112.72919809427734
+_cell_angle_beta     108.14696198079173
+_cell_angle_gamma    88.9737057292348
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.014515270479023457  0.6573617458343506  0.9734672904014587  1.0000
+  Cl  Cl1       1.0  0.14613716304302216  0.9183394312858582  0.4972487688064575  1.0000
+  Cl  Cl2       1.0  0.7501363754272461  0.683032751083374  0.730536937713623  1.0000
+  O   O1        1.0  0.6055365800857544  0.4291895627975464  0.7590517997741699  1.0000
+  Pt  Pt1       1.0  0.3003635108470917  0.9210946559906006  0.2104507237672806  1.0000
+  Sc  Sc1       1.0  0.40037211775779724  0.9246896505355835  0.11292579770088196  1.0000
+  Zn  Zn1       1.0  0.8796109557151794  0.28711092472076416  0.9886881709098816  1.0000

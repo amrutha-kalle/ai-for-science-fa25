@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CuK2Nb3O3
+_chemical_formula_sum              "Cu1 K2 Nb3 O3"
+_cell_length_a       4.550464332619355
+_cell_length_b       4.899436826973238
+_cell_length_c       7.169145107269287
+_cell_angle_alpha    113.09018134677002
+_cell_angle_beta     109.84894380438296
+_cell_angle_gamma    90.73822859578374
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.1515766680240631  0.02570793777704239  0.7983828783035278  1.0000
+  K   K1        1.0  0.42123842239379883  0.26410362124443054  0.30056896805763245  1.0000
+  K   K2        1.0  0.22635386884212494  0.6060560345649719  0.5370293259620667  1.0000
+  Nb  Nb1       1.0  0.34692198038101196  0.8649381399154663  0.5483705401420593  1.0000
+  Nb  Nb2       1.0  0.8103459477424622  0.6077289581298828  0.9057547450065613  1.0000
+  Nb  Nb3       1.0  0.9105610251426697  0.27537646889686584  0.41277003288269043  1.0000
+  O   O1        1.0  0.21248388290405273  0.6042084097862244  0.793437659740448  1.0000
+  O   O2        1.0  0.5506206750869751  0.7506448030471802  0.8939111232757568  1.0000
+  O   O3        1.0  0.7184067368507385  0.5905861854553223  0.5423616766929626  1.0000

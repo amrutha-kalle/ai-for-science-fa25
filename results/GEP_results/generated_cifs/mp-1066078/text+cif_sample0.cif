@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi2Cl2PbPt2
+_chemical_formula_sum              "Bi2 Cl2 Pb1 Pt2"
+_cell_length_a       5.0771288780442925
+_cell_length_b       5.539343165055794
+_cell_length_c       7.747873783111572
+_cell_angle_alpha    111.08464870793617
+_cell_angle_beta     108.18874367482718
+_cell_angle_gamma    88.87419519870052
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.3521236479282379  0.012694700621068478  0.6381880044937134  1.0000
+  Bi  Bi2       1.0  0.38585132360458374  0.9227007627487183  0.9488232731819153  1.0000
+  Cl  Cl1       1.0  0.5780380368232727  0.5197476744651794  0.19195343554019928  1.0000
+  Cl  Cl2       1.0  0.07285623997449875  0.030392451211810112  0.27991124987602234  1.0000
+  Pb  Pb1       1.0  0.8586523532867432  0.5152788162231445  0.6115841865539551  1.0000
+  Pt  Pt1       1.0  0.07396633177995682  0.0422680489718914  0.25771477818489075  1.0000
+  Pt  Pt2       1.0  0.07933243364095688  0.5229268670082092  0.14970120787620547  1.0000

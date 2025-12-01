@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AuK2PPtSV2Zn
+_chemical_formula_sum              "Au1 K2 P1 Pt1 S1 V2 Zn1"
+_cell_length_a       4.014188309226395
+_cell_length_b       3.244622121503871
+_cell_length_c       6.660582542419434
+_cell_angle_alpha    112.91215910999249
+_cell_angle_beta     113.90515190255823
+_cell_angle_gamma    132.55630430094004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.4948476552963256  0.9114952683448789  0.9338203072547911  1.0000
+  K   K1        1.0  0.3890947103500366  0.6023361682891846  0.6207752823829651  1.0000
+  K   K2        1.0  0.9359951615333556  0.9963125586509703  0.07415495812892908  1.0000
+  P   P1        1.0  0.9724327325820924  0.2406366318464279  0.3793060779571533  1.0000
+  Pt  Pt1       1.0  0.8657126426696775  0.7927073240280148  0.866291046142578  1.0000
+  S   S1        1.0  0.12733905017375935  0.9570614695549009  0.8859735131263732  1.0000
+  V   V1        1.0  0.4424884617328642  0.15111206471919988  0.8428868055343627  1.0000
+  V   V2        1.0  0.5438200831413268  0.9616858363151549  0.4644781649112701  1.0000
+  Zn  Zn1       1.0  0.7146681547164916  0.2680070996284483  0.4351558685302734  1.0000

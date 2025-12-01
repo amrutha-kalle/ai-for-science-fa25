@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoGeHHoIOPb2Zr2
+_chemical_formula_sum              "Co1 Ge1 H1 Ho1 I1 O1 Pb2 Zr2"
+_cell_length_a       4.9285173766810715
+_cell_length_b       6.473940723882096
+_cell_length_c       7.713629722595215
+_cell_angle_alpha    119.14472827141445
+_cell_angle_beta     91.16105334962494
+_cell_angle_gamma    89.80811834709228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.4747462868690491  0.8768927454948425  0.6231247782707215  1.0000
+  Ge  Ge1       1.0  0.9841153621673584  0.1269121766090393  0.6037790775299072  1.0000
+  H   H1        1.0  0.981152355670929  0.9725428223609924  0.7290010452270509  1.0000
+  Ho  Ho1       1.0  0.47952592372894287  0.9209675788879395  0.4603519439697266  1.0000
+  I   I1        1.0  0.4791073203086853  0.9481912851333618  0.3495750725269318  1.0000
+  O   O1        1.0  0.6048266887664795  0.4736471474170685  0.9636794328689576  1.0000
+  Pb  Pb1       1.0  0.986296534538269  0.7486273050308228  0.31057423353195196  1.0000
+  Pb  Pb2       1.0  0.48353251814842224  0.03156786784529686  0.37724742293357855  1.0000
+  Zr  Zr1       1.0  0.478804349899292  0.9081852436065674  0.593681275844574  1.0000
+  Zr  Zr2       1.0  0.9831568002700806  0.19096727669239044  0.42151466012001043  1.0000

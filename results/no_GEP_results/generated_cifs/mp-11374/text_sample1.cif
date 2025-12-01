@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy3Tl4
+_chemical_formula_sum              "Dy3 Tl4"
+_cell_length_a       4.098749042090743
+_cell_length_b       4.902192668370772
+_cell_length_c       5.200892448425293
+_cell_angle_alpha    132.38718844426202
+_cell_angle_beta     90.58676920926756
+_cell_angle_gamma    86.01890830348255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.5230498313903809  0.8154504895210266  0.1281825751066207  1.0000
+  Dy  Dy2       1.0  0.5570960640907288  0.2866363823413849  0.38909029960632324  1.0000
+  Dy  Dy3       1.0  0.503646731376648  0.8045763373374939  0.9280754327774048  1.0000
+  Tl  Tl1       1.0  0.545637845993042  0.9666936993598938  0.4364603757858276  1.0000
+  Tl  Tl2       1.0  0.03181465342640877  0.6649366617202759  0.6798334121704102  1.0000
+  Tl  Tl3       1.0  0.043722037225961685  0.219465434551239  0.9533383846282959  1.0000
+  Tl  Tl4       1.0  0.03077283315360546  0.9736018776893616  0.6400260925292968  1.0000

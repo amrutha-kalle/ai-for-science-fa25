@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl3MgV2
+_chemical_formula_sum              "Cl3 Mg1 V2"
+_cell_length_a       4.54586431634201
+_cell_length_b       4.16717527726865
+_cell_length_c       5.611754894256592
+_cell_angle_alpha    108.22016505731237
+_cell_angle_beta     107.0281922629652
+_cell_angle_gamma    89.5943570192367
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.3054168224334717  0.4487054049968719  0.3458743095397949  1.0000
+  Cl  Cl2       1.0  0.7051231265068054  0.8926153182983397  0.8375338315963745  1.0000
+  Cl  Cl3       1.0  0.7081977128982544  0.10467059165239333  0.04635554924607277  1.0000
+  Mg  Mg1       1.0  0.27011480927467346  0.261841595172882  0.8573590517044067  1.0000
+  V   V1        1.0  0.29989343881607056  0.3839252889156341  0.4590120017528534  1.0000
+  V   V2        1.0  0.8024410009384155  0.43491393327713007  0.4521279036998749  1.0000

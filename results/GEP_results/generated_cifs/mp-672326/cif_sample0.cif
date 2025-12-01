@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FInRu4Sn
+_chemical_formula_sum              "F1 In1 Ru4 Sn1"
+_cell_length_a       5.1074785836856655
+_cell_length_b       5.665938469316573
+_cell_length_c       6.246361255645752
+_cell_angle_alpha    91.02071869462434
+_cell_angle_beta     89.39055923142885
+_cell_angle_gamma    114.69841561116358
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.0055130720138549805  0.7422623634338379  0.8023110032081604  1.0000
+  In  In1       1.0  0.7949458956718445  0.42242771387100225  0.3317747712135315  1.0000
+  Ru  Ru1       1.0  0.40962409973144537  0.9204263091087342  0.5889315009117126  1.0000
+  Ru  Ru2       1.0  0.06379019469022751  0.5973438024520874  0.08779396861791611  1.0000
+  Ru  Ru3       1.0  0.0030763708055019596  0.22254739701747897  0.8070011138916016  1.0000
+  Ru  Ru4       1.0  0.28998374938964844  0.36541664600372314  0.6047854423522949  1.0000
+  Sn  Sn1       1.0  0.708270251750946  0.7133862972259521  0.4978509843349457  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NNb3PbSi2
+_chemical_formula_sum              "N1 Nb3 Pb1 Si2"
+_cell_length_a       5.701954803625626
+_cell_length_b       5.990461182928838
+_cell_length_c       7.944496154785156
+_cell_angle_alpha    89.60093417857401
+_cell_angle_beta     90.64509676426896
+_cell_angle_gamma    89.22160628350488
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.6882508993148804  0.5302860736846924  0.6379191875457764  1.0000
+  Nb  Nb1       1.0  0.6879662871360779  0.32709017395973206  0.4854525029659272  1.0000
+  Nb  Nb2       1.0  0.6915261745452881  0.5991297364234924  0.6552372574806213  1.0000
+  Nb  Nb3       1.0  0.19308233261108396  0.6991729736328125  0.7064136862754822  1.0000
+  Pb  Pb1       1.0  0.6945554614067078  0.4032681882381439  0.6214568614959717  1.0000
+  Si  Si1       1.0  0.19290478527545926  0.7750087976455688  0.8670743703842164  1.0000
+  Si  Si2       1.0  0.18077151477336884  0.22157521545886993  0.5179423093795776  1.0000

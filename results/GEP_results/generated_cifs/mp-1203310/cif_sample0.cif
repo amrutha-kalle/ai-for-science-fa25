@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2P2Sm4
+_chemical_formula_sum              "Ni2 P2 Sm4"
+_cell_length_a       4.810582791943521
+_cell_length_b       5.749640732700932
+_cell_length_c       7.023881435394287
+_cell_angle_alpha    110.48939135058706
+_cell_angle_beta     111.02989863528748
+_cell_angle_gamma    88.8839415525494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.03661832213401796  0.4386735856533051  0.42847865819931025  1.0000
+  Ni  Ni2       1.0  0.6245856285095215  0.43695098161697393  0.6623357534408569  1.0000
+  P   P1        1.0  0.10523839294910431  0.7273480296134949  0.9892470240592955  1.0000
+  P   P2        1.0  0.5921284556388855  0.9356624484062196  0.9820077419281005  1.0000
+  Sm  Sm1       1.0  0.355144202709198  0.19664469361305237  0.2244465798139572  1.0000
+  Sm  Sm2       1.0  0.5970051884651184  0.7494416832923889  0.7140440940856934  1.0000
+  Sm  Sm3       1.0  0.35755035281181335  0.4418198466300965  0.4335114657878875  1.0000
+  Sm  Sm4       1.0  0.08791144937276842  0.4258939921855927  0.7127429842948914  1.0000

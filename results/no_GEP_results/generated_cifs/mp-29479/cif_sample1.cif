@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FGeIO2V2Zn
+_chemical_formula_sum              "F1 Ge1 I1 O2 V2 Zn1"
+_cell_length_a       4.113324461692203
+_cell_length_b       3.7855123652685543
+_cell_length_c       11.760936737060547
+_cell_angle_alpha    96.49104806829904
+_cell_angle_beta     91.54070896614391
+_cell_angle_gamma    89.19708975794546
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.931884229183197  0.5088670253753662  0.5201953053474426  1.0000
+  Ge  Ge1       1.0  0.9640386700630188  0.435410737991333  0.5690494179725647  1.0000
+  I   I1        1.0  0.9365419149398804  0.314288467168808  0.24174517393112183  1.0000
+  O   O1        1.0  0.9709725379943847  0.2880692780017853  0.7932327389717102  1.0000
+  O   O2        1.0  0.426085501909256  0.050042495131492615  0.6548360586166382  1.0000
+  V   V1        1.0  0.9699565172195435  0.5431365966796875  0.8119557499885559  1.0000
+  V   V2        1.0  0.46668481826782227  0.3884333670139313  0.10477262735366821  1.0000
+  Zn  Zn1       1.0  0.4631665050983429  0.8385958671569824  0.7597380876541138  1.0000

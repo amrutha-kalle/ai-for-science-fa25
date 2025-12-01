@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd5Tb2
+_chemical_formula_sum              "Cd5 Tb2"
+_cell_length_a       5.203110942246572
+_cell_length_b       5.45472230152799
+_cell_length_c       5.516494274139404
+_cell_angle_alpha    66.87970715682515
+_cell_angle_beta     67.43487679036782
+_cell_angle_gamma    69.19833617004001
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.6737207174301147  0.41960263252258295  0.7569888830184937  1.0000
+  Cd  Cd2       1.0  0.2748948633670807  0.02335944212973118  0.8015222549438477  1.0000
+  Cd  Cd3       1.0  0.6869208812713623  0.9609124660491942  0.32923194766044617  1.0000
+  Cd  Cd4       1.0  0.3024181425571442  0.856656789779663  0.8300581574440002  1.0000
+  Cd  Cd5       1.0  0.6263011693954468  0.709514856338501  0.5042874813079834  1.0000
+  Tb  Tb1       1.0  0.020082581788301468  0.7720103859901428  0.5039089322090149  1.0000
+  Tb  Tb2       1.0  0.8764482140541077  0.6267015933990479  0.934749186038971  1.0000

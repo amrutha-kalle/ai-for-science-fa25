@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CrMo4Pt2
+_chemical_formula_sum              "Cr1 Mo4 Pt2"
+_cell_length_a       2.5799908471206936
+_cell_length_b       6.78788778573735
+_cell_length_c       6.280562877655029
+_cell_angle_alpha    125.63550110022143
+_cell_angle_beta     80.85313777083348
+_cell_angle_gamma    89.44999530100762
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.24047523736953733  0.8362385630607605  0.7480025291442873  1.0000
+  Mo  Mo1       1.0  0.23153464496135712  0.8201531767845154  0.9901118874549867  1.0000
+  Mo  Mo2       1.0  0.73060142993927  0.1542535275220871  0.9877672791481019  1.0000
+  Mo  Mo3       1.0  0.24345351755619046  0.44969359040260315  0.4878833889961243  1.0000
+  Mo  Mo4       1.0  0.7426902651786804  0.2579677402973175  0.28476241230964666  1.0000
+  Pt  Pt1       1.0  0.7403258681297302  0.19548650085926056  0.5272267460823059  1.0000
+  Pt  Pt2       1.0  0.763270378112793  0.4135051369667053  0.2834243476390839  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hf3IMo2Sb
+_chemical_formula_sum              "Hf3 I1 Mo2 Sb1"
+_cell_length_a       5.026289180104503
+_cell_length_b       4.961205046632046
+_cell_length_c       5.867794036865234
+_cell_angle_alpha    119.3303511165233
+_cell_angle_beta     95.72450404726827
+_cell_angle_gamma    91.70618111582479
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6001073122024536  0.6866797208786011  0.7426836490631104  1.0000
+  Hf  Hf2       1.0  0.9109930396080017  0.5348674058914185  0.7417544722557068  1.0000
+  Hf  Hf3       1.0  0.8668748736381531  0.042951326817274094  0.11403573304414749  1.0000
+  I   I1        1.0  0.3729608952999115  0.18909066915512085  0.959537923336029  1.0000
+  Mo  Mo1       1.0  0.8753635883331299  0.5164900422096252  0.8834301829338074  1.0000
+  Mo  Mo2       1.0  0.8810067176818848  0.03961557894945145  0.2958923578262329  1.0000
+  Sb  Sb1       1.0  0.38838520646095276  0.8759389519691467  0.7848207354545593  1.0000

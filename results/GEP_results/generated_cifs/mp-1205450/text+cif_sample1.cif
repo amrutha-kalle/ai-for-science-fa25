@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LuP2PrSSe2
+_chemical_formula_sum              "Lu1 P2 Pr1 S1 Se2"
+_cell_length_a       5.16788000823309
+_cell_length_b       5.3067515554874785
+_cell_length_c       7.293174743652344
+_cell_angle_alpha    88.97928760813235
+_cell_angle_beta     89.28160657114739
+_cell_angle_gamma    96.40636728984705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.19865930080413818  0.08296699821949005  0.22365549206733704  1.0000
+  P   P1        1.0  0.7844441533088684  0.2733355462551117  0.9775773286819458  1.0000
+  P   P2        1.0  0.7028902173042297  0.547330379486084  0.47463884949684143  1.0000
+  Pr  Pr1       1.0  0.7003489136695862  0.6060442924499512  0.09074579924345016  1.0000
+  S   S1        1.0  0.5717901587486267  0.3995507061481476  0.7329249382019043  1.0000
+  Se  Se1       1.0  0.39308270812034607  0.9279103875160217  0.7776758670806885  1.0000
+  Se  Se2       1.0  0.7885670065879822  0.2583785951137543  0.4698038697242737  1.0000

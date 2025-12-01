@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CaCo2Sc4
+_chemical_formula_sum              "Ca1 Co2 Sc4"
+_cell_length_a       4.941474060066986
+_cell_length_b       5.573450894790996
+_cell_length_c       5.277029037475586
+_cell_angle_alpha    56.21462544392848
+_cell_angle_beta     60.74026473674034
+_cell_angle_gamma    61.464900589469394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.3066920042037964  0.0669274777173996  0.44067004323005676  1.0000
+  Co  Co1       1.0  0.48306605219841003  0.5971046686172485  0.7055574059486389  1.0000
+  Co  Co2       1.0  0.06406016647815704  0.8348321914672852  0.129184752702713  1.0000
+  Sc  Sc1       1.0  0.09925850480794907  0.20853179693222046  0.18938322365283966  1.0000
+  Sc  Sc2       1.0  0.29854515194892883  0.5977519750595093  0.3944459855556488  1.0000
+  Sc  Sc3       1.0  0.902530312538147  0.5939435362815857  0.6521495580673218  1.0000
+  Sc  Sc4       1.0  0.8632791042327881  0.328298419713974  0.11229222267866135  1.0000

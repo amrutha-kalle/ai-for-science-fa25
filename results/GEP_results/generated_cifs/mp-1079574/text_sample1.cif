@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb3Te4
+_chemical_formula_sum              "Pb3 Te4"
+_cell_length_a       4.564631753034089
+_cell_length_b       6.682126381130462
+_cell_length_c       16.294370651245117
+_cell_angle_alpha    93.65016758976083
+_cell_angle_beta     82.96849326139629
+_cell_angle_gamma    100.10424645984041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.3965018093585968  0.864123523235321  0.16152817010879517  1.0000
+  Pb  Pb2       1.0  0.6056654453277588  0.5250533819198608  0.4394766688346863  1.0000
+  Pb  Pb3       1.0  0.8291014432907104  0.27421391010284424  0.4847794473171234  1.0000
+  Te  Te1       1.0  0.06739535927772522  0.014916454441845417  0.989346981048584  1.0000
+  Te  Te2       1.0  0.3348654508590698  0.3591507375240326  0.4299057424068451  1.0000
+  Te  Te3       1.0  0.3378026783466339  0.7910229563713074  0.4618139863014221  1.0000
+  Te  Te4       1.0  0.8457035422325134  0.29509955644607544  0.9338740706443787  1.0000

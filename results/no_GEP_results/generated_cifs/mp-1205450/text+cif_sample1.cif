@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsCeCoP2PrSe
+_chemical_formula_sum              "As1 Ce1 Co1 P2 Pr1 Se1"
+_cell_length_a       5.087102780499831
+_cell_length_b       5.291985485419947
+_cell_length_c       6.2870097160339355
+_cell_angle_alpha    116.29918529553936
+_cell_angle_beta     111.57978926066866
+_cell_angle_gamma    99.21129277912418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9436997175216675  0.4539109468460083  0.9939104318618774  1.0000
+  Ce  Ce1       1.0  0.42192986607551575  0.9538697600364685  0.30206766724586487  1.0000
+  Co  Co1       1.0  0.9394931793212891  0.7696139812469482  0.6694698333740234  1.0000
+  P   P1        1.0  0.44571158289909363  0.7902470827102661  0.11568457633256912  1.0000
+  P   P2        1.0  0.40550342202186584  0.9018747210502625  0.14808450639247894  1.0000
+  Pr  Pr1       1.0  0.052952490746974945  0.5384121537208557  0.9626195430755615  1.0000
+  Se  Se1       1.0  0.8865946531295776  0.7815012335777283  0.5134838223457336  1.0000

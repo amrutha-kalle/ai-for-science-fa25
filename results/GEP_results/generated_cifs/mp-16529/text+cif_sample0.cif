@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al4Ru2Zn
+_chemical_formula_sum              "Al4 Ru2 Zn1"
+_cell_length_a       4.886286633069633
+_cell_length_b       5.370431952608932
+_cell_length_c       5.327852249145508
+_cell_angle_alpha    63.772127805762835
+_cell_angle_beta     63.495036114994896
+_cell_angle_gamma    62.725011815533946
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6341869235038757  0.18771448731422424  0.08265011012554169  1.0000
+  Al  Al2       1.0  0.8528853058815002  0.32213354110717773  0.5971636772155762  1.0000
+  Al  Al3       1.0  0.46152105927467346  0.6503857970237732  0.977505385875702  1.0000
+  Al  Al4       1.0  0.638487696647644  0.6928880214691162  0.5858754515647888  1.0000
+  Ru  Ru1       1.0  0.20544256269931793  0.9980655312538147  0.3379043638706207  1.0000
+  Ru  Ru2       1.0  0.6944814920425415  0.22178512811660767  0.8351835608482362  1.0000
+  Zn  Zn1       1.0  0.8520089387893677  0.8202806711196899  0.3296886086463928  1.0000

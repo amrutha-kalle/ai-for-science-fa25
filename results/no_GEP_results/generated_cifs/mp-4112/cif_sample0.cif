@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       I2Li2OPSTl2
+_chemical_formula_sum              "I2 Li2 O1 P1 S1 Tl2"
+_cell_length_a       5.950949194120513
+_cell_length_b       6.480660982169688
+_cell_length_c       7.333055019378662
+_cell_angle_alpha    113.7945869858635
+_cell_angle_beta     104.5875187109811
+_cell_angle_gamma    107.39362751947355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.4167692959308624  0.03488622233271599  0.33692830801010126  1.0000
+  I   I2        1.0  0.9022390842437744  0.945102334022522  0.663791835308075  1.0000
+  Li  Li1       1.0  0.2534312605857849  0.5888485312461853  0.6054635047912598  1.0000
+  Li  Li2       1.0  0.23274283111095428  0.35560089349746704  0.0738794207572937  1.0000
+  O   O1        1.0  0.8815465569496155  0.9482828378677367  0.8734133839607238  1.0000
+  P   P1        1.0  0.6827743053436279  0.49992415308952326  0.36868691444396967  1.0000
+  S   S1        1.0  0.7299054861068726  0.5238078236579895  0.19947652518749234  1.0000
+  Tl  Tl1       1.0  0.7176046371459961  0.34667226672172546  0.24813252687454215  1.0000
+  Tl  Tl2       1.0  0.05837160348892212  0.3375397026538849  0.6248162388801575  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga2HPbPt2Zn
+_chemical_formula_sum              "Ga2 H1 Pb1 Pt2 Zn1"
+_cell_length_a       3.835749348410163
+_cell_length_b       4.589959086576583
+_cell_length_c       6.113986968994141
+_cell_angle_alpha    112.63037689556866
+_cell_angle_beta     88.53402002097957
+_cell_angle_gamma    91.20167693142206
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9577031135559082  0.5961549878120422  0.22336621582508087  1.0000
+  Ga  Ga2       1.0  0.9178855419158936  0.8240718841552734  0.14498674869537354  1.0000
+  H   H1        1.0  0.38677456974983215  0.3286152780056  0.6947901248931885  1.0000
+  Pb  Pb1       1.0  0.46637582778930664  0.2554769515991211  0.3943674564361572  1.0000
+  Pt  Pt1       1.0  0.43376678228378296  0.11511922627687454  0.020508091896772385  1.0000
+  Pt  Pt2       1.0  0.9309465885162354  0.5623870491981506  0.4517209529876709  1.0000
+  Zn  Zn1       1.0  0.9452093243598938  0.8801187872886658  0.5704542398452759  1.0000

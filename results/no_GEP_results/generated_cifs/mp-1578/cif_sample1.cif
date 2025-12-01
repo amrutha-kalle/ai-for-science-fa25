@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaSb2V2Zr
+_chemical_formula_sum              "Ga1 Sb2 V2 Zr1"
+_cell_length_a       4.856253847670861
+_cell_length_b       5.15328640608044
+_cell_length_c       5.673661231994629
+_cell_angle_alpha    124.01750807707903
+_cell_angle_beta     90.74610245183146
+_cell_angle_gamma    90.64839779676818
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.10369379818439484  0.6441604495048523  0.6903545260429382  1.0000
+  Sb  Sb1       1.0  0.6141968965530396  0.01789310947060585  0.17310208082199097  1.0000
+  Sb  Sb2       1.0  0.11847633868455887  0.030914904549717903  0.9840510487556458  1.0000
+  V   V1        1.0  0.12405259162187576  0.9398791790008545  0.7314176559448242  1.0000
+  V   V2        1.0  0.625784158706665  0.9098615646362305  0.9002163410186768  1.0000
+  Zr  Zr1       1.0  0.620590090751648  0.009027618914842606  0.5925391316413879  1.0000

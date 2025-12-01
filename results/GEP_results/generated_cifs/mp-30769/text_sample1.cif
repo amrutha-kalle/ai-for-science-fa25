@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li7Sn
+_chemical_formula_sum              "Li7 Sn1"
+_cell_length_a       5.382215755350668
+_cell_length_b       4.363788655241671
+_cell_length_c       6.251300811767578
+_cell_angle_alpha    77.00365620378558
+_cell_angle_beta     76.06509411471659
+_cell_angle_gamma    50.9592762204408
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.7943662405014038  0.5274864435195923  0.5285630822181702  1.0000
+  Li  Li2       1.0  0.06150461360812187  0.3527044951915741  0.0834859237074852  1.0000
+  Li  Li3       1.0  0.3912544846534729  0.6993460059165955  0.7571020722389221  1.0000
+  Li  Li4       1.0  0.7681193351745605  0.1923796832561493  0.7667776346206665  1.0000
+  Li  Li5       1.0  0.4596889615058899  0.5147020816802979  0.9629967212677002  1.0000
+  Li  Li6       1.0  0.7966804504394531  0.9537697434425354  0.7142988443374634  1.0000
+  Li  Li7       1.0  0.06953629106283188  0.862680196762085  0.3739491403102875  1.0000
+  Sn  Sn1       1.0  0.4669184684753418  0.1611328423023224  0.4736243486404419  1.0000

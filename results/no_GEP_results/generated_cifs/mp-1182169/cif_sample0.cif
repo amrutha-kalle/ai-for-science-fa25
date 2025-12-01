@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaGeILuP2
+_chemical_formula_sum              "Ba1 Ge1 I1 Lu1 P2"
+_cell_length_a       4.962238285498682
+_cell_length_b       5.0524523590243335
+_cell_length_c       7.87131404876709
+_cell_angle_alpha    100.80313207748573
+_cell_angle_beta     93.44478576786977
+_cell_angle_gamma    93.4213357415017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.9883074164390564  0.8925525546073914  0.8983814120292664  1.0000
+  Ge  Ge1       1.0  0.7296655178070068  0.6386432647705078  0.012178520672023296  1.0000
+  I   I1        1.0  0.4869651794433594  0.07619509100914001  0.848961353302002  1.0000
+  Lu  Lu1       1.0  0.22162877023220062  0.6051419377326965  0.9853306412696838  1.0000
+  P   P1        1.0  0.1627776026725769  0.9395010471343994  0.8065195083618164  1.0000
+  P   P2        1.0  0.730000913143158  0.6135540008544922  0.701646625995636  1.0000

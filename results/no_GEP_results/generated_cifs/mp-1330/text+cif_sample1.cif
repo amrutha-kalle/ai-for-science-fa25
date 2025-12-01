@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlNPbPtTiZn
+_chemical_formula_sum              "Al1 N1 Pb1 Pt1 Ti1 Zn1"
+_cell_length_a       4.612259792937639
+_cell_length_b       4.64407444958463
+_cell_length_c       6.377792835235596
+_cell_angle_alpha    102.65427515388726
+_cell_angle_beta     97.65739088244169
+_cell_angle_gamma    102.02514594762978
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7373446822166443  0.2565518021583557  0.3150288164615631  1.0000
+  N   N1        1.0  0.7275238633155823  0.6109386682510376  0.5958760976791382  1.0000
+  Pb  Pb1       1.0  0.23914144933223724  0.10084196925163269  0.7408261299133301  1.0000
+  Pt  Pt1       1.0  0.11397209018468857  0.21607986092567444  0.9822660088539125  1.0000
+  Ti  Ti1       1.0  0.10531450062990189  0.3083147704601288  0.7683781385421753  1.0000
+  Zn  Zn1       1.0  0.7287359237670898  0.05167394131422043  0.41406965255737305  1.0000

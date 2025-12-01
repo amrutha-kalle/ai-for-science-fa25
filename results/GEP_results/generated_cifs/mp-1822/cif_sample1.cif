@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlS2Ti4
+_chemical_formula_sum              "Al1 S2 Ti4"
+_cell_length_a       4.8113916383709645
+_cell_length_b       4.842444953576622
+_cell_length_c       6.230590343475342
+_cell_angle_alpha    114.05725580152185
+_cell_angle_beta     111.81684204738316
+_cell_angle_gamma    90.4912410088466
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.1666993945837021  0.9189125299453735  0.8462668657302855  1.0000
+  S   S1        1.0  0.7875877022743225  0.16884006559848785  0.6928391456604003  1.0000
+  S   S2        1.0  0.9154871106147766  0.6520315408706665  0.9227921366691588  1.0000
+  Ti  Ti1       1.0  0.45085400342941284  0.632595956325531  0.7652017474174498  1.0000
+  Ti  Ti2       1.0  0.952768862247467  0.12064676731824875  0.4151564240455627  1.0000
+  Ti  Ti3       1.0  0.4516395628452301  0.7981638312339783  0.029462018981575962  1.0000
+  Ti  Ti4       1.0  0.03990626707673073  0.44527310132980347  0.19183410704135892  1.0000

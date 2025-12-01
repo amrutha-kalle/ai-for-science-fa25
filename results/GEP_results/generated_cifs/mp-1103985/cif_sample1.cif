@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CsMnNdOPtZn2
+_chemical_formula_sum              "Cs1 Mn1 Nd1 O1 Pt1 Zn2"
+_cell_length_a       5.342498846402916
+_cell_length_b       5.653717853413542
+_cell_length_c       5.816439628601074
+_cell_angle_alpha    65.79036944052123
+_cell_angle_beta     65.71868931666413
+_cell_angle_gamma    66.44504092334587
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.9493360519409181  0.5627787709236145  0.4376097321510315  1.0000
+  Mn  Mn1       1.0  0.4491257071495056  0.004073599353432655  0.6027789711952208  1.0000
+  Nd  Nd1       1.0  0.504244327545166  0.46463003754615784  0.5748254656791687  1.0000
+  O   O1        1.0  0.5510411262512207  0.4724728465080261  0.35959717631340027  1.0000
+  Pt  Pt1       1.0  0.021142499521374702  0.01850137487053871  0.09296165406703949  1.0000
+  Zn  Zn1       1.0  0.840605616569519  0.008792001754045486  0.20150882005691526  1.0000
+  Zn  Zn2       1.0  0.8961567282676697  0.5044126510620117  0.6195186376571654  1.0000

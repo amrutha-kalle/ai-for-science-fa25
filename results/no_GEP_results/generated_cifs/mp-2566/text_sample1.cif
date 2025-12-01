@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pu3Sb4
+_chemical_formula_sum              "Pu3 Sb4"
+_cell_length_a       5.0140928826592
+_cell_length_b       4.9031526746422704
+_cell_length_c       5.913425922393799
+_cell_angle_alpha    118.05694901409495
+_cell_angle_beta     119.9570339319648
+_cell_angle_gamma    92.35512041963746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pu  Pu1       1.0  0.7286491394042969  0.7667026519775391  0.9829315543174744  1.0000
+  Pu  Pu2       1.0  0.23080450296401978  0.3737090229988098  0.794674813747406  1.0000
+  Pu  Pu3       1.0  0.7283741235733032  0.7658841609954834  0.6438193917274475  1.0000
+  Sb  Sb1       1.0  0.7293291687965393  0.34030890464782715  0.8158348202705383  1.0000
+  Sb  Sb2       1.0  0.7261608839035034  0.2623301148414612  0.8132256865501404  1.0000
+  Sb  Sb3       1.0  0.2282530665397644  0.19957871735095978  0.7989450097084045  1.0000
+  Sb  Sb4       1.0  0.22304673492908478  0.5282897353172302  0.382534921169281  1.0000

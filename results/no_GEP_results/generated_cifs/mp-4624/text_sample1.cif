@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       B2CaO4Ta2
+_chemical_formula_sum              "B2 Ca1 O4 Ta2"
+_cell_length_a       5.322693912060299
+_cell_length_b       5.217154159227656
+_cell_length_c       5.688786029815674
+_cell_angle_alpha    83.04258234421867
+_cell_angle_beta     66.52714460439087
+_cell_angle_gamma    64.76749952515291
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.5230984091758728  0.3549734652042389  0.3208417594432831  1.0000
+  B   B2        1.0  0.8553148508071899  0.09899315237998962  0.9039105176925659  1.0000
+  Ca  Ca1       1.0  0.5411838889122009  0.18888723850250244  0.790280818939209  1.0000
+  O   O1        1.0  0.05348346754908562  0.29306212067604065  0.8932128548622131  1.0000
+  O   O2        1.0  0.06467336416244507  0.6167805790901184  0.2769848704338074  1.0000
+  O   O3        1.0  0.5682145953178406  0.27325281500816345  0.760933518409729  1.0000
+  O   O4        1.0  0.5597476959228516  0.6057066321372986  0.49101084470748907  1.0000
+  Ta  Ta1       1.0  0.006504178047180176  0.7773621082305908  0.9159466624259949  1.0000
+  Ta  Ta2       1.0  0.5189310312271118  0.29473957419395447  0.8935196399688721  1.0000

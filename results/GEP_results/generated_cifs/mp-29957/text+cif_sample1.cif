@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ScSi2TiZr3
+_chemical_formula_sum              "Sc1 Si2 Ti1 Zr3"
+_cell_length_a       4.134145526934158
+_cell_length_b       6.047319227233149
+_cell_length_c       7.027678966522217
+_cell_angle_alpha    122.32108337428636
+_cell_angle_beta     88.1285237676652
+_cell_angle_gamma    89.86893057196181
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.5228531956672668  0.4269392788410187  0.003710218006744997  1.0000
+  Si  Si1       1.0  0.524265706539154  0.9242269396781921  0.5969034433364868  1.0000
+  Si  Si2       1.0  0.5255228877067566  0.4189859926700592  0.28946202993392944  1.0000
+  Ti  Ti1       1.0  0.02317892201244831  0.8358303904533386  0.7542440295219422  1.0000
+  Zr  Zr1       1.0  0.525267481803894  0.9175487756729126  0.5996862649917603  1.0000
+  Zr  Zr2       1.0  0.02710690349340439  0.15010973811149597  0.21234513819217685  1.0000
+  Zr  Zr3       1.0  0.025396626442670822  0.9180991053581238  0.1942185312509537  1.0000

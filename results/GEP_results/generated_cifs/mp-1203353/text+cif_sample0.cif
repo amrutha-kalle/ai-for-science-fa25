@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PSSr5
+_chemical_formula_sum              "P1 S1 Sr5"
+_cell_length_a       7.710228069687808
+_cell_length_b       7.660133135863595
+_cell_length_c       7.162504196166992
+_cell_angle_alpha    61.38466535089534
+_cell_angle_beta     62.417208415889114
+_cell_angle_gamma    61.10389686120379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.6571494936943054  0.11514072865247726  0.2697657942771912  1.0000
+  S   S1        1.0  0.790243089199066  0.6581723093986511  0.006082448642701035  1.0000
+  Sr  Sr1       1.0  0.546947717666626  0.9226460456848145  0.8307483792304993  1.0000
+  Sr  Sr2       1.0  0.05574911460280418  0.506278932094574  0.39557793736457825  1.0000
+  Sr  Sr3       1.0  0.5599860548973083  0.1746828705072403  0.4779824912548065  1.0000
+  Sr  Sr4       1.0  0.06989743560552597  0.6159272789955139  0.14691278338432312  1.0000
+  Sr  Sr5       1.0  0.06706474721431732  0.008706575259566307  0.8342574834823608  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B2Ho4Pb
+_chemical_formula_sum              "B2 Ho4 Pb1"
+_cell_length_a       4.372357211033823
+_cell_length_b       4.965267437441604
+_cell_length_c       5.152799606323242
+_cell_angle_alpha    114.95232680404551
+_cell_angle_beta     97.35569093306083
+_cell_angle_gamma    90.06080605901394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.9343026876449585  0.6040588021278381  0.8077852725982666  1.0000
+  B   B2        1.0  0.9202306866645813  0.27026939392089844  0.48736542463302607  1.0000
+  Ho  Ho1       1.0  0.16127295792102814  0.09537452459335327  0.5612173676490784  1.0000
+  Ho  Ho2       1.0  0.1770852655172348  0.41598841547966003  0.7264214754104614  1.0000
+  Ho  Ho3       1.0  0.6519066691398621  0.9297763109207153  0.4741070866584777  1.0000
+  Ho  Ho4       1.0  0.6397581696510315  0.6077479124069214  0.2830735146999359  1.0000
+  Pb  Pb1       1.0  0.3941030204296112  0.657468318939209  0.3103584051132202  1.0000

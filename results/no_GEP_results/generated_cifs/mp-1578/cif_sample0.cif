@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PbPtUV3
+_chemical_formula_sum              "Pb1 Pt1 U1 V3"
+_cell_length_a       4.630993003775922
+_cell_length_b       5.058699077510981
+_cell_length_c       6.613986015319824
+_cell_angle_alpha    90.29233860713754
+_cell_angle_beta     89.81207403541028
+_cell_angle_gamma    93.79291142445359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.6638280153274536  0.0644105076789856  0.29865992069244385  1.0000
+  Pt  Pt1       1.0  0.6751324534416199  0.043913356959819794  0.45554995536804205  1.0000
+  U   U1        1.0  0.23395365476608276  0.4997352659702301  0.038651496171951294  1.0000
+  V   V1        1.0  0.6821478009223938  0.3112674951553345  0.13988201320171356  1.0000
+  V   V2        1.0  0.18562154471874237  0.7801620960235596  0.7095851302146912  1.0000
+  V   V3        1.0  0.7531890273094177  0.6405937075614929  0.5598251223564148  1.0000

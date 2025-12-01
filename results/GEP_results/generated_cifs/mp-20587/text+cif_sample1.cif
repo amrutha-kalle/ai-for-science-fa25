@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu3GdPS
+_chemical_formula_sum              "Eu3 Gd1 P1 S1"
+_cell_length_a       6.491777826757839
+_cell_length_b       6.581152385782805
+_cell_length_c       6.805144309997559
+_cell_angle_alpha    106.78419010096582
+_cell_angle_beta     107.60435793751928
+_cell_angle_gamma    110.28036890725868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.7767927050590515  0.1699136644601822  0.028864575549960136  1.0000
+  Eu  Eu2       1.0  0.986061692237854  0.09889886528253555  0.18336868286132812  1.0000
+  Eu  Eu3       1.0  0.473515123128891  0.589283287525177  0.709449827671051  1.0000
+  Gd  Gd1       1.0  0.4905616343021393  0.5420528650283813  0.5537571907043457  1.0000
+  P   P1        1.0  0.9778261184692383  0.0735366940498352  0.5582832098007202  1.0000
+  S   S1        1.0  0.35509440302848816  0.1594749242067337  0.8136612176895142  1.0000

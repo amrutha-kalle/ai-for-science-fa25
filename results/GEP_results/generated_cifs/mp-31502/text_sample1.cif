@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd5HoN
+_chemical_formula_sum              "Cd5 Ho1 N1"
+_cell_length_a       6.0623912127195885
+_cell_length_b       7.2724245146599555
+_cell_length_c       6.748811721801758
+_cell_angle_alpha    93.59915169498906
+_cell_angle_beta     88.77034316595247
+_cell_angle_gamma    88.08042490001935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2487569451332092  0.09019138664007187  0.6066314578056335  1.0000
+  Cd  Cd2       1.0  0.22460825741291043  0.08636391162872314  0.5853810906410217  1.0000
+  Cd  Cd3       1.0  0.22863040864467618  0.41504615545272827  0.8268863558769226  1.0000
+  Cd  Cd4       1.0  0.745616614818573  0.813447117805481  0.7304030060768127  1.0000
+  Cd  Cd5       1.0  0.727794349193573  0.5931621789932251  0.3851217031478882  1.0000
+  Ho  Ho1       1.0  0.23636762797832486  0.5767310261726379  0.17993974685668945  1.0000
+  N   N1        1.0  0.7462986707687378  0.8953249454498291  0.18121929466724396  1.0000

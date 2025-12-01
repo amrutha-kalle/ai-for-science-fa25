@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       F4KMn3Te
+_chemical_formula_sum              "F4 K1 Mn3 Te1"
+_cell_length_a       5.538630474769454
+_cell_length_b       6.010253924693312
+_cell_length_c       6.395267009735107
+_cell_angle_alpha    67.732453967422
+_cell_angle_beta     65.02462585557218
+_cell_angle_gamma    63.27782601350495
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.2604965567588806  0.7566891312599182  0.35665518045425415  1.0000
+  F   F2        1.0  0.5354056358337402  0.24954806268215177  0.8603703379631042  1.0000
+  F   F3        1.0  0.15111577510833743  0.928268790245056  0.9715843796730042  1.0000
+  F   F4        1.0  0.824427604675293  0.4320553839206695  0.27908778190612793  1.0000
+  K   K1        1.0  0.9948455691337585  0.2642880976200104  0.4012815058231354  1.0000
+  Mn  Mn1       1.0  0.6434342265129089  0.9768360853195189  0.03452214226126671  1.0000
+  Mn  Mn2       1.0  0.006772271823137999  0.2658683955669403  0.9100483655929565  1.0000
+  Mn  Mn3       1.0  0.639590859413147  0.6004378795623779  0.5473495721817017  1.0000
+  Te  Te1       1.0  0.26314783096313477  0.7398824691772461  0.8828416466712952  1.0000

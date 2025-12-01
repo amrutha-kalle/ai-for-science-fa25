@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsCoGeIO2SbSeZn2
+_chemical_formula_sum              "As1 Co1 Ge1 I1 O2 Sb1 Se1 Zn2"
+_cell_length_a       5.517737158156257
+_cell_length_b       4.2596687884144595
+_cell_length_c       7.448383808135986
+_cell_angle_alpha    75.7675383727976
+_cell_angle_beta     69.5326478332968
+_cell_angle_gamma    49.166495045376294
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.7190027832984924  0.6072646379470825  0.5856117606163025  1.0000
+  Co  Co1       1.0  0.3575390577316284  0.4487106204032898  0.16766367852687833  1.0000
+  Ge  Ge1       1.0  0.7584575414657593  0.4787598252296448  0.066213883459568  1.0000
+  I   I1        1.0  0.34026187658309937  0.5741335153579712  0.8408522009849548  1.0000
+  O   O1        1.0  0.3645871579647064  0.46748992800712585  0.5821076035499573  1.0000
+  O   O2        1.0  0.8065818548202515  0.5521958470344543  0.36857986450195307  1.0000
+  Sb  Sb1       1.0  0.3964823782444  0.7021095156669617  0.015846019610762565  1.0000
+  Se  Se1       1.0  0.9967877864837646  0.2753532826900482  0.7629491090774536  1.0000
+  Zn  Zn1       1.0  0.9792662858963013  0.7018240094184875  0.672214925289154  1.0000
+  Zn  Zn2       1.0  0.8654055595397949  0.26500648260116577  0.9810742139816284  1.0000

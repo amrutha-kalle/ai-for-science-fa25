@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CsLuMnNiZn6
+_chemical_formula_sum              "Cs1 Lu1 Mn1 Ni1 Zn6"
+_cell_length_a       5.19722350951626
+_cell_length_b       6.626917752238269
+_cell_length_c       7.131298542022705
+_cell_angle_alpha    68.68580338589558
+_cell_angle_beta     66.33943229490069
+_cell_angle_gamma    65.18158494004996
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.1997002810239792  0.520370364189148  0.8427278399467469  1.0000
+  Lu  Lu1       1.0  0.2835146188735962  0.03178901597857475  0.7197245955467224  1.0000
+  Mn  Mn1       1.0  0.7290427684783936  0.020496591925621033  0.39872214198112493  1.0000
+  Ni  Ni1       1.0  0.5860731601715088  0.2163813263177872  0.19137898087501523  1.0000
+  Zn  Zn1       1.0  0.8361958861351013  0.3474501371383667  0.6972507238388062  1.0000
+  Zn  Zn2       1.0  0.6506495475769043  0.5357354879379272  0.610795795917511  1.0000
+  Zn  Zn3       1.0  0.6944335699081421  0.00022935867309570315  0.300961434841156  1.0000
+  Zn  Zn4       1.0  0.8333250880241394  0.8518710136413575  0.32265245914459223  1.0000
+  Zn  Zn5       1.0  0.01933602616190908  0.4119701981544495  0.5468049049377441  1.0000
+  Zn  Zn6       1.0  0.3181217908859253  0.3583894073963166  0.6737889647483826  1.0000

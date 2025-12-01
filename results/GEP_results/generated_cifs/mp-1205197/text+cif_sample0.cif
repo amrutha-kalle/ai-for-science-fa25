@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlCoDy2Ga2Gd
+_chemical_formula_sum              "Al1 Co1 Dy2 Ga2 Gd1"
+_cell_length_a       5.079755006132981
+_cell_length_b       6.169907321559276
+_cell_length_c       6.05460786819458
+_cell_angle_alpha    123.01768859776153
+_cell_angle_beta     90.896959108163
+_cell_angle_gamma    90.30068535870937
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.3597348630428314  0.6055036187171936  0.5475978851318359  1.0000
+  Co  Co1       1.0  0.13815522193908691  0.8717809319496155  0.6471724510192872  1.0000
+  Dy  Dy1       1.0  0.35972824692726135  0.9406483173370361  0.3126254379749299  1.0000
+  Dy  Dy2       1.0  0.6421492099761963  0.11546207964420319  0.7355387210845947  1.0000
+  Ga  Ga1       1.0  0.8483370542526245  0.6223552227020264  0.35397860407829296  1.0000
+  Ga  Ga2       1.0  0.13266366720199585  0.25528737902641296  0.9356445074081422  1.0000
+  Gd  Gd1       1.0  0.8563233017921448  0.6029092669487  0.9846604466438295  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi5In2
+_chemical_formula_sum              "Bi5 In2"
+_cell_length_a       3.7093744953201684
+_cell_length_b       0.4501325932769175
+_cell_length_c       11.052234649658203
+_cell_angle_alpha    169.50207010897333
+_cell_angle_beta     106.99149578325316
+_cell_angle_gamma    80.22128799796106
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.8980093598365785  0.6869094967842133  0.7644953131675721  1.0000
+  Bi  Bi2       1.0  0.39046347141265875  0.19275796413421722  0.9607144594192505  1.0000
+  Bi  Bi3       1.0  0.9807940721511842  0.3114432096481297  0.7721276879310607  1.0000
+  Bi  Bi4       1.0  0.9557565450668336  0.5860922336578368  0.9460433721542358  1.0000
+  Bi  Bi5       1.0  0.4815014302730561  0.4484038054943083  0.14826048910617828  1.0000
+  In  In1       1.0  0.6336889863014222  0.2766902744770058  0.876316249370575  1.0000
+  In  In2       1.0  0.45713457465171814  0.5566084384918192  0.3649752736091613  1.0000

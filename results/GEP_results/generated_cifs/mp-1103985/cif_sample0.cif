@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CsFNd2PtZn2
+_chemical_formula_sum              "Cs1 F1 Nd2 Pt1 Zn2"
+_cell_length_a       4.992626068745046
+_cell_length_b       5.707724592596967
+_cell_length_c       7.03566837310791
+_cell_angle_alpha    112.38657356552696
+_cell_angle_beta     111.13966006990482
+_cell_angle_gamma    88.2957397217457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.7341964244842529  0.6451752781867981  0.1736031174659729  1.0000
+  F   F1        1.0  0.19859981536865234  0.6667113304138184  0.5091453194618225  1.0000
+  Nd  Nd1       1.0  0.4928657114505768  0.9213252067565918  0.7462062835693359  1.0000
+  Nd  Nd2       1.0  0.14026565849781036  0.26009416580200195  0.13985919952392578  1.0000
+  Pt  Pt1       1.0  0.42526906728744507  0.6592625379562378  0.40020155906677246  1.0000
+  Zn  Zn1       1.0  0.24159470200538635  0.1288805902004242  0.40333178639411926  1.0000
+  Zn  Zn2       1.0  0.04567505791783333  0.43002456426620483  0.7157582640647888  1.0000

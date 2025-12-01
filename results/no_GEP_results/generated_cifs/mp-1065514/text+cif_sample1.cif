@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Ga2GeLi2PPtTl2Zn
+_chemical_formula_sum              "Ga2 Ge1 Li2 P1 Pt1 Tl2 Zn1"
+_cell_length_a       6.171931467007198
+_cell_length_b       6.330555717227901
+_cell_length_c       6.708425521850586
+_cell_angle_alpha    115.69247752822615
+_cell_angle_beta     92.8700489053402
+_cell_angle_gamma    91.37326964602529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.1651007980108261  0.9730587601661682  0.5567083954811096  1.0000
+  Ga  Ga2       1.0  0.8654060363769531  0.960098147392273  0.5399177670478821  1.0000
+  Ge  Ge1       1.0  0.17064312100410461  0.15463437139987946  0.8213033080101012  1.0000
+  Li  Li1       1.0  0.6663561463356018  0.7473018169403076  0.3274534344673156  1.0000
+  Li  Li2       1.0  0.6640835404396057  0.7773579359054565  0.3640595376491546  1.0000
+  P   P1        1.0  0.16782855987548828  0.00907281693071127  0.9444294571876525  1.0000
+  Pt  Pt1       1.0  0.6685999035835266  0.5779505372047424  0.6614416241645812  1.0000
+  Tl  Tl1       1.0  0.1795881688594818  0.7823243141174316  0.6332917809486388  1.0000
+  Tl  Tl2       1.0  0.6710824966430664  0.09908835589885712  0.37570524215698237  1.0000
+  Zn  Zn1       1.0  0.6691773533821106  0.1691845953464508  0.7817483544349669  1.0000

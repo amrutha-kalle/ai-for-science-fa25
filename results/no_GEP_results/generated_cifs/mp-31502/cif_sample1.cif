@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       DyGeIIrSbSiZn
+_chemical_formula_sum              "Dy1 Ge1 I1 Ir1 Sb1 Si1 Zn1"
+_cell_length_a       5.0902928099159155
+_cell_length_b       6.270234859278087
+_cell_length_c       7.353308200836182
+_cell_angle_alpha    108.28787260661194
+_cell_angle_beta     90.80695805070339
+_cell_angle_gamma    106.64307967275406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.2557258605957031  0.901796281337738  0.868703305721283  1.0000
+  Ge  Ge1       1.0  0.2563077509403229  0.08811531215906143  0.30083248019218445  1.0000
+  I   I1        1.0  0.7530837059020996  0.03402413800358772  0.49701908230781555  1.0000
+  Ir  Ir1       1.0  0.25481608510017395  0.1696462631225586  0.9227189421653748  1.0000
+  Sb  Sb1       1.0  0.75172358751297  0.4700302183628082  0.836949348449707  1.0000
+  Si  Si1       1.0  0.2559712529182434  0.5372434854507446  0.557492196559906  1.0000
+  Zn  Zn1       1.0  0.7490651607513428  0.5048930644989014  0.9063220024108887  1.0000

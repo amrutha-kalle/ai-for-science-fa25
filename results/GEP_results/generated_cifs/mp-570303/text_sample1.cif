@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HgITa3Tm4
+_chemical_formula_sum              "Hg1 I1 Ta3 Tm4"
+_cell_length_a       5.765335877276154
+_cell_length_b       6.266157273906083
+_cell_length_c       10.626611709594727
+_cell_angle_alpha    89.11637305262036
+_cell_angle_beta     89.74722410004652
+_cell_angle_gamma    119.46646700542351
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.35599398612976074  0.4906961917877197  0.9160042405128479  1.0000
+  I   I1        1.0  0.3600548505783081  0.3863639533519745  0.40671730041503906  1.0000
+  Ta  Ta1       1.0  0.5637266635894775  0.007992490194737911  0.104198157787323  1.0000
+  Ta  Ta2       1.0  0.6232797503471375  0.0979207381606102  0.7305520176887512  1.0000
+  Ta  Ta3       1.0  0.8638140559196472  0.41130441427230835  0.7484095096588136  1.0000
+  Tm  Tm1       1.0  0.11826224625110626  0.6422828435897827  0.40254318714141846  1.0000
+  Tm  Tm2       1.0  0.34327632188796997  0.48485955595970154  0.642305314540863  1.0000
+  Tm  Tm3       1.0  0.73453289270401  0.14752282202243805  0.905401349067688  1.0000
+  Tm  Tm4       1.0  0.8775215744972229  0.7808049321174622  0.9095845818519592  1.0000

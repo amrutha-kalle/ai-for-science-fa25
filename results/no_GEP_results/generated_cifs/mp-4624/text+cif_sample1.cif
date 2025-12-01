@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       LuO2PTbTi2VZr
+_chemical_formula_sum              "Lu1 O2 P1 Tb1 Ti2 V1 Zr1"
+_cell_length_a       3.4936803759218393
+_cell_length_b       2.919264209275806
+_cell_length_c       4.873979568481445
+_cell_angle_alpha    116.47509997175743
+_cell_angle_beta     96.28155464678129
+_cell_angle_gamma    86.77150398653924
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.24573038518428802  0.42930346727371216  0.6914146542549133  1.0000
+  O   O1        1.0  0.7624409794807434  0.5568597912788391  0.5890941619873047  1.0000
+  O   O2        1.0  0.23729531466960907  0.6780788898468018  0.09303410351276398  1.0000
+  P   P1        1.0  0.8275116682052612  0.2794628441333771  0.7268304228782654  1.0000
+  Tb  Tb1       1.0  0.7779099345207214  0.7822074294090271  0.2410096377134323  1.0000
+  Ti  Ti1       1.0  0.23917363584041595  0.8633533120155334  0.8728786706924438  1.0000
+  Ti  Ti2       1.0  0.2589053809642792  0.7820085883140564  0.8134515881538391  1.0000
+  V   V1        1.0  0.30024105310440063  0.5181757807731628  0.9504127502441406  1.0000
+  Zr  Zr1       1.0  0.78157639503479  0.6459407806396484  0.5809028744697571  1.0000

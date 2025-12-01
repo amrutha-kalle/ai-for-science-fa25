@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       U7Zn
+_chemical_formula_sum              "U7 Zn1"
+_cell_length_a       4.124907862514134
+_cell_length_b       2.935853394312648
+_cell_length_c       6.763890266418457
+_cell_angle_alpha    101.61409018714208
+_cell_angle_beta     89.67196970077951
+_cell_angle_gamma    167.05088137578798
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.08887767046689944  0.9952873587608332  0.9129835367202759  1.0000
+  U   U2        1.0  0.0520243383944034  0.6768528223037719  0.26469072699546814  1.0000
+  U   U3        1.0  0.757701456546783  0.5406487584114068  0.33860489726066584  1.0000
+  U   U4        1.0  0.06903178244829178  0.5812230110168457  0.3357824683189392  1.0000
+  U   U5        1.0  0.06702508777380001  0.7772620916366578  0.09625165164470673  1.0000
+  U   U6        1.0  0.7990991473197933  0.8181367516517634  0.3906415700912475  1.0000
+  U   U7        1.0  0.5580533742904663  0.5735291838645934  0.5311806201934814  1.0000
+  Zn  Zn1       1.0  0.05423761904239657  0.32225522398948675  0.6115162372589111  1.0000

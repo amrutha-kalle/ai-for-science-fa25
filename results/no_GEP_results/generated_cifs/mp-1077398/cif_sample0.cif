@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CaITb5
+_chemical_formula_sum              "Ca1 I1 Tb5"
+_cell_length_a       6.147854359657933
+_cell_length_b       6.0815483787900595
+_cell_length_c       7.5588274002075195
+_cell_angle_alpha    77.61555398113751
+_cell_angle_beta     68.95799617331957
+_cell_angle_gamma    59.97096950178396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7321756482124329  0.2330826371908188  0.9902365803718568  1.0000
+  I   I1        1.0  0.7616036534309387  0.6250415444374084  0.371919333934784  1.0000
+  Tb  Tb1       1.0  0.6660467386245728  0.5108386874198914  0.26024019718170166  1.0000
+  Tb  Tb2       1.0  0.2725691795349121  0.39826950430870056  0.5257885456085205  1.0000
+  Tb  Tb3       1.0  0.23019950091838837  0.8325329422950745  0.6373572349548341  1.0000
+  Tb  Tb4       1.0  0.26681435108184814  0.45193031430244446  0.22489506006240848  1.0000
+  Tb  Tb5       1.0  0.26555871963500977  0.14221592247486115  0.9906967282295228  1.0000

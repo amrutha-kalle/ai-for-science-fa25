@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       F5Sn
+_chemical_formula_sum              "F5 Sn1"
+_cell_length_a       3.968266934966568
+_cell_length_b       3.752203730429002
+_cell_length_c       5.156062602996826
+_cell_angle_alpha    93.14869465228624
+_cell_angle_beta     92.90372004174134
+_cell_angle_gamma    92.96415562639395
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.42571067810058594  0.8210558295249938  0.5939769148826599  1.0000
+  F   F2        1.0  0.9165417551994324  0.08806288242340088  0.8843268156051636  1.0000
+  F   F3        1.0  0.9277455806732178  0.3665067255496978  0.08798723667860031  1.0000
+  F   F4        1.0  0.4183083474636078  0.791355013847351  0.9483117461204529  1.0000
+  F   F5        1.0  0.3147605061531067  0.437733769416809  0.6844740509986877  1.0000
+  Sn  Sn1       1.0  0.9208386540412903  0.5473283529281616  0.9505440592765808  1.0000

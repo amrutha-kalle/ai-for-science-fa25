@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb2Sr5
+_chemical_formula_sum              "Pb2 Sr5"
+_cell_length_a       4.655129550575088
+_cell_length_b       5.0204677136889355
+_cell_length_c       16.598119735717773
+_cell_angle_alpha    93.92442701730913
+_cell_angle_beta     94.29992745277974
+_cell_angle_gamma    99.49009610097993
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.9845080375671387  0.8197160959243774  0.7417659759521484  1.0000
+  Pb  Pb2       1.0  0.4968358278274536  0.08009693026542664  0.1482589691877365  1.0000
+  Sr  Sr1       1.0  0.49613630771636963  0.5448506474494934  0.04298778623342514  1.0000
+  Sr  Sr2       1.0  0.9819640517234802  0.7906970381736755  0.8110884428024292  1.0000
+  Sr  Sr3       1.0  0.4934956133365631  0.9922429919242859  0.5371831059455872  1.0000
+  Sr  Sr4       1.0  0.9898790717124939  0.2605181038379669  0.3091314733028412  1.0000
+  Sr  Sr5       1.0  0.4997321665287018  0.4848054051399231  0.9710832238197327  1.0000

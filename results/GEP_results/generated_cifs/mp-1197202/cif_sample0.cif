@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgCdPPdSTi
+_chemical_formula_sum              "Ag1 Cd1 P1 Pd1 S1 Ti1"
+_cell_length_a       4.50925643723132
+_cell_length_b       5.622871356735371
+_cell_length_c       7.299145698547363
+_cell_angle_alpha    105.29154260776963
+_cell_angle_beta     102.51004745103212
+_cell_angle_gamma    88.30671368893631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.9192919731140137  0.13390041887760162  0.03912125155329708  1.0000
+  Cd  Cd1       1.0  0.8565940856933594  0.3042508363723755  0.20485348999500275  1.0000
+  P   P1        1.0  0.3101499378681183  0.8519057631492615  0.1294546276330948  1.0000
+  Pd  Pd1       1.0  0.9776546359062195  0.6960994601249695  0.8104633688926697  1.0000
+  S   S1        1.0  0.41268211603164673  0.4524516463279724  0.5571473836898804  1.0000
+  Ti  Ti1       1.0  0.4633466303348541  0.7343327403068542  0.12228602916002274  1.0000

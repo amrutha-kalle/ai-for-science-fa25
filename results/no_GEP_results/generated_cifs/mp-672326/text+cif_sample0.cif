@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsIn2Ru2Zn2
+_chemical_formula_sum              "As1 In2 Ru2 Zn2"
+_cell_length_a       4.959245287481396
+_cell_length_b       5.611993199800618
+_cell_length_c       5.971559047698975
+_cell_angle_alpha    68.51954286425718
+_cell_angle_beta     68.27203161527112
+_cell_angle_gamma    72.06806677087401
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.23571945726871493  0.12986832857131958  0.8512179255485535  1.0000
+  In  In1       1.0  0.7588080167770386  0.3804420232772827  0.7078140377998352  1.0000
+  In  In2       1.0  0.23393000662326816  0.9687756896018982  0.20769435167312622  1.0000
+  Ru  Ru1       1.0  0.25300872325897217  0.6041218042373657  0.4442059099674225  1.0000
+  Ru  Ru2       1.0  0.7565144300460815  0.11952757835388184  0.2951374650001526  1.0000
+  Zn  Zn1       1.0  0.24821215867996219  0.6988334655761719  0.11375240981578827  1.0000
+  Zn  Zn2       1.0  0.7476015090942383  0.20063640177249908  0.990199863910675  1.0000

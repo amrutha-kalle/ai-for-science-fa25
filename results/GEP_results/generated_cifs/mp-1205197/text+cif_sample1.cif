@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       DyFe2Ga3Ni
+_chemical_formula_sum              "Dy1 Fe2 Ga3 Ni1"
+_cell_length_a       4.931873407497677
+_cell_length_b       6.321876911450965
+_cell_length_c       6.3248772621154785
+_cell_angle_alpha    118.92477962194225
+_cell_angle_beta     89.76883493877303
+_cell_angle_gamma    90.60060122103388
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.5235660672187805  0.40162116289138794  0.6419539451599121  1.0000
+  Fe  Fe1       1.0  0.7593708634376526  0.12315060198307037  0.5394008159637451  1.0000
+  Fe  Fe2       1.0  0.7642369270324707  0.7873247265815735  0.3820089101791382  1.0000
+  Ga  Ga1       1.0  0.028544096276164055  0.9407013058662415  0.06302499771118164  1.0000
+  Ga  Ga2       1.0  0.26091623306274414  0.2655399739742279  0.4438617527484894  1.0000
+  Ga  Ga3       1.0  0.5480088591575623  0.4490199089050293  0.8744115233421326  1.0000
+  Ni  Ni1       1.0  0.258622407913208  0.4137093722820282  0.8870570659637452  1.0000

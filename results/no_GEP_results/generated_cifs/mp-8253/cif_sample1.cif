@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AlAsCoFeGeI3LiPb
+_chemical_formula_sum              "Al1 As1 Co1 Fe1 Ge1 I3 Li1 Pb1"
+_cell_length_a       6.115568692539002
+_cell_length_b       7.268576438477739
+_cell_length_c       7.463305473327637
+_cell_angle_alpha    118.04252826144624
+_cell_angle_beta     89.59015653152483
+_cell_angle_gamma    90.19176583906517
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.583292543888092  0.17746879160404205  0.632835328578949  1.0000
+  As  As1       1.0  0.0848316103219986  0.5687238574028015  0.21539300680160525  1.0000
+  Co  Co1       1.0  0.5795578360557556  0.17361362278461456  0.8177784085273743  1.0000
+  Fe  Fe1       1.0  0.5657815933227539  0.06218948587775231  0.5529686808586121  1.0000
+  Ge  Ge1       1.0  0.0682893618941307  0.6297317743301392  0.3573715388774872  1.0000
+  I   I1        1.0  0.066554494202137  0.5329313278198242  0.8895301818847656  1.0000
+  I   I2        1.0  0.5691732168197632  0.5092527866363525  0.7440353631973267  1.0000
+  I   I3        1.0  0.07225421816110611  0.10951989144086838  0.2689289450645447  1.0000
+  Li  Li1       1.0  0.579528272151947  0.35103121399879456  0.5221906304359436  1.0000
+  Pb  Pb1       1.0  0.0682574138045311  0.8499765992164612  0.40220087766647344  1.0000

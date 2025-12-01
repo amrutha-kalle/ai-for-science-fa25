@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CoGeHNiPPbSm2
+_chemical_formula_sum              "Co1 Ge1 H1 Ni1 P1 Pb1 Sm2"
+_cell_length_a       5.224548172165101
+_cell_length_b       5.33367960614922
+_cell_length_c       6.254705905914307
+_cell_angle_alpha    89.83260858642342
+_cell_angle_beta     91.45499057721347
+_cell_angle_gamma    89.93111968206736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.20060411095619202  0.40472885966300964  0.44903814792633057  1.0000
+  Ge  Ge1       1.0  0.8415100574493408  0.977169394493103  0.4852858781814575  1.0000
+  H   H1        1.0  0.16544024646282196  0.20174649357795715  0.20860205590724945  1.0000
+  Ni  Ni1       1.0  0.4184792935848236  0.12964677810668945  0.010078240185976028  1.0000
+  P   P1        1.0  0.7001142501831055  0.36172616481781006  0.5107545852661133  1.0000
+  Pb  Pb1       1.0  0.7170760035514832  0.4992785155773163  0.5887683629989624  1.0000
+  Sm  Sm1       1.0  0.6909351348876953  0.8138208985328674  0.2929285764694214  1.0000
+  Sm  Sm2       1.0  0.19026431441307068  0.024553071707487106  0.19454777240753174  1.0000

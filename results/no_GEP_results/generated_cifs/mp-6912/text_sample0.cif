@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       IMn4Sb2
+_chemical_formula_sum              "I1 Mn4 Sb2"
+_cell_length_a       6.514216746929043
+_cell_length_b       6.892629675288309
+_cell_length_c       6.883339881896973
+_cell_angle_alpha    114.6051314363507
+_cell_angle_beta     109.09380967347775
+_cell_angle_gamma    100.06537070347603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.8560149669647217  0.6633117198944092  0.09482546895742416  1.0000
+  Mn  Mn1       1.0  0.36218416690826416  0.1172770783305168  0.6392074823379517  1.0000
+  Mn  Mn2       1.0  0.864558756351471  0.4253934919834137  0.8860059380531311  1.0000
+  Mn  Mn3       1.0  0.3628183007240295  0.9944673776626586  0.9810656309127808  1.0000
+  Mn  Mn4       1.0  0.3614918887615204  0.02309899777173996  0.7376126646995544  1.0000
+  Sb  Sb1       1.0  0.8638411164283752  0.3760524094104767  0.844188928604126  1.0000
+  Sb  Sb2       1.0  0.36347243189811707  0.11006291955709456  0.48490238189697266  1.0000

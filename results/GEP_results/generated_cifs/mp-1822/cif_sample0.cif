@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       PSTi5
+_chemical_formula_sum              "P1 S1 Ti5"
+_cell_length_a       4.787410979583504
+_cell_length_b       5.12375336034937
+_cell_length_c       5.659160614013672
+_cell_angle_alpha    116.14988521298068
+_cell_angle_beta     111.9727242894263
+_cell_angle_gamma    93.255400596986
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.04687831923365593  0.1672414243221283  0.3186599314212799  1.0000
+  S   S1        1.0  0.5685524344444275  0.6276913285255432  0.29466143250465393  1.0000
+  Ti  Ti1       1.0  0.8268975615501404  0.9303695559501648  0.5367809534072876  1.0000
+  Ti  Ti2       1.0  0.32675957679748535  0.42555850744247437  0.5495842695236206  1.0000
+  Ti  Ti3       1.0  0.8085917830467224  0.9018629789352417  0.6674916744232178  1.0000
+  Ti  Ti4       1.0  0.8237146735191345  0.8567282557487488  0.78460294008255  1.0000
+  Ti  Ti5       1.0  0.3114945590496063  0.8597422242164612  0.7912790775299072  1.0000

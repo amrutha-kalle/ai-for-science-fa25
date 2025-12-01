@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BBa3Pt3
+_chemical_formula_sum              "B1 Ba3 Pt3"
+_cell_length_a       5.105837283860154
+_cell_length_b       6.275902548463571
+_cell_length_c       8.009716033935547
+_cell_angle_alpha    119.12192583819807
+_cell_angle_beta     98.25845506658166
+_cell_angle_gamma    96.72246917027977
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.9625623822212219  0.4829641282558441  0.06211474910378456  1.0000
+  Ba  Ba1       1.0  0.02707500383257866  0.4315491020679474  0.6494659781455994  1.0000
+  Ba  Ba2       1.0  0.03280578926205635  0.2826066017150879  0.5890182852745056  1.0000
+  Ba  Ba3       1.0  0.5756655335426331  0.8283317685127258  0.09254411607980728  1.0000
+  Pt  Pt1       1.0  0.47954949736595154  0.0014166176551952958  0.13474217057228088  1.0000
+  Pt  Pt2       1.0  0.5223062038421631  0.6675229668617249  0.6727474927902222  1.0000
+  Pt  Pt3       1.0  0.9500139355659485  0.1740446537733078  0.56740802526474  1.0000

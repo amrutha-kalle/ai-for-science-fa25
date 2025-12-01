@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClGePt3Rh2
+_chemical_formula_sum              "Cl1 Ge1 Pt3 Rh2"
+_cell_length_a       5.41621331105457
+_cell_length_b       5.557827425276948
+_cell_length_c       5.819283962249756
+_cell_angle_alpha    65.53974662009968
+_cell_angle_beta     60.41485467162351
+_cell_angle_gamma    57.13735044432397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.10925968736410141  0.8203679323196411  0.9671041965484619  1.0000
+  Ge  Ge1       1.0  0.38124459981918335  0.18802590668201447  0.6109694838523865  1.0000
+  Pt  Pt1       1.0  0.41519486904144287  0.734907865524292  0.9804479479789734  1.0000
+  Pt  Pt2       1.0  0.5124662518501282  0.5549553036689758  0.1165001317858696  1.0000
+  Pt  Pt3       1.0  0.6108559370040894  0.37079545855522156  0.02221239730715744  1.0000
+  Rh  Rh1       1.0  0.9659993648529053  0.42347124218940735  0.7456746697425842  1.0000
+  Rh  Rh2       1.0  0.03070306032896042  0.07690230011940002  0.23620866239070892  1.0000

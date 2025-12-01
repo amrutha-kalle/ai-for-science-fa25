@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hf2IMo2NiP
+_chemical_formula_sum              "Hf2 I1 Mo2 Ni1 P1"
+_cell_length_a       4.380959945477991
+_cell_length_b       3.6072857053681076
+_cell_length_c       7.3786540031433105
+_cell_angle_alpha    89.69624967156308
+_cell_angle_beta     88.66899919580233
+_cell_angle_gamma    123.2893548236627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.9330160617828369  0.2568424344062805  0.6913467049598694  1.0000
+  Hf  Hf2       1.0  0.9231486320495605  0.4774228036403656  0.5408299565315247  1.0000
+  I   I1        1.0  0.8827540278434753  0.30378496646881104  0.3985694348812103  1.0000
+  Mo  Mo1       1.0  0.39987245202064514  0.7506547570228577  0.8674213290214537  1.0000
+  Mo  Mo2       1.0  0.9055240154266357  0.9797360897064209  0.6526641249656677  1.0000
+  Ni  Ni1       1.0  0.9201986193656921  0.38856902718544006  0.12163101136684416  1.0000
+  P   P1        1.0  0.31256482005119324  0.6366280317306519  0.38791424036026  1.0000

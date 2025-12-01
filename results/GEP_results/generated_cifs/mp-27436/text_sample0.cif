@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsBaCa2ClPtSb
+_chemical_formula_sum              "As1 Ba1 Ca2 Cl1 Pt1 Sb1"
+_cell_length_a       6.08245452508308
+_cell_length_b       8.178141896376518
+_cell_length_c       8.272836685180664
+_cell_angle_alpha    122.24332703599872
+_cell_angle_beta     89.76240800531582
+_cell_angle_gamma    89.06543396658317
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.1945963054895401  0.3217433989048004  0.550820529460907  1.0000
+  Ba  Ba1       1.0  0.6901589632034302  0.6303264498710632  0.5126033425331116  1.0000
+  Ca  Ca1       1.0  0.19420607388019562  0.8734537363052368  0.9267985820770264  1.0000
+  Ca  Ca2       1.0  0.6932944655418396  0.2988334894180298  0.5160875916481018  1.0000
+  Cl  Cl1       1.0  0.6941892504692078  0.3200806677341461  0.01751617342233658  1.0000
+  Pt  Pt1       1.0  0.19375362992286682  0.6263057589530945  0.2360883355140686  1.0000
+  Sb  Sb1       1.0  0.6935741305351257  0.6379402279853821  0.3651975989341736  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NdPt6
+_chemical_formula_sum              "Nd1 Pt6"
+_cell_length_a       4.35493911099288
+_cell_length_b       5.008619372400098
+_cell_length_c       7.333310604095459
+_cell_angle_alpha    118.9729623696611
+_cell_angle_beta     94.28962721630751
+_cell_angle_gamma    85.81651063662629
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.6678217053413391  0.8585731387138367  0.2292714267969131  1.0000
+  Pt  Pt1       1.0  0.6678457856178284  0.45851799845695496  0.26597926020622253  1.0000
+  Pt  Pt2       1.0  0.6676962375640869  0.8573285341262817  0.5259164571762085  1.0000
+  Pt  Pt3       1.0  0.16714885830879211  0.8711382746696472  0.5258280634880066  1.0000
+  Pt  Pt4       1.0  0.1694852113723755  0.7713702917098999  0.6003406047821045  1.0000
+  Pt  Pt5       1.0  0.1712217926979065  0.23885945975780487  0.09416765719652175  1.0000
+  Pt  Pt6       1.0  0.17230241000652313  0.09012775868177414  0.9536592364311218  1.0000

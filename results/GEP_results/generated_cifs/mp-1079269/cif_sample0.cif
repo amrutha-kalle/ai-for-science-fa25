@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pt2Si5
+_chemical_formula_sum              "Pt2 Si5"
+_cell_length_a       4.423360716332974
+_cell_length_b       4.368820355046463
+_cell_length_c       5.9413065910339355
+_cell_angle_alpha    105.90398355408064
+_cell_angle_beta     109.42365812080617
+_cell_angle_gamma    88.64240250371789
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pt  Pt1       1.0  0.8209275603294373  0.54273921251297  0.7263520359992981  1.0000
+  Pt  Pt2       1.0  0.37850144505500793  0.8879784345626831  0.10983648896217346  1.0000
+  Si  Si1       1.0  0.8621309399604797  0.399326890707016  0.38125795125961304  1.0000
+  Si  Si2       1.0  0.1277710199356079  0.8980180621147156  0.39125603437423706  1.0000
+  Si  Si3       1.0  0.120030976831913  0.1766689568758011  0.9142337441444397  1.0000
+  Si  Si4       1.0  0.9312135577201843  0.9092499017715454  0.588469386100769  1.0000
+  Si  Si5       1.0  0.598957896232605  0.2699512839317322  0.9166247844696045  1.0000

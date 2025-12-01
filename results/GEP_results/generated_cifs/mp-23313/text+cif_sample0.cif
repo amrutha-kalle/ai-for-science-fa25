@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaBiIn3KRu
+_chemical_formula_sum              "Ba1 Bi1 In3 K1 Ru1"
+_cell_length_a       4.697061760563083
+_cell_length_b       5.350971980514614
+_cell_length_c       8.067154884338379
+_cell_angle_alpha    96.2883696101714
+_cell_angle_beta     89.370530089762
+_cell_angle_gamma    91.06390715306591
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5898229479789734  0.026302287355065346  0.16473937034606934  1.0000
+  Bi  Bi1       1.0  0.07794378697872162  0.9826387763023376  0.6792410612106323  1.0000
+  In  In1       1.0  0.5837403535842896  0.0362604558467865  0.27257102727890015  1.0000
+  In  In2       1.0  0.09469689428806305  0.5192658305168152  0.5114129185676575  1.0000
+  In  In3       1.0  0.1036401316523552  0.014051212929189205  0.48447269201278687  1.0000
+  K   K1        1.0  0.07723637670278549  0.3578079044818878  0.9413621425628662  1.0000
+  Ru  Ru1       1.0  0.5887667536735535  0.5203311443328857  0.06282077729701996  1.0000

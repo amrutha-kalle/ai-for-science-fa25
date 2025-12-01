@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ILiNPb2Pt2
+_chemical_formula_sum              "I1 Li1 N1 Pb2 Pt2"
+_cell_length_a       5.53096469680304
+_cell_length_b       4.594605231464288
+_cell_length_c       5.263221740722656
+_cell_angle_alpha    51.994391772978865
+_cell_angle_beta     48.4651065287651
+_cell_angle_gamma    10.506879970787967
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.3721054494380951  0.6534847021102905  0.7119864225387573  1.0000
+  Li  Li1       1.0  0.07032281160354614  0.6194670796394348  0.7857174277305603  1.0000
+  N   N1        1.0  0.5338048338890076  0.3206835091114044  0.5394871830940245  1.0000
+  Pb  Pb1       1.0  0.5665601491928101  0.21000100672245026  0.7079823017120361  1.0000
+  Pb  Pb2       1.0  0.6074291467666626  0.7267617583274841  0.3148179948329924  1.0000
+  Pt  Pt1       1.0  0.042811036109924316  0.1722247153520584  0.42126744985580444  1.0000
+  Pt  Pt2       1.0  0.997049868106842  0.25058814883232117  0.6391509771347046  1.0000

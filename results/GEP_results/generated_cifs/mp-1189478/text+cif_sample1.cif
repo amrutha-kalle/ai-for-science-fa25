@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlEr3P2Pb
+_chemical_formula_sum              "Al1 Er3 P2 Pb1"
+_cell_length_a       4.381376716178528
+_cell_length_b       6.618065873799269
+_cell_length_c       6.4408278465271
+_cell_angle_alpha    116.79184640200415
+_cell_angle_beta     88.72920636537171
+_cell_angle_gamma    89.40516561561046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.03242205083370209  0.4080968499183655  0.2694854438304901  1.0000
+  Er  Er1       1.0  0.20870369672775269  0.31083616614341736  0.8157587647438049  1.0000
+  Er  Er2       1.0  0.718193531036377  0.3897496461868286  0.4813038408756256  1.0000
+  Er  Er3       1.0  0.22716917097568512  0.8936390280723572  0.6202681064605713  1.0000
+  P   P1        1.0  0.4182913899421692  0.9479769468307495  0.9086605906486511  1.0000
+  P   P2        1.0  0.7728328704833984  0.8738327026367188  0.5776571035385132  1.0000
+  Pb  Pb1       1.0  0.9796648621559143  0.5809158086776733  0.10067623853683472  1.0000

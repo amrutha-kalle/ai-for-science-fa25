@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Ni2SbSiSm4
+_chemical_formula_sum              "Ni2 Sb1 Si1 Sm4"
+_cell_length_a       2.4566314372847162
+_cell_length_b       4.992687250530731
+_cell_length_c       7.570617198944092
+_cell_angle_alpha    107.72358484207324
+_cell_angle_beta     137.03190594229207
+_cell_angle_gamma    105.06979871217085
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.3784553110599523  0.7957626581192017  0.47507676482200634  1.0000
+  Ni  Ni2       1.0  0.5625879764556887  0.2844074964523316  0.3420982956886292  1.0000
+  Sb  Sb1       1.0  0.680147111415863  0.33237919211387634  0.08371341228485109  1.0000
+  Si  Si1       1.0  0.5089734196662906  0.842476785182953  0.3043902814388276  1.0000
+  Sm  Sm1       1.0  0.7002322673797612  0.6103585958480835  0.6536592841148378  1.0000
+  Sm  Sm2       1.0  0.1541666239500052  0.8485758304595946  0.9621676802635194  1.0000
+  Sm  Sm3       1.0  0.019652293995022958  0.22437064349651342  0.2875192761421204  1.0000
+  Sm  Sm4       1.0  0.3043988347053528  0.32213544845581055  0.9938141107559204  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl3RuTl3
+_chemical_formula_sum              "Cl3 Ru1 Tl3"
+_cell_length_a       6.044370275304246
+_cell_length_b       6.365516677424998
+_cell_length_c       7.361526012420654
+_cell_angle_alpha    105.25784473874099
+_cell_angle_beta     107.82878304964704
+_cell_angle_gamma    89.83261363972927
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.01488807238638401  0.15308737754821777  0.4268661737442016  1.0000
+  Cl  Cl2       1.0  0.001005291938781748  0.9427106976509095  0.4634764194488525  1.0000
+  Cl  Cl3       1.0  0.6850588321685791  0.7551788687705994  0.6538550853729248  1.0000
+  Ru  Ru1       1.0  0.18980266153812408  0.754058301448822  0.649276614189148  1.0000
+  Tl  Tl1       1.0  0.6836192011833191  0.7608424425125122  0.4525423943996429  1.0000
+  Tl  Tl2       1.0  0.7475123405456543  0.25524869561195374  0.8176600337028502  1.0000
+  Tl  Tl3       1.0  0.1969161480665207  0.2589823007583618  0.6667240858078003  1.0000

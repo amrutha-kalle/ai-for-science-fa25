@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Eu4LuSnZn
+_chemical_formula_sum              "Eu4 Lu1 Sn1 Zn1"
+_cell_length_a       5.430952477671151
+_cell_length_b       5.362063058397513
+_cell_length_c       7.347002983093262
+_cell_angle_alpha    104.24839079558392
+_cell_angle_beta     96.72606754700814
+_cell_angle_gamma    122.50662846777931
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.6877639293670654  0.2654534578323364  0.733963131904602  1.0000
+  Eu  Eu2       1.0  0.6833605170249939  0.6740440726280212  0.9352332353591919  1.0000
+  Eu  Eu3       1.0  0.18695542216300964  0.6700080633163452  0.10615280270576477  1.0000
+  Eu  Eu4       1.0  0.7037233710289001  0.1417306661605835  0.22291018068790436  1.0000
+  Lu  Lu1       1.0  0.19785231351852417  0.18989251554012299  0.04457134753465652  1.0000
+  Sn  Sn1       1.0  0.6989937424659729  0.9968888759613037  0.6468867659568787  1.0000
+  Zn  Zn1       1.0  0.17493781447410583  0.6988843083381653  0.7288422584533691  1.0000

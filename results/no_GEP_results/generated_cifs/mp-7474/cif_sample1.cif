@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       As4CoCuZn
+_chemical_formula_sum              "As4 Co1 Cu1 Zn1"
+_cell_length_a       4.6300302265688655
+_cell_length_b       5.35128490303957
+_cell_length_c       5.7796854972839355
+_cell_angle_alpha    125.83246343273544
+_cell_angle_beta     91.07850036764185
+_cell_angle_gamma    88.48441665366396
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5811426639556885  0.4551505744457245  0.5857028365135193  1.0000
+  As  As2       1.0  0.06537020206451416  0.32748132944107056  0.6547444462776184  1.0000
+  As  As3       1.0  0.06925573199987411  0.2747717797756195  0.05694369599223137  1.0000
+  As  As4       1.0  0.06660614162683487  0.6764101386070251  0.5998859405517578  1.0000
+  Co  Co1       1.0  0.06468503177165985  0.7174912691116333  0.6775780916213989  1.0000
+  Cu  Cu1       1.0  0.604002058506012  0.04674952104687691  0.8108835220336914  1.0000
+  Zn  Zn1       1.0  0.5681721568107605  0.6116974949836731  0.7077125906944275  1.0000

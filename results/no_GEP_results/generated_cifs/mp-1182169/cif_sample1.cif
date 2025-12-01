@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ba2HIVZn
+_chemical_formula_sum              "Ba2 H1 I1 V1 Zn1"
+_cell_length_a       5.269548457446739
+_cell_length_b       5.139398247350037
+_cell_length_c       7.631372928619385
+_cell_angle_alpha    113.44652408336381
+_cell_angle_beta     109.4910621664148
+_cell_angle_gamma    88.13781743982113
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7923619151115417  0.037775684148073196  0.5363824367523193  1.0000
+  Ba  Ba2       1.0  0.3082278370857239  0.9806522727012634  0.9915752410888672  1.0000
+  H   H1        1.0  0.8051324486732483  0.8844462037086487  0.28535598516464233  1.0000
+  I   I1        1.0  0.567753791809082  0.4356531500816345  0.3909451961517334  1.0000
+  V   V1        1.0  0.12780959904193878  0.6648445129394531  0.18640632927417752  1.0000
+  Zn  Zn1       1.0  0.3031134009361267  0.8781459927558899  0.01764603890478611  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErHoNi4Si
+_chemical_formula_sum              "Er1 Ho1 Ni4 Si1"
+_cell_length_a       4.451117125013134
+_cell_length_b       5.359074834230714
+_cell_length_c       5.0833258628845215
+_cell_angle_alpha    118.44529457466352
+_cell_angle_beta     91.90002381674385
+_cell_angle_gamma    89.28690237336129
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.590591311454773  0.3594247102737427  0.8418768644332886  1.0000
+  Ho  Ho1       1.0  0.8340241312980652  0.8350304961204529  0.013753730803728104  1.0000
+  Ni  Ni1       1.0  0.5835267901420593  0.8462076187133789  0.8437021970748901  1.0000
+  Ni  Ni2       1.0  0.13442595303058624  0.3607301414012909  0.8425650000572205  1.0000
+  Ni  Ni3       1.0  0.11469422280788422  0.8685375452041626  0.3369740843772888  1.0000
+  Ni  Ni4       1.0  0.8186132311820984  0.5636883974075317  0.8426976203918457  1.0000
+  Si  Si1       1.0  0.08341482281684875  0.3662949800491333  0.3435271382331848  1.0000

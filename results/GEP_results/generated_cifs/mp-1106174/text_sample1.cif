@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Tb7
+_chemical_formula_sum              "Tb7"
+_cell_length_a       11.483128560897375
+_cell_length_b       11.54991146447074
+_cell_length_c       11.41812801361084
+_cell_angle_alpha    63.703055188834796
+_cell_angle_beta     63.123323013252524
+_cell_angle_gamma    59.068879023093494
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tb  Tb1       1.0  0.8267895579338075  0.5787628889083862  0.375899314880371  1.0000
+  Tb  Tb2       1.0  0.9831491708755494  0.9013223052024841  0.10420363396406157  1.0000
+  Tb  Tb3       1.0  0.20208080112934113  0.5608924031257629  0.5685027241706848  1.0000
+  Tb  Tb4       1.0  0.8079237341880798  0.2677539587020874  0.12729431688785545  1.0000
+  Tb  Tb5       1.0  0.4808041155338288  0.04732990264892578  0.12655402719974512  1.0000
+  Tb  Tb6       1.0  0.2518775463104248  0.5498590469360352  0.0569315031170845  1.0000
+  Tb  Tb7       1.0  0.3965388238430023  0.2564810812473297  0.6401379704475403  1.0000

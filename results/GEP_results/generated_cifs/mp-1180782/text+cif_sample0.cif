@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr2FFeK4V
+_chemical_formula_sum              "Cr2 F1 Fe1 K4 V1"
+_cell_length_a       5.428209373251036
+_cell_length_b       5.965735851557678
+_cell_length_c       8.684865951538086
+_cell_angle_alpha    98.70926689253362
+_cell_angle_beta     89.89770477603446
+_cell_angle_gamma    113.34734006063233
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.6670394539833069  0.2737553119659424  0.44076141715049744  1.0000
+  Cr  Cr2       1.0  0.21638259291648865  0.2324306070804596  0.8877717852592468  1.0000
+  F   F1        1.0  0.15428811311721802  0.7262727618217468  0.3244699239730835  1.0000
+  Fe  Fe1       1.0  0.6454976797103882  0.9785957932472229  0.8485286831855774  1.0000
+  K   K1        1.0  0.1700393110513687  0.9632164239883423  0.38991042971611023  1.0000
+  K   K2        1.0  0.16798549890518188  0.9282209873199463  0.349997878074646  1.0000
+  K   K3        1.0  0.6659484505653381  0.7197834253311157  0.8743967413902283  1.0000
+  K   K4        1.0  0.665289580821991  0.4650724530220032  0.1680791825056076  1.0000
+  V   V1        1.0  0.7752041220664978  0.7077592611312866  0.8531902432441711  1.0000

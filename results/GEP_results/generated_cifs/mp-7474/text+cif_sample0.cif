@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClCuLu2Zn3
+_chemical_formula_sum              "Cl1 Cu1 Lu2 Zn3"
+_cell_length_a       4.38224633954254
+_cell_length_b       5.244371945290756
+_cell_length_c       7.8857951164245605
+_cell_angle_alpha    109.05201922438856
+_cell_angle_beta     86.74047448492367
+_cell_angle_gamma    102.77379170012269
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.19189263880252838  0.27811476588249207  0.27832233905792236  1.0000
+  Cu  Cu1       1.0  0.20962081849575043  0.2833954095840454  0.3422761559486389  1.0000
+  Lu  Lu1       1.0  0.19767910242080688  0.7809749245643616  0.01035549771040678  1.0000
+  Lu  Lu2       1.0  0.715160071849823  0.7806854844093323  0.8076298832893373  1.0000
+  Zn  Zn1       1.0  0.7127323746681213  0.9879587888717651  0.3229721188545227  1.0000
+  Zn  Zn2       1.0  0.2047814577817917  0.27954941987991333  0.8230791687965395  1.0000
+  Zn  Zn3       1.0  0.7098067402839661  0.764898419380188  0.19453464448452  1.0000

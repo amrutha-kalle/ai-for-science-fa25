@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       O4SSbTb3
+_chemical_formula_sum              "O4 S1 Sb1 Tb3"
+_cell_length_a       5.2864941697523316
+_cell_length_b       5.4922390434986585
+_cell_length_c       6.388634204864502
+_cell_angle_alpha    112.34340701454178
+_cell_angle_beta     110.85351054552511
+_cell_angle_gamma    98.91276056967851
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.20073659718036652  0.1696406602859497  0.27097633481025696  1.0000
+  O   O2        1.0  0.2805314362049103  0.8970439434051514  0.9654253125190734  1.0000
+  O   O3        1.0  0.3044840097427368  0.42413562536239624  0.3712071478366851  1.0000
+  O   O4        1.0  0.7122385501861572  0.17570841312408447  0.05898799374699592  1.0000
+  S   S1        1.0  0.3914391100406647  0.3166066110134125  0.6519731879234314  1.0000
+  Sb  Sb1       1.0  0.0326041653752327  0.5769459009170532  0.9493506550788878  1.0000
+  Tb  Tb1       1.0  0.9290471076965332  0.8461205959320068  0.24674426019191747  1.0000
+  Tb  Tb2       1.0  0.6445246338844299  0.7946944236755371  0.5865790247917175  1.0000
+  Tb  Tb3       1.0  0.41390347480773926  0.1628120094537735  0.7355270981788634  1.0000

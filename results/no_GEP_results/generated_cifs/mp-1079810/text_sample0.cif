@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FHf5Sn
+_chemical_formula_sum              "F1 Hf5 Sn1"
+_cell_length_a       4.227155636406995
+_cell_length_b       4.8820890786742765
+_cell_length_c       5.776968955993652
+_cell_angle_alpha    114.37407317403768
+_cell_angle_beta     91.15491592768274
+_cell_angle_gamma    90.02969714214608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6723848581314087  0.4999156892299652  0.5745174884796143  1.0000
+  Hf  Hf1       1.0  0.20274397730827332  0.0027902594301849604  0.7898853421211243  1.0000
+  Hf  Hf2       1.0  0.1971508264541626  0.07371151447296143  0.291442334651947  1.0000
+  Hf  Hf3       1.0  0.7112645506858826  0.1988942176103592  0.3815484046936035  1.0000
+  Hf  Hf4       1.0  0.6896801590919495  0.7996156811714172  0.8328354358673096  1.0000
+  Hf  Hf5       1.0  0.7067655324935913  0.9907475113868713  0.39644962549209595  1.0000
+  Sn  Sn1       1.0  0.1966792494058609  0.9944822192192078  0.7270869016647339  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaO2Se3U3
+_chemical_formula_sum              "Ga1 O2 Se3 U3"
+_cell_length_a       4.202522240005999
+_cell_length_b       5.063091203933922
+_cell_length_c       8.009775161743164
+_cell_angle_alpha    92.35103175142574
+_cell_angle_beta     89.79407792173804
+_cell_angle_gamma    103.19160943368786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6466089487075806  0.1645408570766449  0.9304866790771484  1.0000
+  O   O1        1.0  0.5111809372901917  0.2133636474609375  0.16806499660015106  1.0000
+  O   O2        1.0  0.2317582070827484  0.7449988722801208  0.5687911510467529  1.0000
+  Se  Se1       1.0  0.6853270530700684  0.16329117119312286  0.8083058595657349  1.0000
+  Se  Se2       1.0  0.8135343194007874  0.21227054297924042  0.6929323077201843  1.0000
+  Se  Se3       1.0  0.201716348528862  0.29495444893836975  0.35080480575561523  1.0000
+  U   U1        1.0  0.2527948319911957  0.9637880921363831  0.5139287710189819  1.0000
+  U   U2        1.0  0.6563880443572998  0.8589712977409363  0.15277791023254395  1.0000
+  U   U3        1.0  0.15137812495231628  0.8752402067184448  0.12767204642295837  1.0000

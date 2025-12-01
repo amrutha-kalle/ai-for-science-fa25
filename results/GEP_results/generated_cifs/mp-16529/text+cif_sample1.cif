@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al5Ru2
+_chemical_formula_sum              "Al5 Ru2"
+_cell_length_a       5.022124844667362
+_cell_length_b       5.3243360204478405
+_cell_length_c       5.5176801681518555
+_cell_angle_alpha    62.936097682741064
+_cell_angle_beta     62.82904402089856
+_cell_angle_gamma    61.66027883722658
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8824707865715027  0.32178282737731934  0.4916887581348419  1.0000
+  Al  Al2       1.0  0.5277900099754333  0.5409412980079651  0.45765161514282227  1.0000
+  Al  Al3       1.0  0.7113617062568665  0.5507643818855286  0.6479158997535706  1.0000
+  Al  Al4       1.0  0.5135802626609802  0.19482162594795227  0.27621108293533325  1.0000
+  Al  Al5       1.0  0.15786109864711761  0.6996573805809021  0.21056149899959564  1.0000
+  Ru  Ru1       1.0  0.05343225970864296  0.5659624338150024  0.495993971824646  1.0000
+  Ru  Ru2       1.0  0.5521543622016907  0.06851986795663834  0.9878379106521606  1.0000

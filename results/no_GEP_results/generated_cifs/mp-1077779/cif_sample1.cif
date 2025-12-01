@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       I2IrLu2RuZn
+_chemical_formula_sum              "I2 Ir1 Lu2 Ru1 Zn1"
+_cell_length_a       4.707721989645671
+_cell_length_b       4.928152806359293
+_cell_length_c       9.595160484313965
+_cell_angle_alpha    91.86990015592602
+_cell_angle_beta     90.91778142031076
+_cell_angle_gamma    89.86605790254784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.3587644100189209  0.024177245795726776  0.624321460723877  1.0000
+  I   I2        1.0  0.8475601077079773  0.7616927623748779  0.703518271446228  1.0000
+  Ir  Ir1       1.0  0.8816864490509033  0.1037306934595108  0.412110686302185  1.0000
+  Lu  Lu1       1.0  0.35998964309692383  0.862267017364502  0.06747718900442123  1.0000
+  Lu  Lu2       1.0  0.38330987095832825  0.6411072015762329  0.24825511872768402  1.0000
+  Ru  Ru1       1.0  0.5961297750473022  0.6337580680847168  0.718309760093689  1.0000
+  Zn  Zn1       1.0  0.8704290986061096  0.3441786468029022  0.0265530776232481  1.0000

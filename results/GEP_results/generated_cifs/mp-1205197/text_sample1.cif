@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy4Ga3
+_chemical_formula_sum              "Dy4 Ga3"
+_cell_length_a       5.213260695598662
+_cell_length_b       7.096801677821479
+_cell_length_c       6.508495330810547
+_cell_angle_alpha    120.84078344180381
+_cell_angle_beta     89.24305075100466
+_cell_angle_gamma    90.6296299702062
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.03962630033493042  0.329543799161911  0.6484793424606323  1.0000
+  Dy  Dy2       1.0  0.5460687875747681  0.61158287525177  0.4469999074935914  1.0000
+  Dy  Dy3       1.0  0.5474684834480286  0.590029776096344  0.9430292248725891  1.0000
+  Dy  Dy4       1.0  0.03563167527318001  0.9983031153678894  0.3202320635318757  1.0000
+  Ga  Ga1       1.0  0.30776891112327576  0.014128501527011395  0.9446178078651428  1.0000
+  Ga  Ga2       1.0  0.5446702241897583  0.5100576281547546  0.6638903021812439  1.0000
+  Ga  Ga3       1.0  0.03111135214567184  0.10378395020961761  0.564863920211792  1.0000

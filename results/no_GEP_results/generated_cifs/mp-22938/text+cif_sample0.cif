@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ga2INbV5
+_chemical_formula_sum              "Ga2 I1 Nb1 V5"
+_cell_length_a       4.836068179027445
+_cell_length_b       5.973666508855901
+_cell_length_c       7.247636795043945
+_cell_angle_alpha    91.25070514645525
+_cell_angle_beta     90.13714435046474
+_cell_angle_gamma    96.25556925552884
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.4168107509613037  0.10984477400779724  0.6391052603721619  1.0000
+  Ga  Ga2       1.0  0.9417409896850586  0.21450966596603394  0.7265583872795105  1.0000
+  I   I1        1.0  0.9257149696350098  0.538317084312439  0.8281740546226503  1.0000
+  Nb  Nb1       1.0  0.43713393807411194  0.702976644039154  0.8643252849578859  1.0000
+  V   V1        1.0  0.43579745292663574  0.10989835113286972  0.5908805727958679  1.0000
+  V   V2        1.0  0.9289411902427673  0.2867628037929535  0.017494356259703636  1.0000
+  V   V3        1.0  0.921576201915741  0.019668444991111755  0.33872395753860474  1.0000
+  V   V4        1.0  0.9385940432548523  0.2163701206445694  0.5783198475837708  1.0000
+  V   V5        1.0  0.9404633045196533  0.3609620928764343  0.24534547328948977  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CaCeCl2Pb2Sb
+_chemical_formula_sum              "Ca1 Ce1 Cl2 Pb2 Sb1"
+_cell_length_a       4.793489464393663
+_cell_length_b       7.215209014092295
+_cell_length_c       7.840325832366943
+_cell_angle_alpha    121.83542370259156
+_cell_angle_beta     89.0332273160822
+_cell_angle_gamma    88.817532964622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.2846323549747467  0.1971139758825302  0.22719229757785794  1.0000
+  Ce  Ce1       1.0  0.7844123840332031  0.06846567243337631  0.47031244635581965  1.0000
+  Cl  Cl1       1.0  0.28317028284072876  0.5553315281867981  0.47624233365058893  1.0000
+  Cl  Cl2       1.0  0.7750598788261414  0.78376704454422  0.726012110710144  1.0000
+  Pb  Pb1       1.0  0.2798992693424225  0.5498561859130859  0.7185311913490295  1.0000
+  Pb  Pb2       1.0  0.2833705246448517  0.20642760396003723  0.2203535586595535  1.0000
+  Sb  Sb1       1.0  0.7847453951835632  0.3639993965625763  0.223598450422287  1.0000

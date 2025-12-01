@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl3PRh2Sb
+_chemical_formula_sum              "Cl3 P1 Rh2 Sb1"
+_cell_length_a       5.006403251840994
+_cell_length_b       5.184950639306965
+_cell_length_c       6.817733287811279
+_cell_angle_alpha    71.19775014669597
+_cell_angle_beta     69.56514163958815
+_cell_angle_gamma    61.73655471542126
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9669142365455627  0.7514594197273254  0.8498883843421936  1.0000
+  Cl  Cl2       1.0  0.4761587381362915  0.755765974521637  0.6665553450584412  1.0000
+  Cl  Cl3       1.0  0.784522533416748  0.47295480966567993  0.17368975281715393  1.0000
+  P   P1        1.0  0.18416936695575714  0.16387462615966797  0.14217974245548248  1.0000
+  Rh  Rh1       1.0  0.5996741652488708  0.42973312735557556  0.6918604969978333  1.0000
+  Rh  Rh2       1.0  0.0947374776005745  0.4004999101161957  0.8391997814178467  1.0000
+  Sb  Sb1       1.0  0.4525417387485504  0.8253017067909241  0.6239656209945679  1.0000

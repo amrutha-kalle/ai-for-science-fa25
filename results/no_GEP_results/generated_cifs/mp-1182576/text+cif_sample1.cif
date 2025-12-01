@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2HO2SbZn
+_chemical_formula_sum              "Ba2 H1 O2 Sb1 Zn1"
+_cell_length_a       3.962828748240026
+_cell_length_b       3.2320173372694856
+_cell_length_c       7.442648887634277
+_cell_angle_alpha    90.38076161668532
+_cell_angle_beta     79.36812220229542
+_cell_angle_gamma    28.914072077004406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5061936974525452  0.21114581823349  0.3185839354991913  1.0000
+  Ba  Ba2       1.0  0.03662477433681488  0.6393018364906311  0.6985370516777039  1.0000
+  H   H1        1.0  0.5003140568733215  0.05566215142607689  0.8311236500740051  1.0000
+  O   O1        1.0  0.0037612281739711757  0.47023841738700867  0.4076712131500244  1.0000
+  O   O2        1.0  0.005117522552609444  0.3919548988342285  0.48214292526245117  1.0000
+  Sb  Sb1       1.0  0.5041374564170837  0.9415016770362854  0.8317195177078247  1.0000
+  Zn  Zn1       1.0  0.014361106790602205  0.08294650912284851  0.940294623374939  1.0000

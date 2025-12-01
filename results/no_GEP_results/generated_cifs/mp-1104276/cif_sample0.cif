@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ErILiNi2ZnZr
+_chemical_formula_sum              "Er1 I1 Li1 Ni2 Zn1 Zr1"
+_cell_length_a       4.182109606282433
+_cell_length_b       4.815484868108875
+_cell_length_c       7.733048915863037
+_cell_angle_alpha    108.98791772518562
+_cell_angle_beta     89.7243157457518
+_cell_angle_gamma    89.54897040025247
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.6125116348266602  0.8826727271080017  0.38242548704147333  1.0000
+  I   I1        1.0  0.6138615608215332  0.2673584818840027  0.609965145587921  1.0000
+  Li  Li1       1.0  0.11322777718305588  0.07003940641880035  0.8898040056228637  1.0000
+  Ni  Ni1       1.0  0.613976001739502  0.48691511154174805  0.3289137780666351  1.0000
+  Ni  Ni2       1.0  0.6187317371368408  0.1927524358034134  0.4319226443767547  1.0000
+  Zn  Zn1       1.0  0.11317158490419388  0.23724429309368134  0.6504783630371093  1.0000
+  Zr  Zr1       1.0  0.617648184299469  0.07194548100233078  0.7771728634834288  1.0000

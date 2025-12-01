@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BBiCe2Co3LuMnSc
+_chemical_formula_sum              "B1 Bi1 Ce2 Co3 Lu1 Mn1 Sc1"
+_cell_length_a       4.500089944442438
+_cell_length_b       4.828770821469389
+_cell_length_c       9.639907836914062
+_cell_angle_alpha    98.5924708186647
+_cell_angle_beta     101.15895836658474
+_cell_angle_gamma    91.43699133347202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.43908005952835083  0.8335216641426086  0.6940472722053528  1.0000
+  Bi  Bi1       1.0  0.3874308168888092  0.782434344291687  0.7884745597839355  1.0000
+  Ce  Ce1       1.0  0.4128860831260681  0.8712922930717468  0.8781022429466248  1.0000
+  Ce  Ce2       1.0  0.770797073841095  0.3372392952442169  0.7569164633750916  1.0000
+  Co  Co1       1.0  0.5882033705711365  0.473029762506485  0.8774261474609375  1.0000
+  Co  Co2       1.0  0.6311566233634949  0.6187908053398132  0.20172874629497528  1.0000
+  Co  Co3       1.0  0.9360917806625366  0.35312801599502563  0.35925960540771484  1.0000
+  Lu  Lu1       1.0  0.9264073967933655  0.7559096813201904  0.8474833965301514  1.0000
+  Mn  Mn1       1.0  0.8755830526351929  0.29514363408088684  0.632423996925354  1.0000
+  Sc  Sc1       1.0  0.0538448691368103  0.1460696905851364  0.09918365627527237  1.0000

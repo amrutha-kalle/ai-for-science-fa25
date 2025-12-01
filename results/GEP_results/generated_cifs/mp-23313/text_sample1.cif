@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi4In3
+_chemical_formula_sum              "Bi4 In3"
+_cell_length_a       4.909778058867041
+_cell_length_b       4.784590120177809
+_cell_length_c       9.060212135314941
+_cell_angle_alpha    89.32395571543698
+_cell_angle_beta     90.4558467737481
+_cell_angle_gamma    119.99704808769255
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.2869604825973511  0.03558483347296715  0.47804316878318787  1.0000
+  Bi  Bi2       1.0  0.2912239134311676  0.0433511883020401  0.16636131703853607  1.0000
+  Bi  Bi3       1.0  0.3483058512210846  0.2934292256832123  0.15205350518226624  1.0000
+  Bi  Bi4       1.0  0.8071747422218323  0.5386601090431213  0.6547490954399109  1.0000
+  In  In1       1.0  0.8123407959938049  0.5494400262832642  0.21303606033325195  1.0000
+  In  In2       1.0  0.8537406325340272  0.7935466170310974  0.6166802644729614  1.0000
+  In  In3       1.0  0.8537768721580506  0.2928636372089386  0.4389567971229554  1.0000

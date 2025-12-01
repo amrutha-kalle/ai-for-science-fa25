@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Eu5Sn2
+_chemical_formula_sum              "Eu5 Sn2"
+_cell_length_a       5.792541360957133
+_cell_length_b       5.358961177104197
+_cell_length_c       7.554923057556152
+_cell_angle_alpha    91.7064360645647
+_cell_angle_beta     91.45888534155893
+_cell_angle_gamma    119.16423846654914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.6454017758369446  0.8458399772644043  0.957999587059021  1.0000
+  Eu  Eu2       1.0  0.7157136797904968  0.2048317939043045  0.22651724517345428  1.0000
+  Eu  Eu3       1.0  0.9564108252525328  0.547437310218811  0.44591468572616577  1.0000
+  Eu  Eu4       1.0  0.2736029326915741  0.718628466129303  0.6488568186759949  1.0000
+  Eu  Eu5       1.0  0.9810304045677184  0.4285958409309387  0.5991086363792419  1.0000
+  Sn  Sn1       1.0  0.262834757566452  0.33576783537864685  0.446071594953537  1.0000
+  Sn  Sn2       1.0  0.20464271306991577  0.9585637450218201  0.9398931860923767  1.0000

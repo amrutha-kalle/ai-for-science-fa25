@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co3P2Ti
+_chemical_formula_sum              "Co3 P2 Ti1"
+_cell_length_a       3.626512106349822
+_cell_length_b       3.914535271096678
+_cell_length_c       7.002838611602783
+_cell_angle_alpha    90.19868451643701
+_cell_angle_beta     91.39794582669063
+_cell_angle_gamma    91.43499745056084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.06961596012115479  0.1993898004293442  0.09063950926065445  1.0000
+  Co  Co2       1.0  0.5670378804206848  0.2079105079174042  0.7871518135070801  1.0000
+  Co  Co3       1.0  0.07134858518838882  0.695271134376526  0.08880764991044998  1.0000
+  P   P1        1.0  0.06075160205364227  0.7063647508621217  0.7898823618888855  1.0000
+  P   P2        1.0  0.5597710609436035  0.21706728637218478  0.5775365829467773  1.0000
+  Ti  Ti1       1.0  0.5722386240959167  0.7170622944831849  0.9226073026657104  1.0000

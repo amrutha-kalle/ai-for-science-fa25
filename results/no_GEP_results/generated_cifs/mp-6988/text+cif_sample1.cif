@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeGaIP2Zr
+_chemical_formula_sum              "Fe1 Ga1 I1 P2 Zr1"
+_cell_length_a       5.173537843817199
+_cell_length_b       5.19322655526614
+_cell_length_c       5.72261381149292
+_cell_angle_alpha    63.840735513083395
+_cell_angle_beta     65.79318242066084
+_cell_angle_gamma    62.6444667790763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7690696120262146  0.4030904769897461  0.588225781917572  1.0000
+  Ga  Ga1       1.0  0.6093801259994507  0.5522074103355408  0.17009033262729645  1.0000
+  I   I1        1.0  0.08721865713596344  0.5853537321090698  0.527153730392456  1.0000
+  P   P1        1.0  0.8981040120124817  0.8368514180183411  0.6286417245864868  1.0000
+  P   P2        1.0  0.28832417726516724  0.4957590699195862  0.5639950633049011  1.0000
+  Zr  Zr1       1.0  0.42255401611328125  0.5404247641563416  0.29347434639930725  1.0000

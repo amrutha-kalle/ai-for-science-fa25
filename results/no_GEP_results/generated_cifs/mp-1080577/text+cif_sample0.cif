@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ho3Pb2Zn2
+_chemical_formula_sum              "Ho3 Pb2 Zn2"
+_cell_length_a       6.658068816369895
+_cell_length_b       6.562310426889554
+_cell_length_c       8.48311710357666
+_cell_angle_alpha    109.40782623095164
+_cell_angle_beta     96.60975275946016
+_cell_angle_gamma    111.89108607978696
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.7116798162460327  0.4047353267669678  0.7513479590415955  1.0000
+  Ho  Ho2       1.0  0.7114152312278748  0.3694702088832855  0.9714248776435852  1.0000
+  Ho  Ho3       1.0  0.7299414873123169  0.5237863063812256  0.11252632737159729  1.0000
+  Pb  Pb1       1.0  0.21201252937316897  0.47364133596420294  0.07892858982086184  1.0000
+  Pb  Pb2       1.0  0.21136498451232907  0.3860618770122528  0.5045619010925293  1.0000
+  Zn  Zn1       1.0  0.2131436914205551  0.28226959705352783  0.6924847960472107  1.0000
+  Zn  Zn2       1.0  0.21365307271480558  0.7678859233856201  0.9816707372665405  1.0000

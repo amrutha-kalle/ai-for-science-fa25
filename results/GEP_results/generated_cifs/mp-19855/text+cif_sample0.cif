@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       C2Sc2TiZr
+_chemical_formula_sum              "C2 Sc2 Ti1 Zr1"
+_cell_length_a       4.4904172613672575
+_cell_length_b       4.6906092190366
+_cell_length_c       5.7691545486450195
+_cell_angle_alpha    106.4600119905228
+_cell_angle_beta     104.54731146919798
+_cell_angle_gamma    104.54172642469581
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.2829563617706299  0.7363402247428894  0.20737762749195093  1.0000
+  C   C2        1.0  0.2886432409286499  0.24059002101421356  0.21594928205013275  1.0000
+  Sc  Sc1       1.0  0.7374678254127502  0.019690880551934242  0.9585586190223694  1.0000
+  Sc  Sc2       1.0  0.06365131586790085  0.39075130224227905  0.05547889322042463  1.0000
+  Ti  Ti1       1.0  0.605139434337616  0.4876598119735718  0.5598397254943848  1.0000
+  Zr  Zr1       1.0  0.5560864806175232  0.8475578427314758  0.8022560477256775  1.0000

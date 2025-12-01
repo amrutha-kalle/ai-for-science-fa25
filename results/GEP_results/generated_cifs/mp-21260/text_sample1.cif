@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe2Sn4Te
+_chemical_formula_sum              "Fe2 Sn4 Te1"
+_cell_length_a       5.321844190773837
+_cell_length_b       5.693768049343002
+_cell_length_c       6.4225993156433105
+_cell_angle_alpha    74.87556585958205
+_cell_angle_beta     69.2899616590811
+_cell_angle_gamma    60.99252450718709
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.16155485808849335  0.16815005242824554  0.2294813096523285  1.0000
+  Fe  Fe2       1.0  0.9752223491668701  0.056244120001792915  0.9889448285102845  1.0000
+  Sn  Sn1       1.0  0.8745060563087463  0.3877873420715332  0.5033347010612488  1.0000
+  Sn  Sn2       1.0  0.3533927798271179  0.03372068703174591  0.6395955681800842  1.0000
+  Sn  Sn3       1.0  0.6211689114570618  0.6866941452026367  0.244832456111908  1.0000
+  Sn  Sn4       1.0  0.34337249398231506  0.6681093573570251  0.6432600617408752  1.0000
+  Te  Te1       1.0  0.884625256061554  0.06966960430145264  0.015574143268167974  1.0000

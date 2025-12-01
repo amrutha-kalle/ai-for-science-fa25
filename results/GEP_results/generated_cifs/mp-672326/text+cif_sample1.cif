@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       InRu5Tl
+_chemical_formula_sum              "In1 Ru5 Tl1"
+_cell_length_a       5.482981740826235
+_cell_length_b       5.899919024807386
+_cell_length_c       6.142421722412109
+_cell_angle_alpha    111.38548875662755
+_cell_angle_beta     97.46382312940538
+_cell_angle_gamma    114.31851941928862
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.07978683710098267  0.4170856773853302  0.3450968265533447  1.0000
+  Ru  Ru1       1.0  0.45417699217796326  0.7770270705223083  0.2514014840126037  1.0000
+  Ru  Ru2       1.0  0.7827889919281006  0.8040463924407959  0.5087878108024597  1.0000
+  Ru  Ru3       1.0  0.47803446650505066  0.15135446190834045  0.7336167693138123  1.0000
+  Ru  Ru4       1.0  0.8001290559768677  0.062446437776088715  0.5269028544425964  1.0000
+  Ru  Ru5       1.0  0.0719856396317482  0.6849911212921143  0.573809027671814  1.0000
+  Tl  Tl1       1.0  0.5404499769210815  0.48458150029182434  0.047346912324428524  1.0000

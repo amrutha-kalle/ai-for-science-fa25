@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsTi6
+_chemical_formula_sum              "As1 Ti6"
+_cell_length_a       4.8487404594990275
+_cell_length_b       4.672088502014202
+_cell_length_c       4.901799201965332
+_cell_angle_alpha    106.41800522585557
+_cell_angle_beta     108.14043186432387
+_cell_angle_gamma    110.5763145542518
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.3288513123989105  0.3376234471797943  0.968594789505005  1.0000
+  Ti  Ti1       1.0  0.8414024114608765  0.4718599319458008  0.9237735867500305  1.0000
+  Ti  Ti2       1.0  0.8328655362129211  0.3095901906490326  0.8877852559089661  1.0000
+  Ti  Ti3       1.0  0.33087918162345886  0.9981104731559753  0.3590251803398133  1.0000
+  Ti  Ti4       1.0  0.8560003638267517  0.04867915064096451  0.7726567387580872  1.0000
+  Ti  Ti5       1.0  0.868482768535614  0.17926186323165894  0.0634278729557991  1.0000
+  Ti  Ti6       1.0  0.3626593053340912  0.0943327248096466  0.6356028318405151  1.0000

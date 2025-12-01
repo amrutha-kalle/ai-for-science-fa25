@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       KNi6S2
+_chemical_formula_sum              "K1 Ni6 S2"
+_cell_length_a       5.667471445217104
+_cell_length_b       5.633371574677613
+_cell_length_c       5.816089153289795
+_cell_angle_alpha    91.90006602895689
+_cell_angle_beta     93.39865568746812
+_cell_angle_gamma    112.63370614464303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.39515841007232666  0.46279990673065186  0.16057747602462769  1.0000
+  Ni  Ni1       1.0  0.6439393162727356  0.1401759833097458  0.6849325299263  1.0000
+  Ni  Ni2       1.0  0.06038181483745575  0.1968996375799179  0.8282904624938965  1.0000
+  Ni  Ni3       1.0  0.060834866017103195  0.6602636575698853  0.804541826248169  1.0000
+  Ni  Ni4       1.0  0.7262316346168518  0.8637479543685913  0.9954270720481873  1.0000
+  Ni  Ni5       1.0  0.8902828097343445  0.6512587070465088  0.03033161349594593  1.0000
+  Ni  Ni6       1.0  0.7434660792350769  0.8882405161857605  0.301379531621933  1.0000
+  S   S1        1.0  0.33479586243629456  0.11804112046957016  0.18076378107070923  1.0000
+  S   S2        1.0  0.7240503430366516  0.36147934198379517  0.9908851385116577  1.0000

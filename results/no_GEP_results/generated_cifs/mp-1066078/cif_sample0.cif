@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       I3LiPPt2
+_chemical_formula_sum              "I3 Li1 P1 Pt2"
+_cell_length_a       4.844343840345084
+_cell_length_b       5.567175853551744
+_cell_length_c       7.213107109069824
+_cell_angle_alpha    88.97218478078128
+_cell_angle_beta     90.62341818907264
+_cell_angle_gamma    90.88928596483868
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.3959508538246155  0.5646467804908752  0.560974657535553  1.0000
+  I   I2        1.0  0.39262819290161133  0.42914593219757086  0.7308756113052368  1.0000
+  I   I3        1.0  0.8906946778297424  0.04650041460990906  0.682212233543396  1.0000
+  Li  Li1       1.0  0.9099583625793457  0.32077157497406006  0.8149746656417847  1.0000
+  P   P1        1.0  0.40436699986457825  0.23991602659225467  0.29399973154067993  1.0000
+  Pt  Pt1       1.0  0.4122720956802368  0.01494712755084038  0.34624743461608887  1.0000
+  Pt  Pt2       1.0  0.9088038206100464  0.4880711436271668  0.9159365892410278  1.0000

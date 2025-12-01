@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HPdPt2SbSi2
+_chemical_formula_sum              "H1 Pd1 Pt2 Sb1 Si2"
+_cell_length_a       4.557015979513932
+_cell_length_b       3.0422432328732394
+_cell_length_c       4.156468391418457
+_cell_angle_alpha    127.90214101432433
+_cell_angle_beta     77.48889950979901
+_cell_angle_gamma    56.85253010243637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5134369134902954  0.22329379618167883  0.46532791852951055  1.0000
+  Pd  Pd1       1.0  0.023116849362850092  0.9691181778907778  0.48879688978195196  1.0000
+  Pt  Pt1       1.0  0.5284343957901001  0.4747745990753174  0.35207435488700867  1.0000
+  Pt  Pt2       1.0  0.8254855871200562  0.31115055084228516  0.2995932996273041  1.0000
+  Sb  Sb1       1.0  0.5271002054214478  0.28427743911743164  0.07461102306842804  1.0000
+  Si  Si1       1.0  0.4810148179531098  0.8091176748275758  0.43736204504966736  1.0000
+  Si  Si2       1.0  0.017121579498052597  0.7312745451927185  0.38531896471977234  1.0000

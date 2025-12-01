@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LuPPb2VZn2
+_chemical_formula_sum              "Lu1 P1 Pb2 V1 Zn2"
+_cell_length_a       4.590220639299768
+_cell_length_b       4.624015048215688
+_cell_length_c       9.052816390991211
+_cell_angle_alpha    90.05870900707778
+_cell_angle_beta     90.50734676458639
+_cell_angle_gamma    118.46479386485058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.700818657875061  0.5977665781974792  0.11694903671741486  1.0000
+  P   P1        1.0  0.6532402038574219  0.13006387650966644  0.07064475864171982  1.0000
+  Pb  Pb1       1.0  0.7024795413017273  0.7417839765548706  0.3191432058811188  1.0000
+  Pb  Pb2       1.0  0.2835312783718109  0.43132472038269043  0.6484889388084412  1.0000
+  V   V1        1.0  0.17181718349456787  0.34855926036834717  0.6864712834358215  1.0000
+  Zn  Zn1       1.0  0.6570965051651001  0.006101327016949654  0.6432517170906067  1.0000
+  Zn  Zn2       1.0  0.17083081603050232  0.251701682806015  0.2574966847896576  1.0000

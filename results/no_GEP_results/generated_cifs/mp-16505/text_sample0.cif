@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al5CdLa2
+_chemical_formula_sum              "Al5 Cd1 La2"
+_cell_length_a       4.527776365748783
+_cell_length_b       5.676288530569201
+_cell_length_c       6.382444858551025
+_cell_angle_alpha    138.3079256406578
+_cell_angle_beta     92.97872164767108
+_cell_angle_gamma    83.01754722015704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.2664158046245575  0.30853903293609614  0.743425726890564  1.0000
+  Al  Al2       1.0  0.7460573315620422  0.8494391441345215  0.2477870881557465  1.0000
+  Al  Al3       1.0  0.2654508054256439  0.5471042990684509  0.5162487030029297  1.0000
+  Al  Al4       1.0  0.7654991149902344  0.5309665799140929  0.4634493291378021  1.0000
+  Al  Al5       1.0  0.7620958089828491  0.24696987867355344  0.4613681137561798  1.0000
+  Cd  Cd1       1.0  0.7632312178611755  0.6718908548355103  0.39258241653442383  1.0000
+  La  La1       1.0  0.24240568280220032  0.27359327673912043  0.7634164690971375  1.0000
+  La  La2       1.0  0.26329153776168823  0.8767350912094114  0.9143285155296325  1.0000

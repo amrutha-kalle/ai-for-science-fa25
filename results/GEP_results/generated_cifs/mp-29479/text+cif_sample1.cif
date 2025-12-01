@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CsF3O3P
+_chemical_formula_sum              "Cs1 F3 O3 P1"
+_cell_length_a       4.8442679110724995
+_cell_length_b       5.254063669045438
+_cell_length_c       6.690733432769775
+_cell_angle_alpha    111.3543656071174
+_cell_angle_beta     113.07945549260856
+_cell_angle_gamma    92.49189763378892
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.47566223144531256  0.9798747301101683  0.7151316404342651  1.0000
+  F   F1        1.0  0.9959667325019838  0.3047110438346863  0.22571100294589996  1.0000
+  F   F2        1.0  0.04559960216283798  0.3174290060997009  0.7059608101844788  1.0000
+  F   F3        1.0  0.7814911603927612  0.8167003989219666  0.42208513617515564  1.0000
+  O   O1        1.0  0.08760061860084532  0.4510530829429626  0.8366938829421997  1.0000
+  O   O2        1.0  0.5509362816810608  0.31900233030319214  0.957770824432373  1.0000
+  O   O3        1.0  0.09939616173505783  0.7712458968162537  0.9319159984588623  1.0000
+  P   P1        1.0  0.05225609242916107  0.815785825252533  0.6996287107467651  1.0000

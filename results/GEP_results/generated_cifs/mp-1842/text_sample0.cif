@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al5Nb2
+_chemical_formula_sum              "Al5 Nb2"
+_cell_length_a       4.1260245931579735
+_cell_length_b       4.543729201718256
+_cell_length_c       5.881927013397217
+_cell_angle_alpha    111.01741293666619
+_cell_angle_beta     103.32100053541177
+_cell_angle_gamma    88.97651197741214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8699747920036316  0.9372087717056274  0.6711567640304565  1.0000
+  Al  Al2       1.0  0.1241467073559761  0.26885294914245605  0.7702622413635254  1.0000
+  Al  Al3       1.0  0.10196077078580856  0.7716526389122009  0.1529509425163269  1.0000
+  Al  Al4       1.0  0.5723009705543518  0.7052671313285828  0.2729266285896301  1.0000
+  Al  Al5       1.0  0.6221171617507935  0.7953893542289734  0.17683903872966766  1.0000
+  Nb  Nb1       1.0  0.6142209768295288  0.26368317008018494  0.8530468344688416  1.0000
+  Nb  Nb2       1.0  0.8036023378372192  0.20395633578300476  0.4415171444416046  1.0000

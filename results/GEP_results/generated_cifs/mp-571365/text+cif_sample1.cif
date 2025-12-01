@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co3FSnZn2
+_chemical_formula_sum              "Co3 F1 Sn1 Zn2"
+_cell_length_a       4.514455248984982
+_cell_length_b       4.464524067407903
+_cell_length_c       6.509453296661377
+_cell_angle_alpha    91.25580261629021
+_cell_angle_beta     91.77969687475071
+_cell_angle_gamma    87.36490023692342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5019692778587341  0.06242447718977928  0.9371607303619386  1.0000
+  Co  Co2       1.0  0.0784597247838974  0.35355445742607117  0.624933660030365  1.0000
+  Co  Co3       1.0  0.5070359706878662  0.5705836415290833  0.6294379830360413  1.0000
+  F   F1        1.0  0.9941028356552124  0.5732837319374084  0.12534838914871216  1.0000
+  Sn  Sn1       1.0  0.33708444237709045  0.31425443291664124  0.8820533752441406  1.0000
+  Zn  Zn1       1.0  0.9973902106285095  0.05536356940865517  0.5931280851364136  1.0000
+  Zn  Zn2       1.0  0.4891354739665985  0.06658608466386795  0.6312972903251648  1.0000

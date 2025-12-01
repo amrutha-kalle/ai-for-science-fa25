@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CCoGeIInLuOPbSeTi
+_chemical_formula_sum              "C1 Co1 Ge1 I1 In1 Lu1 O1 Pb1 Se1 Ti1"
+_cell_length_a       5.558562288671141
+_cell_length_b       3.6892516381169616
+_cell_length_c       4.909740924835205
+_cell_angle_alpha    22.39714389649554
+_cell_angle_beta     59.32294996839661
+_cell_angle_gamma    47.770484479601095
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.7596620321273804  0.7634706497192385  0.39214864373207076  1.0000
+  Co  Co1       1.0  0.5415225028991699  0.5847381949424745  0.7720988392829893  1.0000
+  Ge  Ge1       1.0  0.025980282574892002  0.1428862512111666  0.725055932998657  1.0000
+  I   I1        1.0  0.08177261799573894  0.8934190869331362  0.9689054489135741  1.0000
+  In  In1       1.0  0.5034345984458923  0.9996876120567323  0.5365899801254271  1.0000
+  Lu  Lu1       1.0  0.0999070256948471  0.10672253370285036  0.022708596661686887  1.0000
+  O   O1        1.0  0.7025325298309326  0.8170801997184756  0.9655435681343078  1.0000
+  Pb  Pb1       1.0  0.1860621869564056  0.69098699092865  0.7504332065582275  1.0000
+  Se  Se1       1.0  0.5425463318824768  0.06388306617736818  0.008869178593158677  1.0000
+  Ti  Ti1       1.0  0.180714949965477  0.4900303781032563  0.13170650601387016  1.0000

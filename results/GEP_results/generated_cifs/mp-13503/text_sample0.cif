@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MnSc3Zn3
+_chemical_formula_sum              "Mn1 Sc3 Zn3"
+_cell_length_a       4.768846809398194
+_cell_length_b       5.859726474563886
+_cell_length_c       6.774001598358154
+_cell_angle_alpha    115.31144971541413
+_cell_angle_beta     88.07234076384633
+_cell_angle_gamma    91.84840184273973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.17162330448627472  0.34589627385139465  0.5984572768211365  1.0000
+  Sc  Sc1       1.0  0.6749879717826843  0.007200393360108137  0.12684808671474457  1.0000
+  Sc  Sc2       1.0  0.6905627250671387  0.8207887411117554  0.38776254653930664  1.0000
+  Sc  Sc3       1.0  0.17752394080162048  0.6763811111450195  0.6124956607818604  1.0000
+  Zn  Zn1       1.0  0.667957603931427  0.011521010659635067  0.7047393918037415  1.0000
+  Zn  Zn2       1.0  0.6621025204658508  0.542148768901825  0.8961694240570068  1.0000
+  Zn  Zn3       1.0  0.18218040466308594  0.49370390176773077  0.15100561082363131  1.0000

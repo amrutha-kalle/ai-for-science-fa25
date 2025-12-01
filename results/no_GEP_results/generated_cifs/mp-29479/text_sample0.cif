@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F5O3
+_chemical_formula_sum              "F5 O3"
+_cell_length_a       4.210908803402744
+_cell_length_b       4.594671380929461
+_cell_length_c       6.501729965209961
+_cell_angle_alpha    113.2856336011014
+_cell_angle_beta     108.08084837698122
+_cell_angle_gamma    90.03355174921029
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.18699651956558228  0.6895398497581482  0.6479789614677428  1.0000
+  F   F2        1.0  0.6555600166320801  0.20776885747909546  0.020229773595929142  1.0000
+  F   F3        1.0  0.6861335039138794  0.24883748590946198  0.17061577737331388  1.0000
+  F   F4        1.0  0.12208718806505203  0.36062926054000854  0.24279601871967313  1.0000
+  F   F5        1.0  0.16907396912574768  0.12559805810451508  0.8460431694984435  1.0000
+  O   O1        1.0  0.6954113841056824  0.4476352035999298  0.30301105976104736  1.0000
+  O   O2        1.0  0.1773413121700287  0.7224797010421753  0.6878086328506469  1.0000
+  O   O3        1.0  0.6513064503669739  0.3090469539165497  0.751180350780487  1.0000

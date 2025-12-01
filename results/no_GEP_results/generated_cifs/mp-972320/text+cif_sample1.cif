@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsBBrNiTiU3Zr
+_chemical_formula_sum              "As1 B1 Br1 Ni1 Ti1 U3 Zr1"
+_cell_length_a       4.5563485030243065
+_cell_length_b       5.571276028155408
+_cell_length_c       6.86620569229126
+_cell_angle_alpha    89.87996843221474
+_cell_angle_beta     89.9338115719714
+_cell_angle_gamma    96.48270637785514
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.10690199583768845  0.5368217825889587  0.49068713188171387  1.0000
+  B   B1        1.0  0.1074482798576355  0.8531899452209473  0.040906425565481186  1.0000
+  Br  Br1       1.0  0.5946041941642761  0.1759752780199051  0.4831981062889099  1.0000
+  Ni  Ni1       1.0  0.09281210601329803  0.4789740741252899  0.37585726380348206  1.0000
+  Ti  Ti1       1.0  0.6013298034667969  0.5540733337402344  0.4264061748981476  1.0000
+  U   U1        1.0  0.10652735829353333  0.18297302722930908  0.03908027336001396  1.0000
+  U   U2        1.0  0.5891828536987305  0.014036452397704124  0.3681563138961792  1.0000
+  U   U3        1.0  0.6026390194892883  0.4098876714706421  0.7435145378112793  1.0000
+  Zr  Zr1       1.0  0.6078332662582397  0.9764237403869629  0.13122950494289398  1.0000

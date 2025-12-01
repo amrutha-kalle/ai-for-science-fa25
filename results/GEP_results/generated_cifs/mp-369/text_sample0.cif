@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al7
+_chemical_formula_sum              "Al7"
+_cell_length_a       4.546685266748935
+_cell_length_b       5.805699207248028
+_cell_length_c       5.767706871032715
+_cell_angle_alpha    119.22607144088109
+_cell_angle_beta     88.18189644022945
+_cell_angle_gamma    91.14955775702596
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.39444810152053833  0.2514515817165375  0.35654500126838684  1.0000
+  Al  Al2       1.0  0.8491793870925903  0.2341669350862503  0.7299490571022034  1.0000
+  Al  Al3       1.0  0.09258324652910233  0.02553577534854412  0.7301337122917175  1.0000
+  Al  Al4       1.0  0.11319095641374588  0.03597407042980194  0.07037602365016937  1.0000
+  Al  Al5       1.0  0.5131995677947998  0.32209187746047974  0.5713169574737549  1.0000
+  Al  Al6       1.0  0.12523643672466278  0.7243339419364929  0.8639048337936401  1.0000
+  Al  Al7       1.0  0.7972769141197205  0.5448320508003235  0.27698060870170593  1.0000

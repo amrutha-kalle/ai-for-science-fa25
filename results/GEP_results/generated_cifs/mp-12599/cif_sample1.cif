@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pr7
+_chemical_formula_sum              "Pr7"
+_cell_length_a       4.743204164252951
+_cell_length_b       6.484569031765281
+_cell_length_c       7.439482688903809
+_cell_angle_alpha    90.35015357834584
+_cell_angle_beta     91.17961418508423
+_cell_angle_gamma    89.86105415848662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.13936379551887512  0.7347658276557922  0.6944569945335388  1.0000
+  Pr  Pr2       1.0  0.14249888062477112  0.943865180015564  0.5554731488227844  1.0000
+  Pr  Pr3       1.0  0.6360649466514587  0.4471980631351471  0.6282934546470642  1.0000
+  Pr  Pr4       1.0  0.6424062252044678  0.5601410865783691  0.6134962439537048  1.0000
+  Pr  Pr5       1.0  0.1404995620250702  0.21566236019134521  0.808626115322113  1.0000
+  Pr  Pr6       1.0  0.13868367671966553  0.21605435013771057  0.8692363500595093  1.0000
+  Pr  Pr7       1.0  0.638414204120636  0.2077585607767105  0.11078832298517227  1.0000

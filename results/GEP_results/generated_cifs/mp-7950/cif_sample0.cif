@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       HLaMnNiOSScTh2Tl
+_chemical_formula_sum              "H1 La1 Mn1 Ni1 O1 S1 Sc1 Th2 Tl1"
+_cell_length_a       5.06175874794481
+_cell_length_b       5.191010381662824
+_cell_length_c       8.82220458984375
+_cell_angle_alpha    90.76632724111666
+_cell_angle_beta     92.21445373844405
+_cell_angle_gamma    91.0914500501353
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.0004425048828125  0.7707362771034241  0.433630108833313  1.0000
+  La  La1       1.0  0.5275802612304688  0.760787308216095  0.661984384059906  1.0000
+  Mn  Mn1       1.0  0.056511808186769485  0.49255087971687317  0.9733200073242188  1.0000
+  Ni  Ni1       1.0  0.5178022384643555  0.5010117888450623  0.9889691472053528  1.0000
+  O   O1        1.0  0.38210538029670715  0.5559423565864563  0.7985038757324219  1.0000
+  S   S1        1.0  0.21870926022529602  0.7698163986206055  0.2962058484554291  1.0000
+  Sc  Sc1       1.0  0.5305368304252625  0.0062652286142110825  0.3135620355606079  1.0000
+  Th  Th1       1.0  0.7188323140144348  0.27684709429740906  0.45794281363487244  1.0000
+  Th  Th2       1.0  0.2063983976840973  0.2673727869987488  0.6353809237480164  1.0000
+  Tl  Tl1       1.0  0.037745799869298935  0.9956982731819153  0.12258630245923996  1.0000

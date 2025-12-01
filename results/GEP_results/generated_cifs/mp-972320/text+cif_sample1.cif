@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       B3GaNi3U2
+_chemical_formula_sum              "B3 Ga1 Ni3 U2"
+_cell_length_a       5.316887160940132
+_cell_length_b       5.546145064157648
+_cell_length_c       5.7005438804626465
+_cell_angle_alpha    58.059670131955556
+_cell_angle_beta     61.81879606026604
+_cell_angle_gamma    59.780672192884616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.7714327573776245  0.6251769065856934  0.4478071331977844  1.0000
+  B   B2        1.0  0.7239172458648682  0.25153443217277527  0.48371270298957825  1.0000
+  B   B3        1.0  0.2782596945762634  0.6220760941505432  0.3974135220050812  1.0000
+  Ga  Ga1       1.0  0.6470983624458313  0.2545170485973358  0.9821708798408508  1.0000
+  Ni  Ni1       1.0  0.13114607334136963  0.63071608543396  0.23251567780971527  1.0000
+  Ni  Ni2       1.0  0.6722725033760071  0.6315139532089233  0.5925669074058533  1.0000
+  Ni  Ni3       1.0  0.23462215065956116  0.24793642759323117  0.9483575820922852  1.0000
+  U   U1        1.0  0.012835437431931544  0.9928720593452453  0.7242372632026672  1.0000
+  U   U2        1.0  0.26429885625839233  0.6280022859573364  0.9410544037818909  1.0000

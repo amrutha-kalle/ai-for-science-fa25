@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgSiTa5
+_chemical_formula_sum              "Ag1 Si1 Ta5"
+_cell_length_a       4.458001236174661
+_cell_length_b       5.164982214766459
+_cell_length_c       5.520504474639893
+_cell_angle_alpha    103.35469506865705
+_cell_angle_beta     107.97976775256292
+_cell_angle_gamma    110.25382540314575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.04983837530016899  0.07165811955928802  0.7332170605659485  1.0000
+  Si  Si1       1.0  0.03635365888476372  0.6679391860961914  0.6855772733688354  1.0000
+  Ta  Ta1       1.0  0.518533945083618  0.9298875331878661  0.9444403648376464  1.0000
+  Ta  Ta2       1.0  0.03497812896966934  0.40651726722717285  0.36028140783309937  1.0000
+  Ta  Ta3       1.0  0.29873043298721313  0.33873191475868225  0.5873788595199585  1.0000
+  Ta  Ta4       1.0  0.5534462928771973  0.43570467829704285  0.21359965205192566  1.0000
+  Ta  Ta5       1.0  0.028367139399051666  0.758694589138031  0.24181346595287317  1.0000

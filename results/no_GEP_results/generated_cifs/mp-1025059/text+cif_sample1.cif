@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La7
+_chemical_formula_sum              "La7"
+_cell_length_a       6.002720372102714
+_cell_length_b       5.336072985005693
+_cell_length_c       8.047567367553711
+_cell_angle_alpha    106.5032351722353
+_cell_angle_beta     108.28591612185724
+_cell_angle_gamma    115.31636791922782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.15567083656787872  0.6273664236068726  0.8808968663215637  1.0000
+  La  La2       1.0  0.24115455150604248  0.24242842197418213  0.04946320503950119  1.0000
+  La  La3       1.0  0.9775809049606323  0.8883066773414612  0.8990591168403625  1.0000
+  La  La4       1.0  0.932673454284668  0.36438584327697754  0.22182010114192963  1.0000
+  La  La5       1.0  0.5841003060340881  0.985414445400238  0.18265201151371002  1.0000
+  La  La6       1.0  0.4612426161766052  0.0796128511428833  0.6679769158363342  1.0000
+  La  La7       1.0  0.9679419994354248  0.2967504858970642  0.7602096199989319  1.0000

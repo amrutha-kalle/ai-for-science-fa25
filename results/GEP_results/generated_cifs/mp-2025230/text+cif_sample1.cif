@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CeCsSeZn4
+_chemical_formula_sum              "Ce1 Cs1 Se1 Zn4"
+_cell_length_a       4.128016934007895
+_cell_length_b       4.501275890843467
+_cell_length_c       11.509647369384766
+_cell_angle_alpha    94.56853240388288
+_cell_angle_beta     97.21779050472455
+_cell_angle_gamma    88.64888384323785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.8301956653594971  0.7825247049331665  0.2801412343978882  1.0000
+  Cs  Cs1       1.0  0.7425011992454529  0.2804143726825714  0.5206915736198425  1.0000
+  Se  Se1       1.0  0.5994138717651367  0.7701230049133301  0.061767578125  1.0000
+  Zn  Zn1       1.0  0.11261268705129623  0.7641903758049011  0.019760461524128914  1.0000
+  Zn  Zn2       1.0  0.1069786548614502  0.2388388216495514  0.4332689046859741  1.0000
+  Zn  Zn3       1.0  0.42764878273010254  0.28295448422431946  0.784769594669342  1.0000
+  Zn  Zn4       1.0  0.6032496094703674  0.7566782832145691  0.21379755437374115  1.0000

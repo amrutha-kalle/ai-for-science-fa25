@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       O3Pb3
+_chemical_formula_sum              "O3 Pb3"
+_cell_length_a       4.566526706715473
+_cell_length_b       7.758866404259393
+_cell_length_c       7.840061187744141
+_cell_angle_alpha    120.56353955830689
+_cell_angle_beta     88.25334247053311
+_cell_angle_gamma    89.67967104893529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7655847668647766  0.6343539953231812  0.8718102574348451  1.0000
+  O   O2        1.0  0.2544213831424713  0.9792159199714661  0.08893582969903946  1.0000
+  O   O3        1.0  0.7528614401817322  0.3125302791595459  0.516986608505249  1.0000
+  Pb  Pb1       1.0  0.7426343560218811  0.8699654340744019  0.13413482904434204  1.0000
+  Pb  Pb2       1.0  0.24980209767818454  0.6703338623046875  0.6096762418746948  1.0000
+  Pb  Pb3       1.0  0.7563406825065613  0.41203370690345764  0.8613296747207643  1.0000

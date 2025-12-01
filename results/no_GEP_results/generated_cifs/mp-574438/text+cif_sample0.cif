@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       DyGaLuPPbRuZn
+_chemical_formula_sum              "Dy1 Ga1 Lu1 P1 Pb1 Ru1 Zn1"
+_cell_length_a       4.361156549214906
+_cell_length_b       4.240323860102208
+_cell_length_c       5.312564849853516
+_cell_angle_alpha    106.02696853150788
+_cell_angle_beta     102.14663696958749
+_cell_angle_gamma    122.58398789638679
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.44718608260154735  0.8359547257423402  0.7406639456748962  1.0000
+  Ga  Ga1       1.0  0.26114150881767273  0.6255822777748108  0.8231956958770752  1.0000
+  Lu  Lu1       1.0  0.759002149105072  0.1704738438129425  0.13743634521961212  1.0000
+  P   P1        1.0  0.4385378360748291  0.07135067135095596  0.9482303857803345  1.0000
+  Pb  Pb1       1.0  0.011933416128158621  0.4138507246971131  0.6299876570701599  1.0000
+  Ru  Ru1       1.0  0.7629144191741943  0.06734724342823029  0.26261472702026367  1.0000
+  Zn  Zn1       1.0  0.25855752825737  0.5458045601844788  0.8499926924705505  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mg6P
+_chemical_formula_sum              "Mg6 P1"
+_cell_length_a       6.071033071580902
+_cell_length_b       5.996046123617575
+_cell_length_c       6.380209445953369
+_cell_angle_alpha    67.64760055440095
+_cell_angle_beta     69.60666254384195
+_cell_angle_gamma    70.90692032310746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.1845095306634903  0.29075372219085693  0.20430544018745422  1.0000
+  Mg  Mg2       1.0  0.9257667064666749  0.19052089750766754  0.47783505916595453  1.0000
+  Mg  Mg3       1.0  0.4716064631938935  0.8838876485824585  0.6689122915267944  1.0000
+  Mg  Mg4       1.0  0.8079570531845093  0.17173461616039276  0.8967479467391968  1.0000
+  Mg  Mg5       1.0  0.16952699422836304  0.36361441016197205  0.7457221746444702  1.0000
+  Mg  Mg6       1.0  0.6081467270851135  0.3444223403930664  0.5079156756401062  1.0000
+  P   P1        1.0  0.14278244972229004  0.44706055521965027  0.8782869577407837  1.0000

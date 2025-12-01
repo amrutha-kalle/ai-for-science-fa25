@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsB2Li5O
+_chemical_formula_sum              "As1 B2 Li5 O1"
+_cell_length_a       4.124809685288233
+_cell_length_b       4.488523651781519
+_cell_length_c       6.318141460418701
+_cell_angle_alpha    114.29984613666733
+_cell_angle_beta     111.2077624344665
+_cell_angle_gamma    116.41159044448916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.3820100724697113  0.2215233892202378  0.39989569783210754  1.0000
+  B   B1        1.0  0.6924127936363219  0.16159124672412853  0.8286150693893432  1.0000
+  B   B2        1.0  0.516696274280548  0.8841353654861449  0.7379599213600158  1.0000
+  Li  Li1       1.0  0.6531640887260437  0.18256902694702148  0.051882028579711886  1.0000
+  Li  Li2       1.0  0.14553046226501476  0.950349032878876  0.579355776309967  1.0000
+  Li  Li3       1.0  0.7030644416809083  0.33051314949989336  0.6059085130691528  1.0000
+  Li  Li4       1.0  0.18896739184856412  0.26901069283485407  0.10680639743804929  1.0000
+  Li  Li5       1.0  0.644342303276062  0.4500732421875  0.03324952721595761  1.0000
+  O   O1        1.0  0.6173571944236754  0.9362106919288634  0.49326276779174794  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe5O
+_chemical_formula_sum              "Fe5 O1"
+_cell_length_a       4.141440968351129
+_cell_length_b       3.575579327782897
+_cell_length_c       4.621193885803223
+_cell_angle_alpha    56.35866948758666
+_cell_angle_beta     61.20579117051139
+_cell_angle_gamma    32.465617454722945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6010775566101074  0.40099871158599854  0.6004798412322998  1.0000
+  Fe  Fe2       1.0  0.10335526615381241  0.571169376373291  0.9574968814849854  1.0000
+  Fe  Fe3       1.0  0.10980800539255142  0.6012327075004578  0.5420552492141724  1.0000
+  Fe  Fe4       1.0  0.5971879959106445  0.03379155695438385  0.16687929630279547  1.0000
+  Fe  Fe5       1.0  0.13895633816719055  0.28406116366386414  0.6028350591659546  1.0000
+  O   O1        1.0  0.6303827166557312  0.6600295305252075  0.1626710146665573  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al5La3
+_chemical_formula_sum              "Al5 La3"
+_cell_length_a       5.138816138151738
+_cell_length_b       6.641917530496423
+_cell_length_c       6.584248065948486
+_cell_angle_alpha    121.72753138231275
+_cell_angle_beta     89.38118573781541
+_cell_angle_gamma    87.0440025460275
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.1273423284292221  0.547882080078125  0.5675272941589355  1.0000
+  Al  Al2       1.0  0.5089361071586609  0.16856281459331512  0.6218850016593933  1.0000
+  Al  Al3       1.0  0.36759379506111145  0.7929027080535889  0.9993104934692383  1.0000
+  Al  Al4       1.0  0.49836859107017517  0.15248508751392365  0.2733780145645142  1.0000
+  Al  Al5       1.0  0.8311341404914856  0.09606941789388657  0.17050744593143463  1.0000
+  La  La1       1.0  0.36969485878944397  0.46800264716148376  0.0159792210906744  1.0000
+  La  La2       1.0  0.8417901396751404  0.7398516535758972  0.9167487025260925  1.0000
+  La  La3       1.0  0.8304247856140137  0.9390469193458557  0.5718811750411987  1.0000

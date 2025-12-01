@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaKPb2Pt2
+_chemical_formula_sum              "Ga1 K1 Pb2 Pt2"
+_cell_length_a       5.791760033494391
+_cell_length_b       5.810518462621246
+_cell_length_c       6.464874744415283
+_cell_angle_alpha    96.472299433504
+_cell_angle_beta     102.24821189496828
+_cell_angle_gamma    116.29116499026134
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9516535401344299  0.5594815611839294  0.6546067595481873  1.0000
+  K   K1        1.0  0.1394421011209488  0.7704100012779236  0.10600479692220689  1.0000
+  Pb  Pb1       1.0  0.6760700941085815  0.6354607343673706  0.673937976360321  1.0000
+  Pb  Pb2       1.0  0.6859716773033142  0.09777256846427917  0.16885797679424286  1.0000
+  Pt  Pt1       1.0  0.6149232983589172  0.9189454317092896  0.07602839916944504  1.0000
+  Pt  Pt2       1.0  0.8809552192687988  0.7294626235961914  0.2408053129911423  1.0000

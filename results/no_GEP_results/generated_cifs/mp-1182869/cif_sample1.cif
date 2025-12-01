@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al3IOZn
+_chemical_formula_sum              "Al3 I1 O1 Zn1"
+_cell_length_a       4.164085704744673
+_cell_length_b       3.986526081459308
+_cell_length_c       5.29865837097168
+_cell_angle_alpha    90.04040811990313
+_cell_angle_beta     87.42807495341381
+_cell_angle_gamma    103.18074934632226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5562042593955994  0.7565129995346069  0.4777200520038605  1.0000
+  Al  Al2       1.0  0.993924617767334  0.43576154112815857  0.25640246272087097  1.0000
+  Al  Al3       1.0  0.2383955419063568  0.5431005954742432  0.13364484906196594  1.0000
+  I   I1        1.0  0.4926827549934387  0.4214192032814026  0.49430617690086365  1.0000
+  O   O1        1.0  0.04894164577126503  0.7040477991104126  0.9108340740203857  1.0000
+  Zn  Zn1       1.0  0.5111756920814514  0.8212901949882507  0.263506680727005  1.0000

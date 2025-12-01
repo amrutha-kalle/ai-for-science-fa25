@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge4PTb
+_chemical_formula_sum              "Ge4 P1 Tb1"
+_cell_length_a       4.477258225194068
+_cell_length_b       4.952997947958585
+_cell_length_c       6.380532264709473
+_cell_angle_alpha    88.0411672330632
+_cell_angle_beta     89.99461423455627
+_cell_angle_gamma    120.87378381265023
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.7064259052276611  0.5084033012390137  0.8703018426895142  1.0000
+  Ge  Ge2       1.0  0.16052627563476562  0.217259019613266  0.07947666198015213  1.0000
+  Ge  Ge3       1.0  0.6242228746414185  0.4419987201690674  0.05293802171945572  1.0000
+  Ge  Ge4       1.0  0.1801294982433319  0.9804292917251587  0.005526348948478699  1.0000
+  P   P1        1.0  0.963407576084137  0.4604501724243164  0.3220444321632385  1.0000
+  Tb  Tb1       1.0  0.6172218918800354  0.6284241080284119  0.7830975651741028  1.0000

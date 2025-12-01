@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co3Sn4
+_chemical_formula_sum              "Co3 Sn4"
+_cell_length_a       5.09051573284023
+_cell_length_b       4.35148943311399
+_cell_length_c       4.243153095245361
+_cell_angle_alpha    92.39257322182854
+_cell_angle_beta     89.623692796294
+_cell_angle_gamma    89.49693659089557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.8819682002067566  0.8908624649047852  0.04478820785880089  1.0000
+  Co  Co2       1.0  0.8696252703666687  0.27016663551330566  0.07455910742282867  1.0000
+  Co  Co3       1.0  0.37451833486557007  0.5544751286506653  0.18533948063850403  1.0000
+  Sn  Sn1       1.0  0.8691720366477966  0.2810044586658478  0.12734808027744293  1.0000
+  Sn  Sn2       1.0  0.36578792333602905  0.7406120300292969  0.6846202611923218  1.0000
+  Sn  Sn3       1.0  0.37137138843536377  0.8918787240982056  0.6049351096153259  1.0000
+  Sn  Sn4       1.0  0.3726215660572052  0.2471349835395813  0.17216980457305908  1.0000

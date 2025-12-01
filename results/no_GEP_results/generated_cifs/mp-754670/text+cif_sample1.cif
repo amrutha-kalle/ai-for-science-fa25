@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeV4Zn
+_chemical_formula_sum              "Ge1 V4 Zn1"
+_cell_length_a       3.884986587896716
+_cell_length_b       4.233689230820526
+_cell_length_c       5.570830821990967
+_cell_angle_alpha    90.03977985642081
+_cell_angle_beta     88.93842981532698
+_cell_angle_gamma    114.09329850130297
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5626528263092041  0.5214216709136963  0.3799411952495575  1.0000
+  V   V1        1.0  0.16885122656822205  0.7126206755638123  0.23886992037296295  1.0000
+  V   V2        1.0  0.13785338401794434  0.30210307240486145  0.7322496175765991  1.0000
+  V   V3        1.0  0.46141391992568975  0.7122637033462524  0.1054423600435257  1.0000
+  V   V4        1.0  0.053224693983793266  0.10459575802087784  0.3978671431541443  1.0000
+  Zn  Zn1       1.0  0.6832560896873474  0.5220773220062256  0.3461107611656189  1.0000

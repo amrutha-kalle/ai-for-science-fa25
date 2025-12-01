@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       As4PRuZn
+_chemical_formula_sum              "As4 P1 Ru1 Zn1"
+_cell_length_a       5.674504689825631
+_cell_length_b       5.466185531046268
+_cell_length_c       6.286562919616699
+_cell_angle_alpha    106.76531796507241
+_cell_angle_beta     109.27136076842032
+_cell_angle_gamma    114.1090645430957
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8452043533325195  0.8642227649688721  0.521541178226471  1.0000
+  As  As2       1.0  0.32201558351516724  0.6335539817810059  0.5759960412979126  1.0000
+  As  As3       1.0  0.503926157951355  0.5846223831176758  0.5329316258430481  1.0000
+  As  As4       1.0  0.6888774633407593  0.04171005263924599  0.077059805393219  1.0000
+  P   P1        1.0  0.8260603547096252  0.6530847549438477  0.7868514657020569  1.0000
+  Ru  Ru1       1.0  0.3319987654685974  0.26797235012054443  0.6929168701171875  1.0000
+  Zn  Zn1       1.0  0.2026493400335312  0.11275964230298996  0.19772227108478546  1.0000

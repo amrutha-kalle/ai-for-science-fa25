@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaTbV5Zr2
+_chemical_formula_sum              "Ga1 Tb1 V5 Zr2"
+_cell_length_a       4.463528543080361
+_cell_length_b       6.864262675100899
+_cell_length_c       7.64736795425415
+_cell_angle_alpha    116.21837793068634
+_cell_angle_beta     91.18169731911037
+_cell_angle_gamma    89.88737941248296
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.008824438787996769  0.25679898262023926  0.8064954876899719  1.0000
+  Tb  Tb1       1.0  0.4934611916542054  0.614408552646637  0.23093116283416748  1.0000
+  V   V1        1.0  0.4941768646240235  0.9274168610572816  0.9941971898078918  1.0000
+  V   V2        1.0  0.49281990528106695  0.37178254127502447  0.4513542056083679  1.0000
+  V   V3        1.0  0.9887316823005677  0.607081413269043  0.25910738110542303  1.0000
+  V   V4        1.0  0.9938572049140931  0.8354246616363527  0.778580367565155  1.0000
+  V   V5        1.0  0.001051988685503602  0.30849939584732056  0.11829070001840593  1.0000
+  Zr  Zr1       1.0  0.4842238128185273  0.6574123501777649  0.432798981666565  1.0000
+  Zr  Zr2       1.0  0.9964669346809388  0.749485731124878  0.8800548315048218  1.0000

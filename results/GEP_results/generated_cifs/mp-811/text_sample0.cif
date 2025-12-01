@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2Pt5
+_chemical_formula_sum              "Ba2 Pt5"
+_cell_length_a       3.883885374099178
+_cell_length_b       5.004959008267566
+_cell_length_c       7.818094253540039
+_cell_angle_alpha    117.1599273755862
+_cell_angle_beta     95.90177258826549
+_cell_angle_gamma    81.81878011984656
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7054488658905029  0.9521051645278931  0.77957946062088  1.0000
+  Ba  Ba2       1.0  0.20470201969146729  0.31045669317245483  0.4109003543853759  1.0000
+  Pt  Pt1       1.0  0.20186632871627808  0.30840399861335754  0.29472401738166804  1.0000
+  Pt  Pt2       1.0  0.18375305831432343  0.17187204957008362  0.13453039526939392  1.0000
+  Pt  Pt3       1.0  0.7249176502227783  0.9083484411239624  0.2420442700386047  1.0000
+  Pt  Pt4       1.0  0.6993658542633057  0.32095617055892944  0.7447605729103087  1.0000
+  Pt  Pt5       1.0  0.2001461684703827  0.293739378452301  0.7541018724441527  1.0000

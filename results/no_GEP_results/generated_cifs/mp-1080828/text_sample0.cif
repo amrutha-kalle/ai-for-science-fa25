@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaCuF2GaK4
+_chemical_formula_sum              "Ca1 Cu1 F2 Ga1 K4"
+_cell_length_a       4.604844894709146
+_cell_length_b       4.990485257394007
+_cell_length_c       5.840089321136475
+_cell_angle_alpha    112.69815697376904
+_cell_angle_beta     94.0625006136648
+_cell_angle_gamma    90.63749828110781
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.678196907043457  0.33395057916641235  0.4402514398097992  1.0000
+  Cu  Cu1       1.0  0.4636186957359314  0.2605038285255432  0.5850344896316528  1.0000
+  F   F1        1.0  0.060027383267879486  0.9032649993896484  0.2058897465467453  1.0000
+  F   F2        1.0  0.9560859203338623  0.06882275640964508  0.8199067711830139  1.0000
+  Ga  Ga1       1.0  0.9715288281440735  0.24596081674098969  0.5843987464904785  1.0000
+  K   K1        1.0  0.9459042549133301  0.682022213935852  0.7807735204696655  1.0000
+  K   K2        1.0  0.9655035138130188  0.22976389527320862  0.5951318740844727  1.0000
+  K   K3        1.0  0.48114141821861267  0.7025653123855591  0.6816727519035339  1.0000
+  K   K4        1.0  0.954770565032959  0.044463224709033966  0.5693135857582092  1.0000

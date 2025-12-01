@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsFGaGeIKOPbSc
+_chemical_formula_sum              "As1 F1 Ga1 Ge1 I1 K1 O1 Pb1 Sc1"
+_cell_length_a       6.038655451980853
+_cell_length_b       5.857542035587543
+_cell_length_c       7.583211421966553
+_cell_angle_alpha    107.66852143895495
+_cell_angle_beta     109.34106275303651
+_cell_angle_gamma    113.94100691118784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.16207490861415863  0.7600988745689392  0.745958685874939  1.0000
+  F   F1        1.0  0.6872221827507019  0.545452356338501  0.1607198566198349  1.0000
+  Ga  Ga1       1.0  0.18540477752685547  0.7102336883544922  0.3142506778240204  1.0000
+  Ge  Ge1       1.0  0.8361346721649171  0.2982638478279114  0.8613831400871277  1.0000
+  I   I1        1.0  0.47381299734115606  0.3918221592903137  0.3263334333896637  1.0000
+  K   K1        1.0  0.14380186796188354  0.023731326684355736  0.6227803230285645  1.0000
+  O   O1        1.0  0.978613317012787  0.9001970887184143  0.4944000542163849  1.0000
+  Pb  Pb1       1.0  0.36627188324928284  0.4338916838169098  0.17552821338176727  1.0000
+  Sc  Sc1       1.0  0.14810897409915924  0.1362043023109436  0.4789026379585266  1.0000

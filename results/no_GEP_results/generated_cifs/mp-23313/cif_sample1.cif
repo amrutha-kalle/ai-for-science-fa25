@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeIIn4Li
+_chemical_formula_sum              "Ge1 I1 In4 Li1"
+_cell_length_a       4.852973805052136
+_cell_length_b       4.962827916738349
+_cell_length_c       9.277888298034668
+_cell_angle_alpha    91.07461069097523
+_cell_angle_beta     90.71962116269708
+_cell_angle_gamma    123.15057531045697
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.09572447091341019  0.5571004152297974  0.24127976596355438  1.0000
+  I   I1        1.0  0.4787830710411072  0.25542619824409485  0.01842530257999897  1.0000
+  In  In1       1.0  0.47379907965660095  0.5348064303398132  0.7514628767967224  1.0000
+  In  In2       1.0  0.9716775417327881  0.5096912980079651  0.2849648594856262  1.0000
+  In  In3       1.0  0.975722074508667  0.060660962015390396  0.7527204155921936  1.0000
+  In  In4       1.0  0.7214694619178772  0.9074758887290955  0.034591857343912125  1.0000
+  Li  Li1       1.0  0.19335664808750153  0.00559445284307003  0.021146701648831367  1.0000

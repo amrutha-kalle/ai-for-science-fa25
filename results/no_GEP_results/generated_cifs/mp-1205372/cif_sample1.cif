@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsIPbPtV2
+_chemical_formula_sum              "As1 I1 Pb1 Pt1 V2"
+_cell_length_a       5.250646835835343
+_cell_length_b       4.578713526690874
+_cell_length_c       6.308636665344238
+_cell_angle_alpha    118.5483256933328
+_cell_angle_beta     118.30411884131577
+_cell_angle_gamma    90.37008547440337
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9340799450874329  0.918698489665985  0.7434554696083069  1.0000
+  I   I1        1.0  0.02417583204805851  0.5021815896034241  0.9480220675468445  1.0000
+  Pb  Pb1       1.0  0.44372445344924927  0.6260123848915099  0.4184814095497131  1.0000
+  Pt  Pt1       1.0  0.9333428144454956  0.9182379841804503  0.09436135739088058  1.0000
+  V   V1        1.0  0.9502634406089783  0.2138291001319885  0.6918590068817139  1.0000
+  V   V2        1.0  0.4489353597164154  0.1143612042069435  0.14904458820819855  1.0000

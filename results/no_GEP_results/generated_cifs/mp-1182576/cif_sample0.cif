@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba5IO
+_chemical_formula_sum              "Ba5 I1 O1"
+_cell_length_a       5.436987454287176
+_cell_length_b       5.57252163683625
+_cell_length_c       7.248542785644531
+_cell_angle_alpha    109.34183761770073
+_cell_angle_beta     93.18433553524433
+_cell_angle_gamma    88.542567402459
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.16682609915733337  0.5090434551239014  0.2261722832918167  1.0000
+  Ba  Ba2       1.0  0.6506588459014893  0.38958585262298584  0.02447338029742241  1.0000
+  Ba  Ba3       1.0  0.17701071500778198  0.5518324971199036  0.3241206109523773  1.0000
+  Ba  Ba4       1.0  0.16687048971652985  0.702674150466919  0.6732405424118042  1.0000
+  Ba  Ba5       1.0  0.6660496592521667  0.026620736345648766  0.5758630633354187  1.0000
+  I   I1        1.0  0.8816045522689819  0.05759124085307121  0.46835392713546753  1.0000
+  O   O1        1.0  0.14865735173225403  0.28896456956863403  0.6078976392745972  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaPbSeZn4
+_chemical_formula_sum              "Ga1 Pb1 Se1 Zn4"
+_cell_length_a       5.021927830080621
+_cell_length_b       4.977897279141475
+_cell_length_c       7.182708263397217
+_cell_angle_alpha    105.7369479601831
+_cell_angle_beta     97.98833349537672
+_cell_angle_gamma    113.03822505445784
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5461474061012268  0.1098707914352417  0.38359424471855164  1.0000
+  Pb  Pb1       1.0  0.5763866901397705  0.7112662196159363  0.6161137223243713  1.0000
+  Se  Se1       1.0  0.33071258664131165  0.8715054988861084  0.11780149489641194  1.0000
+  Zn  Zn1       1.0  0.5415013432502747  0.48400908708572393  0.4940582811832428  1.0000
+  Zn  Zn2       1.0  0.046332623809576035  0.6044244766235352  0.1863316297531128  1.0000
+  Zn  Zn3       1.0  0.040445465594530106  0.16097234189510345  0.7503000497817993  1.0000
+  Zn  Zn4       1.0  0.037408262491226196  0.06258038431406021  0.4223216772079468  1.0000

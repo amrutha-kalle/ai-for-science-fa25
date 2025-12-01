@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ErGe2Lu3Se2ZnZr
+_chemical_formula_sum              "Er1 Ge2 Lu3 Se2 Zn1 Zr1"
+_cell_length_a       5.301487303842473
+_cell_length_b       6.884100607676517
+_cell_length_c       7.661563396453857
+_cell_angle_alpha    100.19229983462355
+_cell_angle_beta     94.08810887001394
+_cell_angle_gamma    89.7222320917488
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.18398401141166687  0.5098973512649536  0.3319544494152069  1.0000
+  Ge  Ge1       1.0  0.1844373196363449  0.24473591148853302  0.7858055830001831  1.0000
+  Ge  Ge2       1.0  0.6820939183235168  0.199941024184227  0.4396626651287079  1.0000
+  Lu  Lu1       1.0  0.6807428598403931  0.585386335849762  0.18798528611660004  1.0000
+  Lu  Lu2       1.0  0.3715202212333679  0.49075403809547424  0.6275939345359802  1.0000
+  Lu  Lu3       1.0  0.6771005988121033  0.6024717688560486  0.910352349281311  1.0000
+  Se  Se1       1.0  0.15738241374492645  0.8230360150337219  0.40418747067451477  1.0000
+  Se  Se2       1.0  0.6850066184997559  0.1832738220691681  0.6064916253089905  1.0000
+  Zn  Zn1       1.0  0.6824963688850403  0.46126455068588257  0.9002802968025208  1.0000
+  Zr  Zr1       1.0  0.18686679005622864  0.12962689995765686  0.9788988828659058  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       U5V2Zn
+_chemical_formula_sum              "U5 V2 Zn1"
+_cell_length_a       4.702882577468935
+_cell_length_b       4.8062304260862065
+_cell_length_c       6.076375961303711
+_cell_angle_alpha    92.14676871596454
+_cell_angle_beta     87.41751621155126
+_cell_angle_gamma    102.0918717798005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  U   U1        1.0  0.37412965297698975  0.2493213713169098  0.21942788362503052  1.0000
+  U   U2        1.0  0.3930514454841614  0.9532702565193176  0.6022939085960388  1.0000
+  U   U3        1.0  0.8731781244277954  0.8856763243675232  0.5373992919921875  1.0000
+  U   U4        1.0  0.8852836489677429  0.5323560833930969  0.009178978390991686  1.0000
+  U   U5        1.0  0.3725515604019165  0.9946457743644714  0.989424467086792  1.0000
+  V   V1        1.0  0.3779272735118866  0.8196739554405212  0.955575704574585  1.0000
+  V   V2        1.0  0.38439664244651794  0.6466234922409058  0.529385507106781  1.0000
+  Zn  Zn1       1.0  0.880615770816803  0.3209250271320343  0.5621913075447083  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BClGeInLuTbZr
+_chemical_formula_sum              "B1 Cl1 Ge1 In1 Lu1 Tb1 Zr1"
+_cell_length_a       4.9266182420683675
+_cell_length_b       4.879243351432799
+_cell_length_c       5.242419242858887
+_cell_angle_alpha    40.83795384324066
+_cell_angle_beta     47.7844462018832
+_cell_angle_gamma    82.27882427127987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.40930467844009405  0.4562574625015259  0.6280677914619446  1.0000
+  Cl  Cl1       1.0  0.9016658663749697  0.8950913548469545  0.6282674670219419  1.0000
+  Ge  Ge1       1.0  0.3738861680030822  0.15945620834827412  0.8293750882148744  1.0000
+  In  In1       1.0  0.3372686505317687  0.8661597967147825  0.32346382737159757  1.0000
+  Lu  Lu1       1.0  0.351365476846695  0.5309469699859619  0.6551983952522279  1.0000
+  Tb  Tb1       1.0  0.8753526210784913  0.7076265811920165  0.5679529309272767  1.0000
+  Zr  Zr1       1.0  0.29059258103370667  0.1854872554540634  0.2447714507579804  1.0000

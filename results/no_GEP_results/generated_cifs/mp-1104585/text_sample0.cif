@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BHo6
+_chemical_formula_sum              "B1 Ho6"
+_cell_length_a       3.8102478400376
+_cell_length_b       3.693903375448254
+_cell_length_c       9.215158462524414
+_cell_angle_alpha    101.66678231670808
+_cell_angle_beta     99.60287372675576
+_cell_angle_gamma    89.41696125375844
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.6039416193962097  0.5627050399780273  0.10505714267492294  1.0000
+  Ho  Ho1       1.0  0.5998004078865051  0.22872471809387207  0.7033862471580505  1.0000
+  Ho  Ho2       1.0  0.9092731475830078  0.792042076587677  0.2905452847480774  1.0000
+  Ho  Ho3       1.0  0.09859868139028549  0.6080914735794067  0.2667502164840698  1.0000
+  Ho  Ho4       1.0  0.09891702234745026  0.49683356285095215  0.4098151624202728  1.0000
+  Ho  Ho5       1.0  0.09714715927839279  0.3931342661380768  0.9407380819320679  1.0000
+  Ho  Ho6       1.0  0.5965258479118347  0.2712125778198242  0.25381559133529663  1.0000

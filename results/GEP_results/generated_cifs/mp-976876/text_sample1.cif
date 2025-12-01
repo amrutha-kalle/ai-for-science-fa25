@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HgK2NPt5
+_chemical_formula_sum              "Hg1 K2 N1 Pt5"
+_cell_length_a       4.086990006690659
+_cell_length_b       4.1585293043742215
+_cell_length_c       9.68110179901123
+_cell_angle_alpha    86.27656206867753
+_cell_angle_beta     83.0509757326257
+_cell_angle_gamma    47.31266272470467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9230213165283203  0.3025679290294647  0.17075440287590027  1.0000
+  K   K1        1.0  0.9378096461296082  0.7800611853599548  0.670489490032196  1.0000
+  K   K2        1.0  0.5573868751525879  0.446327269077301  0.003988207783550024  1.0000
+  N   N1        1.0  0.6017348170280457  0.002757945330813527  0.13010774552822113  1.0000
+  Pt  Pt1       1.0  0.24318553507328033  0.9306779503822327  0.29284489154815674  1.0000
+  Pt  Pt2       1.0  0.23830784857273102  0.4421176016330719  0.8509988188743591  1.0000
+  Pt  Pt3       1.0  0.5937756299972534  0.14553210139274597  0.556323230266571  1.0000
+  Pt  Pt4       1.0  0.6288458704948425  0.4329645037651062  0.46702271699905396  1.0000
+  Pt  Pt5       1.0  0.9548217058181763  0.6711800694465637  0.18653574585914612  1.0000

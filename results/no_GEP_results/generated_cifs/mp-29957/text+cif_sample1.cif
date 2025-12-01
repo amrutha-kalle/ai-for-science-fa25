@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       I2PbPtZnZr2
+_chemical_formula_sum              "I2 Pb1 Pt1 Zn1 Zr2"
+_cell_length_a       5.530628454447721
+_cell_length_b       5.87554789503259
+_cell_length_c       8.826379776000977
+_cell_angle_alpha    101.2448441599393
+_cell_angle_beta     92.11823516554031
+_cell_angle_gamma    91.4229603404538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.6381794214248657  0.8749598860740662  0.5141638517379761  1.0000
+  I   I2        1.0  0.6481391787528992  0.2666478455066681  0.4618476331233978  1.0000
+  Pb  Pb1       1.0  0.15458253026008606  0.19938474893569946  0.35378608107566833  1.0000
+  Pt  Pt1       1.0  0.14603349566459656  0.7319202423095703  0.03236670047044754  1.0000
+  Zn  Zn1       1.0  0.14845308661460876  0.6372700333595276  0.6756032109260559  1.0000
+  Zr  Zr1       1.0  0.17013385891914368  0.7851283550262451  0.3737857937812805  1.0000
+  Zr  Zr2       1.0  0.1757441759109497  0.050652239471673965  0.09742244333028793  1.0000

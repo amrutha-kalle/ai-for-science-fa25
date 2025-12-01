@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       TaTe3W2
+_chemical_formula_sum              "Ta1 Te3 W2"
+_cell_length_a       3.746659870424744
+_cell_length_b       3.5975193237686134
+_cell_length_c       9.507349967956543
+_cell_angle_alpha    91.09071449724534
+_cell_angle_beta     88.58390058548699
+_cell_angle_gamma    113.66383002153961
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ta  Ta1       1.0  0.6078975200653076  0.5613068342208862  0.949175238609314  1.0000
+  Te  Te1       1.0  0.5981951355934143  0.6845338344573975  0.008058511652052402  1.0000
+  Te  Te2       1.0  0.10144328325986861  0.845923662185669  0.45602259039878845  1.0000
+  Te  Te3       1.0  0.6056512594223022  0.8608630895614624  0.6993953585624695  1.0000
+  W   W1        1.0  0.10564725846052168  0.3840906322002411  0.11529968678951263  1.0000
+  W   W2        1.0  0.7821789979934691  0.09309609979391098  0.5232337117195129  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClFePSn4
+_chemical_formula_sum              "Cl1 Fe1 P1 Sn4"
+_cell_length_a       4.994024777206224
+_cell_length_b       6.938432122857539
+_cell_length_c       7.711615085601807
+_cell_angle_alpha    118.82977491018364
+_cell_angle_beta     88.8838860237413
+_cell_angle_gamma    90.14747957528017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.2671346068382263  0.880969226360321  0.7368208169937134  1.0000
+  Fe  Fe1       1.0  0.25863105058670044  0.0863228440284729  0.8905836939811707  1.0000
+  P   P1        1.0  0.7668486833572388  0.8910804390907288  0.38154953718185425  1.0000
+  Sn  Sn1       1.0  0.2620760500431061  0.3240275979042053  0.7889546751976013  1.0000
+  Sn  Sn2       1.0  0.7621174454689026  0.5781661868095398  0.602981448173523  1.0000
+  Sn  Sn3       1.0  0.25931426882743835  0.5930477976799011  0.9549064040184021  1.0000
+  Sn  Sn4       1.0  0.762507438659668  0.619054913520813  0.9320142865180969  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FeHf4PbSb
+_chemical_formula_sum              "Fe1 Hf4 Pb1 Sb1"
+_cell_length_a       5.846479441073669
+_cell_length_b       6.226853285678717
+_cell_length_c       7.090307235717773
+_cell_angle_alpha    81.83782712577936
+_cell_angle_beta     73.85157398313669
+_cell_angle_gamma    65.38954589756342
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.3079468607902526  0.9594513177871705  0.4924605488777161  1.0000
+  Hf  Hf1       1.0  0.9723680019378661  0.5367204546928406  0.9539836049079896  1.0000
+  Hf  Hf2       1.0  0.477194458246231  0.40601199865341187  0.9994489550590516  1.0000
+  Hf  Hf3       1.0  0.01475822366774082  0.8002380728721619  0.33722376823425293  1.0000
+  Hf  Hf4       1.0  0.4986679553985595  0.5190329551696777  0.4290543496608734  1.0000
+  Pb  Pb1       1.0  0.2545161545276642  0.6089380383491516  0.2544725835323334  1.0000
+  Sb  Sb1       1.0  0.7704119086265564  0.09949295967817307  0.6509518623352051  1.0000

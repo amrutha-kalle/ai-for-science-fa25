@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl3GaPPt2
+_chemical_formula_sum              "Cl3 Ga1 P1 Pt2"
+_cell_length_a       7.096838230054903
+_cell_length_b       6.413959917711513
+_cell_length_c       7.166823863983154
+_cell_angle_alpha    113.1338595271834
+_cell_angle_beta     111.62579997471909
+_cell_angle_gamma    113.54441940185586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9827681779861449  0.14571844041347504  0.3821227848529815  1.0000
+  Cl  Cl2       1.0  0.6656186580657959  0.9268710017204285  0.08408287167549133  1.0000
+  Cl  Cl3       1.0  0.9063767194747924  0.7921757102012634  0.642236053943634  1.0000
+  Ga  Ga1       1.0  0.4962788820266723  0.8220793604850769  0.8655916452407837  1.0000
+  P   P1        1.0  0.2712686359882355  0.5063158869743347  0.45892640948295593  1.0000
+  Pt  Pt1       1.0  0.26702407002449036  0.0704108253121376  0.9095678329467773  1.0000
+  Pt  Pt2       1.0  0.939970314502716  0.03241746500134468  0.3690792918205261  1.0000

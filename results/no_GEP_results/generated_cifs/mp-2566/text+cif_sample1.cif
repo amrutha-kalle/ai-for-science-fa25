@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaOPPtTiUZr
+_chemical_formula_sum              "Ga1 O1 P1 Pt1 Ti1 U1 Zr1"
+_cell_length_a       3.9229302025974655
+_cell_length_b       4.403633569153946
+_cell_length_c       5.338535785675049
+_cell_angle_alpha    92.89237222269023
+_cell_angle_beta     90.76009159244796
+_cell_angle_gamma    89.70578313622832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7226277589797974  0.47977137565612793  0.29463112354278564  1.0000
+  O   O1        1.0  0.5353272557258606  0.4604846239089966  0.36796334385871887  1.0000
+  P   P1        1.0  0.016365885734558105  0.9267004132270813  0.4903528094291687  1.0000
+  Pt  Pt1       1.0  0.058144271373748786  0.3920096755027771  0.05612541362643242  1.0000
+  Ti  Ti1       1.0  0.04903092235326767  0.5109757781028748  0.7500715851783752  1.0000
+  U   U1        1.0  0.5611864924430847  0.3574986755847931  0.575405478477478  1.0000
+  Zr  Zr1       1.0  0.5436828136444092  0.9240202903747559  0.3593330681324005  1.0000

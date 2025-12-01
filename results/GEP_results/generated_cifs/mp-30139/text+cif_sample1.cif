@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al2Br5
+_chemical_formula_sum              "Al2 Br5"
+_cell_length_a       7.756131238071474
+_cell_length_b       7.760168659206921
+_cell_length_c       8.093356132507324
+_cell_angle_alpha    64.31155582189236
+_cell_angle_beta     61.787863479415044
+_cell_angle_gamma    59.041918035864235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7186199426651001  0.5583143830299377  0.8506661057472229  1.0000
+  Al  Al2       1.0  0.9478239417076111  0.044312331825494766  0.5129098296165466  1.0000
+  Br  Br1       1.0  0.7202978134155273  0.4267981052398682  0.2560798227787018  1.0000
+  Br  Br2       1.0  0.023517435416579247  0.14315639436244965  0.09659954905509949  1.0000
+  Br  Br3       1.0  0.5471566319465637  0.5961976647377014  0.16154314577579498  1.0000
+  Br  Br4       1.0  0.11748029291629791  0.16932491958141327  0.9794681668281555  1.0000
+  Br  Br5       1.0  0.4298090636730194  0.14349177479743958  0.9703880548477173  1.0000

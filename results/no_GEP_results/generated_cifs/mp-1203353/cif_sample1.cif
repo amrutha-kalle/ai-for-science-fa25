@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsPPb3SrTi
+_chemical_formula_sum              "As1 P1 Pb3 Sr1 Ti1"
+_cell_length_a       5.717446785121281
+_cell_length_b       6.103846764361897
+_cell_length_c       7.545290470123291
+_cell_angle_alpha    67.59912348975844
+_cell_angle_beta     71.39480726943881
+_cell_angle_gamma    69.41054072391712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9344838261604308  0.6233152151107788  0.8441543579101561  1.0000
+  P   P1        1.0  0.4673860371112823  0.6061506271362305  0.06689321994781494  1.0000
+  Pb  Pb1       1.0  0.8011993765830993  0.0861937552690506  0.6991038918495178  1.0000
+  Pb  Pb2       1.0  0.5457574129104614  0.34482941031455994  0.9528556466102599  1.0000
+  Pb  Pb3       1.0  0.413007766008377  0.9271435737609863  0.6935694217681885  1.0000
+  Sr  Sr1       1.0  0.41588529944419855  0.8027623295783997  0.558591365814209  1.0000
+  Ti  Ti1       1.0  0.8930180072784423  0.45106956362724304  0.33691161870956426  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al2O4P2Pb
+_chemical_formula_sum              "Al2 O4 P2 Pb1"
+_cell_length_a       5.680002656466382
+_cell_length_b       6.270366244436758
+_cell_length_c       6.058559417724609
+_cell_angle_alpha    54.91424709433953
+_cell_angle_beta     53.43740543851752
+_cell_angle_gamma    59.19932080047613
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.487011581659317  0.8381974101066589  0.9224573373794556  1.0000
+  Al  Al2       1.0  0.04548800364136696  0.24470975995063782  0.07574794441461563  1.0000
+  O   O1        1.0  0.6213381290435791  0.6991197466850281  0.8809885382652283  1.0000
+  O   O2        1.0  0.58174729347229  0.4006956219673157  0.7333868741989136  1.0000
+  O   O3        1.0  0.4143444001674652  0.02314426191151142  0.31783515214920044  1.0000
+  O   O4        1.0  0.05211499705910683  0.6985822916030884  0.07782254368066788  1.0000
+  P   P1        1.0  0.045638103038072586  0.18337121605873108  0.5791044235229492  1.0000
+  P   P2        1.0  0.5569676160812378  0.8092672824859619  0.4264397919178009  1.0000
+  Pb  Pb1       1.0  0.9872666001319885  0.8844545483589172  0.8451992273330688  1.0000

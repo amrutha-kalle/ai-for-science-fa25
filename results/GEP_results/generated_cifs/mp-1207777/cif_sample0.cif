@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiPY3Zn
+_chemical_formula_sum              "Ni1 P1 Y3 Zn1"
+_cell_length_a       4.264544388437964
+_cell_length_b       6.188215559224439
+_cell_length_c       6.810971736907959
+_cell_angle_alpha    103.31820257100465
+_cell_angle_beta     110.67384134303045
+_cell_angle_gamma    89.77707651827588
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5176449418067932  0.922629714012146  0.006840905174613  1.0000
+  P   P1        1.0  0.004560732748359442  0.31589433550834656  0.6352758407592773  1.0000
+  Y   Y1        1.0  0.21723547577857974  0.008949765004217625  0.8549100160598756  1.0000
+  Y   Y2        1.0  0.9471985697746278  0.6710494160652161  0.1568816751241684  1.0000
+  Y   Y3        1.0  0.8791455030441285  0.4044650197029114  0.33620700240135193  1.0000
+  Zn  Zn1       1.0  0.7060142159461976  0.9371711611747742  0.8735125660896302  1.0000

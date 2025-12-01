@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       GaGe4InPZnZr2
+_chemical_formula_sum              "Ga1 Ge4 In1 P1 Zn1 Zr2"
+_cell_length_a       5.596268090559333
+_cell_length_b       5.5905757043902
+_cell_length_c       7.0368499755859375
+_cell_angle_alpha    89.57943871678351
+_cell_angle_beta     89.64143593237121
+_cell_angle_gamma    112.32351626833153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.2370256930589676  0.031579725444316864  0.6758905053138733  1.0000
+  Ge  Ge1       1.0  0.9920752048492432  0.47966629266738897  0.7778183221817017  1.0000
+  Ge  Ge2       1.0  0.7340825796127319  0.4649569988250733  0.10341849178075789  1.0000
+  Ge  Ge3       1.0  0.23602347075939178  0.22805854678153994  0.8998130559921264  1.0000
+  Ge  Ge4       1.0  0.6346296668052674  0.946809232234955  0.8144164681434629  1.0000
+  In  In1       1.0  0.5118745565414429  0.9108922481536866  0.2737087607383728  1.0000
+  P   P1        1.0  0.21579451858997345  0.20776242017745974  0.4006773829460144  1.0000
+  Zn  Zn1       1.0  0.24069306254386902  0.5227409601211548  0.2770611643791199  1.0000
+  Zr  Zr1       1.0  0.6651856899261475  0.714481770992279  0.7366302609443665  1.0000
+  Zr  Zr2       1.0  0.7241144180297852  0.8150675296783447  0.17923830449581146  1.0000

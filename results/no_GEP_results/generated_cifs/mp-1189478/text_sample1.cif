@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Er4FeIIr
+_chemical_formula_sum              "Er4 Fe1 I1 Ir1"
+_cell_length_a       5.354406688581687
+_cell_length_b       6.25944580018017
+_cell_length_c       6.935947418212891
+_cell_angle_alpha    79.65052383915135
+_cell_angle_beta     80.79726357315042
+_cell_angle_gamma    81.20793724129575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.33043837547302246  0.46674007177352905  0.8255665302276612  1.0000
+  Er  Er2       1.0  0.8436291813850403  0.20505839586257935  0.34285506606101995  1.0000
+  Er  Er3       1.0  0.7133647799491882  0.4044463634490967  0.0472894310951233  1.0000
+  Er  Er4       1.0  0.8074590563774109  0.08243044465780258  0.20947360992431643  1.0000
+  Fe  Fe1       1.0  0.32507726550102234  0.5516350269317627  0.5537382364273071  1.0000
+  I   I1        1.0  0.321643590927124  0.9683578014373779  0.19643376767635348  1.0000
+  Ir  Ir1       1.0  0.8467737436294556  0.27178823947906494  0.2591557800769806  1.0000

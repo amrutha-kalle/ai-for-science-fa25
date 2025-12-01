@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mn5SSc
+_chemical_formula_sum              "Mn5 S1 Sc1"
+_cell_length_a       5.457939111243525
+_cell_length_b       5.694807823378558
+_cell_length_c       5.926926612854004
+_cell_angle_alpha    60.95103530300269
+_cell_angle_beta     61.31305109618866
+_cell_angle_gamma    61.36453002653402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.3641045391559601  0.5554139018058777  0.5579546689987183  1.0000
+  Mn  Mn2       1.0  0.2924829125404358  0.7483475208282471  0.8799812197685242  1.0000
+  Mn  Mn3       1.0  0.8768846392631531  0.568842351436615  0.6803731918334961  1.0000
+  Mn  Mn4       1.0  0.0708676353096962  0.9834452271461487  0.5386199951171875  1.0000
+  Mn  Mn5       1.0  0.8412995934486389  0.23128613829612732  0.03615611419081688  1.0000
+  S   S1        1.0  0.8138800263404846  0.284537672996521  0.8066149353981018  1.0000
+  Sc  Sc1       1.0  0.5841295719146729  0.9880747199058533  0.04385638236999512  1.0000

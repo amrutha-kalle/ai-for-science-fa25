@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co3Sc4
+_chemical_formula_sum              "Co3 Sc4"
+_cell_length_a       4.984806500373912
+_cell_length_b       4.985120216210324
+_cell_length_c       5.811585426330566
+_cell_angle_alpha    70.15070512676955
+_cell_angle_beta     65.8915130908695
+_cell_angle_gamma    64.94442664303007
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.16742822527885437  0.7347922921180725  0.7975494861602783  1.0000
+  Co  Co2       1.0  0.16505877673625946  0.0984322652220726  0.4168076515197754  1.0000
+  Co  Co3       1.0  0.66410893201828  0.2890779972076416  0.9328217506408691  1.0000
+  Sc  Sc1       1.0  0.1742670238018036  0.7482558488845825  0.18019118905067444  1.0000
+  Sc  Sc2       1.0  0.6635992527008057  0.7895134091377258  0.7227482199668884  1.0000
+  Sc  Sc3       1.0  0.9421506524085999  0.22968004643917084  0.8721988797187805  1.0000
+  Sc  Sc4       1.0  0.6739888191223145  0.3877195417881012  0.8175908327102661  1.0000

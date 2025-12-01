@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       F3Ga2IOPtZn
+_chemical_formula_sum              "F3 Ga2 I1 O1 Pt1 Zn1"
+_cell_length_a       5.544819604631678
+_cell_length_b       6.152001791494728
+_cell_length_c       7.547351837158203
+_cell_angle_alpha    121.37837376942899
+_cell_angle_beta     96.40414639847958
+_cell_angle_gamma    90.11576136783383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.7496384382247925  0.26949039101600647  0.3979697227478028  1.0000
+  F   F2        1.0  0.06700973212718964  0.4852392375469208  0.4646821022033692  1.0000
+  F   F3        1.0  0.7563263177871704  0.2688869535923004  0.3695385158061981  1.0000
+  Ga  Ga1       1.0  0.506116509437561  0.838973343372345  0.701575040817261  1.0000
+  Ga  Ga2       1.0  0.266915500164032  0.44414106011390686  0.8631567358970643  1.0000
+  I   I1        1.0  0.2753029465675354  0.9542352557182312  0.7626701593399048  1.0000
+  O   O1        1.0  0.7677054405212402  0.4743890166282654  0.02509646862745288  1.0000
+  Pt  Pt1       1.0  0.07138935476541519  0.6113565564155579  0.6702395081520081  1.0000
+  Zn  Zn1       1.0  0.26392877101898193  0.5011358261108398  0.9611300826072694  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CeCo3P2
+_chemical_formula_sum              "Ce1 Co3 P2"
+_cell_length_a       4.031766306867006
+_cell_length_b       4.1682777341971065
+_cell_length_c       4.247605323791504
+_cell_angle_alpha    97.28704073116857
+_cell_angle_beta     92.23199460645445
+_cell_angle_gamma    92.00245221201588
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.3972667455673218  0.9433695077896118  0.5268691778182983  1.0000
+  Co  Co1       1.0  0.1058104932308197  0.3614320755004883  0.3505744934082031  1.0000
+  Co  Co2       1.0  0.6349453330039978  0.03174316883087158  0.9449665546417236  1.0000
+  Co  Co3       1.0  0.6344290375709534  0.7171997427940369  0.6072258949279785  1.0000
+  P   P1        1.0  0.3699750602245331  0.7138805985450745  0.14496318995952606  1.0000
+  P   P2        1.0  0.07000662386417389  0.3362728953361511  0.6299184560775757  1.0000

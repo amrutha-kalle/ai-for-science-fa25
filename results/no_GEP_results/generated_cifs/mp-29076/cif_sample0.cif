@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FeLi2NiPPbWZn2
+_chemical_formula_sum              "Fe1 Li2 Ni1 P1 Pb1 W1 Zn2"
+_cell_length_a       5.627221431431842
+_cell_length_b       5.71734439796397
+_cell_length_c       5.78451681137085
+_cell_angle_alpha    61.380992508237576
+_cell_angle_beta     63.37426834503297
+_cell_angle_gamma    62.402826860741186
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6279930472373962  0.8611212968826294  0.03632380068302162  1.0000
+  Li  Li1       1.0  0.14463239908218384  0.019881321117281914  0.7704799175262451  1.0000
+  Li  Li2       1.0  0.1286282241344452  0.20186994969844818  0.5978052020072937  1.0000
+  Ni  Ni1       1.0  0.38760247826576233  0.8898084759712219  0.008689327165484428  1.0000
+  P   P1        1.0  0.1388327032327652  0.953710675239563  0.09786700457334518  1.0000
+  Pb  Pb1       1.0  0.8393400311470032  0.8295417428016663  0.8764699101448059  1.0000
+  W   W1        1.0  0.6159359216690063  0.24628257751464844  0.49901518225669855  1.0000
+  Zn  Zn1       1.0  0.6332054138183594  0.20141786336898804  0.2005801945924759  1.0000
+  Zn  Zn2       1.0  0.12795525789260864  0.2544984519481659  0.7601754665374756  1.0000

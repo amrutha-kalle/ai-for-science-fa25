@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaI2PtVZn
+_chemical_formula_sum              "Ba1 I2 Pt1 V1 Zn1"
+_cell_length_a       5.0204490437560985
+_cell_length_b       6.027872260684632
+_cell_length_c       5.757441520690918
+_cell_angle_alpha    122.806854319105
+_cell_angle_beta     91.76138485391316
+_cell_angle_gamma    90.96284033233066
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5820576548576355  0.8100493550300598  0.8003737926483155  1.0000
+  I   I1        1.0  0.07842849940061569  0.07433027029037476  0.2076135575771332  1.0000
+  I   I2        1.0  0.08279595524072647  0.3245823085308075  0.19107249379158023  1.0000
+  Pt  Pt1       1.0  0.09523259848356247  0.7569754123687744  0.2727459669113159  1.0000
+  V   V1        1.0  0.5926856398582458  0.5550057291984558  0.5338929891586304  1.0000
+  Zn  Zn1       1.0  0.0904175192117691  0.7132245302200317  0.8655050992965699  1.0000

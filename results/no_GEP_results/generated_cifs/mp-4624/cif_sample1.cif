@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsCoHLaOPSb2Ti
+_chemical_formula_sum              "As1 Co1 H1 La1 O1 P1 Sb2 Ti1"
+_cell_length_a       4.877358423263345
+_cell_length_b       4.764167959607892
+_cell_length_c       9.419051170349121
+_cell_angle_alpha    89.35625011229155
+_cell_angle_beta     86.96794595700466
+_cell_angle_gamma    65.0589941549742
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8698760867118835  0.1297716498374939  0.35050126910209656  1.0000
+  Co  Co1       1.0  0.5950581431388855  0.26628342270851135  0.9881161451339722  1.0000
+  H   H1        1.0  0.6311323642730713  0.8306110501289368  0.7038558721542358  1.0000
+  La  La1       1.0  0.8291174173355103  0.47435125708580017  0.42052921652793884  1.0000
+  O   O1        1.0  0.34609347581863403  0.16390229761600494  0.2550854980945587  1.0000
+  P   P1        1.0  0.8626278638839722  0.5537071824073792  0.22518444061279297  1.0000
+  Sb  Sb1       1.0  0.3437331020832062  0.17402224242687225  0.8367164731025696  1.0000
+  Sb  Sb2       1.0  0.1255192905664444  0.04290711507201195  0.35034772753715515  1.0000
+  Ti  Ti1       1.0  0.36438050866127014  0.6368188858032227  0.20047511160373688  1.0000

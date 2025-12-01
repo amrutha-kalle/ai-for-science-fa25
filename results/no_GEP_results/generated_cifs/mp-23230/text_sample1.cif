@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl3P2Pt
+_chemical_formula_sum              "Cl3 P2 Pt1"
+_cell_length_a       5.243401355443778
+_cell_length_b       4.623103117945226
+_cell_length_c       6.3267412185668945
+_cell_angle_alpha    113.0018969409845
+_cell_angle_beta     107.10500285856443
+_cell_angle_gamma    98.60699593646513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.9622671008110046  0.9699993133544922  0.23598636686801908  1.0000
+  Cl  Cl2       1.0  0.4976574182510376  0.11052751541137695  0.650826632976532  1.0000
+  Cl  Cl3       1.0  0.4482146203517914  0.738666832447052  0.4759501218795776  1.0000
+  P   P1        1.0  0.1788070648908615  0.9162446856498718  0.9199495315551757  1.0000
+  P   P2        1.0  0.6849127411842346  0.6077660322189331  0.4223103523254394  1.0000
+  Pt  Pt1       1.0  0.47314003109931946  0.39153188467025757  0.2765626609325409  1.0000

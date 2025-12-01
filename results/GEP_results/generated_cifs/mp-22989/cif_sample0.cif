@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       I2Na2O3SSe
+_chemical_formula_sum              "I2 Na2 O3 S1 Se1"
+_cell_length_a       5.198079407429275
+_cell_length_b       8.05853392846291
+_cell_length_c       8.103687286376953
+_cell_angle_alpha    120.6528970123545
+_cell_angle_beta     93.33763183055221
+_cell_angle_gamma    89.01925188504627
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.6239859461784363  0.8483511209487915  0.617903172969818  1.0000
+  I   I2        1.0  0.06092218682169914  0.32593825459480286  0.26234984397888184  1.0000
+  Na  Na1       1.0  0.07044126838445663  0.24942007660865784  0.1591304838657379  1.0000
+  Na  Na2       1.0  0.5360106229782104  0.6255204677581787  0.4408148527145385  1.0000
+  O   O1        1.0  0.5299239158630371  0.5883327126502991  0.2923146486282348  1.0000
+  O   O2        1.0  0.8773947954177856  0.9137462377548218  0.7573523521423339  1.0000
+  O   O3        1.0  0.8376344442367554  0.36345651745796204  0.46700975298881525  1.0000
+  S   S1        1.0  0.27101919054985046  0.6400095224380493  0.7762023210525513  1.0000
+  Se  Se1       1.0  0.2246582955121994  0.39087116718292236  0.9749259352684021  1.0000

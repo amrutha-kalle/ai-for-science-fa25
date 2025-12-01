@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HO2U3V2
+_chemical_formula_sum              "H1 O2 U3 V2"
+_cell_length_a       4.943784134150176
+_cell_length_b       4.773026460469281
+_cell_length_c       6.928662300109863
+_cell_angle_alpha    88.13134707192788
+_cell_angle_beta     90.90656458228712
+_cell_angle_gamma    120.28866061355586
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.21460242569446564  0.5933040976524353  0.4939012229442597  1.0000
+  O   O1        1.0  0.8429053425788879  0.2713569402694702  0.9908375740051271  1.0000
+  O   O2        1.0  0.5155525803565979  0.34957656264305115  0.2447454929351807  1.0000
+  U   U1        1.0  0.49460211396217346  0.9287262558937073  0.008403745479881763  1.0000
+  U   U2        1.0  0.9879338145256042  0.07527787238359451  0.25232890248298645  1.0000
+  U   U3        1.0  0.9740157127380371  0.9468287229537964  0.9958022832870485  1.0000
+  V   V1        1.0  0.49447184801101685  0.3523751199245453  0.49507293105125433  1.0000
+  V   V2        1.0  0.47337502241134644  0.2772354781627655  0.987200438976288  1.0000

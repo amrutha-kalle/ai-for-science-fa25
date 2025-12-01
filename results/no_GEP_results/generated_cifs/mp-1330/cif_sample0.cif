@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2ILiNiZn
+_chemical_formula_sum              "Al2 I1 Li1 Ni1 Zn1"
+_cell_length_a       4.262575659927749
+_cell_length_b       4.247676257629252
+_cell_length_c       6.3947577476501465
+_cell_angle_alpha    101.59690775441459
+_cell_angle_beta     101.27407351390619
+_cell_angle_gamma    124.30756309380703
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9680097699165344  0.5682725310325623  0.012623879127204418  1.0000
+  Al  Al2       1.0  0.5290760397911072  0.27097344398498535  0.9715282320976257  1.0000
+  I   I1        1.0  0.5144815444946289  0.892198383808136  0.8924729824066162  1.0000
+  Li  Li1       1.0  0.34318578243255615  0.7417278289794922  0.019593650475144404  1.0000
+  Ni  Ni1       1.0  0.6108899712562561  0.6189305186271667  0.1349548101425171  1.0000
+  Zn  Zn1       1.0  0.9700212478637695  0.01239567156881094  0.9393653869628906  1.0000

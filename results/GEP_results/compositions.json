@@ -1,0 +1,2002 @@
+[
+  {
+    "cif_name": "mp-972320",
+    "composition": "B4 Ni1 U1"
+  },
+  {
+    "cif_name": "mp-1078300",
+    "composition": "F3 Sc1"
+  },
+  {
+    "cif_name": "mp-1202965",
+    "composition": "Ag2 Nb4 O11"
+  },
+  {
+    "cif_name": "mp-557914",
+    "composition": "Dy1 O4 Ta1"
+  },
+  {
+    "cif_name": "mp-18068",
+    "composition": "Ag2 O3 Te1"
+  },
+  {
+    "cif_name": "mp-18799",
+    "composition": "O4 V1 Yb1"
+  },
+  {
+    "cif_name": "mp-3526",
+    "composition": "Er1 In1 Pt1"
+  },
+  {
+    "cif_name": "mp-505783",
+    "composition": "K1 Mo5 O13"
+  },
+  {
+    "cif_name": "mp-733610",
+    "composition": "C3 H7 N3 O5"
+  },
+  {
+    "cif_name": "mp-756124",
+    "composition": "Cr1 O3 Tb1"
+  },
+  {
+    "cif_name": "mp-17834",
+    "composition": "La2 O4 Se1 Si1"
+  },
+  {
+    "cif_name": "mp-1204079",
+    "composition": "B6 Gd1 Ni12"
+  },
+  {
+    "cif_name": "mp-1193425",
+    "composition": "Ga9 Ge2 Ni1 Sm2"
+  },
+  {
+    "cif_name": "mp-30598",
+    "composition": "Cu1 Sn2 Sr1"
+  },
+  {
+    "cif_name": "mp-30769",
+    "composition": "Li13 Sn5"
+  },
+  {
+    "cif_name": "mp-571554",
+    "composition": "Al1 Pr1 Si2"
+  },
+  {
+    "cif_name": "mp-1203942",
+    "composition": "H2 O5 Si1 Zn2"
+  },
+  {
+    "cif_name": "mp-17228",
+    "composition": "K2 Ni3 S4"
+  },
+  {
+    "cif_name": "mp-27162",
+    "composition": "Co1 Sc3"
+  },
+  {
+    "cif_name": "mp-24030",
+    "composition": "H2 O6 P2 Zr1"
+  },
+  {
+    "cif_name": "mp-695992",
+    "composition": "Br1 H2 Li1 O5"
+  },
+  {
+    "cif_name": "mp-1071618",
+    "composition": "Cu1 Nd1 Sn1"
+  },
+  {
+    "cif_name": "mp-1192206",
+    "composition": "Be1 Ce3 Cr1 S7"
+  },
+  {
+    "cif_name": "mp-754670",
+    "composition": "O5 V2"
+  },
+  {
+    "cif_name": "mp-1105351",
+    "composition": "Cr1 Ho1 O6 Te1"
+  },
+  {
+    "cif_name": "mp-1202826",
+    "composition": "Gd2 S5 U1"
+  },
+  {
+    "cif_name": "mp-1025354",
+    "composition": "C1 Er2 Fe2 Si2"
+  },
+  {
+    "cif_name": "mp-557638",
+    "composition": "Mo2 Na1 O13 P3"
+  },
+  {
+    "cif_name": "mp-15652",
+    "composition": "Pb2 Rh3 S2"
+  },
+  {
+    "cif_name": "mp-2928451",
+    "composition": "O3 W1"
+  },
+  {
+    "cif_name": "mp-504928",
+    "composition": "Cu3 Na1 Te2"
+  },
+  {
+    "cif_name": "mp-13498",
+    "composition": "Mg1 Tb2"
+  },
+  {
+    "cif_name": "mp-1192272",
+    "composition": "C1 O4 Tb1"
+  },
+  {
+    "cif_name": "mp-29450",
+    "composition": "Cu1 I1 Se3"
+  },
+  {
+    "cif_name": "mp-3488",
+    "composition": "Na2 O7 Ti3"
+  },
+  {
+    "cif_name": "mp-15002",
+    "composition": "Ca1 Ir1 O6 Sr2"
+  },
+  {
+    "cif_name": "mp-5019",
+    "composition": "B2 Co3 Y1"
+  },
+  {
+    "cif_name": "mp-1822",
+    "composition": "As1 Ti1"
+  },
+  {
+    "cif_name": "mp-617312",
+    "composition": "Ni1 Si2 Sm3"
+  },
+  {
+    "cif_name": "mp-1191141",
+    "composition": "Li2 O4 Si1 Sr1"
+  },
+  {
+    "cif_name": "mp-1078947",
+    "composition": "Al2 Au2 Nd1"
+  },
+  {
+    "cif_name": "mp-1072182",
+    "composition": "B2 Ho1 Ir3"
+  },
+  {
+    "cif_name": "mp-1201499",
+    "composition": "Ru4 Si12 Y3"
+  },
+  {
+    "cif_name": "mp-15113",
+    "composition": "Na2 O7 Si3"
+  },
+  {
+    "cif_name": "mp-554699",
+    "composition": "Ge1 O3 Pb1"
+  },
+  {
+    "cif_name": "mp-672326",
+    "composition": "In3 Ru1"
+  },
+  {
+    "cif_name": "mp-1086666",
+    "composition": "In1 O6 Sr2 Ta1"
+  },
+  {
+    "cif_name": "mp-1191083",
+    "composition": "Hf1 Mo2"
+  },
+  {
+    "cif_name": "mp-1194277",
+    "composition": "C8 Cr1 H12 N2 O2 S2"
+  },
+  {
+    "cif_name": "mp-1203752",
+    "composition": "Fe5 P3 Tb1"
+  },
+  {
+    "cif_name": "mp-20590",
+    "composition": "B1 In1 La3"
+  },
+  {
+    "cif_name": "mp-1079507",
+    "composition": "Ce1 Fe1 Sb2"
+  },
+  {
+    "cif_name": "mp-5306",
+    "composition": "Cr1 Nb4 S8"
+  },
+  {
+    "cif_name": "mp-1104392",
+    "composition": "Eu1 Ga2 Se4"
+  },
+  {
+    "cif_name": "mp-1191018",
+    "composition": "C12 Rh5 Tb8"
+  },
+  {
+    "cif_name": "mp-644529",
+    "composition": "Co3 Ga2 Tb1"
+  },
+  {
+    "cif_name": "mp-1190002",
+    "composition": "Co3 Ge5 Pr2"
+  },
+  {
+    "cif_name": "mp-23082",
+    "composition": "Cl1 Cr1 K1 O3"
+  },
+  {
+    "cif_name": "mp-1196185",
+    "composition": "Cl2 Cu9 O18 V4"
+  },
+  {
+    "cif_name": "mp-1203275",
+    "composition": "As1 Co2 O5"
+  },
+  {
+    "cif_name": "mp-1018052",
+    "composition": "C2 Fe1 Ho1"
+  },
+  {
+    "cif_name": "mp-5901",
+    "composition": "Ce1 Mn1 Si2"
+  },
+  {
+    "cif_name": "mp-1203178",
+    "composition": "Ga21 Ni10 Tb4"
+  },
+  {
+    "cif_name": "mp-19230",
+    "composition": "Cr2 K3 Na1 O8"
+  },
+  {
+    "cif_name": "mp-766",
+    "composition": "As2 Ru1"
+  },
+  {
+    "cif_name": "mp-2011092",
+    "composition": "As1 Ho1 S1"
+  },
+  {
+    "cif_name": "mp-18378",
+    "composition": "Al1 K3 Te3"
+  },
+  {
+    "cif_name": "mp-1190200",
+    "composition": "B3 Fe17 Sm2"
+  },
+  {
+    "cif_name": "mp-30189",
+    "composition": "Dy3 I12 K5"
+  },
+  {
+    "cif_name": "mp-15895",
+    "composition": "Cu2 S3 Si1"
+  },
+  {
+    "cif_name": "mp-1189765",
+    "composition": "Cu1 In3 Zr5"
+  },
+  {
+    "cif_name": "mp-7467",
+    "composition": "Cu1 O2 Rb1"
+  },
+  {
+    "cif_name": "mp-1208100",
+    "composition": "Fe2 Ge3 Tm3"
+  },
+  {
+    "cif_name": "mp-4255",
+    "composition": "Ba1 Cu2 S2"
+  },
+  {
+    "cif_name": "mp-1189099",
+    "composition": "Mo3 P1"
+  },
+  {
+    "cif_name": "mp-1204055",
+    "composition": "H4 I1 O10 P4 Pt1"
+  },
+  {
+    "cif_name": "mp-30139",
+    "composition": "Be1 Br2"
+  },
+  {
+    "cif_name": "mp-1181730",
+    "composition": "Cu3 Gd1 Mn4 O12"
+  },
+  {
+    "cif_name": "mp-1202577",
+    "composition": "Pr2 S5 Th1"
+  },
+  {
+    "cif_name": "mp-1202711",
+    "composition": "Ba1 S5 Sn2"
+  },
+  {
+    "cif_name": "mp-29955",
+    "composition": "Hg3 I2 Se2"
+  },
+  {
+    "cif_name": "mp-10898",
+    "composition": "Al1 Ni2 Sc1"
+  },
+  {
+    "cif_name": "mp-703316",
+    "composition": "H7 La1 Mg2"
+  },
+  {
+    "cif_name": "mp-22875",
+    "composition": "Br1 Tl1"
+  },
+  {
+    "cif_name": "mp-8085",
+    "composition": "Mg3 P2"
+  },
+  {
+    "cif_name": "mp-20767",
+    "composition": "Fe1 S4 Sb2"
+  },
+  {
+    "cif_name": "mp-545487",
+    "composition": "C2 Cs1 O2"
+  },
+  {
+    "cif_name": "mp-555726",
+    "composition": "Cl1 Na1 O3"
+  },
+  {
+    "cif_name": "mp-30933",
+    "composition": "Bi1 Zr1"
+  },
+  {
+    "cif_name": "mp-943492",
+    "composition": "F1 Fe1 Li1 O4 S1"
+  },
+  {
+    "cif_name": "mp-15687",
+    "composition": "As1 K1 Zn1"
+  },
+  {
+    "cif_name": "mp-505052",
+    "composition": "Nd2 Ni1 O4"
+  },
+  {
+    "cif_name": "mp-541253",
+    "composition": "K1 O10 V4"
+  },
+  {
+    "cif_name": "mp-11266",
+    "composition": "Ba1 Cd2"
+  },
+  {
+    "cif_name": "mp-1207598",
+    "composition": "Pd3 S4 Y1"
+  },
+  {
+    "cif_name": "mp-3857",
+    "composition": "Ba3 O8 P2"
+  },
+  {
+    "cif_name": "mp-1205372",
+    "composition": "Cl4 V1"
+  },
+  {
+    "cif_name": "mp-505151",
+    "composition": "Ca3 Cu1 Ir1 O6"
+  },
+  {
+    "cif_name": "mp-510539",
+    "composition": "Cu1 Dy3 Se7 Sn1"
+  },
+  {
+    "cif_name": "mp-13946",
+    "composition": "F6 Rb2 Zr1"
+  },
+  {
+    "cif_name": "mp-1203032",
+    "composition": "As6 Mn7 O24"
+  },
+  {
+    "cif_name": "mp-1202964",
+    "composition": "H8 O16 P4 Rb2 Zn1"
+  },
+  {
+    "cif_name": "mp-19855",
+    "composition": "C3 Cr7"
+  },
+  {
+    "cif_name": "mp-722294",
+    "composition": "N1 Nb3 Zn3"
+  },
+  {
+    "cif_name": "mp-1197202",
+    "composition": "Cd3 P2"
+  },
+  {
+    "cif_name": "mp-31117",
+    "composition": "Nd1 O3 Sc1"
+  },
+  {
+    "cif_name": "mp-1203353",
+    "composition": "Pb4 Sr5"
+  },
+  {
+    "cif_name": "mp-1330",
+    "composition": "Al1 N1"
+  },
+  {
+    "cif_name": "mp-22544",
+    "composition": "O6 U1 V2"
+  },
+  {
+    "cif_name": "mp-20868",
+    "composition": "Fe2 W1"
+  },
+  {
+    "cif_name": "mp-1079306",
+    "composition": "Fe2 O5 Sr3"
+  },
+  {
+    "cif_name": "mp-1205342",
+    "composition": "Ag3 K1 Te2"
+  },
+  {
+    "cif_name": "mp-1203588",
+    "composition": "B3 H4 Na3 O8"
+  },
+  {
+    "cif_name": "mp-1205388",
+    "composition": "Pd3 Rb2 S4"
+  },
+  {
+    "cif_name": "mp-768516",
+    "composition": "O12 S3 Ti2"
+  },
+  {
+    "cif_name": "mp-1001784",
+    "composition": "Li1 S2 Ti1"
+  },
+  {
+    "cif_name": "mp-561902",
+    "composition": "Ag3 Cs1 S2"
+  },
+  {
+    "cif_name": "mp-18677",
+    "composition": "B4 O12 Pr1 Sc3"
+  },
+  {
+    "cif_name": "mp-19921",
+    "composition": "O1 Pb1"
+  },
+  {
+    "cif_name": "mp-1203613",
+    "composition": "As1 Cs3 O1 Se4"
+  },
+  {
+    "cif_name": "mp-1101787",
+    "composition": "La1 Si5"
+  },
+  {
+    "cif_name": "mp-811",
+    "composition": "Ba1 Pt5"
+  },
+  {
+    "cif_name": "mp-1103046",
+    "composition": "Ca1 Cd1 Pt1"
+  },
+  {
+    "cif_name": "mp-4342",
+    "composition": "K1 Nb1 O3"
+  },
+  {
+    "cif_name": "mp-29542",
+    "composition": "Bi2 K4 O5"
+  },
+  {
+    "cif_name": "mp-567833",
+    "composition": "Eu1 Sn1"
+  },
+  {
+    "cif_name": "mp-1080815",
+    "composition": "Rh1 Sn1 Zr1"
+  },
+  {
+    "cif_name": "mp-1204153",
+    "composition": "B5 F1 O11 Rb1 U1"
+  },
+  {
+    "cif_name": "mp-2213280",
+    "composition": "F4 Na1 Sb1"
+  },
+  {
+    "cif_name": "mp-540684",
+    "composition": "Eu2 O12 W3"
+  },
+  {
+    "cif_name": "mp-4428",
+    "composition": "Ca1 O3 Si1"
+  },
+  {
+    "cif_name": "mp-744084",
+    "composition": "Ag1 F4 H8 Mn1 O4"
+  },
+  {
+    "cif_name": "mp-1182093",
+    "composition": "Ba1 O5 Pd1"
+  },
+  {
+    "cif_name": "mp-23230",
+    "composition": "Cl3 P1"
+  },
+  {
+    "cif_name": "mp-542171",
+    "composition": "Ge1 Ho1 Ni1"
+  },
+  {
+    "cif_name": "mp-1104585",
+    "composition": "B12 Ho1"
+  },
+  {
+    "cif_name": "mp-1203251",
+    "composition": "Cl3 H9 N3 Rh1"
+  },
+  {
+    "cif_name": "mp-1190133",
+    "composition": "Eu1 K1 Na1 O5 Ta1"
+  },
+  {
+    "cif_name": "mp-540544",
+    "composition": "Cr1 S17 U8"
+  },
+  {
+    "cif_name": "mp-1077988",
+    "composition": "B4 Mn2 W1"
+  },
+  {
+    "cif_name": "mp-1191413",
+    "composition": "Rh3 Y1"
+  },
+  {
+    "cif_name": "mp-2807",
+    "composition": "P1 Sc1"
+  },
+  {
+    "cif_name": "mp-1203857",
+    "composition": "Ba1 F1 O6 P1 U1"
+  },
+  {
+    "cif_name": "mp-542804",
+    "composition": "La5 Ni1 Pb3"
+  },
+  {
+    "cif_name": "mp-1179076",
+    "composition": "O7 Si2 Sr1 V1"
+  },
+  {
+    "cif_name": "mp-561386",
+    "composition": "C8 Hg3 K2 N8 O8"
+  },
+  {
+    "cif_name": "mp-1205197",
+    "composition": "Dy3 Ga2"
+  },
+  {
+    "cif_name": "mp-1188065",
+    "composition": "Co1 H3 Zr1"
+  },
+  {
+    "cif_name": "mp-1205378",
+    "composition": "Cu1 Lu1 Pb1 Se3"
+  },
+  {
+    "cif_name": "mp-19446",
+    "composition": "Ca1 Mn1 O6 Si2"
+  },
+  {
+    "cif_name": "mp-1095099",
+    "composition": "F6 Li1 Pt1"
+  },
+  {
+    "cif_name": "mp-28610",
+    "composition": "Ag1 Cl3 Cs1"
+  },
+  {
+    "cif_name": "mp-1202869",
+    "composition": "B13 Co1 Er4"
+  },
+  {
+    "cif_name": "mp-2566",
+    "composition": "Pu1 Sb1"
+  },
+  {
+    "cif_name": "mp-556633",
+    "composition": "F6 Na3 V1"
+  },
+  {
+    "cif_name": "mp-570869",
+    "composition": "Cl9 In1 Li1 Nb3"
+  },
+  {
+    "cif_name": "mp-1205049",
+    "composition": "Ag5 O4 Si1"
+  },
+  {
+    "cif_name": "mp-871",
+    "composition": "Fe1 Si1"
+  },
+  {
+    "cif_name": "mp-1205353",
+    "composition": "F3 K1 Mn1"
+  },
+  {
+    "cif_name": "mp-4344",
+    "composition": "Ho1 O4 Ta1"
+  },
+  {
+    "cif_name": "mp-7474",
+    "composition": "As1 Cu2"
+  },
+  {
+    "cif_name": "mp-27849",
+    "composition": "Br1 N1 Ti1"
+  },
+  {
+    "cif_name": "mp-510708",
+    "composition": "Fe1 Li1 O6 Si2"
+  },
+  {
+    "cif_name": "mp-9236",
+    "composition": "Mo3 Si4 U2"
+  },
+  {
+    "cif_name": "mp-697068",
+    "composition": "Pd2 Si1"
+  },
+  {
+    "cif_name": "mp-29132",
+    "composition": "Cl2 O1 Ru1"
+  },
+  {
+    "cif_name": "mp-1193073",
+    "composition": "Fe2 N1 Ta4"
+  },
+  {
+    "cif_name": "mp-17364",
+    "composition": "P2 Ru2 Th1"
+  },
+  {
+    "cif_name": "mp-568484",
+    "composition": "Br5 C1 La3"
+  },
+  {
+    "cif_name": "mp-28537",
+    "composition": "As2 O4 Pb1"
+  },
+  {
+    "cif_name": "mp-1078192",
+    "composition": "Eu4 O1 Sb2"
+  },
+  {
+    "cif_name": "mp-1186069",
+    "composition": "Mo3 Na1 Se3"
+  },
+  {
+    "cif_name": "mp-680045",
+    "composition": "Ag3 Ce1 K2 Te4"
+  },
+  {
+    "cif_name": "mp-1203433",
+    "composition": "As1 Hg3 O5"
+  },
+  {
+    "cif_name": "mp-567871",
+    "composition": "Nb5 Si3"
+  },
+  {
+    "cif_name": "mp-560151",
+    "composition": "Al1 O4 P1"
+  },
+  {
+    "cif_name": "mp-21085",
+    "composition": "Pd3 Pu1"
+  },
+  {
+    "cif_name": "mp-20428",
+    "composition": "Ce1 Ge2 Li1"
+  },
+  {
+    "cif_name": "mp-1104276",
+    "composition": "Er1 Ni4"
+  },
+  {
+    "cif_name": "mp-571000",
+    "composition": "Ge2 Os2 Th1"
+  },
+  {
+    "cif_name": "mp-1079269",
+    "composition": "Pt3 Si1"
+  },
+  {
+    "cif_name": "mp-545735",
+    "composition": "Ba2 Nd1 O6 Ru1"
+  },
+  {
+    "cif_name": "mp-5982",
+    "composition": "As2 La1 Ni2"
+  },
+  {
+    "cif_name": "mp-1071473",
+    "composition": "Ge5 Tb1"
+  },
+  {
+    "cif_name": "mp-16189",
+    "composition": "Ge6 Tm4 Zn5"
+  },
+  {
+    "cif_name": "mp-624191",
+    "composition": "Bi1 Cu1 Pb1 S3"
+  },
+  {
+    "cif_name": "mp-558045",
+    "composition": "Li2 Na1 O4 P1"
+  },
+  {
+    "cif_name": "mp-27436",
+    "composition": "Cl5 Pa1"
+  },
+  {
+    "cif_name": "mp-1192543",
+    "composition": "Dy4 F1 Na5 O16 Si4"
+  },
+  {
+    "cif_name": "mp-1077278",
+    "composition": "B2 Os3 Pu1"
+  },
+  {
+    "cif_name": "mp-29957",
+    "composition": "Te6 Zr5"
+  },
+  {
+    "cif_name": "mp-1193019",
+    "composition": "Mn1 O6 Pb2 Re1"
+  },
+  {
+    "cif_name": "mp-1077779",
+    "composition": "Er1 Se2"
+  },
+  {
+    "cif_name": "mp-510452",
+    "composition": "Ce1 H1 O5 S1"
+  },
+  {
+    "cif_name": "mp-1203806",
+    "composition": "Ba2 Ga1 S5 Sb1"
+  },
+  {
+    "cif_name": "mp-1191170",
+    "composition": "B4 Cr1 U1"
+  },
+  {
+    "cif_name": "mp-29372",
+    "composition": "Cs2 Ga1 Sb2"
+  },
+  {
+    "cif_name": "mp-1189077",
+    "composition": "Ge1 Ho1 Pd2"
+  },
+  {
+    "cif_name": "mp-7950",
+    "composition": "O1 Se1 Th1"
+  },
+  {
+    "cif_name": "mp-571235",
+    "composition": "I4 Zr1"
+  },
+  {
+    "cif_name": "mp-4710",
+    "composition": "B2 Hg3 O6"
+  },
+  {
+    "cif_name": "mp-641683",
+    "composition": "Eu2 Ir2 O7"
+  },
+  {
+    "cif_name": "mp-570303",
+    "composition": "I3 K1 Tm1"
+  },
+  {
+    "cif_name": "mp-17615",
+    "composition": "Ge3 Ta5"
+  },
+  {
+    "cif_name": "mp-510641",
+    "composition": "As1 Fe1 Li1 O4"
+  },
+  {
+    "cif_name": "mp-1238470",
+    "composition": "C1 H4 I1 N2 S1"
+  },
+  {
+    "cif_name": "mp-30347",
+    "composition": "Ag2 In1 Sc1"
+  },
+  {
+    "cif_name": "mp-1182576",
+    "composition": "Ba1 O10"
+  },
+  {
+    "cif_name": "mp-1202803",
+    "composition": "Pu2 S5 U1"
+  },
+  {
+    "cif_name": "mp-611153",
+    "composition": "Bi2 Ca1 Mn1"
+  },
+  {
+    "cif_name": "mp-1066078",
+    "composition": "Bi1 Pt1"
+  },
+  {
+    "cif_name": "mp-976876",
+    "composition": "C2 K2 Pt1"
+  },
+  {
+    "cif_name": "mp-8253",
+    "composition": "Na5 O6 Re1"
+  },
+  {
+    "cif_name": "mp-30818",
+    "composition": "Al1 Li2 Pt1"
+  },
+  {
+    "cif_name": "mp-570564",
+    "composition": "Ce3 Cu1 Ge1 Se7"
+  },
+  {
+    "cif_name": "mp-1194388",
+    "composition": "Ag1 F4 O1 V1"
+  },
+  {
+    "cif_name": "mp-556413",
+    "composition": "Cd2 Na4 O10 Si3"
+  },
+  {
+    "cif_name": "mp-19026",
+    "composition": "Fe1 Na4 O3"
+  },
+  {
+    "cif_name": "mp-696815",
+    "composition": "Al1 F4 H4 N1"
+  },
+  {
+    "cif_name": "mp-1188036",
+    "composition": "H1 Ni1 Zr1"
+  },
+  {
+    "cif_name": "mp-5486",
+    "composition": "Ca1 Cu2 Si2"
+  },
+  {
+    "cif_name": "mp-1192476",
+    "composition": "Au5 Cs1 Ga9"
+  },
+  {
+    "cif_name": "mp-31207",
+    "composition": "Ga1 Sn3 Zr5"
+  },
+  {
+    "cif_name": "mp-1080577",
+    "composition": "Ho1 Sn3"
+  },
+  {
+    "cif_name": "mp-1020112",
+    "composition": "Mg2 O4 Si1"
+  },
+  {
+    "cif_name": "mp-727926",
+    "composition": "Br1 Hg1 O4"
+  },
+  {
+    "cif_name": "mp-1188435",
+    "composition": "Co3 Si5 Y2"
+  },
+  {
+    "cif_name": "mp-11374",
+    "composition": "Dy1 Tl1"
+  },
+  {
+    "cif_name": "mp-20824",
+    "composition": "Ca1 Cu2 O7 Sr2 Tl1"
+  },
+  {
+    "cif_name": "mp-1239022",
+    "composition": "Cu1 Li2 O2"
+  },
+  {
+    "cif_name": "mp-1202962",
+    "composition": "Ir4 Lu3 Si13"
+  },
+  {
+    "cif_name": "mp-21308",
+    "composition": "In1 Pd1 Tb1"
+  },
+  {
+    "cif_name": "mp-9911",
+    "composition": "K3 S4 Sb1"
+  },
+  {
+    "cif_name": "mp-12668",
+    "composition": "O2 S1 Tb2"
+  },
+  {
+    "cif_name": "mp-27264",
+    "composition": "F4 Na1 Ti1"
+  },
+  {
+    "cif_name": "mp-1181682",
+    "composition": "Ce1 Fe4 Sb12"
+  },
+  {
+    "cif_name": "mp-19047",
+    "composition": "Mg1 Mo1 O4"
+  },
+  {
+    "cif_name": "mp-1181006",
+    "composition": "Li1 O5 Te1 V1"
+  },
+  {
+    "cif_name": "mp-557830",
+    "composition": "Au1 Bi5 Na2 O11"
+  },
+  {
+    "cif_name": "mp-864993",
+    "composition": "B4 Dy1 Mo1"
+  },
+  {
+    "cif_name": "mp-1198295",
+    "composition": "K6 Na14 Tl18 Zn1"
+  },
+  {
+    "cif_name": "mp-1179173",
+    "composition": "H4 Pd1 Sr2"
+  },
+  {
+    "cif_name": "mp-1193806",
+    "composition": "Er3 Pd8 Sb4"
+  },
+  {
+    "cif_name": "mp-1354315",
+    "composition": "Cl4 Cs2 Mo1 N1 O2"
+  },
+  {
+    "cif_name": "mp-952",
+    "composition": "Mo1 Pt2"
+  },
+  {
+    "cif_name": "mp-6912",
+    "composition": "Mn2 Sb1"
+  },
+  {
+    "cif_name": "mp-8713",
+    "composition": "K2 Mn1 S2"
+  },
+  {
+    "cif_name": "mp-570293",
+    "composition": "Ga3 Nb5"
+  },
+  {
+    "cif_name": "mp-31317",
+    "composition": "I3 La3 Pb1"
+  },
+  {
+    "cif_name": "mp-556434",
+    "composition": "Ag1 Bi1 P2 S6"
+  },
+  {
+    "cif_name": "mp-1180782",
+    "composition": "Cr1 F3 K1"
+  },
+  {
+    "cif_name": "mp-2025230",
+    "composition": "Ce1 Zn3"
+  },
+  {
+    "cif_name": "mp-634059",
+    "composition": "C1 H4 N2 S1"
+  },
+  {
+    "cif_name": "mp-28744",
+    "composition": "Br4 Os1 Y4"
+  },
+  {
+    "cif_name": "mp-1194032",
+    "composition": "O12 Pu1 S2"
+  },
+  {
+    "cif_name": "mp-13938",
+    "composition": "Dy1 O6 Re1 Sr2"
+  },
+  {
+    "cif_name": "mp-1202484",
+    "composition": "Ge13 Ho3 Rh4"
+  },
+  {
+    "cif_name": "mp-23091",
+    "composition": "Ba2 Bi1 O6 Sb1"
+  },
+  {
+    "cif_name": "mp-867516",
+    "composition": "Ba2 Mn4 O11 Tb2"
+  },
+  {
+    "cif_name": "mp-12599",
+    "composition": "Pr1 Tl1"
+  },
+  {
+    "cif_name": "mp-23289",
+    "composition": "Cl1 K1"
+  },
+  {
+    "cif_name": "mp-1842",
+    "composition": "Al3 Nb1"
+  },
+  {
+    "cif_name": "mp-8752",
+    "composition": "Cd1 Na4 P2"
+  },
+  {
+    "cif_name": "mp-27770",
+    "composition": "Cl3 Rh1"
+  },
+  {
+    "cif_name": "mp-23313",
+    "composition": "Bi1 In1"
+  },
+  {
+    "cif_name": "mp-551749",
+    "composition": "La3 Ni2 O6"
+  },
+  {
+    "cif_name": "mp-1105706",
+    "composition": "Co1 I12 Tb7"
+  },
+  {
+    "cif_name": "mp-22693",
+    "composition": "Te2 W1"
+  },
+  {
+    "cif_name": "mp-31383",
+    "composition": "Bi2 Co1 Hf6"
+  },
+  {
+    "cif_name": "mp-1237201",
+    "composition": "Dy2 Ga5 Mn12"
+  },
+  {
+    "cif_name": "mp-1404",
+    "composition": "Au1 Cd1"
+  },
+  {
+    "cif_name": "mp-1065514",
+    "composition": "Te2 Tl1 Y1"
+  },
+  {
+    "cif_name": "mp-22383",
+    "composition": "Co2 Pu1 Si2"
+  },
+  {
+    "cif_name": "mp-1192374",
+    "composition": "As3 Ge3 K1"
+  },
+  {
+    "cif_name": "mp-4624",
+    "composition": "B1 O4 Ta1"
+  },
+  {
+    "cif_name": "mp-1204042",
+    "composition": "P12 Ru19 Sm5"
+  },
+  {
+    "cif_name": "mp-1105142",
+    "composition": "P2 Sb1 Se6 Tl1"
+  },
+  {
+    "cif_name": "mp-2408",
+    "composition": "Ga3 Pd5"
+  },
+  {
+    "cif_name": "mp-568130",
+    "composition": "Al1 Nd1 Pt1"
+  },
+  {
+    "cif_name": "mp-21162",
+    "composition": "Pb3 Sr1"
+  },
+  {
+    "cif_name": "mp-2880",
+    "composition": "B2 Lu1 Os3"
+  },
+  {
+    "cif_name": "mp-555070",
+    "composition": "B2 Ba1 Be2 O6"
+  },
+  {
+    "cif_name": "mp-22285",
+    "composition": "O14 P4 Pb1 V2"
+  },
+  {
+    "cif_name": "mp-558810",
+    "composition": "Ca2 Mn1 O6 Ta1"
+  },
+  {
+    "cif_name": "mp-1182169",
+    "composition": "Ba1 O6"
+  },
+  {
+    "cif_name": "mp-1079578",
+    "composition": "B2 C2 Tb1"
+  },
+  {
+    "cif_name": "mp-1196019",
+    "composition": "F2 N1 Na1 O4 S2"
+  },
+  {
+    "cif_name": "mp-971751",
+    "composition": "Rh1 V1"
+  },
+  {
+    "cif_name": "mp-554150",
+    "composition": "Cu1 Ge1 Nd3 S7"
+  },
+  {
+    "cif_name": "mp-8623",
+    "composition": "K2 Pt1 Te2"
+  },
+  {
+    "cif_name": "mp-30147",
+    "composition": "As1 Ti1 Zr1"
+  },
+  {
+    "cif_name": "mp-574438",
+    "composition": "Ru2 Th1"
+  },
+  {
+    "cif_name": "mp-1203382",
+    "composition": "Cl14 Sn2 W3"
+  },
+  {
+    "cif_name": "mp-571365",
+    "composition": "Co2 Sn1"
+  },
+  {
+    "cif_name": "mp-1069383",
+    "composition": "Eu1 P2 Zn2"
+  },
+  {
+    "cif_name": "mp-28881",
+    "composition": "Cl5 Rb2 U1"
+  },
+  {
+    "cif_name": "mp-1203651",
+    "composition": "Ag1 As3 Co3 O12"
+  },
+  {
+    "cif_name": "mp-22189",
+    "composition": "In6 O12 Te1"
+  },
+  {
+    "cif_name": "mp-1203141",
+    "composition": "Ge13 Lu3 Os4"
+  },
+  {
+    "cif_name": "mp-1105235",
+    "composition": "B1 H1 O4 Pb2"
+  },
+  {
+    "cif_name": "mp-655275",
+    "composition": "C2 Hg1 N2 S2"
+  },
+  {
+    "cif_name": "mp-29911",
+    "composition": "Ba3 O1 Sb2"
+  },
+  {
+    "cif_name": "mp-975958",
+    "composition": "F4 K1 Mo1 Na1 O2"
+  },
+  {
+    "cif_name": "mp-1202519",
+    "composition": "Al2 As4 Ba3"
+  },
+  {
+    "cif_name": "mp-20212",
+    "composition": "Ba1 Cu1 O5 Pr2"
+  },
+  {
+    "cif_name": "mp-1079574",
+    "composition": "Pb1 Te1"
+  },
+  {
+    "cif_name": "mp-24307",
+    "composition": "C4 Cd1 H8 N6 S4"
+  },
+  {
+    "cif_name": "mp-1203227",
+    "composition": "C2 Cl3 Gd4"
+  },
+  {
+    "cif_name": "mp-1205438",
+    "composition": "C4 Cu1 H4 O8 Sr1"
+  },
+  {
+    "cif_name": "mp-1193556",
+    "composition": "Ca2 K2 Mg1 O18 S4"
+  },
+  {
+    "cif_name": "mp-1077599",
+    "composition": "Al1 Ge1 Sc1"
+  },
+  {
+    "cif_name": "mp-10670",
+    "composition": "Al2 Ca3 Ge2"
+  },
+  {
+    "cif_name": "mp-27360",
+    "composition": "Bi1 O4 Re1"
+  },
+  {
+    "cif_name": "mp-369",
+    "composition": "Al3 Tb1"
+  },
+  {
+    "cif_name": "mp-18501",
+    "composition": "Ag2 Ba1 Te2"
+  },
+  {
+    "cif_name": "mp-9776",
+    "composition": "Ag1 Ge1 Yb1"
+  },
+  {
+    "cif_name": "mp-1072537",
+    "composition": "Ce1 Ni4 Si1"
+  },
+  {
+    "cif_name": "mp-1079588",
+    "composition": "In1 Nd2 Ni2"
+  },
+  {
+    "cif_name": "mp-1196481",
+    "composition": "O11 Sr3 Te4"
+  },
+  {
+    "cif_name": "mp-23218",
+    "composition": "As1 I3"
+  },
+  {
+    "cif_name": "mp-1256151",
+    "composition": "Al1 Ni4 Zr5"
+  },
+  {
+    "cif_name": "mp-31187",
+    "composition": "Al1 Fe2 Ti1"
+  },
+  {
+    "cif_name": "mp-1061054",
+    "composition": "Ge1"
+  },
+  {
+    "cif_name": "mp-601952",
+    "composition": "C6 Cu1 Fe1 K2 N6"
+  },
+  {
+    "cif_name": "mp-649683",
+    "composition": "Fe1 O6 P2"
+  },
+  {
+    "cif_name": "mp-1105273",
+    "composition": "Bi2 Br7 Cs1"
+  },
+  {
+    "cif_name": "mp-1207777",
+    "composition": "Pd1 Y3"
+  },
+  {
+    "cif_name": "mp-1025059",
+    "composition": "Ag2 La1"
+  },
+  {
+    "cif_name": "mp-1182869",
+    "composition": "Al1 O2"
+  },
+  {
+    "cif_name": "mp-1191870",
+    "composition": "C4 Ni13 Y4"
+  },
+  {
+    "cif_name": "mp-637222",
+    "composition": "Al1 Co2 Gd2"
+  },
+  {
+    "cif_name": "mp-1205094",
+    "composition": "Ag1 S2 Sm1"
+  },
+  {
+    "cif_name": "mp-31273",
+    "composition": "Cu1 La2 S4"
+  },
+  {
+    "cif_name": "mp-29149",
+    "composition": "Cl1 Li4 N1"
+  },
+  {
+    "cif_name": "mp-1079428",
+    "composition": "B2 Ir2 Sm1"
+  },
+  {
+    "cif_name": "mp-1730",
+    "composition": "Ba1 Ge1"
+  },
+  {
+    "cif_name": "mp-20854",
+    "composition": "F6 Ni1 Pb1"
+  },
+  {
+    "cif_name": "mp-978090",
+    "composition": "Ge1 Pr1 Ru1"
+  },
+  {
+    "cif_name": "mp-1202719",
+    "composition": "Ir3 Pr2 Sb4"
+  },
+  {
+    "cif_name": "mp-1205359",
+    "composition": "Ba2 Cu1 O6 U1"
+  },
+  {
+    "cif_name": "mp-1205075",
+    "composition": "Ba2 Cd2 K1 Sb3"
+  },
+  {
+    "cif_name": "mp-30459",
+    "composition": "Bi1 Ni1 Sc1"
+  },
+  {
+    "cif_name": "mp-4112",
+    "composition": "O4 S1 Tl2"
+  },
+  {
+    "cif_name": "mp-1205323",
+    "composition": "I10 Os1 Tb6"
+  },
+  {
+    "cif_name": "mp-619015",
+    "composition": "Cd1 Cl3 Cs1"
+  },
+  {
+    "cif_name": "mp-763244",
+    "composition": "F5 Fe1 H4 O2 Zn1"
+  },
+  {
+    "cif_name": "mp-30156",
+    "composition": "Li1 Mg1 N1"
+  },
+  {
+    "cif_name": "mp-1188946",
+    "composition": "Bi1 O6 Re2"
+  },
+  {
+    "cif_name": "mp-3592",
+    "composition": "Au1 K1 S5"
+  },
+  {
+    "cif_name": "mp-27668",
+    "composition": "Ga5 Mg2"
+  },
+  {
+    "cif_name": "mp-550805",
+    "composition": "Bi2 Cl1 Lu1 O4"
+  },
+  {
+    "cif_name": "mp-1202638",
+    "composition": "Br2 C6 Ca1 H24 O6"
+  },
+  {
+    "cif_name": "mp-21426",
+    "composition": "Dy1 Fe2 Ge2"
+  },
+  {
+    "cif_name": "mp-1203614",
+    "composition": "Er5 Ge10 Ir4"
+  },
+  {
+    "cif_name": "mp-647557",
+    "composition": "O3 Pb1 Zr1"
+  },
+  {
+    "cif_name": "mp-1104537",
+    "composition": "Al8 Cr4 Nd1"
+  },
+  {
+    "cif_name": "mp-1203541",
+    "composition": "Ga1 K1 O6 Se2"
+  },
+  {
+    "cif_name": "mp-1201514",
+    "composition": "K2 O5 Ru1"
+  },
+  {
+    "cif_name": "mp-18940",
+    "composition": "Mo1 Ni1 O6 Sr2"
+  },
+  {
+    "cif_name": "mp-1204459",
+    "composition": "Cl4 Nb1 O1 Te4"
+  },
+  {
+    "cif_name": "mp-1205413",
+    "composition": "Cu2 Rb1 Ta1 Te4"
+  },
+  {
+    "cif_name": "mp-30925",
+    "composition": "La1 N3 O6"
+  },
+  {
+    "cif_name": "mp-1079044",
+    "composition": "Ge3 Ni1 Tm1"
+  },
+  {
+    "cif_name": "mp-624689",
+    "composition": "O5 V2"
+  },
+  {
+    "cif_name": "mp-1203265",
+    "composition": "Co3 P2 Y1"
+  },
+  {
+    "cif_name": "mp-18765",
+    "composition": "Na2 Ni1 O2"
+  },
+  {
+    "cif_name": "mp-30497",
+    "composition": "Cd2 Tb1"
+  },
+  {
+    "cif_name": "mp-1208643",
+    "composition": "Hf1 S3 Sr1"
+  },
+  {
+    "cif_name": "mp-19362",
+    "composition": "Fe1 K1 Mo2 O8"
+  },
+  {
+    "cif_name": "mp-1203754",
+    "composition": "In20 Ni11 Sm4"
+  },
+  {
+    "cif_name": "mp-886",
+    "composition": "Ga2 O3"
+  },
+  {
+    "cif_name": "mp-1204740",
+    "composition": "As1 F11 O2 Te1 Xe1"
+  },
+  {
+    "cif_name": "mp-19192",
+    "composition": "Mn1 Ni1 O6 Y2"
+  },
+  {
+    "cif_name": "mp-726248",
+    "composition": "Br3 Li5 O2"
+  },
+  {
+    "cif_name": "mp-28299",
+    "composition": "O7 Se2 U1"
+  },
+  {
+    "cif_name": "mp-864685",
+    "composition": "In8 Nd2 Pd1"
+  },
+  {
+    "cif_name": "mp-1203310",
+    "composition": "Ni17 Sm2"
+  },
+  {
+    "cif_name": "mp-1080828",
+    "composition": "Cu1 F3 K1"
+  },
+  {
+    "cif_name": "mp-552604",
+    "composition": "Bi2 Cl1 O4 Y1"
+  },
+  {
+    "cif_name": "mp-1180135",
+    "composition": "Cd1 F5 Mn1"
+  },
+  {
+    "cif_name": "mp-1079810",
+    "composition": "Hf1 Sn2"
+  },
+  {
+    "cif_name": "mp-16526",
+    "composition": "Al1 Pt2"
+  },
+  {
+    "cif_name": "mp-1102099",
+    "composition": "Fe2 Ho1"
+  },
+  {
+    "cif_name": "mp-10666",
+    "composition": "Ag1 Mn3 N1"
+  },
+  {
+    "cif_name": "mp-573202",
+    "composition": "Ag3 K3 S8 Ta2"
+  },
+  {
+    "cif_name": "mp-1190874",
+    "composition": "Bi2 Fe1 O8 P1"
+  },
+  {
+    "cif_name": "mp-2825",
+    "composition": "Er1 Pd3"
+  },
+  {
+    "cif_name": "mp-1204885",
+    "composition": "Pb4 Tm5"
+  },
+  {
+    "cif_name": "mp-558259",
+    "composition": "I1 Pr3 S8 Si2"
+  },
+  {
+    "cif_name": "mp-13975",
+    "composition": "Er2 O2 Se1"
+  },
+  {
+    "cif_name": "mp-31502",
+    "composition": "Cd7 Sc1"
+  },
+  {
+    "cif_name": "mp-7976",
+    "composition": "Gd1 O2 Rb1"
+  },
+  {
+    "cif_name": "mp-566131",
+    "composition": "Cr1 F3 K1"
+  },
+  {
+    "cif_name": "mp-22938",
+    "composition": "Cl3 O1 V1"
+  },
+  {
+    "cif_name": "mp-1077398",
+    "composition": "Si2 Tb1"
+  },
+  {
+    "cif_name": "mp-8605",
+    "composition": "Pt1 Sb1 Sr1"
+  },
+  {
+    "cif_name": "mp-1202780",
+    "composition": "Ca3 Ge13 Ir4"
+  },
+  {
+    "cif_name": "mp-856",
+    "composition": "O2 Sn1"
+  },
+  {
+    "cif_name": "mp-1078820",
+    "composition": "Ag1 Dy1 Mg1"
+  },
+  {
+    "cif_name": "mp-1103718",
+    "composition": "Al1 S8 V4"
+  },
+  {
+    "cif_name": "mp-1204896",
+    "composition": "C1 F6 H6 N3 P1"
+  },
+  {
+    "cif_name": "mp-1066783",
+    "composition": "Br1 Zr1"
+  },
+  {
+    "cif_name": "mp-1204060",
+    "composition": "Ge1 O6 Se2"
+  },
+  {
+    "cif_name": "mp-29479",
+    "composition": "C2 F6 O3"
+  },
+  {
+    "cif_name": "mp-571367",
+    "composition": "Co2 Hf1 Si2"
+  },
+  {
+    "cif_name": "mp-22666",
+    "composition": "Cu3 Nd1 O12 Ru4"
+  },
+  {
+    "cif_name": "mp-1077996",
+    "composition": "Cr1 Rh2 Se4"
+  },
+  {
+    "cif_name": "mp-5109",
+    "composition": "Ge2 Ni2 Y1"
+  },
+  {
+    "cif_name": "mp-16505",
+    "composition": "Al11 La3"
+  },
+  {
+    "cif_name": "mp-1205304",
+    "composition": "I2 O7 Ti1"
+  },
+  {
+    "cif_name": "mp-16529",
+    "composition": "Al6 Ru1"
+  },
+  {
+    "cif_name": "mp-4673",
+    "composition": "Hf1 O3 Sr1"
+  },
+  {
+    "cif_name": "mp-1191771",
+    "composition": "B4 Lu1 Ru1"
+  },
+  {
+    "cif_name": "mp-9993",
+    "composition": "Al2 Cd1 S4"
+  },
+  {
+    "cif_name": "mp-1202743",
+    "composition": "Cu3 K3 Nb2 Se8"
+  },
+  {
+    "cif_name": "mp-1192313",
+    "composition": "Ce8 Co1 Ga3"
+  },
+  {
+    "cif_name": "mp-1802",
+    "composition": "Nb1 S2"
+  },
+  {
+    "cif_name": "mp-1205450",
+    "composition": "Pu2 Se3"
+  },
+  {
+    "cif_name": "mp-1105290",
+    "composition": "Co3 F6 O6 Sb4"
+  },
+  {
+    "cif_name": "mp-643013",
+    "composition": "H2 O6 P2 Zr1"
+  },
+  {
+    "cif_name": "mp-650026",
+    "composition": "Cl5 In2 Pr1"
+  },
+  {
+    "cif_name": "mp-1191645",
+    "composition": "Al1 Ho3 Ni8"
+  },
+  {
+    "cif_name": "mp-1190486",
+    "composition": "Li1 O6 Sr3 Ta1"
+  },
+  {
+    "cif_name": "mp-5503",
+    "composition": "Er1 O4 Ta1"
+  },
+  {
+    "cif_name": "mp-20587",
+    "composition": "Eu1 S1"
+  },
+  {
+    "cif_name": "mp-18844",
+    "composition": "Ca1 Mn2 O4"
+  },
+  {
+    "cif_name": "mp-16482",
+    "composition": "Al1 Au2 Ti1"
+  },
+  {
+    "cif_name": "mp-3435",
+    "composition": "Cu3 Nd3 Sb4"
+  },
+  {
+    "cif_name": "mp-1203220",
+    "composition": "In1 O3 Rh1"
+  },
+  {
+    "cif_name": "mp-1178771",
+    "composition": "Cu1 O8 W2 Y1"
+  },
+  {
+    "cif_name": "mp-1188114",
+    "composition": "Ga1 Ni2 Tb6"
+  },
+  {
+    "cif_name": "mp-628664",
+    "composition": "Au1 Ce2 P3"
+  },
+  {
+    "cif_name": "mp-3660",
+    "composition": "B3 Li1 O5"
+  },
+  {
+    "cif_name": "mp-1102515",
+    "composition": "Se2 Zn1"
+  },
+  {
+    "cif_name": "mp-30719",
+    "composition": "Hg1 Mg2"
+  },
+  {
+    "cif_name": "mp-1203775",
+    "composition": "Er3 Ge13 Ir4"
+  },
+  {
+    "cif_name": "mp-1203555",
+    "composition": "B1 H7 Li1 N1"
+  },
+  {
+    "cif_name": "mp-643754",
+    "composition": "Cl1 H2 Hg1 N1"
+  },
+  {
+    "cif_name": "mp-16737",
+    "composition": "B2 Be1 Na2 O5"
+  },
+  {
+    "cif_name": "mp-542031",
+    "composition": "Cr1 O4 Pb1"
+  },
+  {
+    "cif_name": "mp-630851",
+    "composition": "Cs3 Na1 Pb4"
+  },
+  {
+    "cif_name": "mp-21874",
+    "composition": "La2 Ni1 O4"
+  },
+  {
+    "cif_name": "mp-1203356",
+    "composition": "C2 Cl1 F2 H1 O1 S1"
+  },
+  {
+    "cif_name": "mp-1103985",
+    "composition": "Nd3 Pt2"
+  },
+  {
+    "cif_name": "mp-22989",
+    "composition": "I1 Na1 O3"
+  },
+  {
+    "cif_name": "mp-20156",
+    "composition": "Mn1 Na1 Nd1 O6 W1"
+  },
+  {
+    "cif_name": "mp-542445",
+    "composition": "F7 K2 Pa1"
+  },
+  {
+    "cif_name": "mp-1203342",
+    "composition": "Dy2 Fe14 Ga3"
+  },
+  {
+    "cif_name": "mp-31484",
+    "composition": "Au8 Ga1 K4"
+  },
+  {
+    "cif_name": "mp-29749",
+    "composition": "Ga3 Ge2 Ni5"
+  },
+  {
+    "cif_name": "mp-12625",
+    "composition": "O2 Te1 U2"
+  },
+  {
+    "cif_name": "mp-555591",
+    "composition": "Al1 F6 Li1 Sr1"
+  },
+  {
+    "cif_name": "mp-1006322",
+    "composition": "B4 Ce1 Fe4"
+  },
+  {
+    "cif_name": "mp-29016",
+    "composition": "Br6 Sr1 Th1"
+  },
+  {
+    "cif_name": "mp-1203906",
+    "composition": "Cs5 N10 Na1 W4"
+  },
+  {
+    "cif_name": "mp-28489",
+    "composition": "Ca5 Ga2 N4"
+  },
+  {
+    "cif_name": "mp-18055",
+    "composition": "Ge5 La2 Rh3"
+  },
+  {
+    "cif_name": "mp-2420",
+    "composition": "P1 W1"
+  },
+  {
+    "cif_name": "mp-1190696",
+    "composition": "F5 K2 N1 O2 Ru1"
+  },
+  {
+    "cif_name": "mp-555842",
+    "composition": "F1 Na3 O4 W1"
+  },
+  {
+    "cif_name": "mp-1193206",
+    "composition": "Ce1 Ge4 Ni9"
+  },
+  {
+    "cif_name": "mp-1106174",
+    "composition": "Rh3 Tb7"
+  },
+  {
+    "cif_name": "mp-21260",
+    "composition": "Fe1 Sn1"
+  },
+  {
+    "cif_name": "mp-558625",
+    "composition": "O8 P2 Sr1 Zr1"
+  },
+  {
+    "cif_name": "mp-721347",
+    "composition": "Ca1 F1 H4 O5 P1"
+  },
+  {
+    "cif_name": "mp-1189478",
+    "composition": "Er3 Ir1"
+  },
+  {
+    "cif_name": "mp-3303",
+    "composition": "Al2 Ce1 Ga2"
+  },
+  {
+    "cif_name": "mp-570718",
+    "composition": "Co17 Y2"
+  },
+  {
+    "cif_name": "mp-18504",
+    "composition": "As4 Ca3 Ge2"
+  },
+  {
+    "cif_name": "mp-13503",
+    "composition": "Sc1 Zn2"
+  },
+  {
+    "cif_name": "mp-14285",
+    "composition": "Co1 P2"
+  },
+  {
+    "cif_name": "mp-18073",
+    "composition": "As4 K7 Ta1"
+  },
+  {
+    "cif_name": "mp-542565",
+    "composition": "Nd3 Pd6 Sb5"
+  },
+  {
+    "cif_name": "mp-1189436",
+    "composition": "Pr2 Sn1 Zn5"
+  },
+  {
+    "cif_name": "mp-1191657",
+    "composition": "Cl2 Mg1 O8"
+  },
+  {
+    "cif_name": "mp-680690",
+    "composition": "Cu3 La1 O12 Ru4"
+  },
+  {
+    "cif_name": "mp-1205312",
+    "composition": "Ca2 Mn1 O4"
+  },
+  {
+    "cif_name": "mp-724972",
+    "composition": "C3 N6 Na5"
+  },
+  {
+    "cif_name": "mp-1203452",
+    "composition": "C2 H1 K1 O4"
+  },
+  {
+    "cif_name": "mp-6908",
+    "composition": "Mg1 Y1 Zn1"
+  },
+  {
+    "cif_name": "mp-29076",
+    "composition": "Fe1 N2 W1"
+  },
+  {
+    "cif_name": "mp-1194114",
+    "composition": "Al16 Mg13"
+  },
+  {
+    "cif_name": "mp-19957",
+    "composition": "B1 Ge1 La1 O5"
+  },
+  {
+    "cif_name": "mp-1018668",
+    "composition": "Cd1 Ce1 Tl1"
+  },
+  {
+    "cif_name": "mp-1191861",
+    "composition": "Rh1 Si3 Tb2"
+  },
+  {
+    "cif_name": "mp-569639",
+    "composition": "Cl1 Tl1"
+  },
+  {
+    "cif_name": "mp-630883",
+    "composition": "Mo2 Ni6 P3"
+  },
+  {
+    "cif_name": "mp-1102425",
+    "composition": "Cu4 Ge4 Lu3"
+  },
+  {
+    "cif_name": "mp-1190063",
+    "composition": "B1 Ge3 Tb5"
+  },
+  {
+    "cif_name": "mp-1578",
+    "composition": "Rh1 V3"
+  },
+  {
+    "cif_name": "mp-510460",
+    "composition": "Cs1 La1 Te3 Zn1"
+  },
+  {
+    "cif_name": "mp-505791",
+    "composition": "Br6 H8 N2 Re1"
+  },
+  {
+    "cif_name": "mp-1025165",
+    "composition": "Ga4 V2 Zr1"
+  },
+  {
+    "cif_name": "mp-27515",
+    "composition": "S5 Sb3 Tl1"
+  },
+  {
+    "cif_name": "mp-1204580",
+    "composition": "H6 N1 Nd1 O10 S1"
+  },
+  {
+    "cif_name": "mp-642448",
+    "composition": "Ce2 Cu1 In1 Se5"
+  },
+  {
+    "cif_name": "mp-20233",
+    "composition": "Ca1 Mn1 Sn1"
+  },
+  {
+    "cif_name": "mp-505571",
+    "composition": "Mn3 N1 Sn1"
+  },
+  {
+    "cif_name": "mp-23995",
+    "composition": "Al2 H3 O9 P3"
+  },
+  {
+    "cif_name": "mp-6988",
+    "composition": "Fe1 N1"
+  }
+]

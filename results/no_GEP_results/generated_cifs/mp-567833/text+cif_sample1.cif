@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Eu5PZn
+_chemical_formula_sum              "Eu5 P1 Zn1"
+_cell_length_a       4.563468735636916
+_cell_length_b       5.134222468740006
+_cell_length_c       7.715346813201904
+_cell_angle_alpha    110.15737113481761
+_cell_angle_beta     89.69726968241827
+_cell_angle_gamma    89.18030521393173
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.7517382502555847  0.14547404646873474  0.05403819307684898  1.0000
+  Eu  Eu2       1.0  0.73366379737854  0.028810646384954453  0.7750523090362548  1.0000
+  Eu  Eu3       1.0  0.23896430432796478  0.4485044777393341  0.1554867774248123  1.0000
+  Eu  Eu4       1.0  0.24243050813674927  0.5354974865913391  0.7867184877395629  1.0000
+  Eu  Eu5       1.0  0.7375077605247498  0.1178971379995346  0.39085340499877924  1.0000
+  P   P1        1.0  0.2386370301246643  0.08517155796289444  0.4400055110454559  1.0000
+  Zn  Zn1       1.0  0.24729114770889282  0.802663266658783  0.015550236217677591  1.0000

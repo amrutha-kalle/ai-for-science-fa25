@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Nd5Pt2
+_chemical_formula_sum              "Nd5 Pt2"
+_cell_length_a       5.386100479792567
+_cell_length_b       5.859642618483597
+_cell_length_c       6.576604843139648
+_cell_angle_alpha    118.50897114560792
+_cell_angle_beta     115.64640801637637
+_cell_angle_gamma    90.78109939727237
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nd  Nd1       1.0  0.7645923495292664  0.8985344171524048  0.9510279297828674  1.0000
+  Nd  Nd2       1.0  0.27443835139274597  0.44122377038002014  0.7181500196456909  1.0000
+  Nd  Nd3       1.0  0.5308417677879333  0.17865803837776184  0.6530394554138184  1.0000
+  Nd  Nd4       1.0  0.0091239707544446  0.45050814747810364  0.39983007311820984  1.0000
+  Nd  Nd5       1.0  0.7457650899887085  0.18582354485988617  0.9600691199302673  1.0000
+  Pt  Pt1       1.0  0.0259164497256279  0.9015788435935974  0.5677513480186462  1.0000
+  Pt  Pt2       1.0  0.3979783058166504  0.815536379814148  0.21413217484951014  1.0000

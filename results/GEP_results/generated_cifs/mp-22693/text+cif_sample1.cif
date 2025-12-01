@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NiSc2Te2W
+_chemical_formula_sum              "Ni1 Sc2 Te2 W1"
+_cell_length_a       4.114425997244771
+_cell_length_b       4.822897623085637
+_cell_length_c       8.812728881835938
+_cell_angle_alpha    94.14634255512564
+_cell_angle_beta     94.13507797218013
+_cell_angle_gamma    88.12918173287792
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.44726601243019104  0.6649642586708069  0.9481395483016968  1.0000
+  Sc  Sc1       1.0  0.7356141805648804  0.42381739616394043  0.6912784576416016  1.0000
+  Sc  Sc2       1.0  0.7388074994087219  0.17471987009048462  0.21386021375656128  1.0000
+  Te  Te1       1.0  0.2502192258834839  0.4082144796848297  0.21552437543869019  1.0000
+  Te  Te2       1.0  0.7512673735618591  0.6827135682106018  0.20659470558166504  1.0000
+  W   W1        1.0  0.11490567028522491  0.856318473815918  0.8980011940002441  1.0000

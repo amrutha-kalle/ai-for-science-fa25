@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au6K2S
+_chemical_formula_sum              "Au6 K2 S1"
+_cell_length_a       7.09603628109855
+_cell_length_b       6.722241762637627
+_cell_length_c       6.829095840454102
+_cell_angle_alpha    90.73831801016708
+_cell_angle_beta     88.89316125999272
+_cell_angle_gamma    122.48527809992119
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.3946005403995514  0.1389921009540558  0.658835232257843  1.0000
+  Au  Au2       1.0  0.9417622089385986  0.5346106290817261  0.6462993025779724  1.0000
+  Au  Au3       1.0  0.4837051033973694  0.24126149713993073  0.5293958187103271  1.0000
+  Au  Au4       1.0  0.3991958200931549  0.9609346389770508  0.6060835123062134  1.0000
+  Au  Au5       1.0  0.590396523475647  0.9945011734962462  0.2000456154346466  1.0000
+  Au  Au6       1.0  0.9962910413742065  0.19701433181762695  0.7196668386459351  1.0000
+  K   K1        1.0  0.9743649959564209  0.8826650381088257  0.716619610786438  1.0000
+  K   K2        1.0  0.44346892833709717  0.22763629257678986  0.6043604612350464  1.0000
+  S   S1        1.0  0.9385778307914734  0.16412019729614258  0.03351476788520813  1.0000

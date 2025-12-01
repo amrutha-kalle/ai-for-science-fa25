@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       PRhScTe2W
+_chemical_formula_sum              "P1 Rh1 Sc1 Te2 W1"
+_cell_length_a       4.589455566584295
+_cell_length_b       5.227832408011099
+_cell_length_c       7.527398586273193
+_cell_angle_alpha    89.63541462525923
+_cell_angle_beta     88.78501514043148
+_cell_angle_gamma    96.94054369762875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.31660065054893494  0.20649461448192596  0.9533959031105042  1.0000
+  Rh  Rh1       1.0  0.8543670177459717  0.1811363250017166  0.7192819714546204  1.0000
+  Sc  Sc1       1.0  0.8702957630157471  0.9669524431228638  0.2277018278837204  1.0000
+  Te  Te1       1.0  0.8912946581840515  0.46703431010246277  0.20685440301895142  1.0000
+  Te  Te2       1.0  0.37030595541000366  0.7383012175559998  0.48964428901672363  1.0000
+  W   W1        1.0  0.9186569452285767  0.5594948530197144  0.20658865571022034  1.0000

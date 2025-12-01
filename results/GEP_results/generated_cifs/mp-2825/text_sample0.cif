@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Er2HOPd2Si
+_chemical_formula_sum              "Er2 H1 O1 Pd2 Si1"
+_cell_length_a       4.697247654262211
+_cell_length_b       5.255306347004768
+_cell_length_c       5.160787582397461
+_cell_angle_alpha    63.201213360285216
+_cell_angle_beta     60.50057031141807
+_cell_angle_gamma    62.925557379127
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.09566430747509003  0.668965756893158  0.21186678111553192  1.0000
+  Er  Er2       1.0  0.41228750348091125  0.604441225528717  0.5420892834663391  1.0000
+  H   H1        1.0  0.6139426827430725  0.7621471881866455  0.31386658549308777  1.0000
+  O   O1        1.0  0.6877284646034241  0.8487752079963684  0.10940348356962204  1.0000
+  Pd  Pd1       1.0  0.8151905536651611  0.3663531243801117  0.817039430141449  1.0000
+  Pd  Pd2       1.0  0.8964849710464478  0.1293448954820633  0.443975031375885  1.0000
+  Si  Si1       1.0  0.07479623705148697  0.054214198142290115  0.642909049987793  1.0000

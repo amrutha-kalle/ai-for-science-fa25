@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       FeGaLiMoPtTa4Zn
+_chemical_formula_sum              "Fe1 Ga1 Li1 Mo1 Pt1 Ta4 Zn1"
+_cell_length_a       4.003289561227144
+_cell_length_b       2.4318733575422438
+_cell_length_c       6.748703956604004
+_cell_angle_alpha    93.64273445392269
+_cell_angle_beta     89.87273665519241
+_cell_angle_gamma    37.93994462188096
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9911744594573975  0.3312451243400574  0.5995204448699952  1.0000
+  Ga  Ga1       1.0  0.9163480997085571  0.08791033923625946  0.294767290353775  1.0000
+  Li  Li1       1.0  0.7484183311462402  0.333706796169281  0.8864795565605164  1.0000
+  Mo  Mo1       1.0  0.63744056224823  0.7790580391883851  0.19241753220558167  1.0000
+  Pt  Pt1       1.0  0.9884411096572876  0.6411876678466797  0.15646450221538544  1.0000
+  Ta  Ta1       1.0  0.6940380930900574  0.11373282223939897  0.0021573605481535196  1.0000
+  Ta  Ta2       1.0  0.2740300893783569  0.8543100953102113  0.45876938104629517  1.0000
+  Ta  Ta3       1.0  0.41632845997810364  0.5547960996627808  0.2629091143608093  1.0000
+  Ta  Ta4       1.0  0.4993200004100799  0.8755409121513368  0.5811231136322021  1.0000
+  Zn  Zn1       1.0  0.4274578094482422  0.06280095130205154  0.2042502611875534  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NiPPbPr2SZn
+_chemical_formula_sum              "Ni1 P1 Pb1 Pr2 S1 Zn1"
+_cell_length_a       4.903474524873765
+_cell_length_b       6.043997487548698
+_cell_length_c       6.5163893699646
+_cell_angle_alpha    120.00488979883654
+_cell_angle_beta     91.45605589564856
+_cell_angle_gamma    88.70403714658913
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.681943953037262  0.02681453712284565  0.894821047782898  1.0000
+  P   P1        1.0  0.1760898381471634  0.10602165758609772  0.3968433439731598  1.0000
+  Pb  Pb1       1.0  0.17019355297088623  0.5177496075630188  0.8915773034095764  1.0000
+  Pr  Pr1       1.0  0.6655771136283875  0.7126719355583191  0.36521449685096746  1.0000
+  Pr  Pr2       1.0  0.1684902459383011  0.37400490045547485  0.25805109739303583  1.0000
+  S   S1        1.0  0.41178643703460693  0.0329010896384716  0.6860718727111816  1.0000
+  Zn  Zn1       1.0  0.6593984961509705  0.4785391092300415  0.13684391975402832  1.0000

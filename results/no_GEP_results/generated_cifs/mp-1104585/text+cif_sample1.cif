@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FGeHo2PZnZr
+_chemical_formula_sum              "F1 Ge1 Ho2 P1 Zn1 Zr1"
+_cell_length_a       4.512412245245313
+_cell_length_b       3.794197350782434
+_cell_length_c       6.058245658874512
+_cell_angle_alpha    109.32025280511562
+_cell_angle_beta     122.9365515207138
+_cell_angle_gamma    123.31431510809708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.4573089182376861  0.4927379488945007  0.7407978773117065  1.0000
+  Ge  Ge1       1.0  0.2056243121623993  0.0865759775042534  0.46937859058380127  1.0000
+  Ho  Ho1       1.0  0.10057412832975411  0.6547109484672549  0.9714332818984986  1.0000
+  Ho  Ho2       1.0  0.07930000871419901  0.10044216364622109  0.986295759677887  1.0000
+  P   P1        1.0  0.7044180035591128  0.9941824674606327  0.9762476086616518  1.0000
+  Zn  Zn1       1.0  0.8240920901298524  0.6490859389305116  0.3820246756076814  1.0000
+  Zr  Zr1       1.0  0.8031803369522097  0.66126024723053  0.8084245920181276  1.0000

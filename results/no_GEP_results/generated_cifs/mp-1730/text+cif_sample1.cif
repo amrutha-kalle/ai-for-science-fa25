@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaGe4IZn
+_chemical_formula_sum              "Ba1 Ge4 I1 Zn1"
+_cell_length_a       4.47240190302937
+_cell_length_b       4.689764720047075
+_cell_length_c       10.027619361877441
+_cell_angle_alpha    102.46162302135089
+_cell_angle_beta     104.6815923796489
+_cell_angle_gamma    102.65449980881823
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6283646821975708  0.9734558463096619  0.6317554116249084  1.0000
+  Ge  Ge1       1.0  0.1479952186346054  0.6928971409797668  0.6144657135009766  1.0000
+  Ge  Ge2       1.0  0.6304149627685547  0.06591913849115372  0.4188537299633026  1.0000
+  Ge  Ge3       1.0  0.3703266978263855  0.3274661898612976  0.8137355446815491  1.0000
+  Ge  Ge4       1.0  0.6737821698188782  0.7116462588310242  0.8960703015327454  1.0000
+  I   I1        1.0  0.15458673238754272  0.943067729473114  0.4854436218738556  1.0000
+  Zn  Zn1       1.0  0.13213492929935455  0.9671598076820374  0.5150973796844482  1.0000

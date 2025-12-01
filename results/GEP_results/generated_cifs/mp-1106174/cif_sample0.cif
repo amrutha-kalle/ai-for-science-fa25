@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HPRhTb4
+_chemical_formula_sum              "H1 P1 Rh1 Tb4"
+_cell_length_a       5.0422744167439095
+_cell_length_b       5.952353285133258
+_cell_length_c       6.9696807861328125
+_cell_angle_alpha    98.47163553741673
+_cell_angle_beta     88.37705791025991
+_cell_angle_gamma    110.73829131776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.15858076512813568  0.09781378507614136  0.4028242826461792  1.0000
+  P   P1        1.0  0.6555139422416687  0.22455374896526334  0.9015235304832458  1.0000
+  Rh  Rh1       1.0  0.01844422146677971  0.8125540614128113  0.8996318578720093  1.0000
+  Tb  Tb1       1.0  0.3804842829704284  0.49257493019104  0.48126822710037237  1.0000
+  Tb  Tb2       1.0  0.0958009734749794  0.11207459121942519  0.001873851171694696  1.0000
+  Tb  Tb3       1.0  0.6700137257575989  0.34240204095840454  0.13465528190135956  1.0000
+  Tb  Tb4       1.0  0.13248176872730255  0.6412199139595032  0.7547472715377808  1.0000

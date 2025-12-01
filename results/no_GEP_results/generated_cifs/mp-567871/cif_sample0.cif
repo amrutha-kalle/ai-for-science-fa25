@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeINb3Si2
+_chemical_formula_sum              "Ge1 I1 Nb3 Si2"
+_cell_length_a       5.741017892815537
+_cell_length_b       6.331130056095394
+_cell_length_c       7.760617256164551
+_cell_angle_alpha    111.68610601634782
+_cell_angle_beta     114.66628091019079
+_cell_angle_gamma    90.11951481587963
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5430505275726318  0.5862252712249756  0.8383651375770569  1.0000
+  I   I1        1.0  0.5469081997871399  0.9245105981826781  0.30477812886238087  1.0000
+  Nb  Nb1       1.0  0.046747095882892595  0.44784328341484064  0.9103950262069702  1.0000
+  Nb  Nb2       1.0  0.05017692968249321  0.38886162638664246  0.6939865350723267  1.0000
+  Nb  Nb3       1.0  0.005526065826415973  0.9778938889503478  0.18466317653656  1.0000
+  Si  Si1       1.0  0.5519189834594727  0.3858884572982788  0.4651015996932983  1.0000
+  Si  Si2       1.0  0.062269970774650574  0.21014761924743652  0.36501219868659973  1.0000

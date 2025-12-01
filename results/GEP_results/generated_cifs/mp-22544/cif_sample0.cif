@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       H2OU4V
+_chemical_formula_sum              "H2 O1 U4 V1"
+_cell_length_a       5.157046373245527
+_cell_length_b       5.20741504636394
+_cell_length_c       6.314515590667725
+_cell_angle_alpha    110.2291220101255
+_cell_angle_beta     96.53565801687947
+_cell_angle_gamma    111.11423961548894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.4008811116218567  0.9495248794555664  0.0745464414358139  1.0000
+  H   H2        1.0  0.6511677503585815  0.0653996393084526  0.3804830014705658  1.0000
+  O   O1        1.0  0.35051724314689636  0.21735358238220215  0.876364231109619  1.0000
+  U   U1        1.0  0.11656627804040909  0.5153670310974121  0.5455960631370544  1.0000
+  U   U2        1.0  0.1258963793516159  0.2293628752231598  0.38167762756347656  1.0000
+  U   U3        1.0  0.16476497054100037  0.6707125902175903  0.3886546194553375  1.0000
+  U   U4        1.0  0.6334190964698792  0.5591102242469788  0.8951419591903685  1.0000
+  V   V1        1.0  0.6539473533630371  0.24807550013065338  0.44121897220611567  1.0000

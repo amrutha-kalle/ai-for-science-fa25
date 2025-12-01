@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe4YZn
+_chemical_formula_sum              "Fe4 Y1 Zn1"
+_cell_length_a       4.706137870970633
+_cell_length_b       5.779494598892409
+_cell_length_c       5.450323104858398
+_cell_angle_alpha    120.02297563608043
+_cell_angle_beta     88.89348088025818
+_cell_angle_gamma    91.78351916162305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.8062456250190735  0.8684373497962952  0.7196977734565735  1.0000
+  Fe  Fe2       1.0  0.27073729038238525  0.8690426349639893  0.5791251063346863  1.0000
+  Fe  Fe3       1.0  0.5940390825271606  0.036994993686676025  0.22570058703422546  1.0000
+  Fe  Fe4       1.0  0.2842596471309662  0.36514049768447876  0.9099417328834534  1.0000
+  Y   Y1        1.0  0.5741221904754639  0.8718125820159912  0.06005268916487694  1.0000
+  Zn  Zn1       1.0  0.046054381877183914  0.5584366321563721  0.24848079681396487  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba5CdCl
+_chemical_formula_sum              "Ba5 Cd1 Cl1"
+_cell_length_a       5.025794326161861
+_cell_length_b       6.4547954006395685
+_cell_length_c       9.526531219482422
+_cell_angle_alpha    90.20791418886937
+_cell_angle_beta     88.65576282696014
+_cell_angle_gamma    116.83380535665691
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.554449200630188  0.4617656767368316  0.556303083896637  1.0000
+  Ba  Ba2       1.0  0.011514398269355252  0.4878625571727752  0.3208390176296234  1.0000
+  Ba  Ba3       1.0  0.44444167613983154  0.2501496970653534  0.4111270606517792  1.0000
+  Ba  Ba4       1.0  0.0012660911306738853  0.13245050609111786  0.1274588257074356  1.0000
+  Ba  Ba5       1.0  0.4982830286026001  0.8803650140762329  0.8318638801574707  1.0000
+  Cd  Cd1       1.0  0.49408647418022145  0.9951487183570861  0.12715180218219757  1.0000
+  Cl  Cl1       1.0  0.38621094822883606  0.3010150194168091  0.8577570915222168  1.0000

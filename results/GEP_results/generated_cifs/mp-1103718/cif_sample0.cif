@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaS3Si2V3
+_chemical_formula_sum              "Ga1 S3 Si2 V3"
+_cell_length_a       4.629096992410479
+_cell_length_b       6.008151274072327
+_cell_length_c       6.184964656829834
+_cell_angle_alpha    115.04129072532085
+_cell_angle_beta     107.66423606246643
+_cell_angle_gamma    86.21445039608788
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.9898669719696045  0.4467408359050751  0.05077632516622543  1.0000
+  S   S1        1.0  0.33180275559425354  0.9495199918746948  0.13764555752277374  1.0000
+  S   S2        1.0  0.49769991636276245  0.03012678772211075  0.8183014392852783  1.0000
+  S   S3        1.0  0.47094249725341797  0.9821210503578186  0.5940137505531311  1.0000
+  Si  Si1       1.0  0.5290085077285767  0.5435445308685303  0.7750507593154907  1.0000
+  Si  Si2       1.0  0.016541168093681335  0.38395431637763977  0.7782796621322632  1.0000
+  V   V1        1.0  0.28848373889923096  0.6226381063461304  0.022416491061449016  1.0000
+  V   V2        1.0  0.9366185665130615  0.07131609320640564  0.14660735428333282  1.0000
+  V   V3        1.0  0.8359547257423401  0.5171298384666443  0.31014135479927063  1.0000

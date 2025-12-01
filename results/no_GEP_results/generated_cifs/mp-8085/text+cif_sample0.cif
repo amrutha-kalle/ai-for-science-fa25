@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Mg2P3Ti
+_chemical_formula_sum              "Mg2 P3 Ti1"
+_cell_length_a       4.177012253906845
+_cell_length_b       2.421758315806629
+_cell_length_c       5.9402971267700195
+_cell_angle_alpha    47.39582339813518
+_cell_angle_beta     63.35899250963342
+_cell_angle_gamma    39.705732072550184
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mg  Mg1       1.0  0.30239707231521606  0.3150627315044403  0.890938639640808  1.0000
+  Mg  Mg2       1.0  0.6695937514305115  0.5258244276046753  0.9946113824844359  1.0000
+  P   P1        1.0  0.34817472100257874  0.09891526401042938  0.33874809741973877  1.0000
+  P   P2        1.0  0.25473669171333313  0.8360106945037842  0.22838093340396884  1.0000
+  P   P3        1.0  0.16292904317378998  0.24853707849979403  0.73348468542099  1.0000
+  Ti  Ti1       1.0  0.8053393363952637  0.5757042765617371  0.2853035032749176  1.0000

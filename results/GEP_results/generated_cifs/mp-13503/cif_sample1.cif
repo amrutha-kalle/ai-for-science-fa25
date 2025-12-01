@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClSc4Zn2
+_chemical_formula_sum              "Cl1 Sc4 Zn2"
+_cell_length_a       4.795181608597938
+_cell_length_b       5.567150086172115
+_cell_length_c       7.529951095581055
+_cell_angle_alpha    114.31904413289841
+_cell_angle_beta     99.49829550587852
+_cell_angle_gamma    88.78212817457607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.900844156742096  0.8583558201789856  0.3759762644767762  1.0000
+  Sc  Sc1       1.0  0.9932010173797607  0.5983500480651855  0.6144127249717712  1.0000
+  Sc  Sc2       1.0  0.71201491355896  0.8707823157310486  0.2329623103141785  1.0000
+  Sc  Sc3       1.0  0.5301368236541748  0.024037623777985573  0.6199249029159547  1.0000
+  Sc  Sc4       1.0  0.23442061245441437  0.3560444414615631  0.3248144686222077  1.0000
+  Zn  Zn1       1.0  0.7173587679862976  0.36259496212005615  0.24101060628890994  1.0000
+  Zn  Zn2       1.0  0.3146336078643799  0.48353320360183716  0.4709360301494599  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyGaHPrPtZr
+_chemical_formula_sum              "Dy1 Ga1 H1 Pr1 Pt1 Zr1"
+_cell_length_a       4.9064020665421655
+_cell_length_b       4.698772304726545
+_cell_length_c       5.725643634796143
+_cell_angle_alpha    114.24468383511704
+_cell_angle_beta     96.18350078899299
+_cell_angle_gamma    119.41168488259929
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.7166514992713929  0.9573563337326051  0.36913415789604187  1.0000
+  Ga  Ga1       1.0  0.22651824355125427  0.0025092088617384434  0.7348936796188354  1.0000
+  H   H1        1.0  0.21515430510044098  0.23735821247100833  0.7903772592544557  1.0000
+  Pr  Pr1       1.0  0.3467662334442139  0.40252172946929937  0.42171782255172735  1.0000
+  Pt  Pt1       1.0  0.27887850999832164  0.9219728708267213  0.388260155916214  1.0000
+  Zr  Zr1       1.0  0.3201241195201874  0.6256746649742126  0.23661410808563235  1.0000

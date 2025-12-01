@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I3NiPRu
+_chemical_formula_sum              "I3 Ni1 P1 Ru1"
+_cell_length_a       5.305427534049695
+_cell_length_b       5.632548552044916
+_cell_length_c       6.712158679962158
+_cell_angle_alpha    104.04989531259633
+_cell_angle_beta     90.36596672638458
+_cell_angle_gamma    93.0197656781639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9670865535736084  0.7220788598060608  0.4309014976024628  1.0000
+  I   I2        1.0  0.6299295425415039  0.5868123769760132  0.9280123710632325  1.0000
+  I   I3        1.0  0.4626341164112091  0.6406952142715454  0.009418564848601802  1.0000
+  Ni  Ni1       1.0  0.4609781801700592  0.15038827061653137  0.7387848496437073  1.0000
+  P   P1        1.0  0.9558258056640625  0.08173461258411407  0.06461538374423981  1.0000
+  Ru  Ru1       1.0  0.969183623790741  0.3545011281967163  0.450575739145279  1.0000

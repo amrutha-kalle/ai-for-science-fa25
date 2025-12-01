@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiNiPPbSSiTm
+_chemical_formula_sum              "Bi1 Ni1 P1 Pb1 S1 Si1 Tm1"
+_cell_length_a       4.854863041438693
+_cell_length_b       7.435955731352168
+_cell_length_c       7.5758376121521
+_cell_angle_alpha    121.01829424846144
+_cell_angle_beta     89.25497216260767
+_cell_angle_gamma    88.99640560144773
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.8868463039398193  0.3828764259815216  0.5149884819984436  1.0000
+  Ni  Ni1       1.0  0.8763002157211304  0.6683956384658813  0.7596629858016968  1.0000
+  P   P1        1.0  0.8846206665039062  0.6881682872772217  0.5893926024436951  1.0000
+  Pb  Pb1       1.0  0.3774794936180115  0.2127126306295395  0.20188520848751068  1.0000
+  S   S1        1.0  0.8965287208557129  0.8188806772232056  0.5252779126167297  1.0000
+  Si  Si1       1.0  0.4208419620990753  0.3232511579990387  0.7568322420120239  1.0000
+  Tm  Tm1       1.0  0.3981977701187134  0.7692877054214478  0.9356383681297302  1.0000

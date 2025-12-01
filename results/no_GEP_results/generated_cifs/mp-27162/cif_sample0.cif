@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoIrPSc3Zn
+_chemical_formula_sum              "Co1 Ir1 P1 Sc3 Zn1"
+_cell_length_a       4.091665242679053
+_cell_length_b       4.061475567097312
+_cell_length_c       7.37123966217041
+_cell_angle_alpha    90.10042336324614
+_cell_angle_beta     88.94778365128057
+_cell_angle_gamma    100.46744443429795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.022652300074696544  0.1530713886022568  0.5823705196380615  1.0000
+  Ir  Ir1       1.0  0.1926991492509842  0.6181646585464479  0.8599784970283507  1.0000
+  P   P1        1.0  0.7436969876289368  0.8088142871856691  0.6452819108963013  1.0000
+  Sc  Sc1       1.0  0.5105124115943909  0.06437844783067703  0.48855400085449213  1.0000
+  Sc  Sc2       1.0  0.5281471610069275  0.5251820087432861  0.6541914343833923  1.0000
+  Sc  Sc3       1.0  0.02189250662922862  0.8969443440437318  0.9881001114845275  1.0000
+  Zn  Zn1       1.0  0.023160172626376152  0.04302551597356797  0.602752685546875  1.0000

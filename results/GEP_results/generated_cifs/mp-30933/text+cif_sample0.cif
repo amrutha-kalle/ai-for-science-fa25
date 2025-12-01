@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi2ClZr4
+_chemical_formula_sum              "Bi2 Cl1 Zr4"
+_cell_length_a       5.322241209394826
+_cell_length_b       5.301074632835999
+_cell_length_c       6.543759346008301
+_cell_angle_alpha    66.86324849184668
+_cell_angle_beta     66.48106028953764
+_cell_angle_gamma    59.60039769775708
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.6390642523765564  0.25055620074272156  0.36978381872177124  1.0000
+  Bi  Bi2       1.0  0.10539995133876795  0.9196451902389527  0.830003559589386  1.0000
+  Cl  Cl1       1.0  0.9396689534187317  0.4796817004680634  0.17946307361125946  1.0000
+  Zr  Zr1       1.0  0.07237007468938828  0.9060080647468567  0.2589004933834076  1.0000
+  Zr  Zr2       1.0  0.9987711906433105  0.22231826186180115  0.5283371210098267  1.0000
+  Zr  Zr3       1.0  0.3932532072067261  0.7412068843841553  0.11553448438644409  1.0000
+  Zr  Zr4       1.0  0.41570279002189636  0.25901827216148376  0.324834406375885  1.0000

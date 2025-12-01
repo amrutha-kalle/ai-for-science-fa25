@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaOTb5
+_chemical_formula_sum              "Ga1 O1 Tb5"
+_cell_length_a       6.496988912724027
+_cell_length_b       6.058435646517147
+_cell_length_c       6.481860637664795
+_cell_angle_alpha    64.15287015786446
+_cell_angle_beta     60.371585269488264
+_cell_angle_gamma    54.34108413733842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6134332418441772  0.007867670617997646  0.7899104356765745  1.0000
+  O   O1        1.0  0.9813287854194641  0.6691932082176208  0.9591938853263854  1.0000
+  Tb  Tb1       1.0  0.006510365754365921  0.9034075140953064  0.7259560823440551  1.0000
+  Tb  Tb2       1.0  0.5094300508499146  0.9658643007278442  0.39159238338470453  1.0000
+  Tb  Tb3       1.0  0.505102813243866  0.0072712586261332035  0.3911279141902923  1.0000
+  Tb  Tb4       1.0  0.9663580656051636  0.9840436577796936  0.20777796208858487  1.0000
+  Tb  Tb5       1.0  0.1354510486125946  0.9904854893684387  0.6539707779884338  1.0000

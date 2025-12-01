@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mn5Zn2
+_chemical_formula_sum              "Mn5 Zn2"
+_cell_length_a       5.466517168822676
+_cell_length_b       5.600093275465202
+_cell_length_c       6.148641586303711
+_cell_angle_alpha    65.9618458922774
+_cell_angle_beta     62.527880435584436
+_cell_angle_gamma    61.66773557839077
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.36279019713401794  0.8200228810310364  0.6177096366882324  1.0000
+  Mn  Mn2       1.0  0.006382888648658991  0.8521203398704529  0.45877483487129206  1.0000
+  Mn  Mn3       1.0  0.4938277602195739  0.34519892930984497  0.5626638531684875  1.0000
+  Mn  Mn4       1.0  0.931605577468872  0.5973397493362427  0.8214921951293945  1.0000
+  Mn  Mn5       1.0  0.6673526763916016  0.06428603082895279  0.13557857275009155  1.0000
+  Zn  Zn1       1.0  0.16264185309410095  0.5848397016525269  0.85286545753479  1.0000
+  Zn  Zn2       1.0  0.6688361167907715  0.06219414621591568  0.5714123845100403  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlBDy3TlZn
+_chemical_formula_sum              "Al1 B1 Dy3 Tl1 Zn1"
+_cell_length_a       4.976521478977485
+_cell_length_b       6.344651344913786
+_cell_length_c       6.980816841125488
+_cell_angle_alpha    122.47045321998256
+_cell_angle_beta     94.17447029310442
+_cell_angle_gamma    84.73489501468875
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.23906458914279938  0.5982701182365417  0.971186339855194  1.0000
+  B   B1        1.0  0.24496391415596008  0.8433786034584047  0.5004762411117554  1.0000
+  Dy  Dy1       1.0  0.0014240741729736328  0.2857850193977356  0.4070168435573578  1.0000
+  Dy  Dy2       1.0  0.9992563128471375  0.8121342062950135  0.26347362995147705  1.0000
+  Dy  Dy3       1.0  0.24585211277008057  0.6036219596862793  0.9917903542518617  1.0000
+  Tl  Tl1       1.0  0.7412789463996887  0.23160201311111453  0.9750466942787172  1.0000
+  Zn  Zn1       1.0  0.5332732200622559  0.12271032482385637  0.3335026502609253  1.0000

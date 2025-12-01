@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FFePPt3Si
+_chemical_formula_sum              "F1 Fe1 P1 Pt3 Si1"
+_cell_length_a       4.590873863781646
+_cell_length_b       4.197867824725788
+_cell_length_c       5.477839946746826
+_cell_angle_alpha    119.48684942484336
+_cell_angle_beta     100.64332614565389
+_cell_angle_gamma    126.10960881725543
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.3369176685810089  0.03153353184461591  0.5074522495269775  1.0000
+  Fe  Fe1       1.0  0.030252918601036197  0.14354220032691975  0.5921988487243653  1.0000
+  P   P1        1.0  0.9278690814971924  0.6332058906555176  0.21825061738491064  1.0000
+  Pt  Pt1       1.0  0.0905152559280396  0.344630926847458  0.2252576053142548  1.0000
+  Pt  Pt2       1.0  0.9974821805953982  0.8700658679008487  0.7494429945945741  1.0000
+  Pt  Pt3       1.0  0.49437493085861206  0.2585942745208741  0.5432265996932983  1.0000
+  Si  Si1       1.0  0.47732171416282654  0.6065188646316527  0.005782344378530954  1.0000

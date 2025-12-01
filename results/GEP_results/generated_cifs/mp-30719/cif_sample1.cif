@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BMg4MnO
+_chemical_formula_sum              "B1 Mg4 Mn1 O1"
+_cell_length_a       5.096491472166422
+_cell_length_b       5.082560449586366
+_cell_length_c       4.805200576782227
+_cell_angle_alpha    59.30986336533904
+_cell_angle_beta     58.05701389695113
+_cell_angle_gamma    59.11791674661594
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.6715435981750488  0.04517307132482529  0.8984989523887634  1.0000
+  Mg  Mg1       1.0  0.18240296840667725  0.21977680921554565  0.3926723599433899  1.0000
+  Mg  Mg2       1.0  0.7051498889923096  0.43686631321907043  0.5964114665985107  1.0000
+  Mg  Mg3       1.0  0.1860516518354416  0.65364670753479  0.9127709269523621  1.0000
+  Mg  Mg4       1.0  0.6821388602256775  0.8048218488693237  0.9235556721687317  1.0000
+  Mn  Mn1       1.0  0.6764534115791321  0.9122883677482605  0.3996226489543915  1.0000
+  O   O1        1.0  0.4232916235923767  0.9614312052726746  0.10477204620838165  1.0000

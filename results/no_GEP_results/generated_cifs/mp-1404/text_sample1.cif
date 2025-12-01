@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Au2Cd4Hg
+_chemical_formula_sum              "Au2 Cd4 Hg1"
+_cell_length_a       5.018873198877551
+_cell_length_b       5.353108977027188
+_cell_length_c       5.088109016418457
+_cell_angle_alpha    92.33053913608985
+_cell_angle_beta     89.4881667758487
+_cell_angle_gamma    93.07350983701129
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7856835126876831  0.41767722368240356  0.47656500339508057  1.0000
+  Au  Au2       1.0  0.25832822918891907  0.6183112859725952  0.47175097465515137  1.0000
+  Cd  Cd1       1.0  0.2909899950027466  0.296132892370224  0.05510089918971062  1.0000
+  Cd  Cd2       1.0  0.7761353254318237  0.11277895420789719  0.03689037635922432  1.0000
+  Cd  Cd3       1.0  0.7775912284851074  0.0725407525897026  0.20069095492362976  1.0000
+  Cd  Cd4       1.0  0.028644731268286705  0.6975265145301819  0.656886100769043  1.0000
+  Hg  Hg1       1.0  0.5268397331237793  0.8182119131088257  0.599151074886322  1.0000

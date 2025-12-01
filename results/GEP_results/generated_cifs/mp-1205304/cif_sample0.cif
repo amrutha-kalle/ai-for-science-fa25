@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       IO5Ti3
+_chemical_formula_sum              "I1 O5 Ti3"
+_cell_length_a       5.294364887301232
+_cell_length_b       5.6778839044766505
+_cell_length_c       6.579574108123779
+_cell_angle_alpha    113.99542534132362
+_cell_angle_beta     115.63060235977753
+_cell_angle_gamma    88.1435772826116
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.1677226424217224  0.04313138872385025  0.4364567697048188  1.0000
+  O   O1        1.0  0.5631833076477051  0.524718701839447  0.03708197548985481  1.0000
+  O   O2        1.0  0.3128379285335541  0.39218375086784363  0.3734336197376251  1.0000
+  O   O3        1.0  0.994554042816162  0.8845678567886351  0.8520984053611756  1.0000
+  O   O4        1.0  0.3850780129432678  0.1319856494665146  0.17596764862537384  1.0000
+  O   O5        1.0  0.8693841695785522  0.9288076758384703  0.29149454832077026  1.0000
+  Ti  Ti1       1.0  0.635531485080719  0.4415529072284698  0.43499028682708746  1.0000
+  Ti  Ti2       1.0  0.7137272357940674  0.7203726768493652  0.054536513984203346  1.0000
+  Ti  Ti3       1.0  0.8429721593856812  0.6931191682815552  0.5222305059432983  1.0000

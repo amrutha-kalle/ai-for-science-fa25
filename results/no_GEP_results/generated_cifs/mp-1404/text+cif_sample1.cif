@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaCd2PtTiVZn
+_chemical_formula_sum              "Ba1 Cd2 Pt1 Ti1 V1 Zn1"
+_cell_length_a       5.080083911616925
+_cell_length_b       4.240521170005144
+_cell_length_c       6.093350887298584
+_cell_angle_alpha    110.9315549833661
+_cell_angle_beta     108.2681657453142
+_cell_angle_gamma    134.84599645157718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.7521898746490476  0.8538243174552914  0.8355164527893065  1.0000
+  Cd  Cd1       1.0  0.819805383682251  0.29527750611305237  0.05605473369359968  1.0000
+  Cd  Cd2       1.0  0.8758619427680969  0.3198318779468536  0.14246241748332975  1.0000
+  Pt  Pt1       1.0  0.9777855277061459  0.8503715395927426  0.7505340576171874  1.0000
+  Ti  Ti1       1.0  0.05252431705594045  0.8174234628677366  0.31561565399169916  1.0000
+  V   V1        1.0  0.19271701574325534  0.7544782757759091  0.6884151697158812  1.0000
+  Zn  Zn1       1.0  0.5224575400352478  0.2505082190036773  0.8899021148681641  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       As2FGaPRu2
+_chemical_formula_sum              "As2 F1 Ga1 P1 Ru2"
+_cell_length_a       4.640502248513008
+_cell_length_b       4.308705902469492
+_cell_length_c       6.225067138671875
+_cell_angle_alpha    96.98660121432019
+_cell_angle_beta     90.80795153103271
+_cell_angle_gamma    123.89753439902036
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.3586138188838959  0.7628769874572754  0.2675425410270691  1.0000
+  As  As2       1.0  0.8722878694534302  0.3288826048374176  0.13530831038951874  1.0000
+  F   F1        1.0  0.8559144139289856  0.29322487115859985  0.48251396417617803  1.0000
+  Ga  Ga1       1.0  0.6189805269241333  0.17676407098770142  0.4487693309783936  1.0000
+  P   P1        1.0  0.8658807873725891  0.714011549949646  0.33645862340927124  1.0000
+  Ru  Ru1       1.0  0.1395139843225479  0.4984286427497864  0.6104797720909119  1.0000
+  Ru  Ru2       1.0  0.5308646559715271  0.33582133054733276  0.5006504654884338  1.0000

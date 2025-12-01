@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GdNiS2UZr
+_chemical_formula_sum              "Gd1 Ni1 S2 U1 Zr1"
+_cell_length_a       5.324787557905832
+_cell_length_b       5.277220832783887
+_cell_length_c       6.027686595916748
+_cell_angle_alpha    105.20690013359352
+_cell_angle_beta     103.58798242649678
+_cell_angle_gamma    117.65555240750608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.048379186540842056  0.12397784739732742  0.9551393389701844  1.0000
+  Ni  Ni1       1.0  0.7590764164924622  0.46072155237197876  0.3246768116950989  1.0000
+  S   S1        1.0  0.07801488786935806  0.13927127420902252  0.5976545810699463  1.0000
+  S   S2        1.0  0.43126338720321655  0.802991509437561  0.8496487736701964  1.0000
+  U   U1        1.0  0.4253097474575043  0.3272559642791748  0.12117271125316618  1.0000
+  Zr  Zr1       1.0  0.7848376035690308  0.8319883346557617  0.5904225707054138  1.0000

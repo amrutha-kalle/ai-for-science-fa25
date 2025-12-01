@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CoO2ScTaTb4
+_chemical_formula_sum              "Co1 O2 Sc1 Ta1 Tb4"
+_cell_length_a       4.750616910462633
+_cell_length_b       5.740612307263235
+_cell_length_c       7.0706562995910645
+_cell_angle_alpha    110.25564201073178
+_cell_angle_beta     94.08863267983601
+_cell_angle_gamma    110.9607367789249
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.022821994498372078  0.13128146529197693  0.6791310906410217  1.0000
+  O   O1        1.0  0.15274089574813843  0.6660647988319397  0.967176377773285  1.0000
+  O   O2        1.0  0.007150447461754084  0.1503060907125473  0.874053180217743  1.0000
+  Sc  Sc1       1.0  0.9822133183479309  0.8038123846054077  0.4565974175930024  1.0000
+  Ta  Ta1       1.0  0.43629026412963867  0.40772318840026855  0.2064308971166611  1.0000
+  Tb  Tb1       1.0  0.7161174416542053  0.17588448524475098  0.806105136871338  1.0000
+  Tb  Tb2       1.0  0.32099300622940063  0.8372129797935486  0.8751896023750306  1.0000
+  Tb  Tb3       1.0  0.44801995158195496  0.40361446142196655  0.29678136110305786  1.0000
+  Tb  Tb4       1.0  0.5018172264099121  0.45458194613456726  0.3697327077388764  1.0000

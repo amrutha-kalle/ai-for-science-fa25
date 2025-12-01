@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BaCd3Pt2Zn
+_chemical_formula_sum              "Ba1 Cd3 Pt2 Zn1"
+_cell_length_a       5.339125777195682
+_cell_length_b       5.76195373193792
+_cell_length_c       6.208673477172852
+_cell_angle_alpha    118.15020035192309
+_cell_angle_beta     89.13016387877927
+_cell_angle_gamma    90.15964804391919
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.0363914892077446  0.3049980103969574  0.6476401686668396  1.0000
+  Cd  Cd1       1.0  0.5384460091590881  0.07772316783666611  0.48338940739631653  1.0000
+  Cd  Cd2       1.0  0.5430929064750671  0.6244366765022278  0.01841814815998074  1.0000
+  Cd  Cd3       1.0  0.033596426248550415  0.316570520401001  0.2581869065761566  1.0000
+  Pt  Pt1       1.0  0.5370889902114868  0.4882153272628784  0.9039719700813293  1.0000
+  Pt  Pt2       1.0  0.3714961111545563  0.45728999376296997  0.49361899495124817  1.0000
+  Zn  Zn1       1.0  0.03392447903752327  0.824298083782196  0.9064072370529175  1.0000

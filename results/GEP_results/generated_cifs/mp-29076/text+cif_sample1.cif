@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Fe2H2Si2Zn3
+_chemical_formula_sum              "Fe2 H2 Si2 Zn3"
+_cell_length_a       4.166979461307765
+_cell_length_b       4.909541071393407
+_cell_length_c       4.653055191040039
+_cell_angle_alpha    59.58327788611921
+_cell_angle_beta     62.733959540745744
+_cell_angle_gamma    64.12734458498609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.29905304312705994  0.6879610419273376  0.6383146047592163  1.0000
+  Fe  Fe2       1.0  0.015984997153282166  0.8837341070175171  0.3196178674697876  1.0000
+  H   H1        1.0  0.6560385227203369  0.2018500417470932  0.5723221302032471  1.0000
+  H   H2        1.0  0.7748938202857971  0.6187415719032288  0.8462114930152893  1.0000
+  Si  Si1       1.0  0.4262197613716126  0.17327289283275604  0.005957288201898336  1.0000
+  Si  Si2       1.0  0.025501016527414322  0.6314917206764221  0.027638427913188983  1.0000
+  Zn  Zn1       1.0  0.2759302258491516  0.39966699481010437  0.4588600695133209  1.0000
+  Zn  Zn2       1.0  0.8941910266876222  0.09970994293689728  0.26997199654579157  1.0000
+  Zn  Zn3       1.0  0.2756879925727844  0.6108443140983582  0.6617732644081116  1.0000

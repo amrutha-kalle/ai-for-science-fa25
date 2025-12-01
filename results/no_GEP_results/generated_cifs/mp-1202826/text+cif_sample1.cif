@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsDyGdNiSU3Zn
+_chemical_formula_sum              "As1 Dy1 Gd1 Ni1 S1 U3 Zn1"
+_cell_length_a       5.27192189861999
+_cell_length_b       5.89510903260653
+_cell_length_c       7.397464275360107
+_cell_angle_alpha    105.28044138396425
+_cell_angle_beta     89.36708030341107
+_cell_angle_gamma    93.66405356222283
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8247946500778198  0.397513210773468  0.001375111984089032  1.0000
+  Dy  Dy1       1.0  0.3203466832637787  0.9696182608604431  0.8351756334304811  1.0000
+  Gd  Gd1       1.0  0.32073983550071716  0.46604520082473755  0.337379664182663  1.0000
+  Ni  Ni1       1.0  0.7859789133071899  0.32619211077690125  0.03994819521903992  1.0000
+  S   S1        1.0  0.32147833704948425  0.8537228107452393  0.9798256754875184  1.0000
+  U   U1        1.0  0.32675620913505554  0.1999308466911316  0.36684861779212957  1.0000
+  U   U2        1.0  0.8192137479782104  0.06691368669271469  0.20999619364738467  1.0000
+  U   U3        1.0  0.8220330476760864  0.9287384748458862  0.1906584352254868  1.0000
+  Zn  Zn1       1.0  0.8186140060424805  0.9629432559013367  0.1996365934610367  1.0000

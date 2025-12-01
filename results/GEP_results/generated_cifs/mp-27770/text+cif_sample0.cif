@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CdCl2Rh4
+_chemical_formula_sum              "Cd1 Cl2 Rh4"
+_cell_length_a       5.552113240846984
+_cell_length_b       5.596549177967502
+_cell_length_c       6.848143100738525
+_cell_angle_alpha    64.52708208018663
+_cell_angle_beta     64.36835722224492
+_cell_angle_gamma    61.27585189124513
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.8675629496574402  0.6101431846618652  0.06509445607662201  1.0000
+  Cl  Cl1       1.0  0.2174297571182251  0.2929325997829437  0.8288775682449341  1.0000
+  Cl  Cl2       1.0  0.39182817935943604  0.10887230187654495  0.7763186693191528  1.0000
+  Rh  Rh1       1.0  0.18402636051177979  0.8417385220527649  0.5211926102638245  1.0000
+  Rh  Rh2       1.0  0.09070997685194016  0.8220255374908447  0.15460360050201416  1.0000
+  Rh  Rh3       1.0  0.5998165607452393  0.8725122213363647  0.5429475903511047  1.0000
+  Rh  Rh4       1.0  0.5881667733192444  0.812247097492218  0.7775233387947083  1.0000

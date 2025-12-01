@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HI2Pt2Zn
+_chemical_formula_sum              "H1 I2 Pt2 Zn1"
+_cell_length_a       4.673210387682487
+_cell_length_b       4.650460065140529
+_cell_length_c       5.334862232208252
+_cell_angle_alpha    109.57726115471937
+_cell_angle_beta     92.33272434582632
+_cell_angle_gamma    89.58039683596402
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5649864673614502  0.7657790780067444  0.8143686652183533  1.0000
+  I   I1        1.0  0.8318305611610413  0.1407710760831833  0.3519662320613861  1.0000
+  I   I2        1.0  0.3266310691833496  0.9737744927406311  0.9196075797080994  1.0000
+  Pt  Pt1       1.0  0.8308545351028442  0.4800964891910553  0.32071757316589355  1.0000
+  Pt  Pt2       1.0  0.3280881941318512  0.9765081405639648  0.7410336136817932  1.0000
+  Zn  Zn1       1.0  0.322525292634964  0.22711056470870972  0.801483154296875  1.0000

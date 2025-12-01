@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       P3PbSr3
+_chemical_formula_sum              "P3 Pb1 Sr3"
+_cell_length_a       5.224230497213312
+_cell_length_b       6.610821078332625
+_cell_length_c       7.022243022918701
+_cell_angle_alpha    113.5627527613941
+_cell_angle_beta     99.10598408454068
+_cell_angle_gamma    95.75417393768954
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  P   P1        1.0  0.56053626537323  0.6232197284698486  0.25691109895706177  1.0000
+  P   P2        1.0  0.5530603528022766  0.8467697501182556  0.7212337851524352  1.0000
+  P   P3        1.0  0.04917290434241295  0.8591583967208862  0.4537358582019805  1.0000
+  Pb  Pb1       1.0  0.5468242764472961  0.873700737953186  0.9841003417968749  1.0000
+  Sr  Sr1       1.0  0.5657084584236145  0.10375089943408966  0.21217770874500272  1.0000
+  Sr  Sr2       1.0  0.06399177014827728  0.11577487736940384  0.2137014865875244  1.0000
+  Sr  Sr3       1.0  0.06822851300239563  0.6287794709205627  0.6078478693962097  1.0000

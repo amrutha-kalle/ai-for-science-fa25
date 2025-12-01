@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsGaIPV2
+_chemical_formula_sum              "As1 Ga1 I1 P1 V2"
+_cell_length_a       3.7347221002011244
+_cell_length_b       3.3224383510305
+_cell_length_c       6.019002437591553
+_cell_angle_alpha    90.1064750867557
+_cell_angle_beta     89.43195648215
+_cell_angle_gamma    123.29585836262837
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.4306516051292419  0.5469279289245605  0.9170752763748169  1.0000
+  Ga  Ga1       1.0  0.4407974183559417  0.088763028383255  0.18122652173042297  1.0000
+  I   I1        1.0  0.7056108117103576  0.5983757376670837  0.332905650138855  1.0000
+  P   P1        1.0  0.10765103250741957  0.5341477990150452  0.5053654909133911  1.0000
+  V   V1        1.0  0.670829951763153  0.7800400257110595  0.8199014663696289  1.0000
+  V   V2        1.0  0.9766123294830321  0.5115454792976379  0.37595799565315247  1.0000

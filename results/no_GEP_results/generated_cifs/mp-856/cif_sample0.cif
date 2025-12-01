@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GeIPSeVZn
+_chemical_formula_sum              "Ge1 I1 P1 Se1 V1 Zn1"
+_cell_length_a       4.186883133207975
+_cell_length_b       4.3005692487950125
+_cell_length_c       7.862868309020996
+_cell_angle_alpha    98.12225470027255
+_cell_angle_beta     89.8329122391997
+_cell_angle_gamma    85.2160017196068
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.429713636636734  0.5633448362350464  0.01556807197630406  1.0000
+  I   I1        1.0  0.9004834890365601  0.38097402453422546  0.08339125663042068  1.0000
+  P   P1        1.0  0.9233396649360657  0.34702354669570923  0.5449463129043579  1.0000
+  Se  Se1       1.0  0.904975414276123  0.49153628945350647  0.5643130540847778  1.0000
+  V   V1        1.0  0.40115290880203247  0.9029293656349182  0.7045273780822754  1.0000
+  Zn  Zn1       1.0  0.4029470384120941  0.5204845070838928  0.44413325190544123  1.0000

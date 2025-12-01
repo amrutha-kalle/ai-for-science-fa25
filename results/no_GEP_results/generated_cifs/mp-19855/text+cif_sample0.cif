@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CHI2SrZr
+_chemical_formula_sum              "C1 H1 I2 Sr1 Zr1"
+_cell_length_a       5.7024438857869235
+_cell_length_b       5.789834856246974
+_cell_length_c       5.5664286613464355
+_cell_angle_alpha    64.29191735783563
+_cell_angle_beta     59.37664203144907
+_cell_angle_gamma    60.43774446927355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.7899242043495178  0.6602027416229248  0.1571468710899353  1.0000
+  H   H1        1.0  0.82709801197052  0.3330638110637665  0.6655563712120056  1.0000
+  I   I1        1.0  0.24856168031692505  0.14339059591293335  0.20764777064323428  1.0000
+  I   I2        1.0  0.7642704248428345  0.7866149544715881  0.2057762295007706  1.0000
+  Sr  Sr1       1.0  0.07173262536525726  0.7949594259262085  0.46817740797996527  1.0000
+  Zr  Zr1       1.0  0.2520884871482849  0.19850444793701172  0.07044797390699387  1.0000

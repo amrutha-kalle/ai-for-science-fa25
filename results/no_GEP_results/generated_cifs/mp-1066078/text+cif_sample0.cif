@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoI2PbPt3
+_chemical_formula_sum              "Co1 I2 Pb1 Pt3"
+_cell_length_a       5.52437441769601
+_cell_length_b       5.252648722258792
+_cell_length_c       8.658452987670898
+_cell_angle_alpha    76.88643803063263
+_cell_angle_beta     77.5546045730154
+_cell_angle_gamma    65.02688691974846
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.43630075454711914  0.1694747805595398  0.6634432673454285  1.0000
+  I   I1        1.0  0.8841155171394348  0.06982536613941193  0.12339614331722262  1.0000
+  I   I2        1.0  0.6471567153930664  0.8699922561645508  0.7770736217498779  1.0000
+  Pb  Pb1       1.0  0.4521297514438629  0.09313838928937912  0.6421576738357544  1.0000
+  Pt  Pt1       1.0  0.6048920750617981  0.9202643036842345  0.24417532980442047  1.0000
+  Pt  Pt2       1.0  0.820258617401123  0.17256447672843933  0.26028239727020264  1.0000
+  Pt  Pt3       1.0  0.1116992682218552  0.9335234761238097  0.9679491519927979  1.0000

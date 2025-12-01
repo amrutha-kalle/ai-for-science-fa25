@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pb4Sr3
+_chemical_formula_sum              "Pb4 Sr3"
+_cell_length_a       5.186916447026751
+_cell_length_b       4.544782395388763
+_cell_length_c       15.702122688293457
+_cell_angle_alpha    101.00454084523584
+_cell_angle_beta     99.82003054393641
+_cell_angle_gamma    92.23805817901989
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pb  Pb1       1.0  0.3917352855205536  0.9280624985694885  0.516869306564331  1.0000
+  Pb  Pb2       1.0  0.8907464742660522  0.31922632455825806  0.09208887070417403  1.0000
+  Pb  Pb3       1.0  0.39887452125549316  0.955435037612915  0.6861788034439086  1.0000
+  Pb  Pb4       1.0  0.8829010725021362  0.10693246871232986  0.2854461967945099  1.0000
+  Sr  Sr1       1.0  0.3926830291748047  0.6849315762519836  0.8559225201606749  1.0000
+  Sr  Sr2       1.0  0.3917309045791626  0.4153132438659668  0.011822263710200785  1.0000
+  Sr  Sr3       1.0  0.8962963819503785  0.6893595457077026  0.24706739187240598  1.0000

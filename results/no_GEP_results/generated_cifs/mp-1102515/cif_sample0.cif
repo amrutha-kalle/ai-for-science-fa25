@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsI2VZn3
+_chemical_formula_sum              "As1 I2 V1 Zn3"
+_cell_length_a       4.763585390604559
+_cell_length_b       4.769039294679533
+_cell_length_c       7.729127883911133
+_cell_angle_alpha    92.58636338430149
+_cell_angle_beta     91.80732265013816
+_cell_angle_gamma    97.20009165291268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9428166747093201  0.024339936673641205  0.5041534900665283  1.0000
+  I   I1        1.0  0.9368456602096558  0.9349867105484009  0.7327871322631836  1.0000
+  I   I2        1.0  0.4320117235183716  0.050177931785583496  0.43292000889778137  1.0000
+  V   V1        1.0  0.9382774233818054  0.5269988775253296  0.9356000423431396  1.0000
+  Zn  Zn1       1.0  0.4336840510368347  0.9653124809265137  0.7832673788070679  1.0000
+  Zn  Zn2       1.0  0.4295312166213989  0.37929773330688477  0.3642003834247589  1.0000
+  Zn  Zn3       1.0  0.9328559041023254  0.15135721862316132  0.5240756869316101  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La5Si2
+_chemical_formula_sum              "La5 Si2"
+_cell_length_a       7.296699389111028
+_cell_length_b       6.38680736799298
+_cell_length_c       8.129942893981934
+_cell_angle_alpha    109.43387063925034
+_cell_angle_beta     111.14856443823304
+_cell_angle_gamma    111.04370666227648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.13448350131511688  0.34774643182754517  0.5735259056091309  1.0000
+  La  La2       1.0  0.6251187324523927  0.7476762533187866  0.5256943106651306  1.0000
+  La  La3       1.0  0.6292712688446046  0.4890420138835907  0.9310863018035889  1.0000
+  La  La4       1.0  0.9472966790199281  0.7792060971260071  0.25411415100097656  1.0000
+  La  La5       1.0  0.17719085514545443  0.6861014366149902  0.954364001750946  1.0000
+  Si  Si1       1.0  0.4523791074752808  0.009607660584151745  0.969832718372345  1.0000
+  Si  Si2       1.0  0.6352648735046388  0.29924464225769043  0.050159431993961334  1.0000

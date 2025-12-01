@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CeDyMgPbVZn2
+_chemical_formula_sum              "Ce1 Dy1 Mg1 Pb1 V1 Zn2"
+_cell_length_a       4.354405986041492
+_cell_length_b       4.90798157085114
+_cell_length_c       8.427597045898438
+_cell_angle_alpha    95.5584725525205
+_cell_angle_beta     90.62782527132411
+_cell_angle_gamma    88.47338844559076
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.6575356125831604  0.7041643857955933  0.45363759994506836  1.0000
+  Dy  Dy1       1.0  0.6562554836273193  0.29250988364219666  0.5220257043838501  1.0000
+  Mg  Mg1       1.0  0.1509232372045517  0.22283171117305756  0.11904790252447128  1.0000
+  Pb  Pb1       1.0  0.16005036234855652  0.9417253136634827  0.5269524455070496  1.0000
+  V   V1        1.0  0.16603340208530426  0.38451626896858215  0.17923010885715485  1.0000
+  Zn  Zn1       1.0  0.6667336225509644  0.522943913936615  0.7280444502830505  1.0000
+  Zn  Zn2       1.0  0.6579482555389404  0.9699556827545166  0.49648579955101013  1.0000

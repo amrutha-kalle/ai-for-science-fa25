@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CGaI2MoPPt
+_chemical_formula_sum              "C1 Ga1 I2 Mo1 P1 Pt1"
+_cell_length_a       4.836627459508433
+_cell_length_b       5.2213957079163755
+_cell_length_c       6.26906681060791
+_cell_angle_alpha    109.9280952608733
+_cell_angle_beta     90.17617556240879
+_cell_angle_gamma    90.62640403650072
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.11258795857429504  0.0538909025490284  0.43990951776504517  1.0000
+  Ga  Ga1       1.0  0.6103904247283936  0.019899195060133934  0.8782923221588135  1.0000
+  I   I1        1.0  0.6037157773971558  0.8496367931365967  0.8489727973937988  1.0000
+  I   I2        1.0  0.10673059523105621  0.23344947397708893  0.04362884908914565  1.0000
+  Mo  Mo1       1.0  0.09595242887735367  0.932376503944397  0.14091767370700836  1.0000
+  P   P1        1.0  0.10652279853820801  0.8327123522758484  0.7330604791641235  1.0000
+  Pt  Pt1       1.0  0.6145023703575134  0.013502846471965313  0.32829201221466064  1.0000

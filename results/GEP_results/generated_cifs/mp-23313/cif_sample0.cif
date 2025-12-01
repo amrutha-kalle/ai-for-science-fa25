@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       In3P2PtS
+_chemical_formula_sum              "In3 P2 Pt1 S1"
+_cell_length_a       5.381513829618079
+_cell_length_b       5.860412219073605
+_cell_length_c       8.499634742736816
+_cell_angle_alpha    90.8300264312735
+_cell_angle_beta     89.75941848774477
+_cell_angle_gamma    114.75394605924917
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.47833266854286194  0.5578813552856445  0.9786485433578491  1.0000
+  In  In2       1.0  0.47683438658714294  0.5657370686531067  0.0038458660710603007  1.0000
+  In  In3       1.0  0.793698787689209  0.9078221321105958  0.6843188405036926  1.0000
+  P   P1        1.0  0.16734646260738376  0.4121634662151337  0.9115296006202698  1.0000
+  P   P2        1.0  0.048505377024412155  0.04441056028008461  0.2268831431865692  1.0000
+  Pt  Pt1       1.0  0.1802985966205597  0.72323077917099  0.4156002402305603  1.0000
+  S   S1        1.0  0.3548954427242279  0.032125238329172134  0.7513159513473511  1.0000

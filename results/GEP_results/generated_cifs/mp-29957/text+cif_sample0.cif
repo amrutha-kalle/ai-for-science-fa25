@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ge2LiZr4
+_chemical_formula_sum              "Ge2 Li1 Zr4"
+_cell_length_a       4.847568753905243
+_cell_length_b       6.133395902762789
+_cell_length_c       6.663880825042725
+_cell_angle_alpha    122.92379920605707
+_cell_angle_beta     89.55580605463696
+_cell_angle_gamma    91.90835062674864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.9887838363647461  0.23458288609981537  0.2141118049621582  1.0000
+  Ge  Ge2       1.0  0.0034856994170695543  0.23476622998714447  0.9201516509056091  1.0000
+  Li  Li1       1.0  0.49584102630615234  0.010715469717979431  0.2699897587299347  1.0000
+  Zr  Zr1       1.0  0.4966239333152771  0.005437097046524286  0.9172008037567139  1.0000
+  Zr  Zr2       1.0  0.7486302256584167  0.4912737309932709  0.46132880449295044  1.0000
+  Zr  Zr3       1.0  0.9998894333839417  0.5192882418632507  0.2835163176059723  1.0000
+  Zr  Zr4       1.0  0.4969434142112732  0.0057248808443546295  0.27569273114204407  1.0000

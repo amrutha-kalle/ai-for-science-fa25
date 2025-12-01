@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       O3PtSn2
+_chemical_formula_sum              "O3 Pt1 Sn2"
+_cell_length_a       4.169720369898394
+_cell_length_b       4.243021711202545
+_cell_length_c       9.239514350891113
+_cell_angle_alpha    100.3489244700871
+_cell_angle_beta     95.30268603801804
+_cell_angle_gamma    87.71675787196277
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.626741886138916  0.21159891784191132  0.7374335527420044  1.0000
+  O   O2        1.0  0.4077412784099579  0.7117076516151428  0.45979809761047363  1.0000
+  O   O3        1.0  0.3531684875488281  0.7197265028953552  0.838997483253479  1.0000
+  Pt  Pt1       1.0  0.9608924388885498  0.4534318149089813  0.41335245966911316  1.0000
+  Sn  Sn1       1.0  0.45986831188201904  0.9825356602668762  0.3674670457839966  1.0000
+  Sn  Sn2       1.0  0.9391911625862122  0.9692065715789795  0.8528813123703003  1.0000

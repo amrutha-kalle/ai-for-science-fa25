@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HPTb5
+_chemical_formula_sum              "H1 P1 Tb5"
+_cell_length_a       5.462041952938233
+_cell_length_b       5.581485804391295
+_cell_length_c       6.316681861877441
+_cell_angle_alpha    63.71101567664357
+_cell_angle_beta     65.09958084528999
+_cell_angle_gamma    62.013191147079006
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5907437205314636  0.12919068336486816  0.9241188168525696  1.0000
+  P   P1        1.0  0.5757945775985718  0.7749764919281006  0.6677775382995605  1.0000
+  Tb  Tb1       1.0  0.9390935897827148  0.6644695401191711  0.6010446548461914  1.0000
+  Tb  Tb2       1.0  0.5963054299354553  0.10695764422416687  0.6168481111526489  1.0000
+  Tb  Tb3       1.0  0.3364194631576538  0.44466450810432434  0.14045603573322296  1.0000
+  Tb  Tb4       1.0  0.9259579181671143  0.6206803917884827  0.39089152216911316  1.0000
+  Tb  Tb5       1.0  0.6935022473335266  0.3883884847164154  0.08669430762529373  1.0000

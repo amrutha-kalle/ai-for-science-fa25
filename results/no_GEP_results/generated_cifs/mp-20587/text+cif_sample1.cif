@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu4HZn
+_chemical_formula_sum              "Eu4 H1 Zn1"
+_cell_length_a       5.716144377064728
+_cell_length_b       6.1779478474877605
+_cell_length_c       6.61491584777832
+_cell_angle_alpha    109.15312860743643
+_cell_angle_beta     110.40689196972698
+_cell_angle_gamma    104.53960445138675
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.31641116738319397  0.18765275180339813  0.38445091247558594  1.0000
+  Eu  Eu2       1.0  0.7993053793907166  0.7735737562179565  0.7434065341949463  1.0000
+  Eu  Eu3       1.0  0.8107330799102783  0.26631128787994385  0.059724848717451096  1.0000
+  Eu  Eu4       1.0  0.7946555614471436  0.18475137650966644  0.9545794725418091  1.0000
+  H   H1        1.0  0.30642831325531006  0.6360703706741333  0.4419527053833008  1.0000
+  Zn  Zn1       1.0  0.2978901267051696  0.9651944041252135  0.8036006689071655  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       C2CrNiSc2
+_chemical_formula_sum              "C2 Cr1 Ni1 Sc2"
+_cell_length_a       3.7676492990963553
+_cell_length_b       4.131827874030258
+_cell_length_c       5.969608306884766
+_cell_angle_alpha    108.42170941603942
+_cell_angle_beta     108.14230549476183
+_cell_angle_gamma    89.21959381093464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.07478015124797821  0.19169099628925323  0.7829574346542358  1.0000
+  C   C2        1.0  0.5615030527114868  0.5286688208580017  0.422111839056015  1.0000
+  Cr  Cr1       1.0  0.9534865617752075  0.848010241985321  0.6548452973365784  1.0000
+  Ni  Ni1       1.0  0.9935904145240784  0.9928500652313232  0.22068679332733154  1.0000
+  Sc  Sc1       1.0  0.3233892619609833  0.7077678442001343  0.2527588903903962  1.0000
+  Sc  Sc2       1.0  0.30108481645584106  0.04239688441157341  0.9443818926811218  1.0000

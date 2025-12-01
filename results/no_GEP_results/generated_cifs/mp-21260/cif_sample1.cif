@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       EuFeGaINpPZn
+_chemical_formula_sum              "Eu1 Fe1 Ga1 I1 Np1 P1 Zn1"
+_cell_length_a       5.028361577691617
+_cell_length_b       5.489574484473473
+_cell_length_c       6.214542865753174
+_cell_angle_alpha    120.17066180851914
+_cell_angle_beta     90.53548140263302
+_cell_angle_gamma    94.92723672649824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.7070822715759277  0.06360028684139252  0.8302652239799501  1.0000
+  Fe  Fe1       1.0  0.900441586971283  0.7225927710533142  0.6783044934272766  1.0000
+  Ga  Ga1       1.0  0.21712003648281097  0.49443933367729187  0.3304591476917267  1.0000
+  I   I1        1.0  0.7100843191146851  0.6968774795532227  0.2523891031742096  1.0000
+  Np  Np1       1.0  0.7096399068832397  0.7934717535972595  0.5042526125907898  1.0000
+  P   P1        1.0  0.22121351957321167  0.41090115904808044  0.1598185747861862  1.0000
+  Zn  Zn1       1.0  0.21722885966300964  0.09693200141191483  0.6620525121688843  1.0000

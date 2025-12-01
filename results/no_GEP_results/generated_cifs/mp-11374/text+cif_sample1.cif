@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy7
+_chemical_formula_sum              "Dy7"
+_cell_length_a       4.334794607101899
+_cell_length_b       3.700216938634846
+_cell_length_c       6.644839286804199
+_cell_angle_alpha    145.45770054246657
+_cell_angle_beta     98.50666783911196
+_cell_angle_gamma    92.87466661544786
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.2504357397556305  0.474652647972107  0.5773890018463135  1.0000
+  Dy  Dy2       1.0  0.3894087076187134  0.6371213793754578  0.48513495922088623  1.0000
+  Dy  Dy3       1.0  0.3937899172306061  0.12884117662906633  0.26532369852066034  1.0000
+  Dy  Dy4       1.0  0.9025476574897766  0.9585581421852111  0.9123732447624207  1.0000
+  Dy  Dy5       1.0  0.9027108550071716  0.5962709784507751  0.12056861817836761  1.0000
+  Dy  Dy6       1.0  0.8754144906997681  0.3678656220436097  0.4711318910121918  1.0000
+  Dy  Dy7       1.0  0.8922259211540222  0.6035067439079284  0.49406892061233515  1.0000

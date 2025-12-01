@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaO2P2Pr2Ru2
+_chemical_formula_sum              "Ga1 O2 P2 Pr2 Ru2"
+_cell_length_a       4.641337481394418
+_cell_length_b       4.700905846295997
+_cell_length_c       5.244335174560547
+_cell_angle_alpha    104.88476241366814
+_cell_angle_beta     101.57884592674819
+_cell_angle_gamma    95.55418461638793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.8366524577140808  0.17053964734077454  0.8321487307548524  1.0000
+  O   O1        1.0  0.08920923620462418  0.5853857398033142  0.6231153607368469  1.0000
+  O   O2        1.0  0.7378334999084473  0.18720604479312897  0.6011931300163269  1.0000
+  P   P1        1.0  0.8192123770713806  0.0510769784450531  0.9494532942771913  1.0000
+  P   P2        1.0  0.32514259219169617  0.31419530510902405  0.9483284950256349  1.0000
+  Pr  Pr1       1.0  0.33322519063949585  0.18176867067813873  0.9349622726440431  1.0000
+  Pr  Pr2       1.0  0.8219271302223206  0.0728028193116188  0.6112111806869507  1.0000
+  Ru  Ru1       1.0  0.3351474106311798  0.09153995662927628  0.09496841579675674  1.0000
+  Ru  Ru2       1.0  0.06488953530788422  0.7025482654571533  0.14697918295860293  1.0000

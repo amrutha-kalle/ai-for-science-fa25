@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe3Sn4
+_chemical_formula_sum              "Fe3 Sn4"
+_cell_length_a       4.90335168517872
+_cell_length_b       5.939200622287877
+_cell_length_c       6.294771671295166
+_cell_angle_alpha    70.30307554678531
+_cell_angle_beta     66.38190587722623
+_cell_angle_gamma    60.50688789525391
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.11245089769363403  0.0647926926612854  0.7391154766082764  1.0000
+  Fe  Fe2       1.0  0.5191311836242676  0.8449990153312683  0.1963820606470108  1.0000
+  Fe  Fe3       1.0  0.6503353118896484  0.7880614995956421  0.6320751905441284  1.0000
+  Sn  Sn1       1.0  0.6992539167404175  0.5648991465568542  0.3290231227874756  1.0000
+  Sn  Sn2       1.0  0.11627539247274399  0.37020885944366455  0.18322372436523438  1.0000
+  Sn  Sn3       1.0  0.22110573947429657  0.12800301611423492  0.7011910080909729  1.0000
+  Sn  Sn4       1.0  0.21817660331726074  0.8665238618850708  0.8357113003730774  1.0000

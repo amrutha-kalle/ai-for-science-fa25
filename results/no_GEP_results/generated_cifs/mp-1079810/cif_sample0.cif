@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hf3LiPPbZr
+_chemical_formula_sum              "Hf3 Li1 P1 Pb1 Zr1"
+_cell_length_a       5.967633284196803
+_cell_length_b       5.60203240566179
+_cell_length_c       6.2300262451171875
+_cell_angle_alpha    114.55056790652905
+_cell_angle_beta     89.12448735684232
+_cell_angle_gamma    90.95002191277027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.4481072723865509  0.9373675584793091  0.2613278329372406  1.0000
+  Hf  Hf2       1.0  0.6410314440727234  0.22876191139221191  0.2323211431503296  1.0000
+  Hf  Hf3       1.0  0.4427632987499237  0.9561784267425538  0.10320005565881736  1.0000
+  Li  Li1       1.0  0.13443894684314728  0.7897326350212097  0.8204513788223267  1.0000
+  P   P1        1.0  0.9389370083808899  0.49212452769279486  0.9032022356987  1.0000
+  Pb  Pb1       1.0  0.9403772950172424  0.4081634283065796  0.9837432503700256  1.0000
+  Zr  Zr1       1.0  0.14060266315937042  0.15416237711906433  0.1863251030445099  1.0000

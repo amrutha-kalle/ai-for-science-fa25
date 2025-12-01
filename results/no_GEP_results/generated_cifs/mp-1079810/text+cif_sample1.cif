@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FGaHf3Sn2
+_chemical_formula_sum              "F1 Ga1 Hf3 Sn2"
+_cell_length_a       3.9989711380037134
+_cell_length_b       3.5124551271632476
+_cell_length_c       5.939169883728027
+_cell_angle_alpha    130.96115961867258
+_cell_angle_beta     90.88716631198406
+_cell_angle_gamma    93.63321181988624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.41577625274658203  0.213354229927063  0.8105401396751404  1.0000
+  Ga  Ga1       1.0  0.13219617307186127  0.2378031611442566  0.2262900024652481  1.0000
+  Hf  Hf1       1.0  0.1263188123703003  0.23059260845184326  0.4152088463306427  1.0000
+  Hf  Hf2       1.0  0.6285125613212585  0.11350291967391968  0.454537957906723  1.0000
+  Hf  Hf3       1.0  0.6149934530258179  0.14363335072994232  0.980345606803894  1.0000
+  Sn  Sn1       1.0  0.59659743309021  0.8612486124038696  0.8835047483444214  1.0000
+  Sn  Sn2       1.0  0.10634761303663254  0.5370070934295654  0.30171021819114685  1.0000

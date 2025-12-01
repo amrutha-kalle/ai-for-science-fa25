@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co3GeHISeUV
+_chemical_formula_sum              "Co3 Ge1 H1 I1 Se1 U1 V1"
+_cell_length_a       4.599617587181883
+_cell_length_b       4.49557783099766
+_cell_length_c       7.239809036254883
+_cell_angle_alpha    114.99234789775173
+_cell_angle_beta     112.0446964075258
+_cell_angle_gamma    107.5403956484592
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.22859680652618408  0.17453746497631076  0.833135426044464  1.0000
+  Co  Co2       1.0  0.8442886471748353  0.9099860787391664  0.3380190432071685  1.0000
+  Co  Co3       1.0  0.34316322207450867  0.35976597666740423  0.770370841026306  1.0000
+  Ge  Ge1       1.0  0.24785462021827698  0.12736620008945465  0.41297233104705805  1.0000
+  H   H1        1.0  0.23687313497066498  0.1515214592218399  0.18892760574817655  1.0000
+  I   I1        1.0  0.3938509225845337  0.13600638508796692  0.6228237152099608  1.0000
+  Se  Se1       1.0  0.21490587294101715  0.14241981506347656  0.5149773359298706  1.0000
+  U   U1        1.0  0.8791060447692871  0.8558459281921388  0.6434805393218993  1.0000
+  V   V1        1.0  0.7468065023422241  0.7464478015899659  0.7520416975021361  1.0000

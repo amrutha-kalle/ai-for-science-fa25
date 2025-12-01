@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       K2LuS5Zn
+_chemical_formula_sum              "K2 Lu1 S5 Zn1"
+_cell_length_a       6.623048317017592
+_cell_length_b       6.291765345794444
+_cell_length_c       6.625466823577881
+_cell_angle_alpha    111.75098209375594
+_cell_angle_beta     111.0383179273391
+_cell_angle_gamma    107.46859521488639
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  K   K1        1.0  0.1402616798877716  0.41500645875930786  0.37430188059806824  1.0000
+  K   K2        1.0  0.5999683141708374  0.8770759105682373  0.18541347980499268  1.0000
+  Lu  Lu1       1.0  0.8914247751235962  0.8816062808036804  0.6955578923225403  1.0000
+  S   S1        1.0  0.5697282552719116  0.35854628682136536  0.68531733751297  1.0000
+  S   S2        1.0  0.9519005417823792  0.3818891644477844  0.6889839768409729  1.0000
+  S   S3        1.0  0.09125284850597382  0.8797655701637268  0.1988370269536972  1.0000
+  S   S4        1.0  0.3562803268432617  0.15165480971336365  0.8832202553749084  1.0000
+  S   S5        1.0  0.5998998284339905  0.8744312524795532  0.21699701249599457  1.0000
+  Zn  Zn1       1.0  0.31316399574279785  0.35791727900505066  0.8713037967681885  1.0000

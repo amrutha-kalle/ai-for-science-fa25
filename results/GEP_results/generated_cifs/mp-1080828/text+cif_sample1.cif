@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CuFK3Lu2NV
+_chemical_formula_sum              "Cu1 F1 K3 Lu2 N1 V1"
+_cell_length_a       5.0190090401824685
+_cell_length_b       6.169061706636805
+_cell_length_c       7.555678844451904
+_cell_angle_alpha    113.74463318115305
+_cell_angle_beta     88.53195302201031
+_cell_angle_gamma    107.55607971880653
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.7155439257621765  0.08269147574901581  0.9161179661750793  1.0000
+  F   F1        1.0  0.7251654267311096  0.459867924451828  0.2551434338092804  1.0000
+  K   K1        1.0  0.20557093620300293  0.30401259660720825  0.9708196520805359  1.0000
+  K   K2        1.0  0.6933402419090271  0.04298782721161842  0.11847690492868423  1.0000
+  K   K3        1.0  0.18469299376010895  0.587326169013977  0.9629976749420166  1.0000
+  Lu  Lu1       1.0  0.6987365484237671  0.7945200204849243  0.6218657493591309  1.0000
+  Lu  Lu2       1.0  0.17059697210788727  0.779538094997406  0.13049343228340152  1.0000
+  N   N1        1.0  0.7062063813209534  0.30231961607933044  0.3842708468437195  1.0000
+  V   V1        1.0  0.20132817327976227  0.30774009227752686  0.48678258061408997  1.0000

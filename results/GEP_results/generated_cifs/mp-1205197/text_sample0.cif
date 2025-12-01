@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlDy4Ga2
+_chemical_formula_sum              "Al1 Dy4 Ga2"
+_cell_length_a       4.245307728623688
+_cell_length_b       6.657966314567365
+_cell_length_c       6.194633483886719
+_cell_angle_alpha    124.6634498957822
+_cell_angle_beta     86.33273216405378
+_cell_angle_gamma    91.11119613007959
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.003752370597794652  0.9906729459762573  0.5982132554054261  1.0000
+  Dy  Dy1       1.0  0.0012805461883544922  0.48612433671951294  0.09889177978038792  1.0000
+  Dy  Dy2       1.0  0.49758103489875793  0.49930939078330994  0.904395878314972  1.0000
+  Dy  Dy3       1.0  0.5098415017127991  0.25087419152259827  0.36067402362823486  1.0000
+  Dy  Dy4       1.0  0.0035683265887200832  0.4957101047039032  0.8061586022377015  1.0000
+  Ga  Ga1       1.0  0.5039421916007996  0.7960139513015747  0.6026281118392944  1.0000
+  Ga  Ga2       1.0  0.004278298933058977  0.47837650775909424  0.40628275275230413  1.0000

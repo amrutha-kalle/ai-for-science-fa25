@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaLiMg2P2
+_chemical_formula_sum              "Ba1 Li1 Mg2 P2"
+_cell_length_a       4.50998060402083
+_cell_length_b       5.122112027287385
+_cell_length_c       5.930688381195068
+_cell_angle_alpha    67.35220706474459
+_cell_angle_beta     61.467716738456296
+_cell_angle_gamma    60.501442658385436
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.6145426034927368  0.06222483143210411  0.46105182170867925  1.0000
+  Li  Li1       1.0  0.8635857105255127  0.4424111545085907  0.444436401128769  1.0000
+  Mg  Mg1       1.0  0.6175141930580139  0.5687776803970337  0.12042503803968431  1.0000
+  Mg  Mg2       1.0  0.22271671891212463  0.9594241380691528  0.6420862078666687  1.0000
+  P   P1        1.0  0.19569891691207886  0.7623197436332703  0.43558585643768316  1.0000
+  P   P2        1.0  0.22590768337249756  0.42738401889801025  0.9987187385559083  1.0000

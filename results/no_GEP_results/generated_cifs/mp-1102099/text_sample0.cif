@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe2Ho5
+_chemical_formula_sum              "Fe2 Ho5"
+_cell_length_a       3.785769642900777
+_cell_length_b       5.77335822372908
+_cell_length_c       8.19741439819336
+_cell_angle_alpha    65.16923771438698
+_cell_angle_beta     81.38618295632862
+_cell_angle_gamma    63.428531064706824
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9869335293769838  0.31878727674484253  0.08848771452903748  1.0000
+  Fe  Fe2       1.0  0.4321324825286866  0.2544217109680176  0.8990998268127441  1.0000
+  Ho  Ho1       1.0  0.401289314031601  0.5620707869529724  0.7017626166343689  1.0000
+  Ho  Ho2       1.0  0.526006281375885  0.7635106444358826  0.20109882950782776  1.0000
+  Ho  Ho3       1.0  0.5436667203903198  0.22958442568778992  0.10516658425331116  1.0000
+  Ho  Ho4       1.0  0.9215745329856874  0.6722978353500366  0.7857384085655212  1.0000
+  Ho  Ho5       1.0  0.03079263493418694  0.07940724492073059  0.184393048286438  1.0000

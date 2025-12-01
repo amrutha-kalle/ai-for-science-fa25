@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu2RuSUZn
+_chemical_formula_sum              "Eu2 Ru1 S1 U1 Zn1"
+_cell_length_a       5.244011493930109
+_cell_length_b       5.833171136857648
+_cell_length_c       6.320278167724609
+_cell_angle_alpha    109.70223135869028
+_cell_angle_beta     107.16895502548937
+_cell_angle_gamma    108.60647727734772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.12117239832878114  0.5715613961219788  0.7686809301376343  1.0000
+  Eu  Eu2       1.0  0.9332497715950013  0.07691831886768341  0.5184961557388306  1.0000
+  Ru  Ru1       1.0  0.4247970879077912  0.8357234001159668  0.822271466255188  1.0000
+  S   S1        1.0  0.7422336339950562  0.5713756084442139  0.7619239687919617  1.0000
+  U   U1        1.0  0.6326377391815186  0.07599297910928726  0.23038646578788757  1.0000
+  Zn  Zn1       1.0  0.4205333888530732  0.35267069935798645  0.5378162264823914  1.0000

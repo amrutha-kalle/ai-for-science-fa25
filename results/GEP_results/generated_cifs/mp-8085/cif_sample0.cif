@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CsMg2P2Zn
+_chemical_formula_sum              "Cs1 Mg2 P2 Zn1"
+_cell_length_a       5.040251038950949
+_cell_length_b       5.234737545007439
+_cell_length_c       6.11789608001709
+_cell_angle_alpha    68.14922568211226
+_cell_angle_beta     66.01322209946127
+_cell_angle_gamma    62.344554309167926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cs  Cs1       1.0  0.6942784786224365  0.6767576336860657  0.42077234387397766  1.0000
+  Mg  Mg1       1.0  0.7047553062438965  0.1868440806865692  0.9196271300315857  1.0000
+  Mg  Mg2       1.0  0.20787444710731506  0.17301276326179504  0.9235855340957642  1.0000
+  P   P1        1.0  0.6652287244796753  0.19294489920139313  0.18065379559993747  1.0000
+  P   P2        1.0  0.21359223127365112  0.8080396056175232  0.4113854169845581  1.0000
+  Zn  Zn1       1.0  0.9327756762504578  0.8179207444190979  0.1883347630500794  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlGa3Nb3
+_chemical_formula_sum              "Al1 Ga3 Nb3"
+_cell_length_a       5.346642791369212
+_cell_length_b       5.09896186463386
+_cell_length_c       6.15802001953125
+_cell_angle_alpha    112.17049523358193
+_cell_angle_beta     109.81313618970663
+_cell_angle_gamma    98.43952092483971
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9280107021331787  0.5727778077125549  0.3787091374397278  1.0000
+  Ga  Ga1       1.0  0.4370845556259155  0.29065197706222534  0.8638851642608643  1.0000
+  Ga  Ga2       1.0  0.7606942057609558  0.32025840878486633  0.16255638003349304  1.0000
+  Ga  Ga3       1.0  0.45184382796287537  0.6717848777770996  0.5929046869277954  1.0000
+  Nb  Nb1       1.0  0.44158318638801575  0.8932546973228455  0.36505523324012756  1.0000
+  Nb  Nb2       1.0  0.9268113970756531  0.19473356008529663  0.4381961524486542  1.0000
+  Nb  Nb3       1.0  0.9322492480278015  0.6628800630569458  0.6607585549354553  1.0000

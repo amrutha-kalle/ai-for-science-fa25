@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       LiNi4PS3
+_chemical_formula_sum              "Li1 Ni4 P1 S3"
+_cell_length_a       5.759480419480044
+_cell_length_b       5.268024975349832
+_cell_length_c       5.950263977050781
+_cell_angle_alpha    70.16390699544478
+_cell_angle_beta     61.43878491965457
+_cell_angle_gamma    66.54810572510041
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.09076045453548431  0.8419817686080933  0.8099590539932251  1.0000
+  Ni  Ni1       1.0  0.5223414897918701  0.5454127788543701  0.14862839877605438  1.0000
+  Ni  Ni2       1.0  0.02325105480849743  0.4002600908279419  0.08076900988817215  1.0000
+  Ni  Ni3       1.0  0.0028467178344726562  0.6818584203720093  0.7196611166000366  1.0000
+  Ni  Ni4       1.0  0.03806232288479805  0.9804858565330505  0.21473024785518646  1.0000
+  P   P1        1.0  0.6244640946388245  0.435287743806839  0.840431272983551  1.0000
+  S   S1        1.0  0.6764121055603027  0.745309054851532  0.3984014093875885  1.0000
+  S   S2        1.0  0.6154935956001282  0.9337896704673767  0.7559916377067566  1.0000
+  S   S3        1.0  0.14597974717617035  0.2829676866531372  0.4694722890853882  1.0000

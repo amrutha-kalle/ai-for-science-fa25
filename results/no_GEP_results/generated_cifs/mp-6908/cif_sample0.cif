@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsCLiMgPbZn4Zr
+_chemical_formula_sum              "As1 C1 Li1 Mg1 Pb1 Zn4 Zr1"
+_cell_length_a       5.67405722315274
+_cell_length_b       6.0391156448837355
+_cell_length_c       6.9714813232421875
+_cell_angle_alpha    91.69449421868413
+_cell_angle_beta     90.05967308869619
+_cell_angle_gamma    100.10801101516097
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8778464198112487  0.11787001788616179  0.6562279462814331  1.0000
+  C   C1        1.0  0.8732008934020995  0.29724469780921936  0.03153972700238228  1.0000
+  Li  Li1       1.0  0.8655336499214171  0.004173362161964178  0.6171256303787231  1.0000
+  Mg  Mg1       1.0  0.8718299269676207  0.754083514213562  0.6468151807785034  1.0000
+  Pb  Pb1       1.0  0.3685757517814636  0.2536543905735016  0.9436988830566407  1.0000
+  Zn  Zn1       1.0  0.871171474456787  0.2936432957649231  0.8020875453948975  1.0000
+  Zn  Zn2       1.0  0.8703923225402831  0.5358224511146545  0.7340974807739258  1.0000
+  Zn  Zn3       1.0  0.8702544569969176  0.1186823323369026  0.04109499603509903  1.0000
+  Zn  Zn4       1.0  0.37805360555648804  0.7511281371116638  0.5153717398643494  1.0000
+  Zr  Zr1       1.0  0.3739331364631653  0.7772108316421509  0.019106563180685043  1.0000

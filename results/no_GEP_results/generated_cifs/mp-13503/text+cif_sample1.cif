@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsPb2PtScZn2
+_chemical_formula_sum              "As1 Pb2 Pt1 Sc1 Zn2"
+_cell_length_a       3.442200770665182
+_cell_length_b       4.341042289062058
+_cell_length_c       7.734106063842773
+_cell_angle_alpha    104.73473774519424
+_cell_angle_beta     94.90455918774065
+_cell_angle_gamma    78.5734355312452
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.43459260463714594  0.47758620977401733  0.6177298426628113  1.0000
+  Pb  Pb1       1.0  0.6926369667053222  0.7209271788597107  0.3885895013809204  1.0000
+  Pb  Pb2       1.0  0.19483499228954312  0.8280944228172302  0.6880188584327698  1.0000
+  Pt  Pt1       1.0  0.7124489545822142  0.8663840889930725  0.32501354813575745  1.0000
+  Sc  Sc1       1.0  0.18534342944622037  0.9929168224334717  0.6391659379005432  1.0000
+  Zn  Zn1       1.0  0.1903472393751144  0.22151511907577515  0.48740050196647644  1.0000
+  Zn  Zn2       1.0  0.6917115449905394  0.9768707752227783  0.44171983003616333  1.0000

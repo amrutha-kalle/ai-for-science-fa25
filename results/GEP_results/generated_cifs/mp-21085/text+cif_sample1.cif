@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LuPPdPr3Ru
+_chemical_formula_sum              "Lu1 P1 Pd1 Pr3 Ru1"
+_cell_length_a       4.1410918141502915
+_cell_length_b       4.591445646069893
+_cell_length_c       6.0981526374816895
+_cell_angle_alpha    121.93342255270827
+_cell_angle_beta     97.7050005447113
+_cell_angle_gamma    89.43805619481665
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.8074063062667847  0.9273477196693422  0.012194499373435974  1.0000
+  P   P1        1.0  0.32497256994247437  0.1594933271408081  0.035157281905412674  1.0000
+  Pd  Pd1       1.0  0.0926886796951294  0.4823265373706818  0.30239835381507874  1.0000
+  Pr  Pr1       1.0  0.5496621131896973  0.2826242446899414  0.39617615938186646  1.0000
+  Pr  Pr2       1.0  0.08595872670412064  0.4639349281787873  0.5080348253250122  1.0000
+  Pr  Pr3       1.0  0.788977324962616  0.8298180103302003  0.7208886742591858  1.0000
+  Ru  Ru1       1.0  0.32669588923454285  0.9005615115165712  0.5557482838630676  1.0000

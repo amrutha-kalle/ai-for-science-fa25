@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al3FPt3
+_chemical_formula_sum              "Al3 F1 Pt3"
+_cell_length_a       3.691531177550005
+_cell_length_b       3.9112473579669356
+_cell_length_c       8.704919815063477
+_cell_angle_alpha    113.24675432109584
+_cell_angle_beta     102.29555824259701
+_cell_angle_gamma    82.69211358861939
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7756503820419312  0.5995014905929565  0.9940890073776245  1.0000
+  Al  Al2       1.0  0.8092942833900452  0.1065499857068062  0.047018472105264664  1.0000
+  Al  Al3       1.0  0.9031847715377808  0.36695635318756104  0.7435469031333923  1.0000
+  F   F1        1.0  0.9827992916107178  0.5895981788635254  0.48158130049705505  1.0000
+  Pt  Pt1       1.0  0.4243890047073364  0.533169686794281  0.6662614941596985  1.0000
+  Pt  Pt2       1.0  0.9092909693717957  0.009094941429793835  0.5567368268966675  1.0000
+  Pt  Pt3       1.0  0.37590500712394714  0.6094383597373962  0.2272946983575821  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga3PbPtTi2
+_chemical_formula_sum              "Ga3 Pb1 Pt1 Ti2"
+_cell_length_a       4.965122626645936
+_cell_length_b       4.534414577708331
+_cell_length_c       5.4614176750183105
+_cell_angle_alpha    49.7386654184071
+_cell_angle_beta     61.397088225223406
+_cell_angle_gamma    51.59265275638654
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.22076667845249176  0.7899013161659241  0.10770647227764128  1.0000
+  Ga  Ga2       1.0  0.4378517270088196  0.023667458444833755  0.942324936389923  1.0000
+  Ga  Ga3       1.0  0.9187331795692444  0.3310524821281433  0.2307297885417938  1.0000
+  Pb  Pb1       1.0  0.7839396595954895  0.5296666622161865  0.11520968377590178  1.0000
+  Pt  Pt1       1.0  0.9070607423782349  0.934846520423889  0.05575528368353843  1.0000
+  Ti  Ti1       1.0  0.8271235227584839  0.3543837070465088  0.7891979813575744  1.0000
+  Ti  Ti2       1.0  0.382302612066269  0.916193127632141  0.21576344966888425  1.0000

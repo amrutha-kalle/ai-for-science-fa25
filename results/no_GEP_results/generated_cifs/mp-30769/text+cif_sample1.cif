@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CrILi3ScZn2
+_chemical_formula_sum              "Cr1 I1 Li3 Sc1 Zn2"
+_cell_length_a       4.404224825114486
+_cell_length_b       3.8685560150503546
+_cell_length_c       5.0285468101501465
+_cell_angle_alpha    88.61621173926564
+_cell_angle_beta     83.72235204590702
+_cell_angle_gamma    98.98986417819681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.16891369223594666  0.7511347532272339  0.1842508465051651  1.0000
+  I   I1        1.0  0.4817966818809509  0.2443850338459015  0.46577227115631104  1.0000
+  Li  Li1       1.0  0.6540226936340332  0.23337234556674957  0.27163073420524597  1.0000
+  Li  Li2       1.0  0.6682949662208557  0.4777716398239136  0.0650755763053894  1.0000
+  Li  Li3       1.0  0.9858419299125671  0.30195558071136475  0.813679575920105  1.0000
+  Sc  Sc1       1.0  0.6436517834663391  0.19705034792423248  0.9325782060623169  1.0000
+  Zn  Zn1       1.0  0.6533519625663757  0.5400552749633789  0.6329084634780884  1.0000
+  Zn  Zn2       1.0  0.16877374053001404  0.6042279005050659  0.18396764993667603  1.0000

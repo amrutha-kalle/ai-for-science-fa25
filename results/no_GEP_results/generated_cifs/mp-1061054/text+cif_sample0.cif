@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyGe4P
+_chemical_formula_sum              "Dy1 Ge4 P1"
+_cell_length_a       4.330754915062778
+_cell_length_b       4.305520356329782
+_cell_length_c       6.011092185974121
+_cell_angle_alpha    86.06216074825714
+_cell_angle_beta     92.29474769347858
+_cell_angle_gamma    109.4072221531451
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.5320730805397034  0.8610088229179382  0.36676803231239324  1.0000
+  Ge  Ge1       1.0  0.979024112224579  0.23076596856117249  0.43298822641372686  1.0000
+  Ge  Ge2       1.0  0.07670789957046509  0.222132608294487  0.6035730242729187  1.0000
+  Ge  Ge3       1.0  0.24068401753902438  0.5213084816932678  0.9376490712165834  1.0000
+  Ge  Ge4       1.0  0.7167521119117737  0.14716102182865143  0.4309024810791016  1.0000
+  P   P1        1.0  0.6608918905258179  0.7046056985855103  0.8879022002220155  1.0000

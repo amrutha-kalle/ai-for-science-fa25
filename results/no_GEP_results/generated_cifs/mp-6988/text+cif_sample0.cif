@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe3IPZn
+_chemical_formula_sum              "Fe3 I1 P1 Zn1"
+_cell_length_a       5.466771385156057
+_cell_length_b       5.383447651872165
+_cell_length_c       5.429869174957275
+_cell_angle_alpha    59.68080066138647
+_cell_angle_beta     58.35868167611394
+_cell_angle_gamma    60.88743151669034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.014886029995977879  0.49787160754203796  0.9570842385292054  1.0000
+  Fe  Fe2       1.0  0.02248786762356758  0.17718592286109924  0.2085721641778946  1.0000
+  Fe  Fe3       1.0  0.013113738037645817  0.5246700644493103  0.11827443540096287  1.0000
+  I   I1        1.0  0.48092517256736755  0.5746471881866455  0.8927384614944458  1.0000
+  P   P1        1.0  0.5188332200050354  0.7455436587333679  0.6907836198806763  1.0000
+  Zn  Zn1       1.0  0.5054633617401123  0.4256994128227234  0.6239657402038574  1.0000

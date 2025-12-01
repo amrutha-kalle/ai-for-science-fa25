@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GaIK3Pt4
+_chemical_formula_sum              "Ga1 I1 K3 Pt4"
+_cell_length_a       5.714509498597573
+_cell_length_b       5.384637889161373
+_cell_length_c       7.395476818084717
+_cell_angle_alpha    89.48474077292254
+_cell_angle_beta     90.60677491537793
+_cell_angle_gamma    92.96233729313185
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.6415769457817078  0.19876272976398468  0.9481624364852904  1.0000
+  I   I1        1.0  0.1497761607170105  0.9648951888084412  0.39770340919494623  1.0000
+  K   K1        1.0  0.40451407432556147  0.41982460021972656  0.9176607728004454  1.0000
+  K   K2        1.0  0.901839792728424  0.9183956384658813  0.2518036365509033  1.0000
+  K   K3        1.0  0.5698143839836121  0.16238538920879364  0.36924791336059565  1.0000
+  Pt  Pt1       1.0  0.1189429387450218  0.5755194425582886  0.9922090768814086  1.0000
+  Pt  Pt2       1.0  0.8670271635055541  0.3363126218318939  0.5334254503250122  1.0000
+  Pt  Pt3       1.0  0.6452785730361938  0.7370356917381287  0.8702864050865172  1.0000
+  Pt  Pt4       1.0  0.8703580498695372  0.3791607916355133  0.15092134475708002  1.0000

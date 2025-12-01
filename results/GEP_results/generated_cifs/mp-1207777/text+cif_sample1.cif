@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaLuPPrVY
+_chemical_formula_sum              "Ba1 Lu1 P1 Pr1 V1 Y1"
+_cell_length_a       5.361113350690134
+_cell_length_b       5.482719769556381
+_cell_length_c       6.1886305809021
+_cell_angle_alpha    60.75990458348419
+_cell_angle_beta     64.42086182105048
+_cell_angle_gamma    63.19868848844706
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8901016712188721  0.17560866475105286  0.05514806509017944  1.0000
+  Lu  Lu1       1.0  0.4617888033390045  0.21077196300029755  0.15110862255096436  1.0000
+  P   P1        1.0  0.08981279283761978  0.21561139822006226  0.8201631903648376  1.0000
+  Pr  Pr1       1.0  0.8629258275032043  0.7062832117080688  0.8879987597465515  1.0000
+  V   V1        1.0  0.5612607598304749  0.6930737495422363  0.9409022331237793  1.0000
+  Y   Y1        1.0  0.8389725685119629  0.3521170914173126  0.3395429849624634  1.0000

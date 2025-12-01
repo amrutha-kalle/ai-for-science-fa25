@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ErGaMnO2SbZnZr3
+_chemical_formula_sum              "Er1 Ga1 Mn1 O2 Sb1 Zn1 Zr3"
+_cell_length_a       7.157218589197952
+_cell_length_b       7.103871732332485
+_cell_length_c       7.320063591003418
+_cell_angle_alpha    58.57751028577957
+_cell_angle_beta     61.51928280160635
+_cell_angle_gamma    57.35388992020264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.5750128626823425  0.779037356376648  0.29971158504486084  1.0000
+  Ga  Ga1       1.0  0.7133308053016663  0.32809683680534363  0.04898376762866974  1.0000
+  Mn  Mn1       1.0  0.09929462522268295  0.6640922427177429  0.7825888395309448  1.0000
+  O   O1        1.0  0.5945009589195251  0.7991908192634583  0.6189453601837158  1.0000
+  O   O2        1.0  0.1909155398607254  0.4121640920639038  0.7437373399734497  1.0000
+  Sb  Sb1       1.0  0.9374070763587952  0.9180101752281189  0.8750503659248352  1.0000
+  Zn  Zn1       1.0  0.21148115396499634  0.5274404883384705  0.18029600381851196  1.0000
+  Zr  Zr1       1.0  0.1871836632490158  0.6070001125335693  0.45822882652282715  1.0000
+  Zr  Zr2       1.0  0.07565686106681824  0.10369477421045303  0.8734829425811768  1.0000
+  Zr  Zr3       1.0  0.48141250014305115  0.3837350308895111  0.3421967923641205  1.0000

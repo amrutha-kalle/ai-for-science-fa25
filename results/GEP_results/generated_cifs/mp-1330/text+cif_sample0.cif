@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al3HZn2
+_chemical_formula_sum              "Al3 H1 Zn2"
+_cell_length_a       4.032767987785562
+_cell_length_b       3.3035225720298618
+_cell_length_c       4.544754981994629
+_cell_angle_alpha    42.347320085638145
+_cell_angle_beta     60.52568756688275
+_cell_angle_gamma    60.60974875905764
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.31805330514907837  0.7710287570953369  0.092311792075634  1.0000
+  Al  Al2       1.0  0.12155401706695558  0.37399670481681824  0.10337968170642849  1.0000
+  Al  Al3       1.0  0.9342276453971864  0.12305352836847305  0.8184013366699219  1.0000
+  H   H1        1.0  0.17565177381038666  0.8687671422958374  0.004494670778512857  1.0000
+  Zn  Zn1       1.0  0.5997095108032227  0.38498786091804504  0.2902940809726715  1.0000
+  Zn  Zn2       1.0  0.6204785108566284  0.39067840576171875  0.13406042754650116  1.0000

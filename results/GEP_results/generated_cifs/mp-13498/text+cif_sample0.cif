@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mn3NiTb2Zn
+_chemical_formula_sum              "Mn3 Ni1 Tb2 Zn1"
+_cell_length_a       4.530167046082741
+_cell_length_b       4.508795394174128
+_cell_length_c       6.846653938293457
+_cell_angle_alpha    89.02893307437185
+_cell_angle_beta     89.41459530349597
+_cell_angle_gamma    93.99067190031855
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.7888577580451965  0.5680646896362305  0.20475628972053528  1.0000
+  Mn  Mn2       1.0  0.5049194693565369  0.3088231682777405  0.9114775657653809  1.0000
+  Mn  Mn3       1.0  0.2632947266101837  0.5764269828796387  0.9517059922218323  1.0000
+  Ni  Ni1       1.0  0.28053730726242065  0.07198622077703476  0.20637434720993042  1.0000
+  Tb  Tb1       1.0  0.7688620090484619  0.07526218891143799  0.2493298053741455  1.0000
+  Tb  Tb2       1.0  0.2895430028438568  0.5697453618049622  0.20372925698757172  1.0000
+  Zn  Zn1       1.0  0.7772958874702454  0.05614355951547623  0.4488409757614136  1.0000

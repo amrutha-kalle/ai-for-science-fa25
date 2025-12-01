@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       B3Co5Y
+_chemical_formula_sum              "B3 Co5 Y1"
+_cell_length_a       5.1965751426707145
+_cell_length_b       3.843854794365345
+_cell_length_c       4.502338409423828
+_cell_angle_alpha    99.62682957230932
+_cell_angle_beta     104.94577629500857
+_cell_angle_gamma    134.7372899868268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.4332294464111328  0.5427477955818176  0.34463053941726685  1.0000
+  B   B2        1.0  0.06567186117172241  0.4975029230117798  0.18517851829528809  1.0000
+  B   B3        1.0  0.112733393907547  0.24357905983924866  0.021075021475553513  1.0000
+  Co  Co1       1.0  0.7443044781684875  0.0014601381262764335  0.4254741370677948  1.0000
+  Co  Co2       1.0  0.853247880935669  0.7078834772109985  0.7082680463790894  1.0000
+  Co  Co3       1.0  0.028687529265880585  0.3537505269050598  0.6306887865066528  1.0000
+  Co  Co4       1.0  0.40169960260391235  0.47303539514541626  0.6629990339279175  1.0000
+  Co  Co5       1.0  0.07641108334064484  0.9883496761322021  0.24133133888244632  1.0000
+  Y   Y1        1.0  0.4107360243797302  0.9662470817565918  0.9819572567939759  1.0000

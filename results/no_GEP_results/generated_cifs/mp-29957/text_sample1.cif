@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       MoTeZr5
+_chemical_formula_sum              "Mo1 Te1 Zr5"
+_cell_length_a       4.653285151275114
+_cell_length_b       5.966709287861698
+_cell_length_c       6.314036846160889
+_cell_angle_alpha    128.5329438551699
+_cell_angle_beta     92.4501296732741
+_cell_angle_gamma    87.97717387179681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.12495619803667068  0.8240966796875  0.8105934858322144  1.0000
+  Te  Te1       1.0  0.995004415512085  0.37212663888931274  0.22567763924598694  1.0000
+  Zr  Zr1       1.0  0.13517257571220398  0.8767970204353333  0.8371598124504089  1.0000
+  Zr  Zr2       1.0  0.5689313411712646  0.013391959480941296  0.765403687953949  1.0000
+  Zr  Zr3       1.0  0.5473763346672058  0.7089152932167053  0.13499215245246887  1.0000
+  Zr  Zr4       1.0  0.026533111929893494  0.10533572733402252  0.18434438109397888  1.0000
+  Zr  Zr5       1.0  0.5658138394355774  0.7878990769386292  0.19738326966762543  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mo7
+_chemical_formula_sum              "Mo7"
+_cell_length_a       2.495761191450357
+_cell_length_b       4.863803902994137
+_cell_length_c       5.681242942810059
+_cell_angle_alpha    121.17204528444694
+_cell_angle_beta     138.72786171202307
+_cell_angle_gamma    92.50389610458424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.9667904376983641  0.01596519909799098  0.23387803137302393  1.0000
+  Mo  Mo2       1.0  0.9767937660217281  0.0034906589426099933  0.7850087285041808  1.0000
+  Mo  Mo3       1.0  0.4760618209838863  0.2701540589332579  0.5535109043121336  1.0000
+  Mo  Mo4       1.0  0.9711474180221555  0.25760746002197266  0.0037002717144786865  1.0000
+  Mo  Mo5       1.0  0.45983192324638344  0.6490004062652588  0.0814764201641082  1.0000
+  Mo  Mo6       1.0  0.48267629742622375  0.9905417561531065  0.5803472399711608  1.0000
+  Mo  Mo7       1.0  0.4759313762187958  0.5850167870521545  0.15827560424804685  1.0000

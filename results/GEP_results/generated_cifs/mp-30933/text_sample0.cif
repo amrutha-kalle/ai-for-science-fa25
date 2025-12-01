@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi5Zr2
+_chemical_formula_sum              "Bi5 Zr2"
+_cell_length_a       4.067207615717176
+_cell_length_b       6.153274559910194
+_cell_length_c       7.185953617095947
+_cell_angle_alpha    121.21502132581574
+_cell_angle_beta     92.53248934445362
+_cell_angle_gamma    88.82228766931776
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.4168410003185272  0.4823394417762756  0.01255132909864187  1.0000
+  Bi  Bi2       1.0  0.9161359667778015  0.14986808598041534  0.7381739020347594  1.0000
+  Bi  Bi3       1.0  0.9165450930595397  0.2193726301193237  0.6995548605918883  1.0000
+  Bi  Bi4       1.0  0.41209423542022705  0.7295189499855042  0.17414721846580503  1.0000
+  Bi  Bi5       1.0  0.409000039100647  0.22109119594097135  0.15238650143146515  1.0000
+  Zr  Zr1       1.0  0.9159668684005737  0.4856119751930236  0.15295369923114777  1.0000
+  Zr  Zr2       1.0  0.9200758934020996  0.6714828014373779  0.9536708593368529  1.0000

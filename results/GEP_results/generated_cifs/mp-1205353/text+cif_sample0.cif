@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CoF2K3Mn3
+_chemical_formula_sum              "Co1 F2 K3 Mn3"
+_cell_length_a       5.427900533106092
+_cell_length_b       6.194928668942616
+_cell_length_c       7.036535263061523
+_cell_angle_alpha    99.65923558041102
+_cell_angle_beta     91.74277606756553
+_cell_angle_gamma    111.75887522982372
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.1760282814502716  0.0038198058027774096  0.05457824096083641  1.0000
+  F   F1        1.0  0.2151404619216919  0.48980513215065  0.28776994347572327  1.0000
+  F   F2        1.0  0.9246383905410767  0.4215930998325348  0.8551364541053772  1.0000
+  K   K1        1.0  0.18133948743343353  0.6289994716644287  0.8507727980613708  1.0000
+  K   K2        1.0  0.6905345320701599  0.8175435662269592  0.3508932888507843  1.0000
+  K   K3        1.0  0.6952466368675232  0.4887755811214447  0.3536139130592346  1.0000
+  Mn  Mn1       1.0  0.6841595768928528  0.12545284628868103  0.041778191924095154  1.0000
+  Mn  Mn2       1.0  0.1807367354631424  0.22561772167682648  0.7107946872711182  1.0000
+  Mn  Mn3       1.0  0.6869768500328064  0.8263980150222778  0.8452100157737732  1.0000

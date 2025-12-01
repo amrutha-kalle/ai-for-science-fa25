@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClGaILiPtSbZn
+_chemical_formula_sum              "Cl1 Ga1 I1 Li1 Pt1 Sb1 Zn1"
+_cell_length_a       6.038290865199125
+_cell_length_b       5.595262121089465
+_cell_length_c       6.3131890296936035
+_cell_angle_alpha    124.17276720304932
+_cell_angle_beta     114.09201309824506
+_cell_angle_gamma    88.86126454968748
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.583583652973175  0.8508138656616211  0.6730174422264099  1.0000
+  Ga  Ga1       1.0  0.930426836013794  0.2501397132873535  0.7298590540885925  1.0000
+  I   I1        1.0  0.07528997957706451  0.8706082701683044  0.6885645985603333  1.0000
+  Li  Li1       1.0  0.5952299237251282  0.07652585208415985  0.26282811164855957  1.0000
+  Pt  Pt1       1.0  0.09165576845407486  0.48120975494384766  0.0004538460925686995  1.0000
+  Sb  Sb1       1.0  0.12287911772727966  0.12605910003185272  0.8605087995529175  1.0000
+  Zn  Zn1       1.0  0.5783694386482239  0.8271426558494568  0.3916374146938324  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       AsBrPbSbSm3TbTiZr
+_chemical_formula_sum              "As1 Br1 Pb1 Sb1 Sm3 Tb1 Ti1 Zr1"
+_cell_length_a       7.282569951016205
+_cell_length_b       7.52277203000947
+_cell_length_c       7.957120418548584
+_cell_angle_alpha    108.5843551215091
+_cell_angle_beta     109.576249601249
+_cell_angle_gamma    111.18141846434467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.0004476308822631836  0.04695548862218857  0.06154837831854821  1.0000
+  Br  Br1       1.0  0.2549644112586975  0.20667943358421326  0.6141093373298646  1.0000
+  Pb  Pb1       1.0  0.264975368976593  0.5843830704689026  0.904149353504181  1.0000
+  Sb  Sb1       1.0  0.7321001291275024  0.4483705461025238  0.3229763209819794  1.0000
+  Sm  Sm1       1.0  0.03565795719623566  0.9346197247505188  0.7825540304183961  1.0000
+  Sm  Sm2       1.0  0.7793179154396057  0.5452251434326172  0.5563805103302003  1.0000
+  Sm  Sm3       1.0  0.34396275877952576  0.9643037915229797  0.862873136997223  1.0000
+  Tb  Tb1       1.0  0.3662177324295044  0.05507875606417656  0.6244095563888551  1.0000
+  Ti  Ti1       1.0  0.7233813405036926  0.014680283144116402  0.25627246499061584  1.0000
+  Zr  Zr1       1.0  0.7437505722045898  0.4834820628166199  0.6466650366783143  1.0000

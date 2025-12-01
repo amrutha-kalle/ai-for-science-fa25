@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BaILaZnZr2
+_chemical_formula_sum              "Ba1 I1 La1 Zn1 Zr2"
+_cell_length_a       4.943849670017893
+_cell_length_b       4.976956296091207
+_cell_length_c       8.924552917480469
+_cell_angle_alpha    103.37838141892395
+_cell_angle_beta     90.89829140789588
+_cell_angle_gamma    90.3242932371891
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.8336718082427979  0.6696768999099731  0.6639479398727417  1.0000
+  I   I1        1.0  0.8333190679550171  0.10891478508710861  0.08381002396345139  1.0000
+  La  La1       1.0  0.8155305981636047  0.8742807507514954  0.448691725730896  1.0000
+  Zn  Zn1       1.0  0.33714738488197327  0.5984748601913452  0.2439452260732651  1.0000
+  Zr  Zr1       1.0  0.8308823108673096  0.3854982256889343  0.444131076335907  1.0000
+  Zr  Zr2       1.0  0.3388911485671997  0.016805751249194145  0.20435208082199097  1.0000

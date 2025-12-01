@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       F3K3Lu2Y
+_chemical_formula_sum              "F3 K3 Lu2 Y1"
+_cell_length_a       5.518600833829961
+_cell_length_b       6.40324885910101
+_cell_length_c       7.227162837982178
+_cell_angle_alpha    115.04093283607484
+_cell_angle_beta     92.87044027049518
+_cell_angle_gamma    109.06775338243034
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9873692393302919  0.8136632442474365  0.5759444832801819  1.0000
+  F   F2        1.0  0.7548990845680237  0.28005510568618774  0.8964181542396544  1.0000
+  F   F3        1.0  0.7433652877807617  0.8424873948097229  0.0815017819404602  1.0000
+  K   K1        1.0  0.7475360035896301  0.2622988522052765  0.4084367156028747  1.0000
+  K   K2        1.0  0.2562097907066345  0.5014752149581909  0.4249455630779266  1.0000
+  K   K3        1.0  0.2551107406616211  0.7994788289070129  0.2242079526185989  1.0000
+  Lu  Lu1       1.0  0.25323107838630676  0.69881272315979  0.7003824710845947  1.0000
+  Lu  Lu2       1.0  0.7534505724906921  0.9099106788635253  0.7208829522132874  1.0000
+  Y   Y1        1.0  0.2559024393558502  0.2917338013648987  0.2230975031852722  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HMnPScTeW
+_chemical_formula_sum              "H1 Mn1 P1 Sc1 Te1 W1"
+_cell_length_a       4.1691410604796495
+_cell_length_b       5.09826075756556
+_cell_length_c       6.4711456298828125
+_cell_angle_alpha    99.35251701551174
+_cell_angle_beta     99.20994351073504
+_cell_angle_gamma    95.17218051769856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7110663652420044  0.05679086223244667  0.3760150969028473  1.0000
+  Mn  Mn1       1.0  0.7288790345191956  0.5804337859153748  0.5597689747810364  1.0000
+  P   P1        1.0  0.5091693997383118  0.7787915468215942  0.6580178141593933  1.0000
+  Sc  Sc1       1.0  0.18955464661121368  0.5021926164627075  0.8619503378868103  1.0000
+  Te  Te1       1.0  0.5512155294418335  0.06515049189329147  0.05169178545475007  1.0000
+  W   W1        1.0  0.7221211791038513  0.557834804058075  0.7326615452766418  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BaBrCl2GaOV3
+_chemical_formula_sum              "Ba1 Br1 Cl2 Ga1 O1 V3"
+_cell_length_a       4.487137679241686
+_cell_length_b       6.002846930702461
+_cell_length_c       6.352014064788818
+_cell_angle_alpha    118.3239810824861
+_cell_angle_beta     89.52766500964412
+_cell_angle_gamma    88.85541623024133
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.399601548910141  0.27340784668922424  0.07316621392965318  1.0000
+  Br  Br1       1.0  0.9001195430755615  0.17148718237876892  0.9712252616882323  1.0000
+  Cl  Cl1       1.0  0.3989919424057007  0.44371503591537476  0.947166085243225  1.0000
+  Cl  Cl2       1.0  0.40174391865730286  0.65937739610672  0.17820543050765994  1.0000
+  Ga  Ga1       1.0  0.9007518291473389  0.9889144897460938  0.8534637689590453  1.0000
+  O   O1        1.0  0.8988620638847351  0.6789999604225159  0.6236228942871094  1.0000
+  V   V1        1.0  0.39902371168136597  0.935856819152832  0.14466713368892675  1.0000
+  V   V2        1.0  0.8990042805671692  0.8268443942070007  0.42051860690116877  1.0000
+  V   V3        1.0  0.8995471000671387  0.9599743485450745  0.4679767489433288  1.0000

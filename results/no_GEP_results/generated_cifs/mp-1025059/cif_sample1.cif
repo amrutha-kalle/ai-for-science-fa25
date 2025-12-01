@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       DyGeMoPPb2V
+_chemical_formula_sum              "Dy1 Ge1 Mo1 P1 Pb2 V1"
+_cell_length_a       5.194209753172252
+_cell_length_b       5.675155413864381
+_cell_length_c       6.773141860961914
+_cell_angle_alpha    130.57370659710165
+_cell_angle_beta     93.16775773183097
+_cell_angle_gamma    87.8822233441877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.17495796084403992  0.2544192373752594  0.721076786518097  1.0000
+  Ge  Ge1       1.0  0.3707863986492157  0.0010668756440281868  0.16633969545364383  1.0000
+  Mo  Mo1       1.0  0.17397931218147278  0.22870366275310516  0.9481902718544007  1.0000
+  P   P1        1.0  0.18359974026679993  0.15003734827041626  0.17839172482490542  1.0000
+  Pb  Pb1       1.0  0.881083071231842  0.4954468309879303  0.7938859462738038  1.0000
+  Pb  Pb2       1.0  0.6720338463783264  0.7598025798797607  0.9398120641708375  1.0000
+  V   V1        1.0  0.6728402376174927  0.28058135509490967  0.0588621348142624  1.0000

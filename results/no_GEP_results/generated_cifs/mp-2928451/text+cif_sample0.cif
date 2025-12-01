@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoFPb2VW
+_chemical_formula_sum              "Co1 F1 Pb2 V1 W1"
+_cell_length_a       2.3151460095455634
+_cell_length_b       4.037096546527335
+_cell_length_c       5.733818054199219
+_cell_angle_alpha    113.10557723672885
+_cell_angle_beta     99.58749255280209
+_cell_angle_gamma    146.17319316959168
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.0041997735388581365  0.8870548605918886  0.3715384900569917  1.0000
+  F   F1        1.0  0.5150143504142763  0.8578301668167115  0.3190873265266419  1.0000
+  Pb  Pb1       1.0  0.544299840927124  0.7898021340370178  0.131963387131691  1.0000
+  Pb  Pb2       1.0  0.9886167049407959  0.15444003045558932  0.1364749521017075  1.0000
+  V   V1        1.0  0.023462992161512666  0.17376443743705766  0.3995320796966554  1.0000
+  W   W1        1.0  0.9973862767219546  0.39316049218177807  0.222027063369751  1.0000

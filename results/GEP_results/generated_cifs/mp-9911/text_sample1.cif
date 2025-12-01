@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BrK6MoS
+_chemical_formula_sum              "Br1 K6 Mo1 S1"
+_cell_length_a       8.861045396524048
+_cell_length_b       9.191026581843088
+_cell_length_c       9.778308868408203
+_cell_angle_alpha    90.4606694589639
+_cell_angle_beta     90.0499983936161
+_cell_angle_gamma    116.79256035843804
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.6425964832305908  0.017263535410165787  0.6364381909370422  1.0000
+  K   K1        1.0  0.6808140873908997  0.825806736946106  0.4963566064834595  1.0000
+  K   K2        1.0  0.42648452520370483  0.425029456615448  0.8001010417938232  1.0000
+  K   K3        1.0  0.5348580479621887  0.6940093636512756  0.13352547585964203  1.0000
+  K   K4        1.0  0.044311754405498505  0.6883183121681213  0.12145408987998962  1.0000
+  K   K5        1.0  0.9941772818565369  0.5015519261360168  0.13640239834785461  1.0000
+  K   K6        1.0  0.2865426242351532  0.21364590525627136  0.07833374291658401  1.0000
+  Mo  Mo1       1.0  0.967404305934906  0.9710659980773926  0.044524434953927994  1.0000
+  S   S1        1.0  0.01672893390059471  0.7149115800857544  0.5344608426094055  1.0000

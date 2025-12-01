@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cl3Ga2LiNp
+_chemical_formula_sum              "Cl3 Ga2 Li1 Np1"
+_cell_length_a       4.831372381400672
+_cell_length_b       3.185859959151465
+_cell_length_c       5.327128887176514
+_cell_angle_alpha    75.4467299659605
+_cell_angle_beta     91.24924328274113
+_cell_angle_gamma    108.7384566221318
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.1682138592004776  0.15199273824691772  0.2742919325828552  1.0000
+  Cl  Cl2       1.0  0.6921740770339966  0.26486045122146606  0.13945934176445007  1.0000
+  Cl  Cl3       1.0  0.19561879336833954  0.6866940259933472  0.04916144907474518  1.0000
+  Ga  Ga1       1.0  0.20169945061206818  0.9445385932922363  0.07148344069719312  1.0000
+  Ga  Ga2       1.0  0.6808080673217773  0.36643072962760925  0.43055155873298645  1.0000
+  Li  Li1       1.0  0.6725403070449829  0.6691030263900757  0.9866998195648193  1.0000
+  Np  Np1       1.0  0.717700719833374  0.44185754656791687  0.21155895292758942  1.0000

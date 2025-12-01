@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       La6Si
+_chemical_formula_sum              "La6 Si1"
+_cell_length_a       6.2880057896680475
+_cell_length_b       5.897020507706191
+_cell_length_c       9.70609188079834
+_cell_angle_alpha    93.79235576958078
+_cell_angle_beta     102.06345659238292
+_cell_angle_gamma    90.65285612993235
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.9975982904434204  0.11644898355007173  0.1090436726808548  1.0000
+  La  La2       1.0  0.007095474284142256  0.320117324590683  0.1255229562520981  1.0000
+  La  La3       1.0  0.5097394585609436  0.8842144608497621  0.13217118382453918  1.0000
+  La  La4       1.0  0.012460308149456978  0.5812519788742065  0.22491396963596344  1.0000
+  La  La5       1.0  0.02758108079433442  0.926644802093506  0.7098474502563477  1.0000
+  La  La6       1.0  0.4912126064300537  0.6017706990242004  0.8452895283699036  1.0000
+  Si  Si1       1.0  0.4702630341053009  0.1380755752325058  0.790218710899353  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Hg2IK2LuSTaZn
+_chemical_formula_sum              "Hg2 I1 K2 Lu1 S1 Ta1 Zn1"
+_cell_length_a       4.548031532216018
+_cell_length_b       7.997546167107265
+_cell_length_c       9.230734825134277
+_cell_angle_alpha    89.99951218903098
+_cell_angle_beta     90.81310391977986
+_cell_angle_gamma    90.03927000400219
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.9188288450241089  0.8778782486915588  0.27342355251312256  1.0000
+  Hg  Hg2       1.0  0.4007033407688141  0.937927782535553  0.007680355105549098  1.0000
+  I   I1        1.0  0.9061780571937561  0.36003366112709045  0.492418259382248  1.0000
+  K   K1        1.0  0.8987411260604858  0.4090632498264313  0.39545994997024536  1.0000
+  K   K2        1.0  0.4020480215549469  0.5904173851013184  0.5808517336845398  1.0000
+  Lu  Lu1       1.0  0.40011465549468994  0.8933491706848145  0.12369278818368913  1.0000
+  S   S1        1.0  0.8987577557563782  0.34671175479888916  0.3817991316318512  1.0000
+  Ta  Ta1       1.0  0.4027617275714874  0.368261456489563  0.6560690999031067  1.0000
+  Zn  Zn1       1.0  0.40175876021385193  0.20135575532913208  0.607271671295166  1.0000

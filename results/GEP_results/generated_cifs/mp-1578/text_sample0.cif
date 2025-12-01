@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ag4Rh2
+_chemical_formula_sum              "Ag4 Rh2"
+_cell_length_a       3.6038182602688313
+_cell_length_b       3.965106584786054
+_cell_length_c       4.3692121505737305
+_cell_angle_alpha    111.00749302257955
+_cell_angle_beta     88.65617044242455
+_cell_angle_gamma    92.51254026412457
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.4406217634677887  0.19799056649208072  0.07948923110961914  1.0000
+  Ag  Ag2       1.0  0.8835076093673706  0.35166597366333013  0.44429171085357666  1.0000
+  Ag  Ag3       1.0  0.7196164727210999  0.5304734110832214  0.29650214314460754  1.0000
+  Ag  Ag4       1.0  0.06253663450479507  0.8000527620315553  0.05405620485544215  1.0000
+  Rh  Rh1       1.0  0.23582418262958527  0.035763222724199295  0.5720248818397522  1.0000
+  Rh  Rh2       1.0  0.8115407824516296  0.4508525729179383  0.6001828908920288  1.0000

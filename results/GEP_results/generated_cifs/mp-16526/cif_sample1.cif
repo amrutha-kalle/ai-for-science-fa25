@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Al4ClHNa
+_chemical_formula_sum              "Al4 Cl1 H1 Na1"
+_cell_length_a       4.351897551872311
+_cell_length_b       5.166926510294433
+_cell_length_c       5.641299724578857
+_cell_angle_alpha    71.04133460455128
+_cell_angle_beta     66.90761329051045
+_cell_angle_gamma    64.22993435557461
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.2046157270669937  0.7760085463523865  0.9040235280990601  1.0000
+  Al  Al2       1.0  0.5189821124076843  0.5407649278640747  0.6929495334625244  1.0000
+  Al  Al3       1.0  0.46417197585105896  0.1074850782752037  0.9463467001914978  1.0000
+  Al  Al4       1.0  0.9519572854042053  0.06886373460292816  0.42227551341056824  1.0000
+  Cl  Cl1       1.0  0.4028322994709015  0.7765581607818604  0.18733659386634827  1.0000
+  H   H1        1.0  0.7929713726043701  0.6460236310958862  0.04246433079242706  1.0000
+  Na  Na1       1.0  0.8355597257614136  0.2859179973602295  0.9238688349723816  1.0000

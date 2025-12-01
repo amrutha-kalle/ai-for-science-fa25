@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Pd3Si4
+_chemical_formula_sum              "Pd3 Si4"
+_cell_length_a       3.857862734306692
+_cell_length_b       4.082313153617165
+_cell_length_c       4.464529991149902
+_cell_angle_alpha    93.05593279917339
+_cell_angle_beta     87.94969517104944
+_cell_angle_gamma    92.24341733171443
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.8504942655563354  0.9995262622833252  0.9087047576904297  1.0000
+  Pd  Pd2       1.0  0.35109028220176697  0.23009620606899261  0.16263438761234283  1.0000
+  Pd  Pd3       1.0  0.35205551981925964  0.5631652474403381  0.3839772641658783  1.0000
+  Si  Si1       1.0  0.8469113111495972  0.433143675327301  0.5894993543624878  1.0000
+  Si  Si2       1.0  0.8391374349594116  0.9192466735839844  0.7889121770858765  1.0000
+  Si  Si3       1.0  0.3471633195877075  0.23542840778827667  0.7623366117477417  1.0000
+  Si  Si4       1.0  0.35771775245666504  0.5597177147865295  0.7330713272094727  1.0000

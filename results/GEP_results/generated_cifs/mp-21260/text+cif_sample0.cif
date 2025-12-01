@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Fe2HfSn4
+_chemical_formula_sum              "Fe2 Hf1 Sn4"
+_cell_length_a       5.138912467692313
+_cell_length_b       5.372658086519744
+_cell_length_c       8.764841079711914
+_cell_angle_alpha    104.80609182720168
+_cell_angle_beta     88.4875564738604
+_cell_angle_gamma    107.26076586028017
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.5351766347885132  0.030582968145608902  0.3098565936088562  1.0000
+  Fe  Fe2       1.0  0.049549758434295654  0.7998501658439636  0.2971276342868805  1.0000
+  Hf  Hf1       1.0  0.5517054200172424  0.29424992203712463  0.7197906374931335  1.0000
+  Sn  Sn1       1.0  0.04372008517384529  0.08153407275676727  0.17792309820652008  1.0000
+  Sn  Sn2       1.0  0.5226141810417175  0.7922543883323669  0.18090510368347168  1.0000
+  Sn  Sn3       1.0  0.020448535680770874  0.6005845069885254  0.5599871277809143  1.0000
+  Sn  Sn4       1.0  0.5029186606407166  0.4291815459728241  0.44700461626052856  1.0000

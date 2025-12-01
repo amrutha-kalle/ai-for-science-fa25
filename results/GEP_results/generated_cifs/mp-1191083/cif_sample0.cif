@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hf3Mo3Ni
+_chemical_formula_sum              "Hf3 Mo3 Ni1"
+_cell_length_a       4.737411338195808
+_cell_length_b       6.361989632609279
+_cell_length_c       6.355481147766113
+_cell_angle_alpha    121.73868912732014
+_cell_angle_beta     88.75865217740203
+_cell_angle_gamma    88.67201965284632
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6924748420715332  0.5248640775680542  0.8074490427970886  1.0000
+  Hf  Hf2       1.0  0.6856899857521057  0.18710651993751526  0.715076208114624  1.0000
+  Hf  Hf3       1.0  0.6913343667984009  0.9397299885749817  0.3106177747249603  1.0000
+  Mo  Mo1       1.0  0.1915363371372223  0.5494590401649475  0.6258173584938048  1.0000
+  Mo  Mo2       1.0  0.18856990337371826  0.202523335814476  0.29476121068000793  1.0000
+  Mo  Mo3       1.0  0.1859053373336792  0.664398193359375  0.7128355503082275  1.0000
+  Ni  Ni1       1.0  0.1893489956855774  0.18643644452095032  0.7661923170089722  1.0000

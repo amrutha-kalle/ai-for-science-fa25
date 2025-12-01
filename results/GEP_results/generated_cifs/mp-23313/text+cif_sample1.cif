@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ba2In4Pt
+_chemical_formula_sum              "Ba2 In4 Pt1"
+_cell_length_a       4.957490102103114
+_cell_length_b       5.234888983880293
+_cell_length_c       9.385822296142578
+_cell_angle_alpha    89.27013827701875
+_cell_angle_beta     90.1983240358896
+_cell_angle_gamma    113.02122425573148
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.4746470749378204  0.7615150809288025  0.40247711539268494  1.0000
+  Ba  Ba2       1.0  0.4805037975311279  0.26063644886016846  0.4035877585411072  1.0000
+  In  In1       1.0  0.034681931138038635  0.42014080286026  0.9304085969924927  1.0000
+  In  In2       1.0  0.47738495469093317  0.2641114294528961  0.9661602973937988  1.0000
+  In  In3       1.0  0.9777623414993285  0.26275476813316345  0.16758814454078674  1.0000
+  In  In4       1.0  0.9670471549034118  0.7628059387207031  0.660479724407196  1.0000
+  Pt  Pt1       1.0  0.432523250579834  0.7587634325027466  0.16345903277397156  1.0000

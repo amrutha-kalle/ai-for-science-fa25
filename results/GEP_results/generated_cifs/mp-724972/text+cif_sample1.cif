@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       C3GaNNa2Si2
+_chemical_formula_sum              "C3 Ga1 N1 Na2 Si2"
+_cell_length_a       5.538727709448167
+_cell_length_b       5.902779894328803
+_cell_length_c       5.767366409301758
+_cell_angle_alpha    65.80611787057501
+_cell_angle_beta     63.25962323102916
+_cell_angle_gamma    64.32237452852739
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.3040054142475128  0.5495278239250183  0.14605167508125305  1.0000
+  C   C2        1.0  0.43617376685142517  0.9630251526832581  0.8496758341789246  1.0000
+  C   C3        1.0  0.8169758915901184  0.4530846178531647  0.07519107311964035  1.0000
+  Ga  Ga1       1.0  0.4437272250652313  0.2438747137784958  0.07124222069978714  1.0000
+  N   N1        1.0  0.18456628918647766  0.4748286306858063  0.5600463151931763  1.0000
+  Na  Na1       1.0  0.04967324063181877  0.24121148884296417  0.8240106105804443  1.0000
+  Na  Na2       1.0  0.48124587535858154  0.7741481065750122  0.5622278451919556  1.0000
+  Si  Si1       1.0  0.9699465036392212  0.07009146362543106  0.39230456948280334  1.0000
+  Si  Si2       1.0  0.1570846289396286  0.24354618787765503  0.9063652753829956  1.0000

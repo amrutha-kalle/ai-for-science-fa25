@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       OV5
+_chemical_formula_sum              "O1 V5"
+_cell_length_a       3.710954372938612
+_cell_length_b       4.466583459281272
+_cell_length_c       4.529776573181152
+_cell_angle_alpha    118.07500929798802
+_cell_angle_beta     89.66203948729839
+_cell_angle_gamma    87.97646166408548
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.9490182995796203  0.5601149797439575  0.06558974832296371  1.0000
+  V   V1        1.0  0.4634824991226196  0.6898754239082336  0.8011686205863953  1.0000
+  V   V2        1.0  0.46140304207801813  0.9586514830589294  0.08267039805650721  1.0000
+  V   V3        1.0  0.4623043835163116  0.6365503668785095  0.9767833948135376  1.0000
+  V   V4        1.0  0.9627774357795714  0.7584187388420105  0.8709840774536133  1.0000
+  V   V5        1.0  0.9635159373283385  0.7402222156524658  0.08960711210966114  1.0000

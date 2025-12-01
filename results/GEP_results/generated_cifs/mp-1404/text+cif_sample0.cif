@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiCd4Zn2
+_chemical_formula_sum              "Bi1 Cd4 Zn2"
+_cell_length_a       6.107934487102082
+_cell_length_b       6.356866686960906
+_cell_length_c       6.490750312805176
+_cell_angle_alpha    62.454420657578375
+_cell_angle_beta     62.78898517137866
+_cell_angle_gamma    61.78505675598785
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.28587934374809265  0.842571496963501  0.1418694704771042  1.0000
+  Cd  Cd1       1.0  0.6098665595054626  0.06351616978645325  0.6414117217063904  1.0000
+  Cd  Cd2       1.0  0.9864085912704468  0.551081657409668  0.6313490867614746  1.0000
+  Cd  Cd3       1.0  0.33825239539146423  0.5681552290916443  0.37631380558013916  1.0000
+  Cd  Cd4       1.0  0.6124559640884399  0.5592668652534485  0.6275525689125061  1.0000
+  Zn  Zn1       1.0  0.986642062664032  0.18700416386127472  0.14131540060043335  1.0000
+  Zn  Zn2       1.0  0.29981696605682373  0.8547248840332031  0.6450762748718262  1.0000

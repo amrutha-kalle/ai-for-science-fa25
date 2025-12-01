@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClGa2P2PdV
+_chemical_formula_sum              "Cl1 Ga2 P2 Pd1 V1"
+_cell_length_a       5.1083520356347565
+_cell_length_b       5.30416916190116
+_cell_length_c       5.362813472747803
+_cell_angle_alpha    111.61318513063631
+_cell_angle_beta     107.18069503710186
+_cell_angle_gamma    89.4684761244204
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.8824464678764343  0.9614883065223694  0.3028417229652405  1.0000
+  Ga  Ga1       1.0  0.8475543260574341  0.22296223044395447  0.2921224534511566  1.0000
+  Ga  Ga2       1.0  0.3200080096721649  0.20818772912025452  0.5171698927879333  1.0000
+  P   P1        1.0  0.08848258852958679  0.6248856782913208  0.781570553779602  1.0000
+  P   P2        1.0  0.3466706871986389  0.9737270474433899  0.5238146781921387  1.0000
+  Pd  Pd1       1.0  0.3803713619709015  0.5320037603378296  0.9611519575119019  1.0000
+  V   V1        1.0  0.8247870802879333  0.573341965675354  0.018122129142284393  1.0000

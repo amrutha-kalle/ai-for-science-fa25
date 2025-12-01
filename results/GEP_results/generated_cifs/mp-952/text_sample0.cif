@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Mo5Pt2
+_chemical_formula_sum              "Mo5 Pt2"
+_cell_length_a       4.065122585611216
+_cell_length_b       6.916819191955676
+_cell_length_c       6.594980239868164
+_cell_angle_alpha    126.05219385948098
+_cell_angle_beta     88.34739956182963
+_cell_angle_gamma    88.75100553197046
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.2778940200805664  0.751504123210907  0.019256466999649936  1.0000
+  Mo  Mo2       1.0  0.7676228880882263  0.4704444110393524  0.24447232484817502  1.0000
+  Mo  Mo3       1.0  0.7871553897857666  0.23343269526958466  0.31347519159317017  1.0000
+  Mo  Mo4       1.0  0.28723692893981934  0.7554181218147278  0.08573817461729043  1.0000
+  Mo  Mo5       1.0  0.7869440317153931  0.20838135480880737  0.6218546628952026  1.0000
+  Pt  Pt1       1.0  0.28760862350463867  0.7738555073738098  0.5249972939491272  1.0000
+  Pt  Pt2       1.0  0.7872076630592346  0.7894300222396851  0.396373838186264  1.0000

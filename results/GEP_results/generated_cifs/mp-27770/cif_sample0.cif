@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClMoP2Rh2Sc
+_chemical_formula_sum              "Cl1 Mo1 P2 Rh2 Sc1"
+_cell_length_a       4.329366966551706
+_cell_length_b       4.907397016789028
+_cell_length_c       7.467344760894775
+_cell_angle_alpha    101.59686860383326
+_cell_angle_beta     96.13923862108527
+_cell_angle_gamma    91.65072107787286
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.757544219493866  0.5515820384025574  0.9154296517372131  1.0000
+  Mo  Mo1       1.0  0.9989253878593445  0.8588990569114685  0.5664074420928955  1.0000
+  P   P1        1.0  0.017729848623275757  0.24028880894184113  0.9145956635475159  1.0000
+  P   P2        1.0  0.4937715530395508  0.3408364951610565  0.6452823877334595  1.0000
+  Rh  Rh1       1.0  0.1925458312034607  0.49603623151779175  0.14653928577899933  1.0000
+  Rh  Rh2       1.0  0.5418170690536499  0.13910439610481262  0.6408952474594116  1.0000
+  Sc  Sc1       1.0  0.5124477744102478  0.9142590761184692  0.5635995864868164  1.0000

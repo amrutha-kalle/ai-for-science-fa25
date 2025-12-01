@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy3Ga2LiZn
+_chemical_formula_sum              "Dy3 Ga2 Li1 Zn1"
+_cell_length_a       4.918179826458581
+_cell_length_b       5.32461413634836
+_cell_length_c       5.785533905029297
+_cell_angle_alpha    134.10338848300887
+_cell_angle_beta     99.58027363275625
+_cell_angle_gamma    94.76005238364114
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.6897554993629456  0.7901596426963806  0.3644224107265472  1.0000
+  Dy  Dy2       1.0  0.9702480435371399  0.44075307250022916  0.8230025172233583  1.0000
+  Dy  Dy3       1.0  0.4438287615776062  0.18058843910694122  0.1435248255729675  1.0000
+  Ga  Ga1       1.0  0.6916369795799255  0.49082621932029735  0.3327471911907196  1.0000
+  Ga  Ga2       1.0  0.17846943438053134  0.2388036400079729  0.7955312728881837  1.0000
+  Li  Li1       1.0  0.6808666586875917  0.6807412505149845  0.8842815160751344  1.0000
+  Zn  Zn1       1.0  0.18636281788349154  0.23888356983661668  0.42520773410797125  1.0000

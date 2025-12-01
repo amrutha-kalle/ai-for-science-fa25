@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co3FGeIPd
+_chemical_formula_sum              "Co3 F1 Ge1 I1 Pd1"
+_cell_length_a       4.755859793890775
+_cell_length_b       3.7082430115877334
+_cell_length_c       3.786820650100708
+_cell_angle_alpha    118.49217193258526
+_cell_angle_beta     91.2663238975445
+_cell_angle_gamma    103.5971400130251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6362195611000061  0.0723104402422905  0.5434130430221558  1.0000
+  Co  Co2       1.0  0.1451685130596161  0.24780318140983582  0.03924970701336861  1.0000
+  Co  Co3       1.0  0.579990029335022  0.6535899639129639  0.0687313824892044  1.0000
+  F   F1        1.0  0.26853981614112854  0.27092215418815613  0.505117654800415  1.0000
+  Ge  Ge1       1.0  0.13158412277698517  0.5661346316337585  0.8096713423728943  1.0000
+  I   I1        1.0  0.8283431529998779  0.9807637929916382  0.9441478252410889  1.0000
+  Pd  Pd1       1.0  0.7144262194633484  0.0629720389842987  0.8637857437133789  1.0000

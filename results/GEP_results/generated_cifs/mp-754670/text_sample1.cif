@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       O3V3
+_chemical_formula_sum              "O3 V3"
+_cell_length_a       2.597851597272147
+_cell_length_b       1.7102543202738865
+_cell_length_c       5.207363605499268
+_cell_angle_alpha    87.20213896458905
+_cell_angle_beta     92.96355954034365
+_cell_angle_gamma    45.82005526569662
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.3336881101131439  0.3793654441833496  0.4375280737876892  1.0000
+  O   O2        1.0  0.7099032402038574  0.6652575135231018  0.8922131061553955  1.0000
+  O   O3        1.0  0.7310267090797424  0.09918400645256042  0.7474262714385986  1.0000
+  V   V1        1.0  0.6775038838386536  0.8921721577644348  0.5501654148101807  1.0000
+  V   V2        1.0  0.19393117725849152  0.12840604782104492  0.13686232268810272  1.0000
+  V   V3        1.0  0.23174531757831573  0.7015122771263123  0.3072799742221832  1.0000

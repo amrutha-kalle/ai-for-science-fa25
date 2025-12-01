@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Hg5Mg2
+_chemical_formula_sum              "Hg5 Mg2"
+_cell_length_a       5.104855202923947
+_cell_length_b       6.5880935882108895
+_cell_length_c       5.688741683959961
+_cell_angle_alpha    116.16511251824787
+_cell_angle_beta     87.80190606920584
+_cell_angle_gamma    91.42704003351633
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.8648751974105836  0.8097543120384216  0.39703285694122303  1.0000
+  Hg  Hg2       1.0  0.8600516319274903  0.5980592370033264  0.21759107708930964  1.0000
+  Hg  Hg3       1.0  0.3550233542919159  0.8653309345245361  0.8615846633911133  1.0000
+  Hg  Hg4       1.0  0.3551590144634247  0.31501930952072144  0.7059965133666992  1.0000
+  Hg  Hg5       1.0  0.8737416267395021  0.307431161403656  0.8792567849159241  1.0000
+  Mg  Mg1       1.0  0.36518579721450806  0.40584757924079895  0.13745085895061487  1.0000
+  Mg  Mg2       1.0  0.3745101988315582  0.3342640995979309  0.74637770652771  1.0000

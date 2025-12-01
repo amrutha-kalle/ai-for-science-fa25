@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       FHf2PPtTmZr
+_chemical_formula_sum              "F1 Hf2 P1 Pt1 Tm1 Zr1"
+_cell_length_a       5.1559817963128305
+_cell_length_b       5.0317879088768755
+_cell_length_c       6.353983402252197
+_cell_angle_alpha    110.86961394440985
+_cell_angle_beta     89.40423551018608
+_cell_angle_gamma    89.15804325138873
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.31022903323173523  0.09842392057180405  0.4144887328147888  1.0000
+  Hf  Hf1       1.0  0.6001420021057129  0.30311086773872375  0.26994845271110535  1.0000
+  Hf  Hf2       1.0  0.8217945098876953  0.6604356169700623  0.6537355184555054  1.0000
+  P   P1        1.0  0.09165304154157639  0.5588993430137634  0.05489633604884146  1.0000
+  Pt  Pt1       1.0  0.3084190785884857  0.12477058917284012  0.0756462886929512  1.0000
+  Tm  Tm1       1.0  0.6035255193710327  0.6416860222816467  0.7625171542167664  1.0000
+  Zr  Zr1       1.0  0.8144382238388062  0.5700500011444092  0.5783422589302063  1.0000

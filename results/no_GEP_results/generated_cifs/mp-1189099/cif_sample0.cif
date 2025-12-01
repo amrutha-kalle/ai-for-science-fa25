@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       I2MoOPZr
+_chemical_formula_sum              "I2 Mo1 O1 P1 Zr1"
+_cell_length_a       5.057496293233804
+_cell_length_b       5.069782812093103
+_cell_length_c       4.4850616455078125
+_cell_angle_alpha    31.488290807324457
+_cell_angle_beta     41.04710335159212
+_cell_angle_gamma    61.87919494295748
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9951047897338865  0.538783371448517  0.898327648639679  1.0000
+  I   I2        1.0  0.23477666079998014  0.4830230176448822  0.09186606854200365  1.0000
+  Mo  Mo1       1.0  0.269255369901657  0.2603906393051148  0.1803253591060638  1.0000
+  O   O1        1.0  0.8330292105674741  0.01744017377495761  0.80319082736969  1.0000
+  P   P1        1.0  0.31543162465095514  0.48091584444046015  0.7185307741165162  1.0000
+  Zr  Zr1       1.0  0.8415892124176025  0.4820617139339446  0.8258775472640991  1.0000

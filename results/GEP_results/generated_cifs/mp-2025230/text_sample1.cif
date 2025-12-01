@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ce6Si
+_chemical_formula_sum              "Ce6 Si1"
+_cell_length_a       4.852323514605985
+_cell_length_b       7.409369322316781
+_cell_length_c       7.134885311126709
+_cell_angle_alpha    122.44977267361561
+_cell_angle_beta     89.48506692907253
+_cell_angle_gamma    88.50512011246828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.06344542652368546  0.45596763491630554  0.5262776613235474  1.0000
+  Ce  Ce2       1.0  0.0669732317328453  0.7276853919029236  0.3525604903697967  1.0000
+  Ce  Ce3       1.0  0.5557860732078552  0.03063531033694744  0.8992476463317871  1.0000
+  Ce  Ce4       1.0  0.05569857731461525  0.5617930293083191  0.29454883933067316  1.0000
+  Ce  Ce5       1.0  0.5626718401908875  0.22582313418388367  0.8312712907791138  1.0000
+  Ce  Ce6       1.0  0.5528572797775269  0.7550551891326904  0.3360869288444519  1.0000
+  Si  Si1       1.0  0.5533468723297119  0.2112814486026764  0.711216926574707  1.0000

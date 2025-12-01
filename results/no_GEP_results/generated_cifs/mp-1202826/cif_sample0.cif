@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FGdPTiU4Zn
+_chemical_formula_sum              "F1 Gd1 P1 Ti1 U4 Zn1"
+_cell_length_a       5.363989383402463
+_cell_length_b       5.4131484908054865
+_cell_length_c       5.492336750030518
+_cell_angle_alpha    79.48631112364853
+_cell_angle_beta     64.58813997589041
+_cell_angle_gamma    62.49228730122628
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.47482746839523315  0.4548012316226959  0.44367435574531555  1.0000
+  Gd  Gd1       1.0  0.23861435055732727  0.7229306101799011  0.7107827067375183  1.0000
+  P   P1        1.0  0.7208726406097412  0.05446910858154297  0.7911667227745056  1.0000
+  Ti  Ti1       1.0  0.7534301280975342  0.08702468872070312  0.6253105401992798  1.0000
+  U   U1        1.0  0.7411495447158813  0.5919715166091919  0.3663468658924103  1.0000
+  U   U2        1.0  0.4761717617511749  0.5191116333007812  0.855198085308075  1.0000
+  U   U3        1.0  0.739901602268219  0.040966540575027466  0.49358677864074707  1.0000
+  U   U4        1.0  0.9935874342918396  0.6702157258987427  0.8106510639190674  1.0000
+  Zn  Zn1       1.0  0.25019416213035583  0.6343609690666199  0.33330032229423523  1.0000

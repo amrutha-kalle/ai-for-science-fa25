@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       NP2PbZr3
+_chemical_formula_sum              "N1 P2 Pb1 Zr3"
+_cell_length_a       4.613933998924806
+_cell_length_b       5.369420367049164
+_cell_length_c       7.7109904289245605
+_cell_angle_alpha    121.18890473206544
+_cell_angle_beta     90.14006803277938
+_cell_angle_gamma    89.0278012607687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.6832532286643982  0.6306710839271545  0.627352237701416  1.0000
+  P   P1        1.0  0.696577787399292  0.37412941455841064  0.19659847021102905  1.0000
+  P   P2        1.0  0.19332364201545715  0.7450530529022217  0.6965381503105164  1.0000
+  Pb  Pb1       1.0  0.6919712424278259  0.2429969161748886  0.47187429666519165  1.0000
+  Zr  Zr1       1.0  0.20224855840206146  0.7628374695777893  0.24353288114070892  1.0000
+  Zr  Zr2       1.0  0.1887989640235901  0.4491942524909973  0.4893655478954315  1.0000
+  Zr  Zr3       1.0  0.20642520487308502  0.9912676811218262  0.24703940749168396  1.0000

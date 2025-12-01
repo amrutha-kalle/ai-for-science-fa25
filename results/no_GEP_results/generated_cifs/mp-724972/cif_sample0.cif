@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       C3CoI2NPtZn
+_chemical_formula_sum              "C3 Co1 I2 N1 Pt1 Zn1"
+_cell_length_a       6.1641617255952985
+_cell_length_b       6.245254327383711
+_cell_length_c       8.796093940734863
+_cell_angle_alpha    107.64107321916198
+_cell_angle_beta     90.58338395772556
+_cell_angle_gamma    88.2333170537808
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.979922652244568  0.8978037238121033  0.2757653295993805  1.0000
+  C   C2        1.0  0.972194790840149  0.1187962368130684  0.6944963932037354  1.0000
+  C   C3        1.0  0.4833823442459107  0.4419066905975342  0.7101687788963318  1.0000
+  Co  Co1       1.0  0.9741557240486146  0.2899673879146576  0.1923009306192398  1.0000
+  I   I1        1.0  0.44629898667335516  0.24423037469387057  0.6583091616630554  1.0000
+  I   I2        1.0  0.9730207920074464  0.4743903577327729  0.3954044282436371  1.0000
+  N   N1        1.0  0.45528787374496466  0.4163491427898407  0.06890153884887695  1.0000
+  Pt  Pt1       1.0  0.48273217678070074  0.17698241770267487  0.09049080312252045  1.0000
+  Zn  Zn1       1.0  0.46400865912437445  0.41384831070899963  0.38262739777565  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Gd2NiRuSU3Zn
+_chemical_formula_sum              "Gd2 Ni1 Ru1 S1 U3 Zn1"
+_cell_length_a       5.428321743585124
+_cell_length_b       6.229338344978852
+_cell_length_c       7.299369812011719
+_cell_angle_alpha    114.29308836370913
+_cell_angle_beta     113.38520838459114
+_cell_angle_gamma    88.15707375453236
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.4112600088119507  0.5696359276771545  0.44523361325263977  1.0000
+  Gd  Gd2       1.0  0.11502183973789215  0.22199669480323792  0.35594817996025085  1.0000
+  Ni  Ni1       1.0  0.36794278025627136  0.5590197443962097  0.8612160682678223  1.0000
+  Ru  Ru1       1.0  0.4818836748600006  0.08285760879516602  0.3837122321128845  1.0000
+  S   S1        1.0  0.14225181937217712  0.09730812162160873  0.19804126024246216  1.0000
+  U   U1        1.0  0.907097339630127  0.5617906451225281  0.8100416660308838  1.0000
+  U   U2        1.0  0.9441332221031189  0.7272598743438721  0.8285611867904663  1.0000
+  U   U3        1.0  0.5193604826927185  0.0693308487534523  0.9128714203834534  1.0000
+  Zn  Zn1       1.0  0.9035296440124512  0.8431521654129028  0.5092119574546814  1.0000

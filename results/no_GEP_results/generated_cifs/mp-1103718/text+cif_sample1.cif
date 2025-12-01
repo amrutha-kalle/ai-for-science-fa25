@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlAsIPV5
+_chemical_formula_sum              "Al1 As1 I1 P1 V5"
+_cell_length_a       5.321725516652597
+_cell_length_b       4.6549013800614985
+_cell_length_c       6.497481822967529
+_cell_angle_alpha    116.56207467086865
+_cell_angle_beta     109.7598447219879
+_cell_angle_gamma    113.7983083453425
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.32551732659339905  0.18613792955875397  0.8670037984848022  1.0000
+  As  As1       1.0  0.978080689907074  0.12329579889774321  0.5945861339569092  1.0000
+  I   I1        1.0  0.589853048324585  0.34736478328704834  0.5072066783905029  1.0000
+  P   P1        1.0  0.8434227705001831  0.8340666890144348  0.18823614716529846  1.0000
+  V   V1        1.0  0.582472562789917  0.573473334312439  0.5499934554100037  1.0000
+  V   V2        1.0  0.4971010088920593  0.3956352472305298  0.2587675452232361  1.0000
+  V   V3        1.0  0.3364178538322449  0.31067872047424316  0.7210947275161743  1.0000
+  V   V4        1.0  0.8539711833000183  0.07912316918373108  0.6957377791404724  1.0000
+  V   V5        1.0  0.0825607106089592  0.12569297850131989  0.9482790231704712  1.0000

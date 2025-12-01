@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsGaLaSb3V3
+_chemical_formula_sum              "As1 Ga1 La1 Sb3 V3"
+_cell_length_a       4.368479297613342
+_cell_length_b       3.7945218356548263
+_cell_length_c       8.227478981018066
+_cell_angle_alpha    93.46224313355619
+_cell_angle_beta     90.99236512370025
+_cell_angle_gamma    150.91658231030902
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9201869368553162  0.48677724599838257  0.5225803852081299  1.0000
+  Ga  Ga1       1.0  0.8809853792190552  0.26896655559539795  0.9282324314117432  1.0000
+  La  La1       1.0  0.8417639136314392  0.2478324919939041  0.5455499887466431  1.0000
+  Sb  Sb1       1.0  0.43392226099967957  0.8195863366127014  0.5693463087081909  1.0000
+  Sb  Sb2       1.0  0.4372697174549103  0.0031950827687978745  0.7508372664451599  1.0000
+  Sb  Sb3       1.0  0.3567199409008026  0.9969034194946289  0.22312870621681213  1.0000
+  V   V1        1.0  0.0672914981842041  0.7467709183692932  0.8666265606880188  1.0000
+  V   V2        1.0  0.45607441663742065  0.5447709560394287  0.7382906675338745  1.0000
+  V   V3        1.0  0.5666155219078064  0.26984694600105286  0.9615611433982849  1.0000

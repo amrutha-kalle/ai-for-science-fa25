@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ga4Nb3
+_chemical_formula_sum              "Ga4 Nb3"
+_cell_length_a       5.006061580710503
+_cell_length_b       5.017541362116482
+_cell_length_c       5.5372490882873535
+_cell_angle_alpha    104.17325096238001
+_cell_angle_beta     105.43835688099799
+_cell_angle_gamma    106.04918254692497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.25361916422843933  0.46052736043930054  0.8040655255317688  1.0000
+  Ga  Ga2       1.0  0.6429773569107056  0.10232435911893845  0.37627559900283813  1.0000
+  Ga  Ga3       1.0  0.21620002388954163  0.12620750069618225  0.38241326808929443  1.0000
+  Ga  Ga4       1.0  0.8394494652748108  0.43778032064437866  0.5918959379196167  1.0000
+  Nb  Nb1       1.0  0.9693757891654968  0.12879244983196259  0.8797157406806946  1.0000
+  Nb  Nb2       1.0  0.4419368803501129  0.6157026886940002  0.6206828951835632  1.0000
+  Nb  Nb3       1.0  0.9659981727600098  0.7249046564102173  0.12258714437484741  1.0000

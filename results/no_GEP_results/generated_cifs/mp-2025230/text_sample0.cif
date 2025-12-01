@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsCe4Zn2
+_chemical_formula_sum              "As1 Ce4 Zn2"
+_cell_length_a       5.455715367116483
+_cell_length_b       6.195843940138211
+_cell_length_c       6.938806056976318
+_cell_angle_alpha    124.29491053473488
+_cell_angle_beta     89.4477869628232
+_cell_angle_gamma    90.85212261711328
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.1508631855249405  0.659778356552124  0.889996349811554  1.0000
+  Ce  Ce1       1.0  0.6470838189125061  0.6801762580871582  0.793074905872345  1.0000
+  Ce  Ce2       1.0  0.6539551615715027  0.7889406085014343  0.9661540389060974  1.0000
+  Ce  Ce3       1.0  0.4108393192291259  0.9315545558929443  0.08630822598934174  1.0000
+  Ce  Ce4       1.0  0.15304653346538544  0.7756003737449646  0.9428284764289856  1.0000
+  Zn  Zn1       1.0  0.14983513951301575  0.5404585599899292  0.9830176830291748  1.0000
+  Zn  Zn2       1.0  0.652493953704834  0.1396905481815338  0.9310222864151001  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Er3GeIr2Si
+_chemical_formula_sum              "Er3 Ge1 Ir2 Si1"
+_cell_length_a       4.205036836341009
+_cell_length_b       6.130377279532407
+_cell_length_c       5.58823823928833
+_cell_angle_alpha    121.16056584623718
+_cell_angle_beta     85.97079129110901
+_cell_angle_gamma    90.14925615079648
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Er  Er1       1.0  0.9267305731773376  0.9500584006309509  0.3673795759677887  1.0000
+  Er  Er2       1.0  0.4293525815010071  0.9073749780654907  0.3631271421909332  1.0000
+  Er  Er3       1.0  0.41837793588638306  0.9611659646034241  0.5495414733886719  1.0000
+  Ge  Ge1       1.0  0.9284453392028809  0.7256596088409424  0.6693258285522462  1.0000
+  Ir  Ir1       1.0  0.44934868812561035  0.4703339636325836  0.9286119937896729  1.0000
+  Ir  Ir2       1.0  0.9395565986633301  0.430301696062088  0.8694967031478882  1.0000
+  Si  Si1       1.0  0.4369061291217804  0.4424358606338501  0.6646586656570435  1.0000

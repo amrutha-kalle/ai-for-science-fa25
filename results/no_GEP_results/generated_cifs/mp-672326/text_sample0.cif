@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       In2Ru5
+_chemical_formula_sum              "In2 Ru5"
+_cell_length_a       3.860451977942446
+_cell_length_b       2.6190296266334143
+_cell_length_c       1.3674161434173584
+_cell_angle_alpha    138.3878730153755
+_cell_angle_beta     93.80030684429552
+_cell_angle_gamma    98.42751643371555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.9340554475784301  0.6816755533218384  0.26905897259712225  1.0000
+  In  In2       1.0  0.6135414838790894  0.9708650708198547  0.5019391179084779  1.0000
+  Ru  Ru1       1.0  0.5528551936149597  0.8769330382347106  0.8170716762542725  1.0000
+  Ru  Ru2       1.0  0.5058553218841553  0.7240401506423949  0.8801262974739075  1.0000
+  Ru  Ru3       1.0  0.12295179814100266  0.10658612847328193  0.9771139025688172  1.0000
+  Ru  Ru4       1.0  0.17784322798252106  0.2618235945701599  0.697759211063385  1.0000
+  Ru  Ru5       1.0  0.615253746509552  0.6485320925712584  0.4522598981857299  1.0000

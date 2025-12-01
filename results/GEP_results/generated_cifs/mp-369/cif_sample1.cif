@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlLaSScTb3
+_chemical_formula_sum              "Al1 La1 S1 Sc1 Tb3"
+_cell_length_a       4.6758505376195405
+_cell_length_b       6.0667877975788205
+_cell_length_c       6.988316059112549
+_cell_angle_alpha    117.8362401232208
+_cell_angle_beta     105.5163382951036
+_cell_angle_gamma    84.66070144710379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6727290153503418  0.9870086908340455  0.6605778932571411  1.0000
+  La  La1       1.0  0.3120895326137543  0.2530584931373596  0.6652363538742065  1.0000
+  S   S1        1.0  0.325588583946228  0.857238531112671  0.7413737773895264  1.0000
+  Sc  Sc1       1.0  0.07037830352783203  0.8198145627975465  0.4759865701198578  1.0000
+  Tb  Tb1       1.0  0.9932578802108765  0.11752659082412721  0.33192887902259827  1.0000
+  Tb  Tb2       1.0  0.5943053960800171  0.18099693953990936  0.16892720758914948  1.0000
+  Tb  Tb3       1.0  0.06093565747141838  0.49276614189147955  0.15155631303787234  1.0000

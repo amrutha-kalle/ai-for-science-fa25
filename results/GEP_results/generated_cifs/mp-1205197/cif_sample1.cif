@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CoDy3Ga2P
+_chemical_formula_sum              "Co1 Dy3 Ga2 P1"
+_cell_length_a       5.895437567922362
+_cell_length_b       6.024120223574889
+_cell_length_c       6.019717693328857
+_cell_angle_alpha    108.44790151278895
+_cell_angle_beta     108.43223807137042
+_cell_angle_gamma    112.20038299118693
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6495246887207031  0.8178766965866089  0.03134809806942932  1.0000
+  Dy  Dy1       1.0  0.645642876625061  0.5189915895462036  0.526884138584137  1.0000
+  Dy  Dy2       1.0  0.38188230991363525  0.3318743407726288  0.7904132008552551  1.0000
+  Dy  Dy3       1.0  0.8949917554855347  0.32863888144493103  0.02665727026760578  1.0000
+  Ga  Ga1       1.0  0.026025457307696342  0.0028697673697024584  0.20883938670158386  1.0000
+  Ga  Ga2       1.0  0.03612038865685463  0.00807745847851038  0.5320204496383667  1.0000
+  P   P1        1.0  0.3901031017303467  0.33071792125701904  0.026857949793338776  1.0000

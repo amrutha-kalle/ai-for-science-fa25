@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CdLaP2SSi
+_chemical_formula_sum              "Cd1 La1 P2 S1 Si1"
+_cell_length_a       5.031732171154737
+_cell_length_b       5.54399480049333
+_cell_length_c       9.137982368469238
+_cell_angle_alpha    92.33919003837936
+_cell_angle_beta     90.81601334565389
+_cell_angle_gamma    90.64203078392427
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.26822757720947266  0.9552024006843567  0.9334205985069275  1.0000
+  La  La1       1.0  0.23407813906669617  0.17488613724708557  0.8363528251647949  1.0000
+  P   P1        1.0  0.6103818416595459  0.24867986142635345  0.8565468788146973  1.0000
+  P   P2        1.0  0.9098834991455078  0.4473768174648285  0.2553752660751343  1.0000
+  S   S1        1.0  0.578399658203125  0.7286084294319153  0.3439334034919739  1.0000
+  Si  Si1       1.0  0.351657509803772  0.44342145323753357  0.013478520326316357  1.0000

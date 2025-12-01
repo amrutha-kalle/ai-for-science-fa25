@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       As3PPdRuTiZnZr2
+_chemical_formula_sum              "As3 P1 Pd1 Ru1 Ti1 Zn1 Zr2"
+_cell_length_a       4.806993966073001
+_cell_length_b       5.944568445565955
+_cell_length_c       8.181404113769531
+_cell_angle_alpha    113.5314338452489
+_cell_angle_beta     92.73093249089787
+_cell_angle_gamma    86.78458622715098
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.18313463032245636  0.5717328190803528  0.23991268873214722  1.0000
+  As  As2       1.0  0.409791499376297  0.842475175857544  0.49809902906417847  1.0000
+  As  As3       1.0  0.6308057904243469  0.6142208576202393  0.6307708024978638  1.0000
+  P   P1        1.0  0.6330323219299316  0.2567620575428009  0.5452986359596252  1.0000
+  Pd  Pd1       1.0  0.16294051706790924  0.36753204464912415  0.6658244729042053  1.0000
+  Ru  Ru1       1.0  0.8784979581832886  0.5361581444740295  0.8532389402389526  1.0000
+  Ti  Ti1       1.0  0.07882314175367355  0.0644642636179924  0.9853621125221252  1.0000
+  Zn  Zn1       1.0  0.5946086049079895  0.7309450507164001  0.5327277183532715  1.0000
+  Zr  Zr1       1.0  0.64841228723526  0.46077701449394226  0.8674463629722595  1.0000
+  Zr  Zr2       1.0  0.14179179072380066  0.43191030621528625  0.06963607668876648  1.0000

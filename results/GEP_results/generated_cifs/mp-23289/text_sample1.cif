@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Cl5K
+_chemical_formula_sum              "Cl5 K1"
+_cell_length_a       11.449290947091063
+_cell_length_b       11.432003678665845
+_cell_length_c       11.334537506103516
+_cell_angle_alpha    110.17512483530294
+_cell_angle_beta     107.68331255353948
+_cell_angle_gamma    109.92432871356856
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.01641205884516239  0.8102979063987732  0.3409892916679382  1.0000
+  Cl  Cl2       1.0  0.7874137759208679  0.6153905391693115  0.27009040117263794  1.0000
+  Cl  Cl3       1.0  0.833240270614624  0.12875017523765564  0.10415665060281755  1.0000
+  Cl  Cl4       1.0  0.6995124816894531  0.1815846711397171  0.8853572607040406  1.0000
+  Cl  Cl5       1.0  0.4018222987651825  0.6868067383766174  0.34405550360679626  1.0000
+  K   K1        1.0  0.5151974558830261  0.4342738091945648  0.3455987274646759  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FI2PtScZn
+_chemical_formula_sum              "F1 I2 Pt1 Sc1 Zn1"
+_cell_length_a       4.142469888750909
+_cell_length_b       3.8394182180566854
+_cell_length_c       7.480193138122559
+_cell_angle_alpha    102.966597572787
+_cell_angle_beta     89.36471180852111
+_cell_angle_gamma    93.45948043047616
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.49214422702789307  0.3340713381767273  0.8041960000991822  1.0000
+  I   I1        1.0  0.28263556957244873  0.7967701554298401  0.7372925877571106  1.0000
+  I   I2        1.0  0.7694544792175293  0.39244112372398376  0.22768220305442813  1.0000
+  Pt  Pt1       1.0  0.801224410533905  0.7746822834014893  0.3157118558883667  1.0000
+  Sc  Sc1       1.0  0.7920728325843811  0.4160647392272949  0.5647128820419312  1.0000
+  Zn  Zn1       1.0  0.28465744853019714  0.6232521533966064  0.06809789687395094  1.0000

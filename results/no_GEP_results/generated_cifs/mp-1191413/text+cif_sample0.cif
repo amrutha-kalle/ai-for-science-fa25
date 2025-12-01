@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsMgPPtZr2
+_chemical_formula_sum              "As1 Mg1 P1 Pt1 Zr2"
+_cell_length_a       4.152563949705871
+_cell_length_b       5.261774717688863
+_cell_length_c       6.452439785003662
+_cell_angle_alpha    119.45513193521847
+_cell_angle_beta     110.78259437871273
+_cell_angle_gamma    86.89194275084263
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.2741081714630127  0.7052284479141235  0.5205441117286681  1.0000
+  Mg  Mg1       1.0  0.2991679608821869  0.40565478801727295  0.8116001486778259  1.0000
+  P   P1        1.0  0.8228140473365784  0.6115159392356873  0.3456675410270691  1.0000
+  Pt  Pt1       1.0  0.8052896857261658  0.24649158120155334  0.18133583664894104  1.0000
+  Zr  Zr1       1.0  0.8232425451278687  0.5697938203811646  0.5409687757492065  1.0000
+  Zr  Zr2       1.0  0.3338131308555603  0.26726415753364563  0.6504964828491211  1.0000

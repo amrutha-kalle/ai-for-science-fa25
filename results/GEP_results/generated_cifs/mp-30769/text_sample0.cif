@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Li6RhSn
+_chemical_formula_sum              "Li6 Rh1 Sn1"
+_cell_length_a       5.6558326605369835
+_cell_length_b       6.0228983412739705
+_cell_length_c       6.005542278289795
+_cell_angle_alpha    65.80376713413553
+_cell_angle_beta     65.47210823546422
+_cell_angle_gamma    64.17828686900175
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.48036661744117737  0.40359413623809814  0.773999035358429  1.0000
+  Li  Li2       1.0  0.8766172528266907  0.3553132712841034  0.6081095933914185  1.0000
+  Li  Li3       1.0  0.13854195177555084  0.3363105356693268  0.6105915904045105  1.0000
+  Li  Li4       1.0  0.633967936038971  0.3620995283126831  0.8110640645027161  1.0000
+  Li  Li5       1.0  0.036957718431949615  0.629234254360199  0.10407997667789459  1.0000
+  Li  Li6       1.0  0.0164558794349432  0.8984438180923462  0.6245045065879822  1.0000
+  Rh  Rh1       1.0  0.7169992923736572  0.017240123823285103  0.11204348504543304  1.0000
+  Sn  Sn1       1.0  0.44215816259384155  0.3186827003955841  0.31106773018836975  1.0000

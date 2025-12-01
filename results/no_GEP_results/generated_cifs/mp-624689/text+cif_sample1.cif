@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       ILuV3Zn
+_chemical_formula_sum              "I1 Lu1 V3 Zn1"
+_cell_length_a       3.898957977514247
+_cell_length_b       3.5968177252452356
+_cell_length_c       7.143245697021484
+_cell_angle_alpha    90.4914617478464
+_cell_angle_beta     92.13235338431178
+_cell_angle_gamma    91.69374681144193
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.2695006728172302  0.4958501160144806  0.8002591133117676  1.0000
+  Lu  Lu1       1.0  0.33898419141769404  0.8828625082969666  0.5839743614196777  1.0000
+  V   V1        1.0  0.8926920890808104  0.4384753704071045  0.07666271179914474  1.0000
+  V   V2        1.0  0.8761671185493468  0.5244396924972534  0.6145874857902527  1.0000
+  V   V3        1.0  0.38075110316276545  0.5754705667495728  0.9917132258415222  1.0000
+  Zn  Zn1       1.0  0.7627070546150206  0.2330044060945511  0.28815582394599915  1.0000

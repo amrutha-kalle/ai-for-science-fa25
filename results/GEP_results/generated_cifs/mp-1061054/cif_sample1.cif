@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge4LuSi
+_chemical_formula_sum              "Ge4 Lu1 Si1"
+_cell_length_a       4.777832463632315
+_cell_length_b       4.843983300448411
+_cell_length_c       6.261714935302734
+_cell_angle_alpha    112.41094729266396
+_cell_angle_beta     110.7766794913667
+_cell_angle_gamma    90.11660474179476
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5254955887794495  0.33582040667533875  0.9102771878242493  1.0000
+  Ge  Ge2       1.0  0.839672327041626  0.8347025513648987  0.4148883521556854  1.0000
+  Ge  Ge3       1.0  0.35803741216659546  0.739058792591095  0.15614868700504306  1.0000
+  Ge  Ge4       1.0  0.1251845508813858  0.3563575744628906  0.6671008467674255  1.0000
+  Lu  Lu1       1.0  0.022812876850366592  0.8367452621459961  0.9125654697418213  1.0000
+  Si  Si1       1.0  0.5156309008598328  0.3389427661895752  0.6178460717201233  1.0000

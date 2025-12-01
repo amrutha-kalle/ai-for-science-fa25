@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaGeISbTiV2
+_chemical_formula_sum              "Ga1 Ge1 I1 Sb1 Ti1 V2"
+_cell_length_a       5.149572749053915
+_cell_length_b       5.615227368249757
+_cell_length_c       5.68256950378418
+_cell_angle_alpha    99.2180813601748
+_cell_angle_beta     91.52075089623524
+_cell_angle_gamma    88.8756522296848
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5301623940467834  0.2296435832977295  0.8408545255661011  1.0000
+  Ge  Ge1       1.0  0.01719423569738865  0.8581933975219727  0.6500343084335327  1.0000
+  I   I1        1.0  0.019018836319446564  0.886137843132019  0.45357435941696167  1.0000
+  Sb  Sb1       1.0  0.026089811697602272  0.3697327971458435  0.5547055602073669  1.0000
+  Ti  Ti1       1.0  0.5242668986320496  0.7551112771034241  0.27589187026023865  1.0000
+  V   V1        1.0  0.5208587050437927  0.23801690340042114  0.621856153011322  1.0000
+  V   V2        1.0  0.01631566882133484  0.021298116073012352  0.13391631841659546  1.0000

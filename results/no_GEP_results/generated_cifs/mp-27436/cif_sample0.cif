@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GeLiPPb3Pr
+_chemical_formula_sum              "Ge1 Li1 P1 Pb3 Pr1"
+_cell_length_a       4.774492126987273
+_cell_length_b       5.621160368754631
+_cell_length_c       6.9394731521606445
+_cell_angle_alpha    120.9626653202055
+_cell_angle_beta     91.14368523544813
+_cell_angle_gamma    90.09137264742674
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.4475705325603485  0.5440783500671387  0.8746373057365419  1.0000
+  Li  Li1       1.0  0.4444204270839691  0.7251997590065002  0.9512370824813844  1.0000
+  P   P1        1.0  0.9296381473541261  0.9711119532585144  0.19578593969345096  1.0000
+  Pb  Pb1       1.0  0.43844833970069885  0.07896614819765091  0.059552710503339774  1.0000
+  Pb  Pb2       1.0  0.44607189297676086  0.07750162482261658  0.7478522062301637  1.0000
+  Pb  Pb3       1.0  0.44776228070259094  0.7938238382339478  0.8129268884658815  1.0000
+  Pr  Pr1       1.0  0.9345380067825318  0.7976630926132202  0.6556240916252136  1.0000

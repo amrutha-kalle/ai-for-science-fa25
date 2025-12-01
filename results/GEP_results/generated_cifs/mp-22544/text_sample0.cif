@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       O4U2V2
+_chemical_formula_sum              "O4 U2 V2"
+_cell_length_a       4.423520192018585
+_cell_length_b       4.696461522169579
+_cell_length_c       6.915004253387451
+_cell_angle_alpha    118.62048011353045
+_cell_angle_beta     95.56290146789654
+_cell_angle_gamma    88.49532085710406
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  O   O1        1.0  0.7052000761032104  0.33907005190849304  0.6797404885292053  1.0000
+  O   O2        1.0  0.1912931352853775  0.7932869791984558  0.35542526841163635  1.0000
+  O   O3        1.0  0.20016154646873474  0.31812426447868347  0.36945465207099915  1.0000
+  O   O4        1.0  0.18947184085845947  0.48746830224990845  0.9344585537910463  1.0000
+  U   U1        1.0  0.195450559258461  0.8514010906219482  0.16962331533432004  1.0000
+  U   U2        1.0  0.6943362951278687  0.2622917592525482  0.5655751824378967  1.0000
+  V   V1        1.0  0.6667187213897705  0.8183543086051941  0.8982110619544984  1.0000
+  V   V2        1.0  0.19590097665786743  0.47745195031166077  0.8947877883911134  1.0000

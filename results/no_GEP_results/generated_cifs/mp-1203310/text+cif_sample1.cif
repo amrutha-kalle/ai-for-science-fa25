@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CoFe2GeINiPbSm
+_chemical_formula_sum              "Co1 Fe2 Ge1 I1 Ni1 Pb1 Sm1"
+_cell_length_a       5.325393667526058
+_cell_length_b       5.798246908633838
+_cell_length_c       7.930690288543701
+_cell_angle_alpha    117.84159540280804
+_cell_angle_beta     102.07169005932849
+_cell_angle_gamma    87.61178849425852
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7055813074111938  0.9005733728408815  0.7902280688285827  1.0000
+  Fe  Fe1       1.0  0.6973033547401428  0.23804777860641482  0.5079478621482849  1.0000
+  Fe  Fe2       1.0  0.22798669338226318  0.2437311410903931  0.8145042657852172  1.0000
+  Ge  Ge1       1.0  0.21046389639377594  0.5960679054260254  0.9080652594566344  1.0000
+  I   I1        1.0  0.21160738170146942  0.5951998233795166  0.805429697036743  1.0000
+  Ni  Ni1       1.0  0.20741452276706696  0.0669034868478775  0.17973774671554563  1.0000
+  Pb  Pb1       1.0  0.7128833532333374  0.5686730742454529  0.1449926495552063  1.0000
+  Sm  Sm1       1.0  0.9094615578651428  0.6872038841247559  0.41704013943672175  1.0000

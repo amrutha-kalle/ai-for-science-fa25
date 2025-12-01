@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       LaNi3Sm4
+_chemical_formula_sum              "La1 Ni3 Sm4"
+_cell_length_a       5.1810003704730585
+_cell_length_b       5.221734991001387
+_cell_length_c       5.433940410614014
+_cell_angle_alpha    101.72082202028425
+_cell_angle_beta     105.0940374687367
+_cell_angle_gamma    95.91184676078038
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.6793153285980225  0.8234978914260864  0.651870846748352  1.0000
+  Ni  Ni1       1.0  0.7200207710266113  0.5117353200912476  0.7360122203826904  1.0000
+  Ni  Ni2       1.0  0.7268258929252625  0.5387381315231323  0.19040656089782715  1.0000
+  Ni  Ni3       1.0  0.17816688120365143  0.8451021313667297  0.35530233383178705  1.0000
+  Sm  Sm1       1.0  0.723674476146698  0.29770898818969727  0.5710628032684326  1.0000
+  Sm  Sm2       1.0  0.18100011348724365  0.8159869313240051  0.8291879296302795  1.0000
+  Sm  Sm3       1.0  0.18896916508674622  0.44354477524757385  0.5152092576026917  1.0000
+  Sm  Sm4       1.0  0.7213974595069885  0.32147765159606934  0.7333481907844543  1.0000

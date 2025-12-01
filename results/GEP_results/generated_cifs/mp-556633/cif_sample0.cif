@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlF2HoNa4Si
+_chemical_formula_sum              "Al1 F2 Ho1 Na4 Si1"
+_cell_length_a       5.274530382561172
+_cell_length_b       6.093708989073807
+_cell_length_c       6.358654975891113
+_cell_angle_alpha    119.65775766258928
+_cell_angle_beta     92.13490365938607
+_cell_angle_gamma    89.92382911373933
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9572427272796631  0.7936885952949524  0.6693055033683777  1.0000
+  F   F1        1.0  0.9970813989639282  0.7698451280593872  0.6591508984565735  1.0000
+  F   F2        1.0  0.4189503788948059  0.30643630027770996  0.8237342238426208  1.0000
+  Ho  Ho1       1.0  0.9995543956756592  0.2986893653869629  0.2362116575241089  1.0000
+  Na  Na1       1.0  0.8778218030929565  0.03857094421982765  0.4849001169204712  1.0000
+  Na  Na2       1.0  0.18891823291778564  0.7927224636077881  0.1661648154258728  1.0000
+  Na  Na3       1.0  0.6977558135986328  0.5001835227012634  0.6522966623306274  1.0000
+  Na  Na4       1.0  0.402151495218277  0.5419408082962036  0.8296181559562683  1.0000
+  Si  Si1       1.0  0.6062774658203125  0.015512815676629543  0.3234165906906128  1.0000

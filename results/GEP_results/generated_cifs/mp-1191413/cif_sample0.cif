@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AgPRhY3
+_chemical_formula_sum              "Ag1 P1 Rh1 Y3"
+_cell_length_a       3.8131435319392897
+_cell_length_b       4.972161869484128
+_cell_length_c       8.08588695526123
+_cell_angle_alpha    95.4019651574311
+_cell_angle_beta     99.71195992673844
+_cell_angle_gamma    89.3697626600681
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.2320353835821152  0.6539294719696045  0.1026836410164833  1.0000
+  P   P1        1.0  0.7911245822906495  0.03830830752849579  0.16998642683029175  1.0000
+  Rh  Rh1       1.0  0.7397450804710389  0.151469424366951  0.02782261185348034  1.0000
+  Y   Y1        1.0  0.22415299713611606  0.15336517989635468  0.9261192083358765  1.0000
+  Y   Y2        1.0  0.954071879386902  0.8706043362617493  0.6756718158721924  1.0000
+  Y   Y3        1.0  0.7266427278518678  0.6523501873016357  0.9011963605880737  1.0000

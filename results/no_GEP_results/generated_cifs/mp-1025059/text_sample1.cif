@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AgLa6
+_chemical_formula_sum              "Ag1 La6"
+_cell_length_a       4.758023425706561
+_cell_length_b       5.164174172992269
+_cell_length_c       5.725146293640137
+_cell_angle_alpha    104.4945874000375
+_cell_angle_beta     115.61971402986003
+_cell_angle_gamma    114.29097871283537
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.4882989823818207  0.8698277473449707  0.4859487712383271  1.0000
+  La  La1       1.0  0.4649432599544525  0.3639489412307739  0.13226968050003052  1.0000
+  La  La2       1.0  0.014975407160818577  0.8177480101585388  0.3279254138469696  1.0000
+  La  La3       1.0  0.0003859923745039915  0.635103166103363  0.18934150040149691  1.0000
+  La  La4       1.0  0.013433098793029785  0.8417662382125854  0.6734316349029541  1.0000
+  La  La5       1.0  0.8807927370071411  0.6303635239601135  0.10935860127210618  1.0000
+  La  La6       1.0  0.8571513295173645  0.15737362205982208  0.7215867042541504  1.0000

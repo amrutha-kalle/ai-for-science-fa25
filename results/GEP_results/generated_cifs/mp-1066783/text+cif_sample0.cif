@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       ClLiZr5
+_chemical_formula_sum              "Cl1 Li1 Zr5"
+_cell_length_a       4.1470468667351
+_cell_length_b       6.29647832451291
+_cell_length_c       6.325891017913818
+_cell_angle_alpha    123.76273280561702
+_cell_angle_beta     88.710464770993
+_cell_angle_gamma    90.9007340251123
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.34396764636039734  0.8891567587852478  0.7839841246604919  1.0000
+  Li  Li1       1.0  0.3450484573841095  0.8964676856994629  0.3147850632667542  1.0000
+  Zr  Zr1       1.0  0.8400627970695496  0.3912917375564575  0.6892964243888855  1.0000
+  Zr  Zr2       1.0  0.34579232335090637  0.6966913342475891  0.6411417126655579  1.0000
+  Zr  Zr3       1.0  0.8428698182106018  0.3958786725997925  0.8214892745018005  1.0000
+  Zr  Zr4       1.0  0.843941330909729  0.6636315584182739  0.040137093514204025  1.0000
+  Zr  Zr5       1.0  0.3450552225112915  0.17641285061836243  0.29656389355659485  1.0000

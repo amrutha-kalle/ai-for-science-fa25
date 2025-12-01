@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AlGa5Mg
+_chemical_formula_sum              "Al1 Ga5 Mg1"
+_cell_length_a       5.205285024994663
+_cell_length_b       5.499316670737411
+_cell_length_c       5.333405017852783
+_cell_angle_alpha    106.83146840182859
+_cell_angle_beta     107.76442871708673
+_cell_angle_gamma    111.89374653542644
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.30472517013549805  0.19838681817054749  0.03148047626018524  1.0000
+  Ga  Ga1       1.0  0.9548580050468445  0.6934766173362732  0.342315673828125  1.0000
+  Ga  Ga2       1.0  0.6910908222198486  0.9353910088539124  0.8264763355255127  1.0000
+  Ga  Ga3       1.0  0.1796075701713562  0.6067224740982056  0.8461036682128906  1.0000
+  Ga  Ga4       1.0  0.83449387550354  0.4650454819202423  0.6647813320159912  1.0000
+  Ga  Ga5       1.0  0.30861034989356995  0.1994309276342392  0.22778622806072235  1.0000
+  Mg  Mg1       1.0  0.6215540170669556  0.933962881565094  0.5405726432800293  1.0000

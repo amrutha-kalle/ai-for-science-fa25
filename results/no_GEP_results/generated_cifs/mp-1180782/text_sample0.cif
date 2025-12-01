@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cr4F2GaK2
+_chemical_formula_sum              "Cr4 F2 Ga1 K2"
+_cell_length_a       5.673484121500515
+_cell_length_b       4.44405368508398
+_cell_length_c       5.73471212387085
+_cell_angle_alpha    116.0093130022154
+_cell_angle_beta     114.70053425492699
+_cell_angle_gamma    127.00623237687782
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.6296217441558838  0.22653920948505402  0.08840615302324296  1.0000
+  Cr  Cr2       1.0  0.05823964625597  0.03755202889442443  0.969933807849884  1.0000
+  Cr  Cr3       1.0  0.1066413447260856  0.04277389496564857  0.4215345382690429  1.0000
+  Cr  Cr4       1.0  0.11999985575675956  0.5940967798233031  0.9900054335594177  1.0000
+  F   F1        1.0  0.2909453511238098  0.1976029574871063  0.18839208781719208  1.0000
+  F   F2        1.0  0.35607662796974165  0.7389658093452451  0.8226584196090697  1.0000
+  Ga  Ga1       1.0  0.7287269234657286  0.06029945984482753  0.9938365221023558  1.0000
+  K   K1        1.0  0.618071973323822  0.7949886322021484  0.9143297076225281  1.0000
+  K   K2        1.0  0.376628816127777  0.8292395472526549  0.3649752736091613  1.0000

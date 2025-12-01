@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       ClInNa2Ni4PtZn
+_chemical_formula_sum              "Cl1 In1 Na2 Ni4 Pt1 Zn1"
+_cell_length_a       6.56518786396348
+_cell_length_b       6.4669485600403815
+_cell_length_c       6.766590118408203
+_cell_angle_alpha    61.188152703960796
+_cell_angle_beta     63.746316994948664
+_cell_angle_gamma    61.74138803473305
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6909551620483398  0.7998549342155457  0.4485163986682892  1.0000
+  In  In1       1.0  0.8996263742446899  0.4478393793106079  0.08172909170389175  1.0000
+  Na  Na1       1.0  0.08283459395170212  0.02618759125471115  0.489025741815567  1.0000
+  Na  Na2       1.0  0.4284267723560333  0.9156489968299866  0.7126955986022949  1.0000
+  Ni  Ni1       1.0  0.9117633104324341  0.7157494425773621  0.6238845586776733  1.0000
+  Ni  Ni2       1.0  0.9249424338340759  0.30892691016197205  0.17762011289596558  1.0000
+  Ni  Ni3       1.0  0.8942671418190002  0.1284133791923523  0.49702662229537964  1.0000
+  Ni  Ni4       1.0  0.17162443697452545  0.5248939990997314  0.5337873101234436  1.0000
+  Pt  Pt1       1.0  0.5959168076515198  0.2371665984392166  0.8652938604354858  1.0000
+  Zn  Zn1       1.0  0.03936894237995148  0.8983038663864136  0.9353984594345093  1.0000

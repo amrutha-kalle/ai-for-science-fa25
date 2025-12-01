@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Na3PuS4U
+_chemical_formula_sum              "Na3 Pu1 S4 U1"
+_cell_length_a       5.57369734182249
+_cell_length_b       6.416475242197446
+_cell_length_c       7.52618408203125
+_cell_angle_alpha    116.44436499479473
+_cell_angle_beta     102.31967514936429
+_cell_angle_gamma    90.41907288035384
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Na  Na1       1.0  0.9674071669578552  0.21542581915855408  0.006510631181299686  1.0000
+  Na  Na2       1.0  0.012431264854967594  0.5863810777664185  0.7375650405883789  1.0000
+  Na  Na3       1.0  0.7132740616798401  0.7993630170822144  0.44914811849594116  1.0000
+  Pu  Pu1       1.0  0.5452123880386353  0.6018670201301575  0.28081727027893066  1.0000
+  S   S1        1.0  0.7176384329795837  0.3775623142719269  0.3287707269191742  1.0000
+  S   S2        1.0  0.2163282036781311  0.28965553641319275  0.7884897589683533  1.0000
+  S   S3        1.0  0.20412027835845947  0.8554972410202026  0.5156566500663757  1.0000
+  S   S4        1.0  0.21157576143741608  0.9742655158042908  0.2835302352905273  1.0000
+  U   U1        1.0  0.23493055999279022  0.5378754138946533  0.5216673612594604  1.0000

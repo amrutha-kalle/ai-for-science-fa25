@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       CoCrFeHf2Sc2ZnZr2
+_chemical_formula_sum              "Co1 Cr1 Fe1 Hf2 Sc2 Zn1 Zr2"
+_cell_length_a       4.896462402454153
+_cell_length_b       6.047989575862891
+_cell_length_c       6.0371832847595215
+_cell_angle_alpha    119.2978789270315
+_cell_angle_beta     90.1597637074482
+_cell_angle_gamma    86.85815160483418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.4344654381275177  0.8469046950340271  0.7186694741249084  1.0000
+  Cr  Cr1       1.0  0.6826221942901611  0.6190149188041687  0.030980469658970868  1.0000
+  Fe  Fe1       1.0  0.18763037025928497  0.5640199780464172  0.05850607156753539  1.0000
+  Hf  Hf1       1.0  0.4705783724784851  0.24565275013446808  0.49262806773185724  1.0000
+  Hf  Hf2       1.0  0.18093779683113098  0.5278241634368896  0.6541959047317505  1.0000
+  Sc  Sc1       1.0  0.6830015778541565  0.04948757216334343  0.6392104029655457  1.0000
+  Sc  Sc2       1.0  0.18693318963050842  0.44708457589149475  0.9949606657028197  1.0000
+  Zn  Zn1       1.0  0.9479865431785583  0.8292126655578613  0.3238619565963745  1.0000
+  Zr  Zr1       1.0  0.9364833235740662  0.3431289792060852  0.5519236326217651  1.0000
+  Zr  Zr2       1.0  0.6864728927612305  0.5465364456176758  0.2365457713603973  1.0000

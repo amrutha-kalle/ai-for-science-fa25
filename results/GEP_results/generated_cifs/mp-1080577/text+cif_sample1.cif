@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HHo2Sn4
+_chemical_formula_sum              "H1 Ho2 Sn4"
+_cell_length_a       5.1132027263944595
+_cell_length_b       5.360042889393972
+_cell_length_c       8.406886100769043
+_cell_angle_alpha    97.25514986273731
+_cell_angle_beta     89.7521556255003
+_cell_angle_gamma    110.65568472681699
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.22972247004508972  0.8956989049911499  0.5921648740768433  1.0000
+  Ho  Ho1       1.0  0.6777543425559998  0.9426017999649048  0.3369816243648529  1.0000
+  Ho  Ho2       1.0  0.9964722990989685  0.4421517252922058  0.5527858138084412  1.0000
+  Sn  Sn1       1.0  0.684549868106842  0.4442247450351715  0.6465630531311035  1.0000
+  Sn  Sn2       1.0  0.6764460802078247  0.2183905988931656  0.323146253824234  1.0000
+  Sn  Sn3       1.0  0.4597664177417755  0.39713484048843384  0.8138253688812256  1.0000
+  Sn  Sn4       1.0  0.04415799677371979  0.9344577789306641  0.8627336025238037  1.0000

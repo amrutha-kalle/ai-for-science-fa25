@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       IMn3SbSeZr
+_chemical_formula_sum              "I1 Mn3 Sb1 Se1 Zr1"
+_cell_length_a       5.088592111184018
+_cell_length_b       6.3697371946982395
+_cell_length_c       6.0379486083984375
+_cell_angle_alpha    118.40122023254891
+_cell_angle_beta     92.43277333213587
+_cell_angle_gamma    90.67204979606718
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.19431070983409882  0.7888830304145813  0.38021272420883173  1.0000
+  Mn  Mn1       1.0  0.9671109318733215  0.37078702449798584  0.7819781303405762  1.0000
+  Mn  Mn2       1.0  0.20359376072883606  0.03757037594914436  0.7842929363250732  1.0000
+  Mn  Mn3       1.0  0.6910547614097595  0.3421517014503479  0.7197535634040833  1.0000
+  Sb  Sb1       1.0  0.195952370762825  0.650856614112854  0.9186787009239197  1.0000
+  Se  Se1       1.0  0.19426023960113525  0.5905895829200745  0.5541507005691528  1.0000
+  Zr  Zr1       1.0  0.6979501247406006  0.6314478516578674  0.7456969022750854  1.0000

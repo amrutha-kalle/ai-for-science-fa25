@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaHLiPPt2Zn
+_chemical_formula_sum              "Ga1 H1 Li1 P1 Pt2 Zn1"
+_cell_length_a       4.30491932023127
+_cell_length_b       4.739865756416304
+_cell_length_c       5.586588382720947
+_cell_angle_alpha    75.55832382371649
+_cell_angle_beta     70.58971698363283
+_cell_angle_gamma    57.732157127507335
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.04173256456851959  0.03147267922759056  0.278486043214798  1.0000
+  H   H1        1.0  0.7383501529693604  0.693406105041504  0.7427312135696411  1.0000
+  Li  Li1       1.0  0.2800354063510894  0.8467330336570741  0.39335760474205017  1.0000
+  P   P1        1.0  0.28899911046028137  0.037193115800619125  0.7261166572570801  1.0000
+  Pt  Pt1       1.0  0.774566352367401  0.9454393386840821  0.6275907158851624  1.0000
+  Pt  Pt2       1.0  0.7632690668106079  0.22912938892841342  0.4140166938304901  1.0000
+  Zn  Zn1       1.0  0.7653763294219971  0.7709994316101075  0.2542340159416199  1.0000

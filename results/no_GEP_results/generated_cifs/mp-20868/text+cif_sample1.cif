@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       EuFe2GaIZn
+_chemical_formula_sum              "Eu1 Fe2 Ga1 I1 Zn1"
+_cell_length_a       3.723497330221465
+_cell_length_b       3.8639444900851694
+_cell_length_c       7.45892858505249
+_cell_angle_alpha    107.5762322499321
+_cell_angle_beta     89.61545458453827
+_cell_angle_gamma    86.58315809222822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.4567607045173645  0.6064538359642029  0.7550559639930724  1.0000
+  Fe  Fe1       1.0  0.952816367149353  0.10787983238697052  0.20743551850318906  1.0000
+  Fe  Fe2       1.0  0.9779574275016785  0.9847787618637085  0.790280520915985  1.0000
+  Ga  Ga1       1.0  0.4668133854866028  0.07146724313497543  0.8920676708221434  1.0000
+  I   I1        1.0  0.7514613270759583  0.8076808452606201  0.21064297854900357  1.0000
+  Zn  Zn1       1.0  0.4550292193889618  0.183735191822052  0.1466342657804489  1.0000

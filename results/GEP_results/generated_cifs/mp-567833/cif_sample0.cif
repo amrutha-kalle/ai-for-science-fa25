@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Eu4MnZn2
+_chemical_formula_sum              "Eu4 Mn1 Zn2"
+_cell_length_a       5.254088219468635
+_cell_length_b       5.64577248346201
+_cell_length_c       8.288446426391602
+_cell_angle_alpha    89.08675562540135
+_cell_angle_beta     89.72750147401756
+_cell_angle_gamma    115.45531807463607
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.5104957818984985  0.7489515542984009  0.9837619662284851  1.0000
+  Eu  Eu2       1.0  0.871606171131134  0.566385805606842  0.6967470049858093  1.0000
+  Eu  Eu3       1.0  0.568879246711731  0.05749812349677086  0.673168420791626  1.0000
+  Eu  Eu4       1.0  0.5675964951515198  0.05539047718048096  0.16687557101249695  1.0000
+  Mn  Mn1       1.0  0.07864960283041  0.06396482139825821  0.46266502141952515  1.0000
+  Zn  Zn1       1.0  0.372283935546875  0.5617128014564514  0.7254800796508789  1.0000
+  Zn  Zn2       1.0  0.07290928065776825  0.5521512031555176  0.1716808080673218  1.0000

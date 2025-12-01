@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       CClCo3IPt
+_chemical_formula_sum              "C1 Cl1 Co3 I1 Pt1"
+_cell_length_a       4.0579771589553895
+_cell_length_b       5.545002660739569
+_cell_length_c       7.65218448638916
+_cell_angle_alpha    89.59063807905154
+_cell_angle_beta     90.9784624109409
+_cell_angle_gamma    97.03166806544832
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.7731426954269409  0.9745436310768127  0.36082911491394043  1.0000
+  Cl  Cl1       1.0  0.7676324844360352  0.17821040749549866  0.022468483075499535  1.0000
+  Co  Co1       1.0  0.1887132227420807  0.10186322033405304  0.014506560750305651  1.0000
+  Co  Co2       1.0  0.8333194255828857  0.8072292804718018  0.1264209747314453  1.0000
+  Co  Co3       1.0  0.6542742252349854  0.09763256460428238  0.9055368900299071  1.0000
+  I   I1        1.0  0.25286298990249634  0.5714085698127747  0.13142721354961395  1.0000
+  Pt  Pt1       1.0  0.6265976428985596  0.7334892749786377  0.8009873032569885  1.0000

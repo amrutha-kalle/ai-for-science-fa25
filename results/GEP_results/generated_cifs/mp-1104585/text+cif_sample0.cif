@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B3HHo3
+_chemical_formula_sum              "B3 H1 Ho3"
+_cell_length_a       4.555008616822008
+_cell_length_b       4.952127201278922
+_cell_length_c       6.077408790588379
+_cell_angle_alpha    110.9975170937991
+_cell_angle_beta     105.28054337707354
+_cell_angle_gamma    88.60899825251249
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.42872655391693115  0.34958726167678833  0.5598724484443665  1.0000
+  B   B2        1.0  0.4226522147655487  0.8418806791305542  0.07526060938835144  1.0000
+  B   B3        1.0  0.9223172664642334  0.3423810303211212  0.5779526233673096  1.0000
+  H   H1        1.0  0.6494318842887878  0.33477744460105896  0.08156150579452515  1.0000
+  Ho  Ho1       1.0  0.6613429188728333  0.33892080187797546  0.9343128800392151  1.0000
+  Ho  Ho2       1.0  0.9268219470977783  0.9908179044723511  0.8031203150749207  1.0000
+  Ho  Ho3       1.0  0.17984256148338318  0.3403674066066742  0.07958706468343735  1.0000

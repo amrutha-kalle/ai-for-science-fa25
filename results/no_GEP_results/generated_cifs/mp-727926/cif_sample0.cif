@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       BiHHg4Pb3Tb
+_chemical_formula_sum              "Bi1 H1 Hg4 Pb3 Tb1"
+_cell_length_a       5.60502626491684
+_cell_length_b       7.06567362565446
+_cell_length_c       7.40284538269043
+_cell_angle_alpha    124.732296776727
+_cell_angle_beta     90.48379755549425
+_cell_angle_gamma    90.42289928366156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.868507981300354  0.495702862739563  0.11208868026733398  1.0000
+  H   H1        1.0  0.36877456307411194  0.34772011637687683  0.37532761693000793  1.0000
+  Hg  Hg1       1.0  0.3744570314884186  0.7910755276679993  0.9094963073730469  1.0000
+  Hg  Hg2       1.0  0.3766230344772339  0.9886773228645325  0.2818564772605896  1.0000
+  Hg  Hg3       1.0  0.8689342737197876  0.2940880060195923  0.049988526850938825  1.0000
+  Hg  Hg4       1.0  0.3758396804332733  0.2241799533367157  0.47762754559516907  1.0000
+  Pb  Pb1       1.0  0.8757044672966003  0.238821879029274  0.47364094853401184  1.0000
+  Pb  Pb2       1.0  0.8712676167488098  0.351351261138916  0.3003996014595032  1.0000
+  Pb  Pb3       1.0  0.8765547275543213  0.963624894618988  0.5338116884231567  1.0000
+  Tb  Tb1       1.0  0.37387964129447937  0.7553272247314453  0.794767439365387  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlAs2I3
+_chemical_formula_sum              "Al1 As2 I3"
+_cell_length_a       6.017899660568937
+_cell_length_b       7.924006831194409
+_cell_length_c       8.661078453063965
+_cell_angle_alpha    120.96399123071437
+_cell_angle_beta     90.17712966552033
+_cell_angle_gamma    89.68043176454086
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4597846269607544  0.6894667148590088  0.34358444809913624  1.0000
+  As  As1       1.0  0.21445198357105255  0.6814994812011719  0.8560593128204345  1.0000
+  As  As2       1.0  0.7401003837585449  0.9300368428230285  0.3731591701507567  1.0000
+  I   I1        1.0  0.24088867008686066  0.9426227211952208  0.7085952162742614  1.0000
+  I   I2        1.0  0.741252064704895  0.9824118614196776  0.8455218076705932  1.0000
+  I   I3        1.0  0.7409197092056274  0.25898846983909607  0.8145004510879517  1.0000

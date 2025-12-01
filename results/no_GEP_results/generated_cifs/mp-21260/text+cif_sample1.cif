@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       HLuPPdScZn2
+_chemical_formula_sum              "H1 Lu1 P1 Pd1 Sc1 Zn2"
+_cell_length_a       4.753607700328472
+_cell_length_b       5.747245875811497
+_cell_length_c       6.459404945373535
+_cell_angle_alpha    124.82950370118797
+_cell_angle_beta     89.90433450494514
+_cell_angle_gamma    89.46432228568653
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.7959530353546143  0.5299027562141418  0.5205701589584351  1.0000
+  Lu  Lu1       1.0  0.7880485653877258  0.7646225094795227  0.05476304143667221  1.0000
+  P   P1        1.0  0.7939425706863403  0.8601576089859009  0.0893587991595269  1.0000
+  Pd  Pd1       1.0  0.2903478145599365  0.46703121066093445  0.9573042988777161  1.0000
+  Sc  Sc1       1.0  0.7972788214683533  0.7969151139259338  0.6861658692359924  1.0000
+  Zn  Zn1       1.0  0.7953987121582031  0.5580353140830994  0.15641723573207858  1.0000
+  Zn  Zn2       1.0  0.29232263565063477  0.37137022614479065  0.9518889784812927  1.0000

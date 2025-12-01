@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Dy3PTlZn2
+_chemical_formula_sum              "Dy3 P1 Tl1 Zn2"
+_cell_length_a       4.7045223508596274
+_cell_length_b       4.94152473888139
+_cell_length_c       5.753467559814453
+_cell_angle_alpha    118.58087262411134
+_cell_angle_beta     110.94146115298874
+_cell_angle_gamma    82.74993527938084
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.9237844347953796  0.9782252907752991  0.6936542987823486  1.0000
+  Dy  Dy2       1.0  0.205429807305336  0.5195350646972656  0.4590805768966675  1.0000
+  Dy  Dy3       1.0  0.44550657272338867  0.9897295236587524  0.5406402945518493  1.0000
+  P   P1        1.0  0.5504338145256042  0.17577652633190155  0.18383458256721497  1.0000
+  Tl  Tl1       1.0  0.5526906251907349  0.18026135861873627  0.6941243410110474  1.0000
+  Zn  Zn1       1.0  0.2124500274658203  0.518108069896698  0.05102130770683285  1.0000
+  Zn  Zn2       1.0  0.76114422082901  0.33304843306541443  0.9129849076271057  1.0000

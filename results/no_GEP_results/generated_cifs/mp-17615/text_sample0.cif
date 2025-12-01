@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Ge3Ta4
+_chemical_formula_sum              "Ge3 Ta4"
+_cell_length_a       4.752231346819523
+_cell_length_b       4.487665697742143
+_cell_length_c       4.7550506591796875
+_cell_angle_alpha    108.93099796085072
+_cell_angle_beta     102.16266930148447
+_cell_angle_gamma    89.82370109783258
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.2729254961013794  0.3022587299346924  0.13660098612308502  1.0000
+  Ge  Ge2       1.0  0.25166890025138855  0.7731900215148926  0.5946625471115112  1.0000
+  Ge  Ge3       1.0  0.7363516092300415  0.9527093172073364  0.645255446434021  1.0000
+  Ta  Ta1       1.0  0.7601984739303589  0.2949402630329132  0.06260177493095398  1.0000
+  Ta  Ta2       1.0  0.7618947625160217  0.5534074902534485  0.3836866617202759  1.0000
+  Ta  Ta3       1.0  0.27063339948654175  0.2940555512905121  0.4363173544406891  1.0000
+  Ta  Ta4       1.0  0.7731087803840637  0.07733146846294403  0.8530722260475159  1.0000

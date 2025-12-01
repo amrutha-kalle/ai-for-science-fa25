@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sc5Zn2
+_chemical_formula_sum              "Sc5 Zn2"
+_cell_length_a       4.924994283442968
+_cell_length_b       6.593716096053818
+_cell_length_c       6.6416826248168945
+_cell_angle_alpha    124.1919375000897
+_cell_angle_beta     86.54960631962877
+_cell_angle_gamma    89.2994566028934
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.12899912893772125  0.3572186231613159  0.9808191657066345  1.0000
+  Sc  Sc2       1.0  0.632653534412384  0.875505268573761  0.7321310043334961  1.0000
+  Sc  Sc3       1.0  0.623706042766571  0.4253326654434204  0.6835743188858032  1.0000
+  Sc  Sc4       1.0  0.6249390840530396  0.44673439860343933  0.12467137724161148  1.0000
+  Sc  Sc5       1.0  0.12357284873723984  0.9733898639678955  0.08427461236715317  1.0000
+  Zn  Zn1       1.0  0.11976301670074463  0.6242343187332153  0.8983598947525024  1.0000
+  Zn  Zn2       1.0  0.6100623607635498  0.6680422425270081  0.13545379042625427  1.0000

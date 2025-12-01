@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       SScSi4Tb
+_chemical_formula_sum              "S1 Sc1 Si4 Tb1"
+_cell_length_a       4.997144913199433
+_cell_length_b       5.460450041424142
+_cell_length_c       6.421898365020752
+_cell_angle_alpha    122.53931197637787
+_cell_angle_beta     103.58534685016103
+_cell_angle_gamma    89.27019296246642
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.00015928444918245077  0.9795960783958435  0.35350531339645375  1.0000
+  Sc  Sc1       1.0  0.41373366117477417  0.7790472507476807  0.027279024943709373  1.0000
+  Si  Si1       1.0  0.9104446768760681  0.7858827114105225  0.03478464484214783  1.0000
+  Si  Si2       1.0  0.4179302155971527  0.974619448184967  0.2114800363779068  1.0000
+  Si  Si3       1.0  0.6742677092552185  0.03884492069482803  0.5402963757514954  1.0000
+  Si  Si4       1.0  0.7170969247817993  0.4960390031337738  0.5859736800193787  1.0000
+  Tb  Tb1       1.0  0.22159913182258606  0.28011366724967957  0.539380669593811  1.0000

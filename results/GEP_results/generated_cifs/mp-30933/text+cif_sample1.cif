@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BiNaZr5
+_chemical_formula_sum              "Bi1 Na1 Zr5"
+_cell_length_a       5.595537066123772
+_cell_length_b       5.495868743730227
+_cell_length_c       5.547279357910156
+_cell_angle_alpha    59.51343192218559
+_cell_angle_beta     58.66951599446859
+_cell_angle_gamma    57.5556755111149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.11847001314163208  0.4233761727809906  0.3119494318962097  1.0000
+  Na  Na1       1.0  0.5636009573936462  0.3192428946495056  0.2999885678291321  1.0000
+  Zr  Zr1       1.0  0.8160746693611145  0.42709261178970337  0.5321333408355713  1.0000
+  Zr  Zr2       1.0  0.3152393698692322  0.9158205389976501  0.027961255982518196  1.0000
+  Zr  Zr3       1.0  0.28105849027633667  0.06981008499860764  0.5230765342712402  1.0000
+  Zr  Zr4       1.0  0.7733823657035828  0.418189138174057  0.7986387014389038  1.0000
+  Zr  Zr5       1.0  0.31576958298683167  0.9168971180915833  0.5235134363174438  1.0000

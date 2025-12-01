@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd2ClHOSZn
+_chemical_formula_sum              "Cd2 Cl1 H1 O1 S1 Zn1"
+_cell_length_a       4.374976068975258
+_cell_length_b       6.389410390461886
+_cell_length_c       6.739998817443848
+_cell_angle_alpha    120.08828661032946
+_cell_angle_beta     89.55332417605455
+_cell_angle_gamma    88.15501605837774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.43163156509399414  0.8284290432929993  0.06973610073328018  1.0000
+  Cd  Cd2       1.0  0.4327082633972168  0.8777031302452087  0.3567222356796264  1.0000
+  Cl  Cl1       1.0  0.9365158677101135  0.037883006036281586  0.4028613269329071  1.0000
+  H   H1        1.0  0.9233018159866333  0.982158899307251  0.07372291386127466  1.0000
+  O   O1        1.0  0.20556320250034332  0.1800655722618103  0.5857720375061035  1.0000
+  S   S1        1.0  0.9275689721107483  0.9854859113693237  0.6456188559532166  1.0000
+  Zn  Zn1       1.0  0.44078677892684937  0.549575686454773  0.8920111060142518  1.0000

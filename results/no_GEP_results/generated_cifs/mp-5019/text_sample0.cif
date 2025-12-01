@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       B3Co5Ni
+_chemical_formula_sum              "B3 Co5 Ni1"
+_cell_length_a       4.677043703712213
+_cell_length_b       4.223831953006065
+_cell_length_c       4.513181686401367
+_cell_angle_alpha    108.60771765781335
+_cell_angle_beta     110.591968398344
+_cell_angle_gamma    121.42054606374987
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.508368730545044  0.26971927285194397  0.03727145120501518  1.0000
+  B   B2        1.0  0.9770403504371643  0.8286287188529968  0.6533864736557007  1.0000
+  B   B3        1.0  0.9223814606666565  0.6633942127227783  0.46306896209716797  1.0000
+  Co  Co1       1.0  0.3269800841808319  0.8510987162590027  0.845904529094696  1.0000
+  Co  Co2       1.0  0.057673849165439606  0.510242223739624  0.14186185598373413  1.0000
+  Co  Co3       1.0  0.057293348014354706  0.3134649991989136  0.9250038862228394  1.0000
+  Co  Co4       1.0  0.05717043578624725  0.35227060317993164  0.759775698184967  1.0000
+  Co  Co5       1.0  0.5648314952850342  0.5448266267776489  0.8425689339637756  1.0000
+  Ni  Ni1       1.0  0.047013040632009506  0.05575820058584213  0.8986343741416931  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsFe4NiSiZn2
+_chemical_formula_sum              "As1 Fe4 Ni1 Si1 Zn2"
+_cell_length_a       5.029672568154196
+_cell_length_b       5.25175083250574
+_cell_length_c       5.910486221313477
+_cell_angle_alpha    70.10581313339655
+_cell_angle_beta     68.06729135000373
+_cell_angle_gamma    67.37877921225667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5706078410148621  0.29814156889915466  0.46859419345855713  1.0000
+  Fe  Fe1       1.0  0.25227969884872437  0.7318007946014404  0.46184200048446655  1.0000
+  Fe  Fe2       1.0  0.9094204902648926  0.8687676787376404  0.15344946086406708  1.0000
+  Fe  Fe3       1.0  0.9032859206199646  0.8706101775169373  0.4944082200527191  1.0000
+  Fe  Fe4       1.0  0.5717962980270386  0.5606855750083923  0.11458663642406464  1.0000
+  Ni  Ni1       1.0  0.9152530431747437  0.39069122076034546  0.23164816200733185  1.0000
+  Si  Si1       1.0  0.9702325463294983  0.5091321468353271  0.7461652755737305  1.0000
+  Zn  Zn1       1.0  0.06614997237920761  0.1374555230140686  0.07875493168830872  1.0000
+  Zn  Zn2       1.0  0.10390030592679977  0.8294662237167358  0.5216817855834961  1.0000

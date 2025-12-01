@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsCsILiMnPbZr
+_chemical_formula_sum              "As1 Cs1 I1 Li1 Mn1 Pb1 Zr1"
+_cell_length_a       5.0360085888626775
+_cell_length_b       4.84780187133112
+_cell_length_c       6.459217548370361
+_cell_angle_alpha    118.56576501817527
+_cell_angle_beta     114.409768993316
+_cell_angle_gamma    88.79596268057877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.8332080245018005  0.05029257759451866  0.8001882433891296  1.0000
+  Cs  Cs1       1.0  0.8206689357757568  0.4564235210418701  0.1537761390209198  1.0000
+  I   I1        1.0  0.29888373613357544  0.7775236964225769  0.6215454339981079  1.0000
+  Li  Li1       1.0  0.8297526836395264  0.5856481194496155  0.5917627215385437  1.0000
+  Mn  Mn1       1.0  0.5879532098770142  0.6198228001594543  0.7506650686264038  1.0000
+  Pb  Pb1       1.0  0.32357147336006165  0.7485377192497253  0.11472777277231216  1.0000
+  Zr  Zr1       1.0  0.3343459367752075  0.7707520127296448  0.6258956789970398  1.0000

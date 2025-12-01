@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Al2AsN2Zn
+_chemical_formula_sum              "Al2 As1 N2 Zn1"
+_cell_length_a       4.564678479746406
+_cell_length_b       5.055056218025162
+_cell_length_c       5.627105712890625
+_cell_angle_alpha    108.71940527378254
+_cell_angle_beta     103.40601265786968
+_cell_angle_gamma    112.75383570595439
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.777458131313324  0.7692146301269531  0.21427768468856812  1.0000
+  Al  Al2       1.0  0.41281506419181824  0.12723101675510406  0.3189714550971985  1.0000
+  As  As1       1.0  0.12895484268665314  0.4506886303424835  0.9523244500160217  1.0000
+  N   N1        1.0  0.19842897355556488  0.9713970422744751  0.22854000329971316  1.0000
+  N   N2        1.0  0.5394825339317322  0.4689594805240631  0.39804843068122864  1.0000
+  Zn  Zn1       1.0  0.815345287322998  0.8272724747657776  0.4758693277835846  1.0000

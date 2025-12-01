@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HTb8
+_chemical_formula_sum              "H1 Tb8"
+_cell_length_a       6.612123990064871
+_cell_length_b       6.617228469019621
+_cell_length_c       6.785517692565918
+_cell_angle_alpha    63.39618071939611
+_cell_angle_beta     64.66839901893043
+_cell_angle_gamma    74.58795676946376
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.47032368183135986  0.2068445235490799  0.11096783727407454  1.0000
+  Tb  Tb1       1.0  0.7279052734375  0.7597712278366089  0.5496828556060791  1.0000
+  Tb  Tb2       1.0  0.036389581859111786  0.7790586352348328  0.11440853029489516  1.0000
+  Tb  Tb3       1.0  0.21529492735862732  0.986318349838257  0.26897209882736206  1.0000
+  Tb  Tb4       1.0  0.03387681394815445  0.28817838430404663  0.2589830160140991  1.0000
+  Tb  Tb5       1.0  0.5393896698951721  0.16599567234516144  0.6588461995124817  1.0000
+  Tb  Tb6       1.0  0.22647491097450256  0.05122610926628113  0.6482306122779846  1.0000
+  Tb  Tb7       1.0  0.4673251211643219  0.1555846780538559  0.5386981964111328  1.0000
+  Tb  Tb8       1.0  0.7306666970252991  0.8169955611228943  0.8732376098632811  1.0000

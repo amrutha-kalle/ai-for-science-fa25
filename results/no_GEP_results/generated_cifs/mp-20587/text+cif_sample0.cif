@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Eu3PTbZn
+_chemical_formula_sum              "Eu3 P1 Tb1 Zn1"
+_cell_length_a       6.052290445310061
+_cell_length_b       5.852962450934326
+_cell_length_c       6.506805419921875
+_cell_angle_alpha    101.26016706811254
+_cell_angle_beta     108.8076864812982
+_cell_angle_gamma    114.96185490276976
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Eu  Eu1       1.0  0.3168446123600006  0.9724663496017456  0.29861456155776983  1.0000
+  Eu  Eu2       1.0  0.0348997563123703  0.01679396815598011  0.6517900228500366  1.0000
+  Eu  Eu3       1.0  0.5882704257965088  0.16277143359184265  0.44166091084480286  1.0000
+  P   P1        1.0  0.00020742416381835938  0.5981674790382385  0.46833619475364685  1.0000
+  Tb  Tb1       1.0  0.6082765460014343  0.6612684726715088  0.4237218499183655  1.0000
+  Zn  Zn1       1.0  0.0003151893615722656  0.5418616533279419  0.856697142124176  1.0000

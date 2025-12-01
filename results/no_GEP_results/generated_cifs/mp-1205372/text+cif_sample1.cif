@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       GaGeLiUVZr
+_chemical_formula_sum              "Ga1 Ge1 Li1 U1 V1 Zr1"
+_cell_length_a       4.005586525568434
+_cell_length_b       4.286443846802843
+_cell_length_c       5.056899547576904
+_cell_angle_alpha    105.02585106538297
+_cell_angle_beta     84.31674796615424
+_cell_angle_gamma    97.0866458300502
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.7883368730545044  0.9817883372306824  0.8614781498908997  1.0000
+  Ge  Ge1       1.0  0.7803190350532532  0.6343850493431091  0.844431459903717  1.0000
+  Li  Li1       1.0  0.2969588041305542  0.690316379070282  0.3120619058609009  1.0000
+  U   U1        1.0  0.7873896360397339  0.4415304362773895  0.9106319546699524  1.0000
+  V   V1        1.0  0.29242679476737976  0.9618392586708069  0.11096660792827606  1.0000
+  Zr  Zr1       1.0  0.3046426475048065  0.001293343841098249  0.1323777288198471  1.0000

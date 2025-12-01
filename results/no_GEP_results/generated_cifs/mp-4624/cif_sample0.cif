@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GeHOPPbSbTaTb2
+_chemical_formula_sum              "Ge1 H1 O1 P1 Pb1 Sb1 Ta1 Tb2"
+_cell_length_a       4.596788918837946
+_cell_length_b       3.763474443852601
+_cell_length_c       9.18259048461914
+_cell_angle_alpha    88.92488544295176
+_cell_angle_beta     89.41291009050028
+_cell_angle_gamma    119.31629205607608
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.3139650523662567  0.7835556864738464  0.10768734663724899  1.0000
+  H   H1        1.0  0.829372227191925  0.24731926620006559  0.6751993298530579  1.0000
+  O   O1        1.0  0.0638369545340538  0.06117791682481765  0.8073887228965759  1.0000
+  P   P1        1.0  0.3069829642772674  0.9810815453529357  0.3442937433719635  1.0000
+  Pb  Pb1       1.0  0.7736306190490723  0.5440812110900879  0.10946262627840042  1.0000
+  Sb  Sb1       1.0  0.7892487645149231  0.8244339227676392  0.512213945388794  1.0000
+  Ta  Ta1       1.0  0.23551788926124573  0.6225515007972717  0.5843552947044373  1.0000
+  Tb  Tb1       1.0  0.797223687171936  0.30195310711860657  0.3197764456272125  1.0000
+  Tb  Tb2       1.0  0.31495463848114014  0.1329912543296814  0.00688021769747138  1.0000

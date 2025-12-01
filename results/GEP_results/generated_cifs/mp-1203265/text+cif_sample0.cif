@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co4P4Y
+_chemical_formula_sum              "Co4 P4 Y1"
+_cell_length_a       4.285064988407949
+_cell_length_b       5.118342476794131
+_cell_length_c       8.730599403381348
+_cell_angle_alpha    88.91771892575056
+_cell_angle_beta     90.3959773886971
+_cell_angle_gamma    106.83370663495721
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.6974560618400574  0.3435562551021576  0.3205341100692749  1.0000
+  Co  Co2       1.0  0.8305397033691406  0.09747882932424545  0.8950998783111572  1.0000
+  Co  Co3       1.0  0.9901115894317627  0.39657357335090637  0.23086148500442508  1.0000
+  Co  Co4       1.0  0.3209925889968872  0.5998561978340149  0.8886454105377197  1.0000
+  P   P1        1.0  0.5485115051269531  0.8479503989219666  0.8990807533264161  1.0000
+  P   P2        1.0  0.7702529430389404  0.9068366885185242  0.7308641672134399  1.0000
+  P   P3        1.0  0.8508168458938599  0.5922626256942749  0.392521470785141  1.0000
+  P   P4        1.0  0.2664192318916321  0.3847811222076416  0.23133811354637146  1.0000
+  Y   Y1        1.0  0.31351783871650696  0.10030632466077805  0.8837243318557739  1.0000

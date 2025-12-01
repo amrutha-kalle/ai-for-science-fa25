@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       N4Na5
+_chemical_formula_sum              "N4 Na5"
+_cell_length_a       4.570167254370268
+_cell_length_b       4.720872404673715
+_cell_length_c       6.64639139175415
+_cell_angle_alpha    86.1382683256487
+_cell_angle_beta     83.8270001573015
+_cell_angle_gamma    74.83773442631689
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.49223557114601135  0.3819776475429535  0.9931260943412782  1.0000
+  N   N2        1.0  0.4435364007949829  0.30331510305404663  0.16008178889751434  1.0000
+  N   N3        1.0  0.9442142844200134  0.07723356783390045  0.8480368256568908  1.0000
+  N   N4        1.0  0.4540335536003113  0.9000663161277771  0.5839127898216248  1.0000
+  Na  Na1       1.0  0.4842987358570099  0.17955930531024933  0.7633835077285767  1.0000
+  Na  Na2       1.0  0.4586147964000702  0.5245517492294312  0.5656909942626953  1.0000
+  Na  Na3       1.0  0.9408394694328308  0.6541248559951782  0.5174775123596191  1.0000
+  Na  Na4       1.0  0.4678007662296295  0.4789597690105439  0.3277103006839752  1.0000
+  Na  Na5       1.0  0.973866879940033  0.9595558643341066  0.13505919277668  1.0000

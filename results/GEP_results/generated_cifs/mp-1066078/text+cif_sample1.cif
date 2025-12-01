@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi3Cl2PtZn
+_chemical_formula_sum              "Bi3 Cl2 Pt1 Zn1"
+_cell_length_a       6.14150597644689
+_cell_length_b       6.191488464777038
+_cell_length_c       6.344195365905762
+_cell_angle_alpha    62.049219997517554
+_cell_angle_beta     60.83513790071376
+_cell_angle_gamma    60.87174835000638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.48718628287315374  0.7288734912872314  0.14152908325195312  1.0000
+  Bi  Bi2       1.0  0.8770685195922853  0.2324499785900116  0.5431874990463257  1.0000
+  Bi  Bi3       1.0  0.2641352117061615  0.7309281229972839  0.8188296556472779  1.0000
+  Cl  Cl1       1.0  0.7617032527923584  0.714017927646637  0.9130725860595704  1.0000
+  Cl  Cl2       1.0  0.04343462735414505  0.3510900139808655  0.35114550590515137  1.0000
+  Pt  Pt1       1.0  0.8728912472724916  0.21906156837940216  0.5827710628509521  1.0000
+  Zn  Zn1       1.0  0.23143342137336734  0.22987297177314758  0.5314838886260986  1.0000
