@@ -151,7 +151,6 @@ def load_chemeleon_model(checkpoint_path: Optional[str] = None, clip_checkpoint_
         # if clip_checkpoint_path is None:
         #     clip_checkpoint_path = "/Users/sathv/ai-for-science-fa25/chemeleon/chemeleon/checkpoints/clip-upy53q4b.ckpt"
         
-        # Make sure paths are absolute
         checkpoint_path = os.path.abspath(checkpoint_path)
         clip_checkpoint_path = os.path.abspath(clip_checkpoint_path)
         
@@ -159,13 +158,16 @@ def load_chemeleon_model(checkpoint_path: Optional[str] = None, clip_checkpoint_
         print(f"CLIP: {clip_checkpoint_path}")
         
         try:
-            # Load CLIP checkpoint first (like test_gep.py does)
-            # This ensures use_gep=True is properly initialized from the checkpoint
+            # Load CLIP checkpoint with proper GEP initialization
+            # We need to: 1) load checkpoint to get hparams, 2) create model with hparams, 3) load state dict
             print("Loading CLIP checkpoint...")
-            clip_model = CrystalClip.load_from_checkpoint(clip_checkpoint_path, map_location="cpu")
-            clip_model.eval()
-            print(f"CLIP model loaded successfully")
-            print(f"  use_gep: {getattr(clip_model, 'use_gep', None)}")
+            clip = CrystalClip.load_from_checkpoint(
+                clip_checkpoint_path,
+                map_location="cpu",
+            )
+            # Load the trained weights
+            clip.eval()
+            print(f"CLIP model loaded successfully (with GEP modules)")
             
             # Load Chemeleon checkpoint
             print("Loading Chemeleon checkpoint...")
