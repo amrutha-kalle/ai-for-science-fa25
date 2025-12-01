@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CdLu7Sc
+_chemical_formula_sum              "Cd1 Lu7 Sc1"
+_cell_length_a       4.395342842002007
+_cell_length_b       4.302555098111172
+_cell_length_c       8.73260498046875
+_cell_angle_alpha    99.45082921336821
+_cell_angle_beta     97.14352450263677
+_cell_angle_gamma    94.14515660541632
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.4208368957042694  0.9298882484436035  0.6024190187454224  1.0000
+  Lu  Lu1       1.0  0.38164663314819336  0.10068988800048828  0.5139358639717102  1.0000
+  Lu  Lu2       1.0  0.41243138909339905  0.9661490321159363  0.9436917901039124  1.0000
+  Lu  Lu3       1.0  0.6624678373336792  0.19379301369190216  0.002307915827259415  1.0000
+  Lu  Lu4       1.0  0.3945193290710449  0.4268672466278076  0.2378879338502884  1.0000
+  Lu  Lu5       1.0  0.9055593013763428  0.6241241693496704  0.2186315953731537  1.0000
+  Lu  Lu6       1.0  0.9199149012565613  0.06431493908166885  0.5864056348800659  1.0000
+  Lu  Lu7       1.0  0.913861870765686  0.16469621658325195  0.44204288721084595  1.0000
+  Sc  Sc1       1.0  0.9115726351737976  0.15542346239089966  0.43172016739845276  1.0000

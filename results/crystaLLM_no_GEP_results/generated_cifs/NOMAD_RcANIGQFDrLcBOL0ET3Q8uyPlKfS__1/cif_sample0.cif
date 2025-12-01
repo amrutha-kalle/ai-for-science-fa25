@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       GaIn2LaPbV2
+_chemical_formula_sum              "Ga1 In2 La1 Pb1 V2"
+_cell_length_a       4.283975771688091
+_cell_length_b       4.9384798831675445
+_cell_length_c       6.785849571228027
+_cell_angle_alpha    90.272996484467
+_cell_angle_beta     90.0161646341403
+_cell_angle_gamma    110.89082387866176
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.5229986906051636  0.258436918258667  0.2260953783988953  1.0000
+  In  In1       1.0  0.5057629346847534  0.02245499938726425  0.2756410241127014  1.0000
+  In  In2       1.0  0.0019720792770385742  0.31017518043518066  0.05582061782479287  1.0000
+  La  La1       1.0  0.0012434720993041992  0.29406794905662537  0.6064995527267456  1.0000
+  Pb  Pb1       1.0  0.5086150169372559  0.7919152975082397  0.4287408888339997  1.0000
+  V   V1        1.0  0.5529532432556152  0.46392571926116943  0.9370696544647218  1.0000
+  V   V2        1.0  0.044773850589990616  0.11732292175292969  0.307695209980011  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BCuF2In3
+_chemical_formula_sum              "B1 Cu1 F2 In3"
+_cell_length_a       3.5611290526085226
+_cell_length_b       4.871633259552559
+_cell_length_c       7.188409805297852
+_cell_angle_alpha    88.3427420428669
+_cell_angle_beta     90.8590555217898
+_cell_angle_gamma    94.67828575096604
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.8855269551277161  0.808050811290741  0.3372781574726105  1.0000
+  Cu  Cu1       1.0  0.39708179235458374  0.6696138978004456  0.8332005739212036  1.0000
+  F   F1        1.0  0.38170966506004333  0.8988211154937744  0.8392977118492126  1.0000
+  F   F2        1.0  0.898897111415863  0.18945787847042084  0.5938078165054321  1.0000
+  In  In1       1.0  0.8849346041679382  0.5671000480651855  0.5930951237678528  1.0000
+  In  In2       1.0  0.3877941071987152  0.5649071335792542  0.8360489010810852  1.0000
+  In  In3       1.0  0.8760159015655518  0.03151470422744751  0.09580142050981522  1.0000

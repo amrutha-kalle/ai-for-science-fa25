@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al3NiScZn4
+_chemical_formula_sum              "Al3 Ni1 Sc1 Zn4"
+_cell_length_a       4.918310826971734
+_cell_length_b       6.02791700330687
+_cell_length_c       8.246851921081543
+_cell_angle_alpha    114.26037138996074
+_cell_angle_beta     92.33816606835978
+_cell_angle_gamma    91.39193054321534
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.29269149899482727  0.3805526793003082  0.3373286724090576  1.0000
+  Al  Al2       1.0  0.2976517081260681  0.38578078150749207  0.7697593569755554  1.0000
+  Al  Al3       1.0  0.3355196416378021  0.8706494569778442  0.025612713769078255  1.0000
+  Ni  Ni1       1.0  0.9781091213226317  0.6197469234466553  0.020597148686647415  1.0000
+  Sc  Sc1       1.0  0.7926791906356812  0.38112086057662964  0.6825866103172302  1.0000
+  Zn  Zn1       1.0  0.7433738708496094  0.8595819473266602  0.5156395435333252  1.0000
+  Zn  Zn2       1.0  0.45991411805152893  0.8862968683242798  0.5244042873382568  1.0000
+  Zn  Zn3       1.0  0.8774483799934387  0.874040424823761  0.6353009343147278  1.0000
+  Zn  Zn4       1.0  0.9769320487976073  0.38253194093704224  0.2561231255531311  1.0000

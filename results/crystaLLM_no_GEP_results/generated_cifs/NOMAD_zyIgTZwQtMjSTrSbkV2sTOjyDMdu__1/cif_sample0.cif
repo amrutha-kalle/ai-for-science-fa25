@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlAu3Cu2PbZn2
+_chemical_formula_sum              "Al1 Au3 Cu2 Pb1 Zn2"
+_cell_length_a       5.528072562155077
+_cell_length_b       5.659303625269002
+_cell_length_c       5.76098108291626
+_cell_angle_alpha    89.86451309379923
+_cell_angle_beta     89.36124558879025
+_cell_angle_gamma    90.61839408118071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.5045573711395264  0.5709173679351807  0.8767060041427612  1.0000
+  Au  Au1       1.0  0.38454917073249817  0.3165888488292694  0.46515122056007385  1.0000
+  Au  Au2       1.0  0.032611459493637085  0.18341517448425293  0.14661534130573273  1.0000
+  Au  Au3       1.0  0.5343447327613831  0.23011314868927002  0.17272599041461947  1.0000
+  Cu  Cu1       1.0  0.030612299218773842  0.3747064769268036  0.1574837863445282  1.0000
+  Cu  Cu2       1.0  0.4982801675796509  0.6985448598861694  0.9396142959594727  1.0000
+  Pb  Pb1       1.0  0.5248221755027771  0.2236449271440506  0.8613501191139221  1.0000
+  Zn  Zn1       1.0  0.033689193427562714  0.7628192901611328  0.5533769130706787  1.0000
+  Zn  Zn2       1.0  0.024070272222161293  0.45667392015457153  0.2798829674720764  1.0000

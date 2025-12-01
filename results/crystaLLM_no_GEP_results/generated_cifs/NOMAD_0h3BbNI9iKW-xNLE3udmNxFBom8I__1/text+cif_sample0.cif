@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al3Cd3DyPb
+_chemical_formula_sum              "Al3 Cd3 Dy1 Pb1"
+_cell_length_a       5.1320730608520035
+_cell_length_b       6.361516834892381
+_cell_length_c       6.375037670135498
+_cell_angle_alpha    123.27702106033038
+_cell_angle_beta     89.15578250084722
+_cell_angle_gamma    90.39203630323622
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.2432141751050949  0.030931398272514343  0.6904392838478088  1.0000
+  Al  Al2       1.0  0.7353203296661377  0.7641160488128662  0.7356927990913391  1.0000
+  Al  Al3       1.0  0.7345699667930603  0.8547601699829102  0.09348256886005395  1.0000
+  Cd  Cd1       1.0  0.7368842959403992  0.7011155486106873  0.3562490940093994  1.0000
+  Cd  Cd2       1.0  0.23695017397403717  0.6190603971481323  0.7683242559432983  1.0000
+  Cd  Cd3       1.0  0.24655042588710785  0.20715151727199554  0.15870502591133118  1.0000
+  Dy  Dy1       1.0  0.7383565306663513  0.9892547130584717  0.5415947437286377  1.0000
+  Pb  Pb1       1.0  0.23134581744670868  0.4603092670440674  0.9529532790184021  1.0000

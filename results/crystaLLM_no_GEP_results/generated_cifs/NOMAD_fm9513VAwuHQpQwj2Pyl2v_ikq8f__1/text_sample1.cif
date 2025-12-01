@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       As3Ge2Os4
+_chemical_formula_sum              "As3 Ge2 Os4"
+_cell_length_a       4.262876071641396
+_cell_length_b       4.514509735782935
+_cell_length_c       9.387393951416016
+_cell_angle_alpha    90.22288339373414
+_cell_angle_beta     90.72265872075363
+_cell_angle_gamma    89.61880845590339
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5564337372779846  0.42193397879600525  0.15307112038135529  1.0000
+  As  As2       1.0  0.056410569697618484  0.19657443463802338  0.8881273865699768  1.0000
+  As  As3       1.0  0.0651928037405014  0.37286633253097534  0.8550723791122437  1.0000
+  Ge  Ge1       1.0  0.5627707242965698  0.9822223782539368  0.37762928009033203  1.0000
+  Ge  Ge2       1.0  0.5562618374824524  0.7735496759414673  0.6592470407485962  1.0000
+  Os  Os1       1.0  0.054207902401685715  0.9914178252220154  0.6591193079948425  1.0000
+  Os  Os2       1.0  0.06177619844675064  0.8871731162071228  0.38530728220939636  1.0000
+  Os  Os3       1.0  0.5566132068634033  0.31730738282203674  0.14968106150627136  1.0000
+  Os  Os4       1.0  0.5488665103912354  0.16599290072917938  0.67580646276474  1.0000

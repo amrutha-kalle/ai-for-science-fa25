@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BFeMn3Ru3
+_chemical_formula_sum              "B1 Fe1 Mn3 Ru3"
+_cell_length_a       3.9947507059223484
+_cell_length_b       3.9554051420916956
+_cell_length_c       4.563047409057617
+_cell_angle_alpha    105.06611676605242
+_cell_angle_beta     96.95617931398375
+_cell_angle_gamma    119.17234160629005
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.4616298973560333  0.00977314729243517  0.9546323418617249  1.0000
+  Fe  Fe1       1.0  0.8200553059577942  0.5457980632781982  0.12063755095005035  1.0000
+  Mn  Mn1       1.0  0.11831995844841003  0.029890693724155426  0.581692099571228  1.0000
+  Mn  Mn2       1.0  0.11509770154953003  0.5114797353744507  0.8547185659408569  1.0000
+  Mn  Mn3       1.0  0.4559166133403778  0.412162184715271  0.4536686837673187  1.0000
+  Ru  Ru1       1.0  0.8238376975059509  0.9511815905570984  0.7383810877799988  1.0000
+  Ru  Ru2       1.0  0.45692363381385803  0.5067236423492432  0.5856919884681702  1.0000
+  Ru  Ru3       1.0  0.8008946180343628  0.8512809872627258  0.7414790391921997  1.0000

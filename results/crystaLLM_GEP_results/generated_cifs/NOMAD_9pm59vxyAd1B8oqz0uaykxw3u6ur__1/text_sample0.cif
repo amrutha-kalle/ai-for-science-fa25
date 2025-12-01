@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaCd4H2HoMo
+_chemical_formula_sum              "Ca1 Cd4 H2 Ho1 Mo1"
+_cell_length_a       6.048468126755008
+_cell_length_b       6.862650899952354
+_cell_length_c       6.9348554611206055
+_cell_angle_alpha    115.40866067161431
+_cell_angle_beta     88.99300805806227
+_cell_angle_gamma    89.82479976155197
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.524713933467865  0.3507361114025116  0.848305583000183  1.0000
+  Cd  Cd1       1.0  0.548615574836731  0.8322637677192688  0.9534229636192321  1.0000
+  Cd  Cd2       1.0  0.5433225035667419  0.004950953181833029  0.5354935526847839  1.0000
+  Cd  Cd3       1.0  0.03365425392985344  0.6947858333587646  0.36653089523315424  1.0000
+  Cd  Cd4       1.0  0.03710279241204262  0.32835328578948975  0.04615122452378272  1.0000
+  H   H1        1.0  0.3208731412887573  0.34608331322669983  0.2545936405658722  1.0000
+  H   H2        1.0  0.5407638549804688  0.8543277382850647  0.9699713587760924  1.0000
+  Ho  Ho1       1.0  0.04230127111077309  0.07937144488096237  0.8881865739822387  1.0000
+  Mo  Mo1       1.0  0.8042221665382385  0.9453051090240479  0.9534025192260741  1.0000

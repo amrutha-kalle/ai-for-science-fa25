@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge3LaNb2Si2Tl
+_chemical_formula_sum              "Ge3 La1 Nb2 Si2 Tl1"
+_cell_length_a       4.2065574898459905
+_cell_length_b       5.295459826613499
+_cell_length_c       7.962268352508545
+_cell_angle_alpha    106.30985257192117
+_cell_angle_beta     90.823626150294
+_cell_angle_gamma    89.81230851535226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.17323774099349976  0.004847284406423569  0.7378261685371399  1.0000
+  Ge  Ge2       1.0  0.17611795663833618  0.7298421859741211  0.31847238540649414  1.0000
+  Ge  Ge3       1.0  0.6833617687225342  0.32563716173171997  0.9637108445167542  1.0000
+  La  La1       1.0  0.6806804537773132  0.7008191347122192  0.14038322865962985  1.0000
+  Nb  Nb1       1.0  0.17510485649108887  0.49462640285491943  0.7360373139381409  1.0000
+  Nb  Nb2       1.0  0.6804311871528625  0.2134261280298233  0.04392252489924431  1.0000
+  Si  Si1       1.0  0.6661345958709717  0.016894778236746788  0.0068835727870464325  1.0000
+  Si  Si2       1.0  0.18771032989025116  0.6849827766418457  0.9537251591682434  1.0000
+  Tl  Tl1       1.0  0.17923025786876678  0.3617289364337921  0.24268387258052826  1.0000

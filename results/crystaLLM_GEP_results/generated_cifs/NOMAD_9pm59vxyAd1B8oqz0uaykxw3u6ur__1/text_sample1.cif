@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaCd3HHo2KTe
+_chemical_formula_sum              "Ca1 Cd3 H1 Ho2 K1 Te1"
+_cell_length_a       6.20889788668844
+_cell_length_b       6.141577892090157
+_cell_length_c       6.43211555480957
+_cell_angle_alpha    88.45564973917764
+_cell_angle_beta     89.53946568881578
+_cell_angle_gamma    89.45919790672266
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7137942910194397  0.5719894170761108  0.4575548470020295  1.0000
+  Cd  Cd1       1.0  0.21257005631923676  0.9560058116912843  0.7092718482017518  1.0000
+  Cd  Cd2       1.0  0.905628502368927  0.4016885459423066  0.21058221161365512  1.0000
+  Cd  Cd3       1.0  0.9113591313362122  0.9125953912734986  0.7592254281044007  1.0000
+  H   H1        1.0  0.7588064074516296  0.3180781304836273  0.22088544070720675  1.0000
+  Ho  Ho1       1.0  0.710235059261322  0.5595265626907349  0.214453399181366  1.0000
+  Ho  Ho2       1.0  0.40825504064559937  0.11788927018642427  0.5436398386955261  1.0000
+  K   K1        1.0  0.17482347786426544  0.07268001139163971  0.9408199191093444  1.0000
+  Te  Te1       1.0  0.6618024706840515  0.9281538128852845  0.7169086933135987  1.0000

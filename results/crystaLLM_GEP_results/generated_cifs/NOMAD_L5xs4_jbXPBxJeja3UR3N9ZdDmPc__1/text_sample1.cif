@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlIr6Ta2
+_chemical_formula_sum              "Al1 Ir6 Ta2"
+_cell_length_a       3.6035147315367526
+_cell_length_b       4.2534404394738745
+_cell_length_c       10.962130546569824
+_cell_angle_alpha    102.70590735171699
+_cell_angle_beta     92.11036484240412
+_cell_angle_gamma    89.89148646771966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.677865207195282  0.5690284967422485  0.562322735786438  1.0000
+  Ir  Ir1       1.0  0.7163204550743103  0.756152868270874  0.2728804051876068  1.0000
+  Ir  Ir2       1.0  0.777707576751709  0.9259433150291443  0.06942814588546753  1.0000
+  Ir  Ir3       1.0  0.776620626449585  0.4244438409805298  0.9018324017524719  1.0000
+  Ir  Ir4       1.0  0.20193205773830414  0.44740185141563416  0.0968795120716095  1.0000
+  Ir  Ir5       1.0  0.2893895208835602  0.959564208984375  0.8576064705848694  1.0000
+  Ir  Ir6       1.0  0.26424044370651245  0.7087125182151794  0.4636162221431732  1.0000
+  Ta  Ta1       1.0  0.1886158287525177  0.9970706105232239  0.27414804697036743  1.0000
+  Ta  Ta2       1.0  0.21551638841629028  0.2256959229707718  0.6648028492927551  1.0000

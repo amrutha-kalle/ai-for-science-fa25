@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ho6Si3
+_chemical_formula_sum              "Ho6 Si3"
+_cell_length_a       4.679909267077748
+_cell_length_b       5.5673742611905075
+_cell_length_c       6.214472770690918
+_cell_angle_alpha    121.89662721332583
+_cell_angle_beta     91.62109537563124
+_cell_angle_gamma    90.0246484677394
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.48136112093925476  0.9085966348648071  0.8571456074714661  1.0000
+  Ho  Ho2       1.0  0.4844813942909241  0.8650054931640625  0.938296914100647  1.0000
+  Ho  Ho3       1.0  0.48991551995277405  0.8190191984176636  0.04795891419053078  1.0000
+  Ho  Ho4       1.0  0.9778763651847839  0.8744231462478638  0.3907364606857301  1.0000
+  Ho  Ho5       1.0  0.4893004596233368  0.11201541870832443  0.11322823911905289  1.0000
+  Ho  Ho6       1.0  0.48149558901786804  0.8097479939460754  0.3179435729980469  1.0000
+  Si  Si1       1.0  0.989862859249115  0.3813610076904297  0.557873010635376  1.0000
+  Si  Si2       1.0  0.976852297782898  0.5217114686965942  0.3493952453136444  1.0000
+  Si  Si3       1.0  0.9816256165504456  0.9138286709785461  0.883254885673523  1.0000

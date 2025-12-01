@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al4CaCd3
+_chemical_formula_sum              "Al4 Ca1 Cd3"
+_cell_length_a       6.502897011836763
+_cell_length_b       6.971959468955167
+_cell_length_c       6.892664909362793
+_cell_angle_alpha    65.70232138946409
+_cell_angle_beta     62.79225050146838
+_cell_angle_gamma    61.7634541083289
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.050922121852636254  0.9412716627120973  0.7169418931007385  1.0000
+  Al  Al2       1.0  0.03294976428151131  0.30642232298851013  0.044673625379800797  1.0000
+  Al  Al3       1.0  0.8828068375587463  0.03614531457424164  0.5150148868560792  1.0000
+  Al  Al4       1.0  0.7723042964935303  0.7136978507041931  0.4717949330806732  1.0000
+  Ca  Ca1       1.0  0.3862936496734619  0.13012096285820007  0.5419186353683472  1.0000
+  Cd  Cd1       1.0  0.5411450862884521  0.8020436763763429  0.21604757010936737  1.0000
+  Cd  Cd2       1.0  0.037212349474430084  0.31788626313209534  0.5200801491737366  1.0000
+  Cd  Cd3       1.0  0.38798490166664124  0.6564598679542542  0.5396855473518372  1.0000

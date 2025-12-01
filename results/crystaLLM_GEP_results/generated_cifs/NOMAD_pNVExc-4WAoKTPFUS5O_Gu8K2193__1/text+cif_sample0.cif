@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CrGaHNa2Ni2O
+_chemical_formula_sum              "Cr1 Ga1 H1 Na2 Ni2 O1"
+_cell_length_a       4.377369061961675
+_cell_length_b       5.0268702024801115
+_cell_length_c       7.716972827911377
+_cell_angle_alpha    95.68801795178852
+_cell_angle_beta     91.23523259651093
+_cell_angle_gamma    117.59659938134092
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.48614513874053955  0.583482027053833  0.03904695808887482  1.0000
+  Ga  Ga1       1.0  0.4478897750377655  0.6070881485939026  0.3781258761882782  1.0000
+  H   H1        1.0  0.4460877776145935  0.575776994228363  0.8037299513816833  1.0000
+  Na  Na1       1.0  0.9729196429252625  0.5910661220550537  0.040559690445661545  1.0000
+  Na  Na2       1.0  0.4426521956920624  0.10152070969343185  0.5376750826835632  1.0000
+  Ni  Ni1       1.0  0.8251906633377075  0.12330588698387146  0.2750057876110077  1.0000
+  Ni  Ni2       1.0  0.11642413586378098  0.8910627961158752  0.541557788848877  1.0000
+  O   O1        1.0  0.9024730920791626  0.5423439741134644  0.7474353313446045  1.0000

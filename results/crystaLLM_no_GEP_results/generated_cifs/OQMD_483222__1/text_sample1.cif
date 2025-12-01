@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Np2Ru3Zn4
+_chemical_formula_sum              "Np2 Ru3 Zn4"
+_cell_length_a       5.1423485748611695
+_cell_length_b       4.652522826272736
+_cell_length_c       5.1393561363220215
+_cell_angle_alpha    91.88511163277835
+_cell_angle_beta     88.6315874149504
+_cell_angle_gamma    100.16859872557828
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Np  Np1       1.0  0.4039181172847748  0.747150719165802  0.8321085572242737  1.0000
+  Np  Np2       1.0  0.9316280484199524  0.031633902341127396  0.26678213477134705  1.0000
+  Ru  Ru1       1.0  0.4010915458202362  0.5934281945228577  0.9857823252677917  1.0000
+  Ru  Ru2       1.0  0.42794063687324524  0.08449052274227142  0.7203015089035034  1.0000
+  Ru  Ru3       1.0  0.9278266429901123  0.7094525694847107  0.17134740948677063  1.0000
+  Zn  Zn1       1.0  0.432155579328537  0.7242251634597778  0.6718320250511169  1.0000
+  Zn  Zn2       1.0  0.9055293202400208  0.5063408017158508  0.4613790810108185  1.0000
+  Zn  Zn3       1.0  0.8914625644683838  0.3058881461620331  0.9218366742134094  1.0000
+  Zn  Zn4       1.0  0.4243282675743103  0.784237265586853  0.9858729243278503  1.0000

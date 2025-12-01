@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B2In5
+_chemical_formula_sum              "B2 In5"
+_cell_length_a       3.567587309590194
+_cell_length_b       3.4930273064178827
+_cell_length_c       6.8091654777526855
+_cell_angle_alpha    91.82511699872957
+_cell_angle_beta     91.14382933306062
+_cell_angle_gamma    105.88361471161198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.7892339825630187  0.9592429399490356  0.3525902330875397  1.0000
+  B   B2        1.0  0.4783432483673095  0.5486422181129456  0.1420171707868576  1.0000
+  In  In1       1.0  0.11227937787771224  0.8916457891464233  0.7572711110115051  1.0000
+  In  In2       1.0  0.3721114099025726  0.8918555974960327  0.11391592770814896  1.0000
+  In  In3       1.0  0.37273636460304255  0.17020760476589203  0.5976837873458862  1.0000
+  In  In4       1.0  0.25135537981987  0.9587256908416748  0.2834281027317047  1.0000
+  In  In5       1.0  0.6672626137733458  0.5166905522346497  0.9827696681022644  1.0000

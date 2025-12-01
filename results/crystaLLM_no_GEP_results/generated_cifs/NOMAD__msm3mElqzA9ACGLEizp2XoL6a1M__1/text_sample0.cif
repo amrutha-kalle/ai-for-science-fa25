@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BFe3PrPu
+_chemical_formula_sum              "B1 Fe3 Pr1 Pu1"
+_cell_length_a       4.163467815319015
+_cell_length_b       3.86487786839679
+_cell_length_c       3.9062280654907227
+_cell_angle_alpha    88.55375856449322
+_cell_angle_beta     86.76812458988371
+_cell_angle_gamma    91.23077259379723
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.08208274841308594  0.00043609502608887846  0.04110176488757134  1.0000
+  Fe  Fe1       1.0  0.06762970983982086  0.6581774950027465  0.8344128727912904  1.0000
+  Fe  Fe2       1.0  0.5654028058052063  0.562742531299591  0.6653191447257997  1.0000
+  Fe  Fe3       1.0  0.5713316798210144  0.6629527211189269  0.2827127873897553  1.0000
+  Pr  Pr1       1.0  0.06780319660902023  0.5933290719985961  0.4848498702049256  1.0000
+  Pu  Pu1       1.0  0.5796787142753601  0.3048633933067321  0.8833811283111573  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GeIrPd3TeTi3
+_chemical_formula_sum              "Ge1 Ir1 Pd3 Te1 Ti3"
+_cell_length_a       5.355176485065592
+_cell_length_b       5.556634260144536
+_cell_length_c       7.3525824546813965
+_cell_angle_alpha    68.27203752429126
+_cell_angle_beta     65.96470244315128
+_cell_angle_gamma    60.17809982694488
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.8786168098449707  0.3775128722190857  0.6913726925849915  1.0000
+  Ir  Ir1       1.0  0.3056768476963043  0.8800092935562134  0.13755188882350922  1.0000
+  Pd  Pd1       1.0  0.7492657899856567  0.38888198137283325  0.16621913015842438  1.0000
+  Pd  Pd2       1.0  0.7457619905471802  0.8099263906478882  0.09215651452541351  1.0000
+  Pd  Pd3       1.0  0.24291129410266876  0.8143248558044434  0.1368853896856308  1.0000
+  Te  Te1       1.0  0.24956396222114563  0.3307168781757355  0.6491550207138062  1.0000
+  Ti  Ti1       1.0  0.7552629709243774  0.36789655685424805  0.8804004192352295  1.0000
+  Ti  Ti2       1.0  0.3072446882724762  0.3902338743209839  0.6489171385765076  1.0000
+  Ti  Ti3       1.0  0.6615637540817261  0.0640280470252037  0.8737267255783081  1.0000

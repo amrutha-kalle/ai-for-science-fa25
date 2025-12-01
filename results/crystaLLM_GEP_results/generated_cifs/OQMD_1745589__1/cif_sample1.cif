@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BBa2Ni2P3
+_chemical_formula_sum              "B1 Ba2 Ni2 P3"
+_cell_length_a       4.765213662648982
+_cell_length_b       5.296832380203271
+_cell_length_c       7.673329830169678
+_cell_angle_alpha    92.84990276212032
+_cell_angle_beta     88.06026828636303
+_cell_angle_gamma    116.85049851037552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.1471501588821411  0.20154622197151184  0.7654744982719421  1.0000
+  Ba  Ba1       1.0  0.978937029838562  0.7030546069145203  0.4288475811481476  1.0000
+  Ba  Ba2       1.0  0.6429517865180969  0.1929510533809662  0.9910868406295777  1.0000
+  Ni  Ni1       1.0  0.16796666383743286  0.19877885282039642  0.03511859476566315  1.0000
+  Ni  Ni2       1.0  0.14754486083984375  0.19573330879211426  0.9465478658676149  1.0000
+  P   P1        1.0  0.4529034197330475  0.7040190696716309  0.36325803399086  1.0000
+  P   P2        1.0  0.43557852506637573  0.44146913290023804  0.6133934259414673  1.0000
+  P   P3        1.0  0.45434534549713135  0.7037988305091858  0.3711692988872528  1.0000

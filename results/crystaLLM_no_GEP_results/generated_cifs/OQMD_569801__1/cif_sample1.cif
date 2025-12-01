@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co2GeI2LuNaPbZn
+_chemical_formula_sum              "Co2 Ge1 I2 Lu1 Na1 Pb1 Zn1"
+_cell_length_a       6.118675355101983
+_cell_length_b       6.393077811062977
+_cell_length_c       6.7605414390563965
+_cell_angle_alpha    106.3114157872612
+_cell_angle_beta     107.19774230440886
+_cell_angle_gamma    94.00898552322624
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.32928091287612915  0.44154223799705505  0.1315527707338333  1.0000
+  Co  Co2       1.0  0.8062953352928162  0.555271565914154  0.6013230085372925  1.0000
+  Ge  Ge1       1.0  0.7711760401725769  0.7613149285316467  0.8907068967819213  1.0000
+  I   I1        1.0  0.9096453189849854  0.7079458832740784  0.6423307657241821  1.0000
+  I   I2        1.0  0.02397134341299534  0.03599914535880089  0.5401234030723572  1.0000
+  Lu  Lu1       1.0  0.7864711284637451  0.02925935573875904  0.6002563834190369  1.0000
+  Na  Na1       1.0  0.5132912993431091  0.3143017292022705  0.07779550552368167  1.0000
+  Pb  Pb1       1.0  0.5589472651481628  0.17590780556201935  0.732447326183319  1.0000
+  Zn  Zn1       1.0  0.06281892955303192  0.21276888251304626  0.7337610721588134  1.0000

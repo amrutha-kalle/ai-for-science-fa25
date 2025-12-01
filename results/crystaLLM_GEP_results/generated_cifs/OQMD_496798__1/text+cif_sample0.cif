@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Zn8
+_chemical_formula_sum              "Zn8"
+_cell_length_a       4.7384628463064145
+_cell_length_b       6.269476874603825
+_cell_length_c       6.574131488800049
+_cell_angle_alpha    119.12903782380998
+_cell_angle_beta     87.8596508616936
+_cell_angle_gamma    90.28074544265047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.9785934090614319  0.08759726583957672  0.14336566627025604  1.0000
+  Zn  Zn2       1.0  0.0022309022024273872  0.4782620668411255  0.013681940734386477  1.0000
+  Zn  Zn3       1.0  0.9843236804008484  0.5880656838417053  0.7354750037193298  1.0000
+  Zn  Zn4       1.0  0.48700520396232605  0.23182232677936554  0.1689421683549881  1.0000
+  Zn  Zn5       1.0  0.9821804761886597  0.5804949998855591  0.726146399974823  1.0000
+  Zn  Zn6       1.0  0.23198778927326202  0.9826286435127258  0.15151380002498632  1.0000
+  Zn  Zn7       1.0  0.48767516016960144  0.938922643661499  0.4149087071418762  1.0000
+  Zn  Zn8       1.0  0.48722273111343384  0.19804102182388306  0.419291228055954  1.0000

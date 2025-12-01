@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BiGe5ISbTi
+_chemical_formula_sum              "Bi1 Ge5 I1 Sb1 Ti1"
+_cell_length_a       5.334409742960298
+_cell_length_b       6.193078968535882
+_cell_length_c       6.469344615936279
+_cell_angle_alpha    99.97769078100478
+_cell_angle_beta     90.68652511313077
+_cell_angle_gamma    92.84911889672722
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.011872831732034683  0.5679740309715271  0.7979210615158081  1.0000
+  Ge  Ge1       1.0  0.5115026235580444  0.9268376231193542  0.575641393661499  1.0000
+  Ge  Ge2       1.0  0.003844022750854492  0.6662445664405823  0.13246811926364901  1.0000
+  Ge  Ge3       1.0  0.013278513215482235  0.4005735516548157  0.3906048834323883  1.0000
+  Ge  Ge4       1.0  0.010204430669546127  0.24198222160339355  0.4273972511291504  1.0000
+  Ge  Ge5       1.0  0.5116419792175293  0.33922079205513  0.3007727861404419  1.0000
+  I   I1        1.0  0.4996967613697052  0.7680693864822388  0.6887286901473999  1.0000
+  Sb  Sb1       1.0  0.008514374494552612  0.7929452061653137  0.7945165038108826  1.0000
+  Ti  Ti1       1.0  0.5076999068260193  0.8518376350402832  0.18225422501564026  1.0000

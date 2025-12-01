@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BBiLa3Ru3Si
+_chemical_formula_sum              "B1 Bi1 La3 Ru3 Si1"
+_cell_length_a       5.114000079028161
+_cell_length_b       5.296894641197399
+_cell_length_c       6.91928768157959
+_cell_angle_alpha    115.10673551384096
+_cell_angle_beta     112.93971243946169
+_cell_angle_gamma    89.74189065578582
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.47348251938819885  0.34001848101615906  0.0262621846050024  1.0000
+  Bi  Bi1       1.0  0.7179252505302429  0.6333031058311462  0.7932277917861937  1.0000
+  La  La1       1.0  0.8163199424743652  0.8765749335289001  0.9560135006904601  1.0000
+  La  La2       1.0  0.42009690403938293  0.13581809401512146  0.5013788938522339  1.0000
+  La  La3       1.0  0.968589723110199  0.40451568365097046  0.04111262783408165  1.0000
+  Ru  Ru1       1.0  0.18435773253440857  0.3424296975135803  0.4846819341182708  1.0000
+  Ru  Ru2       1.0  0.2144949585199356  0.6638643741607666  0.7961361408233641  1.0000
+  Ru  Ru3       1.0  0.6865794062614441  0.5980017781257629  0.2893388271331787  1.0000
+  Si  Si1       1.0  0.4362331032752991  0.8799763917922974  0.5483624339103699  1.0000

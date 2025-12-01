@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BCa3GeNi4
+_chemical_formula_sum              "B1 Ca3 Ge1 Ni4"
+_cell_length_a       5.111455570289868
+_cell_length_b       7.058801896291045
+_cell_length_c       7.001468658447266
+_cell_angle_alpha    121.3554300999715
+_cell_angle_beta     90.10285456476763
+_cell_angle_gamma    90.35473423294819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.8027526140213013  0.09362790733575821  0.0950426533818245  1.0000
+  Ca  Ca1       1.0  0.7990750074386597  0.9893502593040466  0.6548343896865845  1.0000
+  Ca  Ca2       1.0  0.511834442615509  0.2332344353199005  0.311063289642334  1.0000
+  Ca  Ca3       1.0  0.8036524653434753  0.48262059688568115  0.8923768997192383  1.0000
+  Ge  Ge1       1.0  0.125746488571167  0.5298169255256653  0.11233234405517575  1.0000
+  Ni  Ni1       1.0  0.8057258129119873  0.9966633915901184  0.38188064098358154  1.0000
+  Ni  Ni2       1.0  0.29245272278785706  0.7500987648963928  0.601945698261261  1.0000
+  Ni  Ni3       1.0  0.2948474586009979  0.040374211966991425  0.10531224310398102  1.0000
+  Ni  Ni4       1.0  0.5285417437553406  0.49426501989364624  0.9359622597694397  1.0000

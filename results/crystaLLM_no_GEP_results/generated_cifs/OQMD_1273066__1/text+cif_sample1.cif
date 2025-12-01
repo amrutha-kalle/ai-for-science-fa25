@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       LaO2STi3
+_chemical_formula_sum              "La1 O2 S1 Ti3"
+_cell_length_a       6.024898809945123
+_cell_length_b       5.529869172587915
+_cell_length_c       5.823842525482178
+_cell_angle_alpha    107.7932133360933
+_cell_angle_beta     111.19286524228204
+_cell_angle_gamma    113.27738007644994
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  La  La1       1.0  0.9510495662689209  0.7722905278205872  0.8821077942848206  1.0000
+  O   O1        1.0  0.33192989230155945  0.9102412462234497  0.01131266541779049  1.0000
+  O   O2        1.0  0.864871621131897  0.8148921728134155  0.613947629928589  1.0000
+  S   S1        1.0  0.6007310748100281  0.17416323721408844  0.7668727040290833  1.0000
+  Ti  Ti1       1.0  0.09187446534633636  0.548494815826416  0.3341366648674011  1.0000
+  Ti  Ti2       1.0  0.5410377979278564  0.017839502543210983  0.37960997223854065  1.0000
+  Ti  Ti3       1.0  0.09835199266672134  0.2574826180934906  0.6916389465332031  1.0000

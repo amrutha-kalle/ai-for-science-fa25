@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlAu2DyNiSc2Zn2
+_chemical_formula_sum              "Al1 Au2 Dy1 Ni1 Sc2 Zn2"
+_cell_length_a       5.46348591939615
+_cell_length_b       5.321726219904931
+_cell_length_c       6.4495673179626465
+_cell_angle_alpha    105.43154635055743
+_cell_angle_beta     89.14643464161124
+_cell_angle_gamma    89.75554179820413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4616316556930542  0.11959605664014816  0.8763352036476135  1.0000
+  Au  Au1       1.0  0.45717617869377136  0.087931789457798  0.695331573486328  1.0000
+  Au  Au2       1.0  0.46236589550971985  0.32342496514320374  0.6279027462005615  1.0000
+  Dy  Dy1       1.0  0.11385598033666611  0.3399561643600464  0.5496876835823059  1.0000
+  Ni  Ni1       1.0  0.2929540276527405  0.3151966631412506  0.3749745488166809  1.0000
+  Sc  Sc1       1.0  0.4604530930519104  0.6258968114852905  0.4232742190361023  1.0000
+  Sc  Sc2       1.0  0.986340343952179  0.1998720020055771  0.4735510051250458  1.0000
+  Zn  Zn1       1.0  0.9531760811805725  0.9261163473129272  0.6984782814979553  1.0000
+  Zn  Zn2       1.0  0.9544007182121277  0.9982571005821228  0.6458930969238281  1.0000

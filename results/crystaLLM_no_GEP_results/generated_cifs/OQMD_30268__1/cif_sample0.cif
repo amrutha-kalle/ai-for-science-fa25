@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyFe2INiY
+_chemical_formula_sum              "Dy1 Fe2 I1 Ni1 Y1"
+_cell_length_a       4.72440447324093
+_cell_length_b       5.001633904337406
+_cell_length_c       5.99104118347168
+_cell_angle_alpha    101.6109933943114
+_cell_angle_beta     91.10192724937738
+_cell_angle_gamma    93.11723573014501
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.9083466529846191  0.3397728502750397  0.0860901027917862  1.0000
+  Fe  Fe1       1.0  0.9805669784545898  0.17829178273677826  0.880170464515686  1.0000
+  Fe  Fe2       1.0  0.41788816452026367  0.14225894212722778  0.4138043522834778  1.0000
+  I   I1        1.0  0.4396876096725464  0.7230660915374756  0.6228581070899963  1.0000
+  Ni  Ni1       1.0  0.8534568548202515  0.02513844333589077  0.6550050377845764  1.0000
+  Y   Y1        1.0  0.3721502721309662  0.7131824493408203  0.2204013466835022  1.0000

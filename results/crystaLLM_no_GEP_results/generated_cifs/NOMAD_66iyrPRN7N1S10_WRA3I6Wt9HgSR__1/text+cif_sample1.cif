@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       As9
+_chemical_formula_sum              "As9"
+_cell_length_a       4.281659179432113
+_cell_length_b       4.356890393721813
+_cell_length_c       7.319342613220215
+_cell_angle_alpha    104.54658773892878
+_cell_angle_beta     91.11398322914138
+_cell_angle_gamma    90.6855486931163
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.7170702815055847  0.3080733120441437  0.12908226251602173  1.0000
+  As  As2       1.0  0.17522774636745453  0.6764991283416748  0.9781742691993713  1.0000
+  As  As3       1.0  0.700069785118103  0.5932521224021912  0.9870744347572327  1.0000
+  As  As4       1.0  0.1936367303133011  0.4248846769332886  0.8779813051223755  1.0000
+  As  As5       1.0  0.20388522744178772  0.04947926849126816  0.848953127861023  1.0000
+  As  As6       1.0  0.7159048914909363  0.8278812170028687  0.8309070467948914  1.0000
+  As  As7       1.0  0.699576199054718  0.6148998737335205  0.6911749243736267  1.0000
+  As  As8       1.0  0.6888020038604736  0.8562630414962769  0.0010858622845262137  1.0000
+  As  As9       1.0  0.18313544988632202  0.5686076879501343  0.9427957534790039  1.0000

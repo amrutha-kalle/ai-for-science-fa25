@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cr7F
+_chemical_formula_sum              "Cr7 F1"
+_cell_length_a       4.997012516466057
+_cell_length_b       5.281593123027115
+_cell_length_c       5.057806968688965
+_cell_angle_alpha    58.25282051552871
+_cell_angle_beta     59.49673287906654
+_cell_angle_gamma    57.37897937579793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.3654061555862427  0.5264832377433777  0.06214594095945359  1.0000
+  Cr  Cr2       1.0  0.3695351183414459  0.5033466219902039  0.8392512798309326  1.0000
+  Cr  Cr3       1.0  0.3700796961784363  0.046057380735874176  0.21362976729869843  1.0000
+  Cr  Cr4       1.0  0.8782657384872437  0.5466708540916443  0.3229702413082123  1.0000
+  Cr  Cr5       1.0  0.8727169632911682  0.48468661308288574  0.22452875971794128  1.0000
+  Cr  Cr6       1.0  0.3711426556110382  0.5238547921180725  0.7211313843727112  1.0000
+  Cr  Cr7       1.0  0.8739862442016602  0.9191726446151733  0.6906324625015259  1.0000
+  F   F1        1.0  0.4472304582595825  0.3924720883369446  0.5506399869918823  1.0000

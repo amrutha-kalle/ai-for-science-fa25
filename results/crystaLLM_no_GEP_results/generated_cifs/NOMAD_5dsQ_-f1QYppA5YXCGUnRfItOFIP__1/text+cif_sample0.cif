@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BiCd4CrDyOS
+_chemical_formula_sum              "Bi1 Cd4 Cr1 Dy1 O1 S1"
+_cell_length_a       5.511188985024462
+_cell_length_b       5.567959923605679
+_cell_length_c       8.11130142211914
+_cell_angle_alpha    88.73713114015052
+_cell_angle_beta     89.31333916606339
+_cell_angle_gamma    114.0900501631842
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.015509659424424171  0.2681252360343933  0.5147647857666016  1.0000
+  Cd  Cd1       1.0  0.01641869731247425  0.44051048159599304  0.4063745141029358  1.0000
+  Cd  Cd2       1.0  0.5116678476333618  0.4910929799079895  0.4349168539047241  1.0000
+  Cd  Cd3       1.0  0.5147646069526672  0.4734686613082886  0.33095887303352356  1.0000
+  Cd  Cd4       1.0  0.010235182009637356  0.7584403157234192  0.9114354848861694  1.0000
+  Cr  Cr1       1.0  0.5196772217750549  0.06455790251493454  0.019565105438232422  1.0000
+  Dy  Dy1       1.0  0.022259416058659554  0.028687380254268646  0.7061122059822083  1.0000
+  O   O1        1.0  0.7460636496543884  0.39812928438186646  0.6799132227897644  1.0000
+  S   S1        1.0  0.7174882292747498  0.7806849479675293  0.8495375514030457  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoEu2Ge3
+_chemical_formula_sum              "Co1 Eu2 Ge3"
+_cell_length_a       5.977745157592029
+_cell_length_b       6.041993134579254
+_cell_length_c       6.337371826171875
+_cell_angle_alpha    105.63261176233523
+_cell_angle_beta     107.77843988279551
+_cell_angle_gamma    110.78465550652349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.21592245995998385  0.3838707506656647  0.4736035168170929  1.0000
+  Eu  Eu1       1.0  0.6299590468406677  0.9714459776878357  0.5139737725257874  1.0000
+  Eu  Eu2       1.0  0.08575540035963058  0.35165292024612427  0.18088795244693756  1.0000
+  Ge  Ge1       1.0  0.21485677361488345  0.6813827753067017  0.35241320729255676  1.0000
+  Ge  Ge2       1.0  0.4784367382526398  0.969095766544342  0.07155583053827286  1.0000
+  Ge  Ge3       1.0  0.7844294905662538  0.5288602709770203  0.31645914912223816  1.0000

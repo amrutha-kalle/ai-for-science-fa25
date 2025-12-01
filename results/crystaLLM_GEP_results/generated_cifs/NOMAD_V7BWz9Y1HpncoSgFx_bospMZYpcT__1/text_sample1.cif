@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Li2PtSe3Te3
+_chemical_formula_sum              "Li2 Pt1 Se3 Te3"
+_cell_length_a       6.11370366976465
+_cell_length_b       6.536704231196689
+_cell_length_c       8.861298561096191
+_cell_angle_alpha    76.32892826328576
+_cell_angle_beta     73.15974663263805
+_cell_angle_gamma    60.33440309789273
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.40553006529808044  0.9541852474212646  0.18973372876644135  1.0000
+  Li  Li2       1.0  0.4028889238834381  0.4579516053199768  0.399156391620636  1.0000
+  Pt  Pt1       1.0  0.10822708159685135  0.5848788022994995  0.03679773584008217  1.0000
+  Se  Se1       1.0  0.7303968071937561  0.1564486175775528  0.7078959345817566  1.0000
+  Se  Se2       1.0  0.3668018877506256  0.8877154588699341  0.7620862126350403  1.0000
+  Se  Se3       1.0  0.7053627371788025  0.6498193144798279  0.957499623298645  1.0000
+  Te  Te1       1.0  0.05536150932312012  0.30594995617866516  0.4864947199821472  1.0000
+  Te  Te2       1.0  0.5246263146400452  0.31116265058517456  0.596873939037323  1.0000
+  Te  Te3       1.0  0.04991580918431282  0.7856259942054749  0.07811078429222107  1.0000

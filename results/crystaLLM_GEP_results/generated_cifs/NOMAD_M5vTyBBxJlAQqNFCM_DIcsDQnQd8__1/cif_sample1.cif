@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlMnRuSTi4Tl
+_chemical_formula_sum              "Al1 Mn1 Ru1 S1 Ti4 Tl1"
+_cell_length_a       5.520423832121795
+_cell_length_b       5.906495626800088
+_cell_length_c       6.793757438659668
+_cell_angle_alpha    64.3381687596802
+_cell_angle_beta     64.00055811916869
+_cell_angle_gamma    60.833846295366385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4787514805793762  0.6403283476829529  0.5117205977439881  1.0000
+  Mn  Mn1       1.0  0.4745110273361206  0.13772177696228027  0.0005996227264404297  1.0000
+  Ru  Ru1       1.0  0.21518543362617493  0.39721158146858215  0.6586357355117798  1.0000
+  S   S1        1.0  0.8376294374465942  0.6867666244506836  0.3477246165275575  1.0000
+  Ti  Ti1       1.0  0.2334134578704834  0.9047269225120544  0.650412917137146  1.0000
+  Ti  Ti2       1.0  0.764635443687439  0.41148945689201355  0.0008711814880371749  1.0000
+  Ti  Ti3       1.0  0.2602687180042267  0.9123165607452393  0.2722231149673463  1.0000
+  Ti  Ti4       1.0  0.9903821349143982  0.6557033658027649  0.7719761729240419  1.0000
+  Tl  Tl1       1.0  0.7233156561851501  0.8996034860610962  0.6611834764480591  1.0000

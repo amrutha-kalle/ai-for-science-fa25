@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       DyLiPt3Tl
+_chemical_formula_sum              "Dy1 Li1 Pt3 Tl1"
+_cell_length_a       3.5827385232651783
+_cell_length_b       4.032892136267714
+_cell_length_c       7.716991424560547
+_cell_angle_alpha    92.22092617203198
+_cell_angle_beta     92.0319113297806
+_cell_angle_gamma    92.94234997282746
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Dy  Dy1       1.0  0.011480957269668577  0.3464937210083008  0.4514729976654053  1.0000
+  Li  Li1       1.0  0.8067216277122496  0.4864308834075928  0.8717465400695801  1.0000
+  Pt  Pt1       1.0  0.7966530919075011  0.7324560880661011  0.6272494196891785  1.0000
+  Pt  Pt2       1.0  0.07745075225830077  0.9464610815048218  0.1187891885638237  1.0000
+  Pt  Pt3       1.0  0.3134902715682983  0.38795149326324463  0.12208016961812973  1.0000
+  Tl  Tl1       1.0  0.30516168475151056  0.9582404494285583  0.4264718294143677  1.0000

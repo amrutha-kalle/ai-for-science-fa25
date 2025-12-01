@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2B2Sc3Sr
+_chemical_formula_sum              "Al2 B2 Sc3 Sr1"
+_cell_length_a       5.232872879205687
+_cell_length_b       5.320556324371302
+_cell_length_c       6.9580559730529785
+_cell_angle_alpha    71.40592367254862
+_cell_angle_beta     68.92171839698867
+_cell_angle_gamma    61.64866238338732
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.029174609109759327  0.806571900844574  0.820321798324585  1.0000
+  Al  Al2       1.0  0.9636475443840026  0.7651816010475159  0.8346577286720276  1.0000
+  B   B1        1.0  0.9217429161071776  0.23053115606307983  0.6128870248794556  1.0000
+  B   B2        1.0  0.9540780782699584  0.7454090118408203  0.2591473162174225  1.0000
+  Sc  Sc1       1.0  0.10348089039325714  0.5042946338653564  0.8988548517227173  1.0000
+  Sc  Sc2       1.0  0.4391144514083862  0.7504579424858093  0.1442253589630127  1.0000
+  Sc  Sc3       1.0  0.33667221665382385  0.18790344893932343  0.45632702112197876  1.0000
+  Sr  Sr1       1.0  0.7696535587310791  0.48311665654182434  0.19516025483608246  1.0000

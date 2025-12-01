@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca4H2In2O
+_chemical_formula_sum              "Ca4 H2 In2 O1"
+_cell_length_a       6.707225189030365
+_cell_length_b       6.341325756672097
+_cell_length_c       6.323737144470215
+_cell_angle_alpha    53.82581124588726
+_cell_angle_beta     58.448368080520765
+_cell_angle_gamma    57.37239051142143
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.6146945357322693  0.9575750827789307  0.7263118624687195  1.0000
+  Ca  Ca2       1.0  0.11754451692104338  0.5201073884963989  0.5380353331565857  1.0000
+  Ca  Ca3       1.0  0.8585565090179442  0.8089604377746582  0.2935850918292999  1.0000
+  Ca  Ca4       1.0  0.864248752593994  0.7946298122406006  0.5108398795127869  1.0000
+  H   H1        1.0  0.40035596489906305  0.9582367539405823  0.5248497128486633  1.0000
+  H   H2        1.0  0.8689047098159789  0.46897390484809875  0.9963400959968568  1.0000
+  In  In1       1.0  0.3520481586456299  0.4107060730457306  0.2976544499397278  1.0000
+  In  In2       1.0  0.8606069087982177  0.026395315304398537  0.29636186361312866  1.0000
+  O   O1        1.0  0.3611078858375549  0.061606135219335556  0.16366229951381683  1.0000

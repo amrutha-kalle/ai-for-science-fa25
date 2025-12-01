@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B3Ca5
+_chemical_formula_sum              "B3 Ca5"
+_cell_length_a       3.0906184659659552
+_cell_length_b       2.7519798990756468
+_cell_length_c       9.112605094909668
+_cell_angle_alpha    98.41815131173762
+_cell_angle_beta     90.24591049546677
+_cell_angle_gamma    91.16183870201154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.12046653032302856  0.6280210614204407  0.23807595670223236  1.0000
+  B   B2        1.0  0.12485307455062866  0.6819153428077698  0.3475019335746765  1.0000
+  B   B3        1.0  0.1132996678352356  0.09982077032327652  0.3561979830265045  1.0000
+  Ca  Ca1       1.0  0.1087876632809639  0.8978108763694763  0.37501829862594604  1.0000
+  Ca  Ca2       1.0  0.601360023021698  0.21177349984645844  0.9776529669761658  1.0000
+  Ca  Ca3       1.0  0.5998663902282715  0.138946533203125  0.7481240630149841  1.0000
+  Ca  Ca4       1.0  0.6089740991592407  0.005768805276602507  0.8097808361053467  1.0000
+  Ca  Ca5       1.0  0.10037311166524887  0.23640364408493042  0.17897184193134308  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hg2PtRe3V2
+_chemical_formula_sum              "Hg2 Pt1 Re3 V2"
+_cell_length_a       4.328237638368356
+_cell_length_b       6.128322666695478
+_cell_length_c       6.146849155426025
+_cell_angle_alpha    122.94431431462644
+_cell_angle_beta     90.02970351141387
+_cell_angle_gamma    90.70328055885226
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.8531371355056763  0.9886702299118042  0.2656759917736053  1.0000
+  Hg  Hg2       1.0  0.3419707119464874  0.17314563691616058  0.5179889202117919  1.0000
+  Pt  Pt1       1.0  0.3543592691421509  0.2782561182975769  0.6282088756561279  1.0000
+  Re  Re1       1.0  0.8539016842842102  0.9890023469924927  0.643682301044464  1.0000
+  Re  Re2       1.0  0.8489040732383728  0.7506057620048523  0.6758138537406921  1.0000
+  Re  Re3       1.0  0.8457697629928589  0.4864872992038727  0.9731774926185608  1.0000
+  V   V1        1.0  0.8492940068244934  0.3338213264942169  0.8061184883117676  1.0000
+  V   V2        1.0  0.3471873998641968  0.9214820861816406  0.4314554035663604  1.0000

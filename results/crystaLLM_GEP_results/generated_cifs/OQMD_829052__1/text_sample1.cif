@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BiBrDyMoYb5
+_chemical_formula_sum              "Bi1 Br1 Dy1 Mo1 Yb5"
+_cell_length_a       5.390733800911519
+_cell_length_b       6.1395655876837125
+_cell_length_c       5.473421096801758
+_cell_angle_alpha    64.69876390645645
+_cell_angle_beta     60.78765735949869
+_cell_angle_gamma    62.5786034046338
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.5669577717781067  0.2631661295890808  0.21171808242797852  1.0000
+  Br  Br1       1.0  0.07788873463869095  0.5834413170814514  0.2884652316570282  1.0000
+  Dy  Dy1       1.0  0.2377471923828125  0.5858171582221985  0.788867712020874  1.0000
+  Mo  Mo1       1.0  0.6355820298194885  0.5625995397567749  0.5135403275489807  1.0000
+  Yb  Yb1       1.0  0.08758001774549484  0.3107856512069702  0.7339097857475281  1.0000
+  Yb  Yb2       1.0  0.638690173625946  0.0557507649064064  0.033112432807683945  1.0000
+  Yb  Yb3       1.0  0.11437934637069702  0.09198670089244843  0.026178603991866112  1.0000
+  Yb  Yb4       1.0  0.07932800054550171  0.6750454902648926  0.23541383445262903  1.0000
+  Yb  Yb5       1.0  0.42002472281455994  0.976737380027771  0.12286630272865295  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd5PtRuTe2
+_chemical_formula_sum              "Cd5 Pt1 Ru1 Te2"
+_cell_length_a       4.938842697671141
+_cell_length_b       5.966207523706171
+_cell_length_c       6.915387153625488
+_cell_angle_alpha    110.48326062163177
+_cell_angle_beta     90.21191075268162
+_cell_angle_gamma    93.17739034047251
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.3280471861362457  0.8933701515197754  0.9570805430412292  1.0000
+  Cd  Cd2       1.0  0.8328570127487183  0.9266038537025452  0.06080704554915428  1.0000
+  Cd  Cd3       1.0  0.8275214433670044  0.14652439951896667  0.1574956476688385  1.0000
+  Cd  Cd4       1.0  0.32904052734375  0.33345645666122437  0.43989622592926025  1.0000
+  Cd  Cd5       1.0  0.32970061898231506  0.9402289986610413  0.3698785603046417  1.0000
+  Pt  Pt1       1.0  0.3142322301864624  0.6452019810676575  0.8291014432907104  1.0000
+  Ru  Ru1       1.0  0.8208216428756714  0.6546798348426819  0.3841540217399597  1.0000
+  Te  Te1       1.0  0.3102155029773712  0.12881803512573242  0.9030909538269043  1.0000
+  Te  Te2       1.0  0.31209805607795715  0.5705186724662781  0.8008532524108887  1.0000

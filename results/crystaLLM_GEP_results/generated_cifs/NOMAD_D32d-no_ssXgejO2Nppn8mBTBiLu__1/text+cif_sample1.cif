@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Hf2K2PdS
+_chemical_formula_sum              "Hf2 K2 Pd1 S1"
+_cell_length_a       4.901458825021363
+_cell_length_b       6.630351013897226
+_cell_length_c       7.565745830535889
+_cell_angle_alpha    110.85567938866326
+_cell_angle_beta     90.85563793396737
+_cell_angle_gamma    102.18862845732906
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.30874669551849365  0.5493406653404236  0.716987669467926  1.0000
+  Hf  Hf2       1.0  0.8183394074440002  0.05128738284111023  0.6751605272293091  1.0000
+  K   K1        1.0  0.8087791204452515  0.5550051927566528  0.05425753444433212  1.0000
+  K   K2        1.0  0.367143839597702  0.05348082631826401  0.18478941917419434  1.0000
+  Pd  Pd1       1.0  0.8349425196647644  0.3243529498577118  0.08965852856636049  1.0000
+  S   S1        1.0  0.3197031617164612  0.03574758768081665  0.7243137955665588  1.0000

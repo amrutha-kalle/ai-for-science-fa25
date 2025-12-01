@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al3As2GaKLi
+_chemical_formula_sum              "Al3 As2 Ga1 K1 Li1"
+_cell_length_a       6.239015621608491
+_cell_length_b       5.805945393410147
+_cell_length_c       6.684527397155762
+_cell_angle_alpha    109.51529928101311
+_cell_angle_beta     108.48956818905644
+_cell_angle_gamma    107.39920918512614
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.12498350441455841  0.7688959836959839  0.644257128238678  1.0000
+  Al  Al2       1.0  0.5401695370674133  0.6096109747886658  0.4885100424289703  1.0000
+  Al  Al3       1.0  0.8700680136680603  0.7629345059394836  0.5823091268539429  1.0000
+  As  As1       1.0  0.5598496794700623  0.8327432870864868  0.8097163438796997  1.0000
+  As  As2       1.0  0.3636259138584137  0.2452266365289688  0.5572036504745483  1.0000
+  Ga  Ga1       1.0  0.9051563143730164  0.045101769268512726  0.9963117837905884  1.0000
+  K   K1        1.0  0.5970353484153748  0.3192242681980133  0.9691175222396851  1.0000
+  Li  Li1       1.0  0.05532282590866089  0.06357510387897491  0.8906840085983276  1.0000

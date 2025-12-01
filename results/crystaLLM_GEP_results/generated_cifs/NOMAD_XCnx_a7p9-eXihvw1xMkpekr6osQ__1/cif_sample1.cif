@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cr4FeV3
+_chemical_formula_sum              "Cr4 Fe1 V3"
+_cell_length_a       3.894693039690633
+_cell_length_b       4.910064968160909
+_cell_length_c       5.132315158843994
+_cell_angle_alpha    61.62382584891401
+_cell_angle_beta     63.18113106391706
+_cell_angle_gamma    61.470492839444695
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.8977188467979431  0.505055844783783  0.366301029920578  1.0000
+  Cr  Cr2       1.0  0.9275211691856384  0.8975654244422913  0.37017059326171886  1.0000
+  Cr  Cr3       1.0  0.9759701490402222  0.7432999610900879  0.6216737031936647  1.0000
+  Cr  Cr4       1.0  0.41109514236450195  0.8059475421905518  0.4189222455024719  1.0000
+  Fe  Fe1       1.0  0.4369337260723114  0.2427312582731247  0.38590008020401  1.0000
+  V   V1        1.0  0.41470035910606384  0.42757418751716614  0.5147131085395813  1.0000
+  V   V2        1.0  0.8841497898101807  0.24652208387851715  0.967426598072052  1.0000
+  V   V3        1.0  0.4307765066623688  0.9274311065673828  0.41274163126945507  1.0000

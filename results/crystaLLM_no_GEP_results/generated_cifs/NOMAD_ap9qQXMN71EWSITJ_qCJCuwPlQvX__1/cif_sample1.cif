@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AlDyGeHPd2Pt2
+_chemical_formula_sum              "Al1 Dy1 Ge1 H1 Pd2 Pt2"
+_cell_length_a       5.0241929757898856
+_cell_length_b       5.509779392083545
+_cell_length_c       5.537674903869629
+_cell_angle_alpha    85.38337807676719
+_cell_angle_beta     84.86366765390213
+_cell_angle_gamma    80.69443700490419
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4875907301902771  0.5848195552825928  0.34892988204956055  1.0000
+  Dy  Dy1       1.0  0.20692624151706696  0.29374247789382935  0.2617294192314148  1.0000
+  Ge  Ge1       1.0  0.022078517824411392  0.5151137709617615  0.06307616829872131  1.0000
+  H   H1        1.0  0.8245965242385864  0.42801401019096375  0.316060870885849  1.0000
+  Pd  Pd1       1.0  0.5329189300537109  0.8486275672912598  0.23339262604713443  1.0000
+  Pd  Pd2       1.0  0.4497341215610504  0.2378988265991211  0.024191021919250492  1.0000
+  Pt  Pt1       1.0  0.011440837755799294  0.3136211037635803  0.48335900902748113  1.0000
+  Pt  Pt2       1.0  0.04881863668560982  0.9149421453475952  0.6814539432525635  1.0000

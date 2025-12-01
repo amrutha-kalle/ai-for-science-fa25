@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd4Cl2SbSm
+_chemical_formula_sum              "Cd4 Cl2 Sb1 Sm1"
+_cell_length_a       6.5191530062623455
+_cell_length_b       6.660035859001634
+_cell_length_c       7.272466659545898
+_cell_angle_alpha    115.89684872074092
+_cell_angle_beta     100.20805678796293
+_cell_angle_gamma    104.22861975580149
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2552447021007538  0.5530127286911011  0.11473467946052554  1.0000
+  Cd  Cd2       1.0  0.7425879836082458  0.324460506439209  0.6382236480712891  1.0000
+  Cd  Cd3       1.0  0.10763706266880034  0.8644786477088928  0.8672081232070923  1.0000
+  Cd  Cd4       1.0  0.11620779335498808  0.845196545124054  0.7759916186332703  1.0000
+  Cl  Cl1       1.0  0.09029849618673325  0.5791124105453491  0.1430805027484894  1.0000
+  Cl  Cl2       1.0  0.44886144995689387  0.5543490052223206  0.696512758731842  1.0000
+  Sb  Sb1       1.0  0.5892993211746216  0.24848197400569919  0.07954611629247665  1.0000
+  Sm  Sm1       1.0  0.6070011854171753  0.751599133014679  0.48200872540473944  1.0000

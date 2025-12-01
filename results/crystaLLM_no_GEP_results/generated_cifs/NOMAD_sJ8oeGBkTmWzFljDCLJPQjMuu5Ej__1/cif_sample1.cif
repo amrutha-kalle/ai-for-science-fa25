@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al4AsGaI2
+_chemical_formula_sum              "Al4 As1 Ga1 I2"
+_cell_length_a       4.818742606674658
+_cell_length_b       5.21902909796858
+_cell_length_c       7.791835308074951
+_cell_angle_alpha    111.62691601555012
+_cell_angle_beta     92.4019401626888
+_cell_angle_gamma    93.0752965202015
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.38792359828948975  0.10853510349988937  0.0892217978835106  1.0000
+  Al  Al2       1.0  0.8858177661895752  0.4318728446960449  0.5785735845565797  1.0000
+  Al  Al3       1.0  0.8954338431358337  0.6470245718955994  0.7912743687629701  1.0000
+  Al  Al4       1.0  0.8908056020736694  0.49858421087265015  0.46862480044364935  1.0000
+  As  As1       1.0  0.44638100266456604  0.8539870381355286  0.04577164351940153  1.0000
+  Ga  Ga1       1.0  0.8985640406608582  0.21222162246704102  0.37917077541351324  1.0000
+  I   I1        1.0  0.888871431350708  0.9336153268814087  0.9629133343696595  1.0000
+  I   I2        1.0  0.8899502158164978  0.12401656806468964  0.4389133453369141  1.0000

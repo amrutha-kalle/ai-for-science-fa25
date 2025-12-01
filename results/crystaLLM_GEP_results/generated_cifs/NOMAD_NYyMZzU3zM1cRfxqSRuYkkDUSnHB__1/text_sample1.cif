@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AsH2Os4Yb
+_chemical_formula_sum              "As1 H2 Os4 Yb1"
+_cell_length_a       3.386965452895958
+_cell_length_b       6.752717960837547
+_cell_length_c       6.802314281463623
+_cell_angle_alpha    130.97669415492018
+_cell_angle_beta     84.33138066953575
+_cell_angle_gamma    86.95956288833713
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.051488038152456284  0.21954552829265594  0.36044397950172424  1.0000
+  H   H1        1.0  0.3177192211151123  0.7914144396781921  0.34008482098579407  1.0000
+  H   H2        1.0  0.31331130862236023  0.2915494740009308  0.6871152520179749  1.0000
+  Os  Os1       1.0  0.8287288546562195  0.22255074977874756  0.9729275703430176  1.0000
+  Os  Os2       1.0  0.8172504901885986  0.7402459383010864  0.4698216915130615  1.0000
+  Os  Os3       1.0  0.3028809726238251  0.8597443103790283  0.4511599838733673  1.0000
+  Os  Os4       1.0  0.8238945007324219  0.5986946821212769  0.8042300939559937  1.0000
+  Yb  Yb1       1.0  0.3032887279987335  0.23539339005947113  0.4739423990249634  1.0000

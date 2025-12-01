@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HNi3Sc4Si
+_chemical_formula_sum              "H1 Ni3 Sc4 Si1"
+_cell_length_a       4.282646562935446
+_cell_length_b       4.963270510474386
+_cell_length_c       7.558663845062256
+_cell_angle_alpha    106.44665161437455
+_cell_angle_beta     104.06372544105383
+_cell_angle_gamma    89.84346413036549
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5301997661590576  0.14925803244113922  0.5390836000442505  1.0000
+  Ni  Ni1       1.0  0.8458119630813599  0.641152560710907  0.3153489232063293  1.0000
+  Ni  Ni2       1.0  0.32108741998672485  0.14499063789844513  0.7854354381561278  1.0000
+  Ni  Ni3       1.0  0.599159836769104  0.8565914630889893  0.005206907168030738  1.0000
+  Sc  Sc1       1.0  0.15206359326839447  0.4094454348087311  0.5811690092086791  1.0000
+  Sc  Sc2       1.0  0.02965310588479042  0.16398221254348755  0.5673177838325499  1.0000
+  Sc  Sc3       1.0  0.3358165919780731  0.8983873128890991  0.8022793531417846  1.0000
+  Sc  Sc4       1.0  0.7545269131660461  0.6778591275215149  0.9901143312454223  1.0000
+  Si  Si1       1.0  0.4658460319042206  0.36436739563941956  0.3411871790885925  1.0000

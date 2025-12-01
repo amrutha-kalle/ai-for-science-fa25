@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ho4Re3TbTe
+_chemical_formula_sum              "Ho4 Re3 Tb1 Te1"
+_cell_length_a       5.6300650279745845
+_cell_length_b       6.821772110040479
+_cell_length_c       7.567716121673584
+_cell_angle_alpha    82.75309423789393
+_cell_angle_beta     70.2586563536254
+_cell_angle_gamma    66.53438805202889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.9241203665733337  0.09176157414913177  0.772462010383606  1.0000
+  Ho  Ho2       1.0  0.4329763650894165  0.6594353914260864  0.7323079705238342  1.0000
+  Ho  Ho3       1.0  0.4346296787261963  0.7949740886688232  0.49924010038375854  1.0000
+  Ho  Ho4       1.0  0.9205418825149536  0.8851768374443053  0.5431833267211914  1.0000
+  Re  Re1       1.0  0.39029929041862493  0.8724564909934996  0.027455685660243034  1.0000
+  Re  Re2       1.0  0.9039891958236694  0.9059126377105712  0.012231010012328625  1.0000
+  Re  Re3       1.0  0.4060858488082886  0.5900384187698364  0.0345255583524704  1.0000
+  Tb  Tb1       1.0  0.9216734766960144  0.43668377399444575  0.352961003780365  1.0000
+  Te  Te1       1.0  0.9302158951759338  0.5224262475967407  0.7301443219184875  1.0000

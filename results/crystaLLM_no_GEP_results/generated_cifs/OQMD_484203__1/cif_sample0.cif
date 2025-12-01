@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsZn4Zr4
+_chemical_formula_sum              "As1 Zn4 Zr4"
+_cell_length_a       4.047187847393367
+_cell_length_b       3.0380840596228404
+_cell_length_c       11.843442916870117
+_cell_angle_alpha    94.27078078104516
+_cell_angle_beta     89.99172424454045
+_cell_angle_gamma    85.74523077416433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.20455516874790192  0.7364131212234497  0.6528195142745972  1.0000
+  Zn  Zn1       1.0  0.7019363641738892  0.6575648784637451  0.18178121745586395  1.0000
+  Zn  Zn2       1.0  0.2049127221107483  0.49731436371803284  0.7491930723190308  1.0000
+  Zn  Zn3       1.0  0.2053985297679901  0.21740445494651794  0.06921254098415375  1.0000
+  Zn  Zn4       1.0  0.7048248648643494  0.588150143623352  0.8930861353874207  1.0000
+  Zr  Zr1       1.0  0.20583584904670715  0.13997557759284973  0.47686126828193665  1.0000
+  Zr  Zr2       1.0  0.20699742436408997  0.8662939071655273  0.33615127205848694  1.0000
+  Zr  Zr3       1.0  0.7069878578186035  0.6845362782478333  0.6519115567207336  1.0000
+  Zr  Zr4       1.0  0.7060483694076538  0.10658761858940125  0.5772496461868285  1.0000

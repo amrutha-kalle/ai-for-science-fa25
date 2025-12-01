@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CeClI2Pt4Zr
+_chemical_formula_sum              "Ce1 Cl1 I2 Pt4 Zr1"
+_cell_length_a       6.342517674426347
+_cell_length_b       6.315409262774557
+_cell_length_c       6.454298973083496
+_cell_angle_alpha    61.15391296328102
+_cell_angle_beta     61.307865112293996
+_cell_angle_gamma    61.302268198958124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ce  Ce1       1.0  0.7539952993392944  0.5028117299079895  0.36573562026023865  1.0000
+  Cl  Cl1       1.0  0.8624834418296814  0.2638552486896515  0.31772181391716003  1.0000
+  I   I1        1.0  0.7055404782295227  0.7092174887657166  0.9792397022247316  1.0000
+  I   I2        1.0  0.05828952416777611  0.46329352259635925  0.45172968506813055  1.0000
+  Pt  Pt1       1.0  0.35831087827682495  0.42787599563598633  0.2540632486343384  1.0000
+  Pt  Pt2       1.0  0.746945858001709  0.417184442281723  0.9062987565994264  1.0000
+  Pt  Pt3       1.0  0.536358654499054  0.9518155455589294  0.6976602673530579  1.0000
+  Pt  Pt4       1.0  0.3370632529258728  0.2581285834312439  0.7203750610351562  1.0000
+  Zr  Zr1       1.0  0.5509286522865295  0.15225431323051453  0.4682403504848481  1.0000

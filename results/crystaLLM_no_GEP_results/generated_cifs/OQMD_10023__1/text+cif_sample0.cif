@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge4HPbSi3
+_chemical_formula_sum              "Ge4 H1 Pb1 Si3"
+_cell_length_a       5.2231972942169875
+_cell_length_b       5.5571129492210005
+_cell_length_c       6.3098883628845215
+_cell_angle_alpha    111.90817434528282
+_cell_angle_beta     90.14821876621845
+_cell_angle_gamma    90.12029236806303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.5433526039123535  0.71790611743927  0.6258981227874756  1.0000
+  Ge  Ge2       1.0  0.04871641844511032  0.8627018928527832  0.7604375481605529  1.0000
+  Ge  Ge3       1.0  0.5442870259284973  0.7199907302856445  0.4802150130271911  1.0000
+  Ge  Ge4       1.0  0.047574885189533234  0.1123024970293045  0.6790542006492615  1.0000
+  H   H1        1.0  0.5459871292114258  0.09300647675991058  0.970202088356018  1.0000
+  Pb  Pb1       1.0  0.04334147274494171  0.5314285755157471  0.10931815952062605  1.0000
+  Si  Si1       1.0  0.046806979924440384  0.2994443476200104  0.7184301018714905  1.0000
+  Si  Si2       1.0  0.5478092432022095  0.37084582448005676  0.77707701921463  1.0000
+  Si  Si3       1.0  0.04251888394355774  0.22658950090408325  0.5722012519836426  1.0000

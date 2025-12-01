@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       FeY5
+_chemical_formula_sum              "Fe1 Y5"
+_cell_length_a       4.019863516822948
+_cell_length_b       6.961352685459975
+_cell_length_c       7.120442867279053
+_cell_angle_alpha    119.05905657466612
+_cell_angle_beta     90.1738647617273
+_cell_angle_gamma    90.86080515709308
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.2746278643608093  0.2757844030857086  0.5881178975105286  1.0000
+  Y   Y1        1.0  0.3138819932937622  0.38840803503990173  0.16225548088550568  1.0000
+  Y   Y2        1.0  0.28855010867118835  0.7602660059928894  0.8727058172225952  1.0000
+  Y   Y3        1.0  0.7924363017082214  0.5594339966773987  0.5726145505905151  1.0000
+  Y   Y4        1.0  0.778518795967102  0.7319461703300476  0.2917409837245941  1.0000
+  Y   Y5        1.0  0.7819827795028687  0.3944515883922577  0.8011390566825866  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B6Ca2
+_chemical_formula_sum              "B6 Ca2"
+_cell_length_a       3.0311184083838274
+_cell_length_b       3.2070071303721783
+_cell_length_c       12.584792137145996
+_cell_angle_alpha    90.96746294000039
+_cell_angle_beta     90.00578299309232
+_cell_angle_gamma    95.9911297103355
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.5936617851257324  0.5105687379837036  0.19439978897571564  1.0000
+  B   B2        1.0  0.5812422037124634  0.6251015663146973  0.27220845222473145  1.0000
+  B   B3        1.0  0.0861889123916626  0.6976194381713867  0.6993377208709717  1.0000
+  B   B4        1.0  0.08688534051179886  0.85137540102005  0.7629374861717224  1.0000
+  B   B5        1.0  0.08941344171762466  0.06735152751207352  0.7264065146446228  1.0000
+  B   B6        1.0  0.09452690184116364  0.285361647605896  0.27509835362434387  1.0000
+  Ca  Ca1       1.0  0.5866222977638245  0.7691688537597656  0.4135822057723999  1.0000
+  Ca  Ca2       1.0  0.5872752666473389  0.9069311618804932  0.1987864226102829  1.0000

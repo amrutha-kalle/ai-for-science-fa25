@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrO2U4
+_chemical_formula_sum              "Br1 O2 U4"
+_cell_length_a       5.411163992411393
+_cell_length_b       5.5662096915827375
+_cell_length_c       8.021787643432617
+_cell_angle_alpha    106.60909542515448
+_cell_angle_beta     88.0968927492442
+_cell_angle_gamma    114.45042437620926
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.30209630727767944  0.2573300302028656  0.4832894504070282  1.0000
+  O   O1        1.0  0.5046241879463196  0.5504221320152283  0.9778310656547546  1.0000
+  O   O2        1.0  0.5190998315811157  0.8948832154273987  0.9838955998420715  1.0000
+  U   U1        1.0  0.9843226075172424  0.9370221495628357  0.4820059537887573  1.0000
+  U   U2        1.0  0.014153623022139072  0.5858870148658752  0.064778171479702  1.0000
+  U   U3        1.0  0.6345859169960022  0.2463388890028  0.754596471786499  1.0000
+  U   U4        1.0  0.984925389289856  0.8734610676765442  0.9522307515144348  1.0000

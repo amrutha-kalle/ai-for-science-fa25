@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlAs5DyLuZn
+_chemical_formula_sum              "Al1 As5 Dy1 Lu1 Zn1"
+_cell_length_a       3.9852869175998693
+_cell_length_b       4.331603986002262
+_cell_length_c       4.252071380615234
+_cell_angle_alpha    93.49990278457011
+_cell_angle_beta     104.51508674541799
+_cell_angle_gamma    110.80747885863083
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.57630455493927  0.5094573497772217  0.0072395713068544865  1.0000
+  As  As1       1.0  0.15143360197544098  0.17469932138919828  0.9013570547103882  1.0000
+  As  As2       1.0  0.9603020548820497  0.026976628229022023  0.6082664132118225  1.0000
+  As  As3       1.0  0.691157877445221  0.2620806097984314  0.01341808307915926  1.0000
+  As  As4       1.0  0.37422341108322144  0.35677224397659296  0.686404287815094  1.0000
+  As  As5       1.0  0.30154737830162043  0.8342162370681762  0.5584716796875  1.0000
+  Dy  Dy1       1.0  0.5804038047790527  0.6472433805465698  0.06522732228040695  1.0000
+  Lu  Lu1       1.0  0.02674401365220547  0.5383148789405823  0.5246790051460266  1.0000
+  Zn  Zn1       1.0  0.5940919518470764  0.7832629084587096  0.39603352546691895  1.0000

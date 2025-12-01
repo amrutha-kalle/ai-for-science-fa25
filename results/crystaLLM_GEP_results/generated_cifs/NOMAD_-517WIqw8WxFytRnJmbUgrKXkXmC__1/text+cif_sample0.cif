@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B4BaCa2Zr
+_chemical_formula_sum              "B4 Ba1 Ca2 Zr1"
+_cell_length_a       3.982102410029821
+_cell_length_b       5.949760010848309
+_cell_length_c       6.927232265472412
+_cell_angle_alpha    121.8486236489027
+_cell_angle_beta     96.50888039067362
+_cell_angle_gamma    80.13409592648567
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.2637188136577606  0.12958677113056183  0.8848922848701477  1.0000
+  B   B2        1.0  0.2686097025871277  0.6068897247314453  0.8297537565231323  1.0000
+  B   B3        1.0  0.2494494020938873  0.5188928246498108  0.2869383692741394  1.0000
+  B   B4        1.0  0.2539602518081665  0.2610427141189575  0.8147487640380859  1.0000
+  Ba  Ba1       1.0  0.22020591795444486  0.49128565192222595  0.23008660972118375  1.0000
+  Ca  Ca1       1.0  0.26700448989868164  0.33723148703575134  0.7979692816734314  1.0000
+  Ca  Ca2       1.0  0.7613877058029174  0.9584060907363892  0.5386936664581299  1.0000
+  Zr  Zr1       1.0  0.7469701766967772  0.5266358852386475  0.05956208333373067  1.0000

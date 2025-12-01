@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ge3I4SbZn
+_chemical_formula_sum              "Ge3 I4 Sb1 Zn1"
+_cell_length_a       6.203303170081085
+_cell_length_b       6.8261576166174756
+_cell_length_c       7.199021816253662
+_cell_angle_alpha    89.36557375772676
+_cell_angle_beta     90.17204592404663
+_cell_angle_gamma    90.68635862956555
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.6220818161964417  0.7994844913482666  0.7567833662033081  1.0000
+  Ge  Ge2       1.0  0.10948900133371353  0.9491696357727051  0.5888499617576599  1.0000
+  Ge  Ge3       1.0  0.9809080362319946  0.2022016942501068  0.3305769562721252  1.0000
+  I   I1        1.0  0.11172151565551758  0.15219536423683167  0.22187940776348114  1.0000
+  I   I2        1.0  0.10269182175397873  0.9043113589286804  0.9053706526756287  1.0000
+  I   I3        1.0  0.6092886924743652  0.3557797968387604  0.7905282974243164  1.0000
+  I   I4        1.0  0.34445667266845703  0.9231104850769043  0.8155359625816345  1.0000
+  Sb  Sb1       1.0  0.6169247627258301  0.5156437754631042  0.8176127076148987  1.0000
+  Zn  Zn1       1.0  0.5449617505073547  0.994631290435791  0.4613393545150757  1.0000

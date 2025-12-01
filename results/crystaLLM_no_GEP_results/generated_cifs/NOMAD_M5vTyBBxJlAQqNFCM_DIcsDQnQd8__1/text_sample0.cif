@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BNiTi2Zr5
+_chemical_formula_sum              "B1 Ni1 Ti2 Zr5"
+_cell_length_a       4.136631069552936
+_cell_length_b       3.2967742300700302
+_cell_length_c       6.846129417419434
+_cell_angle_alpha    90.79111425202844
+_cell_angle_beta     90.31017591883685
+_cell_angle_gamma    76.08070346920938
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.643923282623291  0.8243783116340637  0.11554256081581116  1.0000
+  Ni  Ni1       1.0  0.894771158695221  0.6081036329269409  0.9718317985534668  1.0000
+  Ti  Ti1       1.0  0.6530529260635376  0.8140078783035278  0.8488543629646301  1.0000
+  Ti  Ti2       1.0  0.6130695939064026  0.5421895384788513  0.05544150620698929  1.0000
+  Zr  Zr1       1.0  0.4492628872394562  0.7281577587127686  0.6223703026771545  1.0000
+  Zr  Zr2       1.0  0.13054201006889343  0.928852915763855  0.3840051293373108  1.0000
+  Zr  Zr3       1.0  0.4496859312057495  0.29060110449790955  0.16306360065937042  1.0000
+  Zr  Zr4       1.0  0.1328141838312149  0.9349003434181213  0.5197794437408447  1.0000
+  Zr  Zr5       1.0  0.1458129584789276  0.48131901025772095  0.4619142711162567  1.0000

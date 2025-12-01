@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlHIr6Ni
+_chemical_formula_sum              "Al1 H1 Ir6 Ni1"
+_cell_length_a       3.9356563749443922
+_cell_length_b       5.000085274284918
+_cell_length_c       6.414434909820557
+_cell_angle_alpha    73.75903166699727
+_cell_angle_beta     70.08600260650137
+_cell_angle_gamma    60.33733429835151
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9213392734527588  0.3111293315887451  0.7815581560134888  1.0000
+  H   H1        1.0  0.9784155488014221  0.5271449685096741  0.7890364527702332  1.0000
+  Ir  Ir1       1.0  0.38433605432510376  0.4505026042461395  0.28788742423057556  1.0000
+  Ir  Ir2       1.0  0.3712829053401947  0.248342365026474  0.09810452163219449  1.0000
+  Ir  Ir3       1.0  0.8803643584251404  0.648124098777771  0.41686931252479553  1.0000
+  Ir  Ir4       1.0  0.8443964123725891  0.9610635042190552  0.9133321046829224  1.0000
+  Ir  Ir5       1.0  0.8735653162002563  0.02075020782649517  0.26663586497306824  1.0000
+  Ir  Ir6       1.0  0.3923410475254059  0.9507060647010803  0.4538286030292511  1.0000
+  Ni  Ni1       1.0  0.40232405066490173  0.6161313652992249  0.4077621400356293  1.0000

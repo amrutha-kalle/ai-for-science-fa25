@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2Ca3HfHg2Rh
+_chemical_formula_sum              "Ba2 Ca3 Hf1 Hg2 Rh1"
+_cell_length_a       4.924341849709365
+_cell_length_b       6.925936755856162
+_cell_length_c       8.784322738647461
+_cell_angle_alpha    116.80440842009197
+_cell_angle_beta     91.78110053340559
+_cell_angle_gamma    89.56763355592024
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.4726133942604065  0.33316323161125183  0.49998414516448975  1.0000
+  Ba  Ba2       1.0  0.47310909628868103  0.666663646697998  0.7025063037872314  1.0000
+  Ca  Ca1       1.0  0.47443753480911255  0.6658112406730652  0.3504263460636139  1.0000
+  Ca  Ca2       1.0  0.9741191864013672  0.05715520307421684  0.4624578058719635  1.0000
+  Ca  Ca3       1.0  0.9725525975227356  0.8602089881896973  0.005747460760176233  1.0000
+  Hf  Hf1       1.0  0.47398602962493896  0.5815526843070984  0.013493716716766383  1.0000
+  Hg  Hg1       1.0  0.9730874300003052  0.4577680826187134  0.1639767587184906  1.0000
+  Hg  Hg2       1.0  0.9732295274734497  0.5431851148605347  0.41319701075553894  1.0000
+  Rh  Rh1       1.0  0.4693608283996582  0.9354786276817322  0.02051907777786255  1.0000

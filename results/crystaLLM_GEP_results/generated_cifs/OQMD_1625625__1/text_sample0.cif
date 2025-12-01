@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni5OSn3
+_chemical_formula_sum              "Ni5 O1 Sn3"
+_cell_length_a       4.884772334550927
+_cell_length_b       5.273894936761109
+_cell_length_c       5.394444465637207
+_cell_angle_alpha    66.54855307469867
+_cell_angle_beta     64.62103841631536
+_cell_angle_gamma    61.78560233700467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.5983176231384277  0.6900545358657837  0.8086696267127991  1.0000
+  Ni  Ni2       1.0  0.9540135264396667  0.31092897057533264  0.6344434022903442  1.0000
+  Ni  Ni3       1.0  0.36651691794395447  0.7512686848640442  0.1790429800748825  1.0000
+  Ni  Ni4       1.0  0.9106282591819763  0.3204615116119385  0.6373739838600159  1.0000
+  Ni  Ni5       1.0  0.4309272766113281  0.32224830985069275  0.140017569065094  1.0000
+  O   O1        1.0  0.6309432983398438  0.1744523048400879  0.8061406016349792  1.0000
+  Sn  Sn1       1.0  0.8727335929870605  0.26744014024734497  0.43203967809677124  1.0000
+  Sn  Sn2       1.0  0.5123804807662964  0.03634141385555267  0.15604721009731293  1.0000
+  Sn  Sn3       1.0  0.9901928305625916  0.8247817158699036  0.013727362267673016  1.0000

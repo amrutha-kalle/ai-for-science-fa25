@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       As3Np2Pb
+_chemical_formula_sum              "As3 Np2 Pb1"
+_cell_length_a       4.103579694322635
+_cell_length_b       5.02880437676271
+_cell_length_c       7.465043544769287
+_cell_angle_alpha    115.8436429917889
+_cell_angle_beta     87.32587292613987
+_cell_angle_gamma    85.53833851385244
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5143904685974121  0.23975132405757904  0.5521500706672668  1.0000
+  As  As2       1.0  0.5037199854850769  0.7439051866531372  0.21235406398773193  1.0000
+  As  As3       1.0  0.014858284965157509  0.929437518119812  0.0320047028362751  1.0000
+  Np  Np1       1.0  0.5144703984260559  0.7331862449645996  0.7208491563796997  1.0000
+  Np  Np2       1.0  0.016812069341540337  0.2261279672384262  0.0484723597764969  1.0000
+  Pb  Pb1       1.0  0.5131600499153137  0.10404662042856216  0.4545231461524964  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B3Ge3TeTl
+_chemical_formula_sum              "B3 Ge3 Te1 Tl1"
+_cell_length_a       5.674770274110906
+_cell_length_b       5.916313794703471
+_cell_length_c       6.8204874992370605
+_cell_angle_alpha    113.6014573228655
+_cell_angle_beta     107.40210210501408
+_cell_angle_gamma    89.31705114519453
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.29117241501808167  0.8180859088897705  0.4769499897956848  1.0000
+  B   B2        1.0  0.20037035644054413  0.5563967823982239  0.600866973400116  1.0000
+  B   B3        1.0  0.2096809297800064  0.24003027379512787  0.09669017046689987  1.0000
+  Ge  Ge1       1.0  0.6227642297744751  0.24267937242984772  0.6517021059989929  1.0000
+  Ge  Ge2       1.0  0.6300018429756165  0.5623350143432617  0.5974470973014832  1.0000
+  Ge  Ge3       1.0  0.4027325212955475  0.042243245989084244  0.10009529441595078  1.0000
+  Te  Te1       1.0  0.9044898748397827  0.5601708889007568  0.0862368643283844  1.0000
+  Tl  Tl1       1.0  0.7128740549087524  0.23975059390068054  0.3590465784072876  1.0000

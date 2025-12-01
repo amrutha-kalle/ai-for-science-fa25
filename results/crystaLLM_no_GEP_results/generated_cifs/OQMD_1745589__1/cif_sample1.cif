@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeINi3P3
+_chemical_formula_sum              "Ge1 I1 Ni3 P3"
+_cell_length_a       5.36138266913468
+_cell_length_b       5.139475955246863
+_cell_length_c       5.793815612792969
+_cell_angle_alpha    55.752560317346166
+_cell_angle_beta     63.83105273727013
+_cell_angle_gamma    56.11138705630668
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.4833736717700958  0.797362506389618  0.42482417821884155  1.0000
+  I   I1        1.0  0.0041194576770067215  0.3300507068634033  0.343975305557251  1.0000
+  Ni  Ni1       1.0  0.4020960927009582  0.926944673061371  0.5846761465072632  1.0000
+  Ni  Ni2       1.0  0.9324876666069031  0.49306690692901617  0.8288874626159668  1.0000
+  Ni  Ni3       1.0  0.9721488952636719  0.06292865425348282  0.3690829873085022  1.0000
+  P   P1        1.0  0.2386988401412964  0.19697959721088412  0.6055629253387451  1.0000
+  P   P2        1.0  0.3901419937610626  0.1606931835412979  0.15453439950942993  1.0000
+  P   P3        1.0  0.7436720728874207  0.0030002321582287554  0.6373589634895325  1.0000

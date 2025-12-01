@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd3H2Os2VW
+_chemical_formula_sum              "Cd3 H2 Os2 V1 W1"
+_cell_length_a       5.0266786587646
+_cell_length_b       5.159549062665698
+_cell_length_c       8.609922409057617
+_cell_angle_alpha    101.30090283650797
+_cell_angle_beta     90.974335876586
+_cell_angle_gamma    89.89313602140423
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.2986610233783722  0.8069589734077454  0.6337268352508545  1.0000
+  Cd  Cd2       1.0  0.8200336694717407  0.47017005085945135  0.5915164947509766  1.0000
+  Cd  Cd3       1.0  0.8620772957801819  0.9924294352531434  0.9382563233375549  1.0000
+  H   H1        1.0  0.9967586398124695  0.19913387298583984  0.5309900641441345  1.0000
+  H   H2        1.0  0.31061387062072754  0.3514082431793213  0.6747555136680603  1.0000
+  Os  Os1       1.0  0.6902886033058167  0.5249902606010437  0.9346245527267456  1.0000
+  Os  Os2       1.0  0.06933647394180298  0.4849213063716889  0.188101664185524  1.0000
+  V   V1        1.0  0.5787520408630371  0.7089279294013977  0.25236350297927856  1.0000
+  W   W1        1.0  0.5733346343040466  0.9536052346229554  0.6996440887451172  1.0000

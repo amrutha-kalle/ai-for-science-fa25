@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BRu7
+_chemical_formula_sum              "B1 Ru7"
+_cell_length_a       4.156506156741324
+_cell_length_b       4.998258906038707
+_cell_length_c       5.88897180557251
+_cell_angle_alpha    118.90391197086826
+_cell_angle_beta     97.59958249326023
+_cell_angle_gamma    86.48470654699004
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.7447528839111328  0.060347575694322586  0.3698468208312988  1.0000
+  Ru  Ru1       1.0  0.5705183744430542  0.6683623790740967  0.2833693325519562  1.0000
+  Ru  Ru2       1.0  0.07349599152803421  0.42745479941368103  0.49776473641395563  1.0000
+  Ru  Ru3       1.0  0.07172683626413345  0.5772796273231506  0.4959788620471954  1.0000
+  Ru  Ru4       1.0  0.7089138031005859  0.0594099760055542  0.5178683996200562  1.0000
+  Ru  Ru5       1.0  0.4109685719013214  0.25958195328712463  0.13797302544116974  1.0000
+  Ru  Ru6       1.0  0.5576805472373962  0.1014387235045433  0.961629569530487  1.0000
+  Ru  Ru7       1.0  0.015204355120658875  0.749588131904602  0.6465548276901245  1.0000

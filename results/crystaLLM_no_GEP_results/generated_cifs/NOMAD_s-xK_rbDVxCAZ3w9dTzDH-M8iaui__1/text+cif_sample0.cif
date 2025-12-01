@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GeInLa5PPd
+_chemical_formula_sum              "Ge1 In1 La5 P1 Pd1"
+_cell_length_a       5.426948019598801
+_cell_length_b       5.740711751770866
+_cell_length_c       7.437234401702881
+_cell_angle_alpha    95.53457136219014
+_cell_angle_beta     90.05830695580975
+_cell_angle_gamma    114.13103311324774
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.6601251363754272  0.6943525075912476  0.9330019950866699  1.0000
+  In  In1       1.0  0.7548794746398926  0.9229112863540649  0.6548658609390259  1.0000
+  La  La1       1.0  0.25836026668548584  0.8331701755523682  0.40358418226242065  1.0000
+  La  La2       1.0  0.2273884266614914  0.49392640590667725  0.8176426291465759  1.0000
+  La  La3       1.0  0.7529609203338623  0.5321144461631775  0.11783157289028168  1.0000
+  La  La4       1.0  0.25979986786842346  0.8331817388534546  0.6202381253242493  1.0000
+  La  La5       1.0  0.7363817095756531  0.05237206816673279  0.04750928282737732  1.0000
+  P   P1        1.0  0.5449853539466858  0.9674825668334961  0.20018739998340607  1.0000
+  Pd  Pd1       1.0  0.2356729358434677  0.2638988196849823  0.5503759384155273  1.0000

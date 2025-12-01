@@ -1,0 +1,164 @@
+================================================================================
+CHEMELEON CIF ANALYSIS REPORT
+================================================================================
+
+Total CIFs Processed: 115
+Successful Extractions: 115
+Successful Generations: 115
+Comparison Modes: text, cif, text+cif
+
+UNIQUE COMPOSITIONS EXTRACTED:
+--------------------------------------------------------------------------------
+  Ac1Ge1Os1: 1 CIF(s)
+  Ac1Zr1Zn1: 1 CIF(s)
+  Al2Tc1Os1: 1 CIF(s)
+  As2C2: 1 CIF(s)
+  B1Se1: 1 CIF(s)
+  Ba1Hf1Zr2: 1 CIF(s)
+  Ba1Ir1Rh2: 1 CIF(s)
+  Ba1Mn1Nb1: 1 CIF(s)
+  Ba1Na1Nb1Ni1: 1 CIF(s)
+  Ba1Ni1P1: 1 CIF(s)
+  Ba1Sr1Bi1Rh1: 1 CIF(s)
+  Be1Cd1Te1: 1 CIF(s)
+  Be1Cu1As1: 1 CIF(s)
+  Be1Cu1Au2: 1 CIF(s)
+  Bi2Sb1: 1 CIF(s)
+  Ca1Be1Hg1: 1 CIF(s)
+  Ca1Cr1Sb2: 1 CIF(s)
+  Ca1Mg1Sc1Hg1: 1 CIF(s)
+  Ca1Ni2Ge1: 1 CIF(s)
+  Ca1Pd1Rh2: 1 CIF(s)
+  Ca1Y1Pd1W1: 1 CIF(s)
+  Ca1Yb1Ga2Ge1Pt1: 1 CIF(s)
+  Ca2Be1B1: 1 CIF(s)
+  Cd1Ga1Sn1W1: 1 CIF(s)
+  Cd1Ge1Pd2: 1 CIF(s)
+  Cd1Ru1Cl1: 1 CIF(s)
+  Cd1Te1Ru1: 1 CIF(s)
+  Co1O2: 1 CIF(s)
+  Cr1Cd1Br2: 1 CIF(s)
+  Cu1B2Pd1: 1 CIF(s)
+  Cu1Pb1Br1: 1 CIF(s)
+  Dy1Y1Zn1: 1 CIF(s)
+  Er1Bi1I1O1: 1 CIF(s)
+  Eu2Ge3: 1 CIF(s)
+  Fe2Tc1: 1 CIF(s)
+  Ga2Tc1Pb1: 1 CIF(s)
+  Ge1B1Te1: 1 CIF(s)
+  Ge1Bi1Os1Au1: 1 CIF(s)
+  Ge3Te3: 1 CIF(s)
+  Hf1Co1B1Pt1: 1 CIF(s)
+  Hf1Zr1Co1Pt1: 1 CIF(s)
+  Hf2Mn1Cd1: 1 CIF(s)
+  Hg1Ir1Cl1: 1 CIF(s)
+  Hg1P1Pb1: 1 CIF(s)
+  Ho1Re1Te2: 1 CIF(s)
+  Ho1Si1Rh1: 1 CIF(s)
+  K1Al1Cd1: 1 CIF(s)
+  K1Cd1Cl2: 1 CIF(s)
+  K1Ga1Re1Ir1: 1 CIF(s)
+  K1Na1Cr2: 1 CIF(s)
+  K1Zr1Sc1Pd1: 1 CIF(s)
+  K2Al1Ag1: 1 CIF(s)
+  K2Hf1: 1 CIF(s)
+  K2Ti1In1: 1 CIF(s)
+  K2U1Pd2S2: 1 CIF(s)
+  La1Tl2Pd1: 1 CIF(s)
+  La1Zr2Bi1: 1 CIF(s)
+  La2Ru1Au1: 1 CIF(s)
+  Li1Fe3Sn1O4: 1 CIF(s)
+  Li1Nb1Au1: 1 CIF(s)
+  Li1Te1Se1: 1 CIF(s)
+  Li2Bi1Cl1: 1 CIF(s)
+  Lu1Sc1Ag1: 1 CIF(s)
+  Lu1Th1Nb1: 1 CIF(s)
+  Mn1B1Ru1: 1 CIF(s)
+  Mn1Ir1Pt1: 1 CIF(s)
+  Na1Hf1Cd2: 1 CIF(s)
+  Na1Nd1Os1O3: 1 CIF(s)
+  Na1Pm1Co1: 1 CIF(s)
+  Na2Al1Te1: 1 CIF(s)
+  Na2Be1Tc1: 1 CIF(s)
+  Nb1Ag1Os1: 1 CIF(s)
+  Nb1Mo1Rh1: 1 CIF(s)
+  Nb1Tc1Pd1: 1 CIF(s)
+  Nb1Tl1Ge2: 1 CIF(s)
+  Nb2Ru2: 1 CIF(s)
+  Ni1As1Au1: 1 CIF(s)
+  Ni1Ir1Se1: 1 CIF(s)
+  Np1As1: 1 CIF(s)
+  Np1Zn1Ru1: 1 CIF(s)
+  Pd1Pb1W1: 1 CIF(s)
+  Pt2Au1: 1 CIF(s)
+  Pu1Fe1: 1 CIF(s)
+  Ru1Pb1W1: 1 CIF(s)
+  Sc1Al1B1: 1 CIF(s)
+  Sc1Tl1Pd2: 1 CIF(s)
+  Sc1Tl2Se1: 1 CIF(s)
+  Sc2Ni1Hg1: 1 CIF(s)
+  Si1As1Pt1: 1 CIF(s)
+  Sr1In1: 1 CIF(s)
+  Sr1Mg1Ta1Tl1: 1 CIF(s)
+  Sr1Nb2Pb1: 1 CIF(s)
+  Sr1Tc1Pb1: 1 CIF(s)
+  Ta1Ag1: 1 CIF(s)
+  Ta1Be1Ir1: 1 CIF(s)
+  Tb1Ho1Zr1: 1 CIF(s)
+  Te1Mo1Pt1: 1 CIF(s)
+  Te1Se1Cl1: 1 CIF(s)
+  Ti1Mn1F3: 1 CIF(s)
+  Ti1Ni1Sn2: 1 CIF(s)
+  Ti1Re1Pd1: 1 CIF(s)
+  Ti1S1O1: 1 CIF(s)
+  U1Br1O3: 1 CIF(s)
+  V1In1B2: 1 CIF(s)
+  V1Re1Hg1: 1 CIF(s)
+  V2Cr1Fe1: 1 CIF(s)
+  Y1Bi1Os1: 1 CIF(s)
+  Y2Fe3: 1 CIF(s)
+  Y2Sb1Os1: 1 CIF(s)
+  Yb1Ho1: 1 CIF(s)
+  Yb1Nd1Pd1: 1 CIF(s)
+  Zn1Sn1Te1: 1 CIF(s)
+  Zr1Cd2Hg1: 1 CIF(s)
+  Zr1Pa1Os1: 1 CIF(s)
+  Zr1Ti2Be1: 1 CIF(s)
+
+STRUCTURAL COMPARISON STATISTICS:
+--------------------------------------------------------------------------------
+Total Pairwise Comparisons: 1380
+Comparisons with Same Composition: 33 (2.4%)
+Average Volume Difference: 20.50%
+Average Cell Similarity: 0.851
+
+MODE-SPECIFIC STATISTICS:
+--------------------------------------------------------------------------------
+
+cif vs text+cif:
+  Total Comparisons: 460
+  Same Composition: 17 (3.7%)
+  Avg Volume Difference: 17.27%
+  Avg Cell Similarity: 0.873
+
+text vs cif:
+  Total Comparisons: 460
+  Same Composition: 6 (1.3%)
+  Avg Volume Difference: 21.75%
+  Avg Cell Similarity: 0.838
+
+text vs text+cif:
+  Total Comparisons: 460
+  Same Composition: 10 (2.2%)
+  Avg Volume Difference: 22.48%
+  Avg Cell Similarity: 0.843
+
+================================================================================
+
+MODE DESCRIPTIONS:
+--------------------------------------------------------------------------------
+  text: Composition-based prompt (e.g., 'A crystal structure of K2U1Pd2S2')
+  cif: CIF content-based prompt (using actual CIF file text as input)
+  text+cif: Combined prompt with both composition and full CIF content
+
+================================================================================

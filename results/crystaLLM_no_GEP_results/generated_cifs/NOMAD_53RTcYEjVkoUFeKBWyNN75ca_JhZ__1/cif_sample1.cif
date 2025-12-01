@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BLa2RbSeV
+_chemical_formula_sum              "B1 La2 Rb1 Se1 V1"
+_cell_length_a       4.113685695543889
+_cell_length_b       5.046536207412673
+_cell_length_c       6.384960651397705
+_cell_angle_alpha    121.99738012798367
+_cell_angle_beta     89.09793509044643
+_cell_angle_gamma    90.57034373345756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.8075093030929565  0.6253640055656433  0.5663555860519409  1.0000
+  La  La1       1.0  0.8008514642715454  0.5063970685005188  0.5048429369926453  1.0000
+  La  La2       1.0  0.2874157726764679  0.558989405632019  0.9049252867698669  1.0000
+  Rb  Rb1       1.0  0.2961226999759674  0.6667777299880981  0.9755364060401917  1.0000
+  Se  Se1       1.0  0.8124783039093018  0.908954381942749  0.6508792638778687  1.0000
+  V   V1        1.0  0.29000210762023926  0.5960253477096558  0.2748940885066986  1.0000

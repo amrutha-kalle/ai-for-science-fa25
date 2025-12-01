@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AsIOsSb4Yb
+_chemical_formula_sum              "As1 I1 Os1 Sb4 Yb1"
+_cell_length_a       5.174894751398813
+_cell_length_b       7.10118135232348
+_cell_length_c       7.52069616317749
+_cell_angle_alpha    118.61845211250447
+_cell_angle_beta     90.5268923765464
+_cell_angle_gamma    89.77757975035914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5516161918640137  0.6768726110458374  0.9907693266868591  1.0000
+  I   I1        1.0  0.5422497987747192  0.06179224327206611  0.7130854725837706  1.0000
+  Os  Os1       1.0  0.5504045486450195  0.6877880692481994  0.7916272282600403  1.0000
+  Sb  Sb1       1.0  0.5487164855003357  0.2827019989490509  0.06381518393754956  1.0000
+  Sb  Sb2       1.0  0.04953204467892647  0.83120059967041  0.004472106229513854  1.0000
+  Sb  Sb3       1.0  0.049247000366449356  0.2628730535507202  0.20264998078346252  1.0000
+  Sb  Sb4       1.0  0.04663342237472534  0.6286482214927673  0.7881820201873779  1.0000
+  Yb  Yb1       1.0  0.04583195596933365  0.1451583355665207  0.30975133180618286  1.0000

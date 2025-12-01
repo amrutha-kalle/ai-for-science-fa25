@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Re4RhSeV2
+_chemical_formula_sum              "Re4 Rh1 Se1 V2"
+_cell_length_a       4.698878415560012
+_cell_length_b       5.197986375223723
+_cell_length_c       5.352884292602539
+_cell_angle_alpha    121.70158209849066
+_cell_angle_beta     91.23342373941075
+_cell_angle_gamma    88.7909750927424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Re  Re1       1.0  0.4955272972583771  0.29732927680015564  0.8170421123504639  1.0000
+  Re  Re2       1.0  0.5022391080856323  0.05321110412478447  0.17736294865608215  1.0000
+  Re  Re3       1.0  0.9953062534332275  0.7605499029159546  0.49960508942604065  1.0000
+  Re  Re4       1.0  0.9973968267440796  0.8002140522003174  0.8636001348495483  1.0000
+  Rh  Rh1       1.0  0.9890029430389404  0.618385910987854  0.07429014146327968  1.0000
+  Se  Se1       1.0  0.5049921870231628  0.3185479938983917  0.8418828248977661  1.0000
+  V   V1        1.0  0.9877750277519226  0.25880247354507446  0.4659441113471985  1.0000
+  V   V2        1.0  0.4961770176887512  0.24255959689617157  0.10079272091388702  1.0000

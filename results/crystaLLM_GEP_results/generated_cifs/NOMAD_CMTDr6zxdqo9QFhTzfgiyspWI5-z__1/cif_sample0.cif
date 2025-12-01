@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Au2ClPt3
+_chemical_formula_sum              "Au2 Cl1 Pt3"
+_cell_length_a       4.869089876756749
+_cell_length_b       4.726373955710875
+_cell_length_c       5.051059246063232
+_cell_angle_alpha    62.39638219006854
+_cell_angle_beta     60.84555779047568
+_cell_angle_gamma    61.30069672554991
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7179645299911499  0.9748622775077821  0.04631485790014267  1.0000
+  Au  Au2       1.0  0.8458393812179565  0.22123828530311587  0.7362281680107118  1.0000
+  Cl  Cl1       1.0  0.9597143530845642  0.9171239733695985  0.9375621676445007  1.0000
+  Pt  Pt1       1.0  0.2107306569814682  0.22610978782176974  0.06780207157135013  1.0000
+  Pt  Pt2       1.0  0.247558131814003  0.6831094622612  0.4129779636859894  1.0000
+  Pt  Pt3       1.0  0.624333918094635  0.6721233129501343  0.7772432565689087  1.0000

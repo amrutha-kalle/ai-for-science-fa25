@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       I2Ni3P3
+_chemical_formula_sum              "I2 Ni3 P3"
+_cell_length_a       4.583747271587169
+_cell_length_b       4.459051297492381
+_cell_length_c       7.9558939933776855
+_cell_angle_alpha    89.11982707178936
+_cell_angle_beta     91.5193851512653
+_cell_angle_gamma    125.99627417112984
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.9646595120429993  0.8614987134933472  0.7525637745857238  1.0000
+  I   I2        1.0  0.2637659013271332  0.038076095283031464  0.47939944267272944  1.0000
+  Ni  Ni1       1.0  0.7885288596153259  0.4068281054496765  0.6080535650253295  1.0000
+  Ni  Ni2       1.0  0.997895359992981  0.46602684259414673  0.9943004250526428  1.0000
+  Ni  Ni3       1.0  0.24095703661441803  0.3194819986820221  0.5502464771270752  1.0000
+  P   P1        1.0  0.5776565074920654  0.9537380933761597  0.2681610584259033  1.0000
+  P   P2        1.0  0.32304540276527405  0.6703134179115295  0.34551346302032465  1.0000
+  P   P3        1.0  0.5069067478179932  0.5076156258583069  0.08102517575025557  1.0000

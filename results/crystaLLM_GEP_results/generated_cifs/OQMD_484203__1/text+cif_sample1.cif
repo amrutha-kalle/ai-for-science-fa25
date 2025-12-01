@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al4AsBaZn3
+_chemical_formula_sum              "Al4 As1 Ba1 Zn3"
+_cell_length_a       5.294343456462533
+_cell_length_b       7.11414128583604
+_cell_length_c       7.4293107986450195
+_cell_angle_alpha    120.28338871581008
+_cell_angle_beta     88.94702100240642
+_cell_angle_gamma    89.06096627177945
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7585393190383911  0.07179844379425049  0.4204691350460052  1.0000
+  Al  Al2       1.0  0.5560619235038757  0.5858840942382812  0.10051310062408453  1.0000
+  Al  Al3       1.0  0.7707715034484863  0.6175383925437927  0.1899689733982086  1.0000
+  Al  Al4       1.0  0.5571216940879822  0.9102296829223633  0.5707573890686035  1.0000
+  As  As1       1.0  0.05428839102387428  0.21566002070903778  0.9645724296569823  1.0000
+  Ba  Ba1       1.0  0.02613307163119316  0.5890277624130249  0.6739504933357238  1.0000
+  Zn  Zn1       1.0  0.26101359724998474  0.36750245094299316  0.14588874578475952  1.0000
+  Zn  Zn2       1.0  0.0400872528553009  0.35329392552375793  0.591913640499115  1.0000
+  Zn  Zn3       1.0  0.2593381106853485  0.9271320104598999  0.845987319946289  1.0000

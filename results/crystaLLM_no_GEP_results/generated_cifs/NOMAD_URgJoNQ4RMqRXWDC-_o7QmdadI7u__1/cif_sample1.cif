@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2CrHISb4
+_chemical_formula_sum              "Ca2 Cr1 H1 I1 Sb4"
+_cell_length_a       6.09806284441756
+_cell_length_b       6.564885117565008
+_cell_length_c       7.50912618637085
+_cell_angle_alpha    74.21374206539062
+_cell_angle_beta     68.42892642022909
+_cell_angle_gamma    67.28041716322817
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.5537188649177551  0.5197075009346008  0.3068994879722595  1.0000
+  Ca  Ca2       1.0  0.29673847556114197  0.31472399830818176  0.04730156809091568  1.0000
+  Cr  Cr1       1.0  0.7835484147071838  0.08744240552186966  0.9794793128967286  1.0000
+  H   H1        1.0  0.05710049718618389  0.834756910800934  0.23798653483390808  1.0000
+  I   I1        1.0  0.05230138450860975  0.41999670863151556  0.3252473771572113  1.0000
+  Sb  Sb1       1.0  0.5481534004211426  0.5674929022789001  0.3387582302093506  1.0000
+  Sb  Sb2       1.0  0.05363513156771656  0.8436824083328248  0.5156599283218384  1.0000
+  Sb  Sb3       1.0  0.056204907596111256  0.9715228080749513  0.1753312200307846  1.0000
+  Sb  Sb4       1.0  0.055340889841318124  0.543357789516449  0.20005452632904053  1.0000

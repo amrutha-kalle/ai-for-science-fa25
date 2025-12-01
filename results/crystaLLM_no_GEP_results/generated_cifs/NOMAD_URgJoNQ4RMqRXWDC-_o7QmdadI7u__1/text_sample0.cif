@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca6Cr3
+_chemical_formula_sum              "Ca6 Cr3"
+_cell_length_a       0.9720971521019541
+_cell_length_b       4.426003278515984
+_cell_length_c       21.717126846313477
+_cell_angle_alpha    117.8264920946678
+_cell_angle_beta     139.43944852113938
+_cell_angle_gamma    102.54582488755935
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.3063452839851331  0.31315630674362166  0.9634559750556945  1.0000
+  Ca  Ca2       1.0  0.30633023381233215  0.12869626283645635  0.2432781308889389  1.0000
+  Ca  Ca3       1.0  0.8074479699134827  0.6224877238273621  0.6122484803199768  1.0000
+  Ca  Ca4       1.0  0.8062875866889941  0.7059324979782103  0.39727228879928583  1.0000
+  Ca  Ca5       1.0  0.30704382061958313  0.8517863750457757  0.8670248985290526  1.0000
+  Ca  Ca6       1.0  0.8041023015975952  0.6669298410415648  0.3384692370891571  1.0000
+  Cr  Cr1       1.0  0.8073039054870605  0.19590316712856293  0.1832723617553711  1.0000
+  Cr  Cr2       1.0  0.3078611791133857  0.6786486506462094  0.5147724151611327  1.0000
+  Cr  Cr3       1.0  0.807129442691803  0.02071813866496043  0.9360541701316833  1.0000

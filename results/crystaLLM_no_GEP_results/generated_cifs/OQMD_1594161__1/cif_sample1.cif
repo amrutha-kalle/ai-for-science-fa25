@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho4LaTb
+_chemical_formula_sum              "Ho4 La1 Tb1"
+_cell_length_a       4.844755045043433
+_cell_length_b       4.723095849369462
+_cell_length_c       6.027988433837891
+_cell_angle_alpha    136.91586068523148
+_cell_angle_beta     105.16317182743845
+_cell_angle_gamma    94.25003209404012
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.07190174609422677  0.26344799995422336  0.6651793122291564  1.0000
+  Ho  Ho2       1.0  0.07635960727930063  0.28062334656715376  0.6508272886276244  1.0000
+  Ho  Ho3       1.0  0.7908077239990233  0.06473612040281265  0.9407455325126647  1.0000
+  Ho  Ho4       1.0  0.564669668674469  0.1295302659273147  0.18913207948207852  1.0000
+  La  La1       1.0  0.5659932494163513  0.21985241770744324  0.02094984985888004  1.0000
+  Tb  Tb1       1.0  0.06821256875991816  0.06874775141477567  0.7269534468650817  1.0000

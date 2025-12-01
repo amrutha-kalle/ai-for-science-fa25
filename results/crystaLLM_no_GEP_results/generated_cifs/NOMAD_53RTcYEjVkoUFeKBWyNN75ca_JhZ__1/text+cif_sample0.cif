@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AsInLiRbSeV
+_chemical_formula_sum              "As1 In1 Li1 Rb1 Se1 V1"
+_cell_length_a       4.8324740857042325
+_cell_length_b       4.930537016844825
+_cell_length_c       6.677670001983643
+_cell_angle_alpha    93.10802187122947
+_cell_angle_beta     92.07615816717049
+_cell_angle_gamma    109.94698807477512
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.48546302318573  0.8111270070075989  0.7694010734558105  1.0000
+  In  In1       1.0  0.9845476150512695  0.11541242152452469  0.02670135162770748  1.0000
+  Li  Li1       1.0  0.984340488910675  0.5432429909706116  0.23280246555805206  1.0000
+  Rb  Rb1       1.0  0.4810194969177246  0.19557535648345947  0.20838919281959534  1.0000
+  Se  Se1       1.0  0.970472514629364  0.9067867398262024  0.7616134285926819  1.0000
+  V   V1        1.0  0.49826234579086304  0.5860745310783386  0.935113251209259  1.0000

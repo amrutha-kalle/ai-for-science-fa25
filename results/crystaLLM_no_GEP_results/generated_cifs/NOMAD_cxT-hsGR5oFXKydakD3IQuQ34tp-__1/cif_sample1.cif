@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoILaPtSb2
+_chemical_formula_sum              "Co1 I1 La1 Pt1 Sb2"
+_cell_length_a       5.3204117917640685
+_cell_length_b       5.210529948873389
+_cell_length_c       6.025798320770264
+_cell_angle_alpha    92.53441713512514
+_cell_angle_beta     91.48100059996227
+_cell_angle_gamma    90.13895838335955
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.33997637033462524  0.864720642566681  0.3846434950828552  1.0000
+  I   I1        1.0  0.09059453755617142  0.9651458859443666  0.9644423723220825  1.0000
+  La  La1       1.0  0.8287706971168518  0.834734857082367  0.7188284993171692  1.0000
+  Pt  Pt1       1.0  0.5475876927375793  0.764885425567627  0.848365843296051  1.0000
+  Sb  Sb1       1.0  0.33012548089027405  0.8148033618927003  0.842150092124939  1.0000
+  Sb  Sb2       1.0  0.72823566198349  0.24251458048820498  0.28431352972984314  1.0000

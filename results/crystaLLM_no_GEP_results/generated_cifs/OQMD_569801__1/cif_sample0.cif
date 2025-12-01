@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CoGe2HI2NaZn2
+_chemical_formula_sum              "Co1 Ge2 H1 I2 Na1 Zn2"
+_cell_length_a       5.270480520173966
+_cell_length_b       5.473724062890512
+_cell_length_c       9.406821250915527
+_cell_angle_alpha    90.13073977965422
+_cell_angle_beta     90.1803618621989
+_cell_angle_gamma    91.13992043033385
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2354317009449005  0.099421426653862  0.19718360900878906  1.0000
+  Ge  Ge1       1.0  0.7258893251419067  0.3810000717639923  0.0710647851228714  1.0000
+  Ge  Ge2       1.0  0.724918007850647  0.9645501971244812  0.24068187177181244  1.0000
+  H   H1        1.0  0.7266612648963928  0.5617990493774414  0.7231966853141785  1.0000
+  I   I1        1.0  0.2296195924282074  0.9180265665054321  0.9510195851325989  1.0000
+  I   I2        1.0  0.731675386428833  0.6045214533805847  0.13119645416736603  1.0000
+  Na  Na1       1.0  0.7304945588111877  0.40443819761276245  0.5133962035179138  1.0000
+  Zn  Zn1       1.0  0.22722101211547852  0.19894841313362122  0.7718167304992676  1.0000
+  Zn  Zn2       1.0  0.22442032396793365  0.4310818314552307  0.8115617632865905  1.0000

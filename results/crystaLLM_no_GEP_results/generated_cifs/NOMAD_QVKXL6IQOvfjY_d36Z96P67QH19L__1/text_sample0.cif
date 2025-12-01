@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd6ClK
+_chemical_formula_sum              "Cd6 Cl1 K1"
+_cell_length_a       5.665978221501757
+_cell_length_b       5.691337481736762
+_cell_length_c       8.051862716674805
+_cell_angle_alpha    91.38649073984172
+_cell_angle_beta     91.0482395515422
+_cell_angle_gamma    91.49604832014198
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.05038261413574219  0.7162152528762817  0.9069443941116333  1.0000
+  Cd  Cd2       1.0  0.05371754243969917  0.20313826203346252  0.885100245475769  1.0000
+  Cd  Cd3       1.0  0.6668494343757629  0.1540476679801941  0.5928503274917603  1.0000
+  Cd  Cd4       1.0  0.06929594278335571  0.91007798910141  0.47508704662323  1.0000
+  Cd  Cd5       1.0  0.5642451643943787  0.785760760307312  0.8331154584884644  1.0000
+  Cd  Cd6       1.0  0.4106443226337433  0.0758855789899826  0.6445156931877136  1.0000
+  Cl  Cl1       1.0  0.05877988785505295  0.8312615156173707  0.2416832447052002  1.0000
+  K   K1        1.0  0.5591034889221191  0.3717460632324219  0.7588896751403809  1.0000

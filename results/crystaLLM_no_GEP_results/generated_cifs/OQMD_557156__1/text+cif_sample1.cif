@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HHo2PbZr5
+_chemical_formula_sum              "H1 Ho2 Pb1 Zr5"
+_cell_length_a       5.2670298250246805
+_cell_length_b       5.9008682837056865
+_cell_length_c       9.518651962280273
+_cell_angle_alpha    82.26185794086913
+_cell_angle_beta     74.41287836363023
+_cell_angle_gamma    70.60330369536025
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.14071500301361084  0.5874608755111694  0.8964807987213135  1.0000
+  Ho  Ho1       1.0  0.1366519331932068  0.11653084307909012  0.6030123829841614  1.0000
+  Ho  Ho2       1.0  0.13916637003421783  0.0015513706021010876  0.3522070050239563  1.0000
+  Pb  Pb1       1.0  0.13591711223125458  0.7405530214309692  0.6757155060768127  1.0000
+  Zr  Zr1       1.0  0.6457262635231018  0.971603512763977  0.3180988132953644  1.0000
+  Zr  Zr2       1.0  0.6406350135803223  0.1648542582988739  0.6903950572013855  1.0000
+  Zr  Zr3       1.0  0.6333129405975342  0.10297887027263641  0.799394130706787  1.0000
+  Zr  Zr4       1.0  0.13888326287269592  0.4941956102848053  0.7503693103790283  1.0000
+  Zr  Zr5       1.0  0.6162538528442383  0.14686092734336853  0.6664929389953613  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Cd4ClCoKN
+_chemical_formula_sum              "Cd4 Cl1 Co1 K1 N1"
+_cell_length_a       6.452221359727587
+_cell_length_b       6.241262230144988
+_cell_length_c       7.174930572509766
+_cell_angle_alpha    115.01532722471813
+_cell_angle_beta     111.90093576529182
+_cell_angle_gamma    106.6143809176445
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.46175244450569153  0.9293971657752991  0.06431761384010322  1.0000
+  Cd  Cd2       1.0  0.44380277395248413  0.10949735343456268  0.4527791142463684  1.0000
+  Cd  Cd3       1.0  0.9921672344207764  0.0675131306052208  0.20209570229053497  1.0000
+  Cd  Cd4       1.0  0.9798247814178467  0.9981651306152344  0.19052845239639296  1.0000
+  Cl  Cl1       1.0  0.47926566004753113  0.19383881986141205  0.703856348991394  1.0000
+  Co  Co1       1.0  0.2721382677555084  0.6062282919883728  0.41201937198638916  1.0000
+  K   K1        1.0  0.6904129981994629  0.5976259708404541  0.6384888887405396  1.0000
+  N   N1        1.0  0.9352919459342957  0.15057270228862762  0.11155188083648682  1.0000

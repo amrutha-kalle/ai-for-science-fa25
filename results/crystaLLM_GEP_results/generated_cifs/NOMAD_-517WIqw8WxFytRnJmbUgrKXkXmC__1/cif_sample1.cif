@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B5Ca2Zr
+_chemical_formula_sum              "B5 Ca2 Zr1"
+_cell_length_a       4.00993767327673
+_cell_length_b       3.9696183965782943
+_cell_length_c       10.001529693603516
+_cell_angle_alpha    89.04780584779427
+_cell_angle_beta     74.2669505467692
+_cell_angle_gamma    51.53866722326966
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.7424816489219666  0.04839225858449936  0.36317336559295654  1.0000
+  B   B2        1.0  0.484675794839859  0.7256171703338623  0.032257553189992905  1.0000
+  B   B3        1.0  0.034810591489076614  0.2277439683675766  0.20509803295135498  1.0000
+  B   B4        1.0  0.09249591082334518  0.8002915382385254  0.29223474860191345  1.0000
+  B   B5        1.0  0.38287752866744995  0.10386056452989578  0.8673394918441772  1.0000
+  Ca  Ca1       1.0  0.5548954010009766  0.8058403730392456  0.5402613282203674  1.0000
+  Ca  Ca2       1.0  0.9030791521072388  0.5909040570259094  0.7388404011726379  1.0000
+  Zr  Zr1       1.0  0.3856149911880493  0.08082088083028793  0.8604695796966553  1.0000

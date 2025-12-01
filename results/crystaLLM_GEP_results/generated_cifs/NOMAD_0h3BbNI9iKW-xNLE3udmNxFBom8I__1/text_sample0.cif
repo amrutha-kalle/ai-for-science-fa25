@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al4Cd4
+_chemical_formula_sum              "Al4 Cd4"
+_cell_length_a       5.624571010401666
+_cell_length_b       6.318229822022477
+_cell_length_c       6.593347072601318
+_cell_angle_alpha    70.33784069916908
+_cell_angle_beta     65.69858861079041
+_cell_angle_gamma    62.27412680312545
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.11077307909727097  0.8441520929336548  0.9009867906570435  1.0000
+  Al  Al2       1.0  0.10932757705450058  0.1854003518819809  0.9109743237495422  1.0000
+  Al  Al3       1.0  0.7841984629631042  0.8351643681526184  0.3980679214000702  1.0000
+  Al  Al4       1.0  0.2800241708755493  0.32886332273483276  0.17752471566200256  1.0000
+  Cd  Cd1       1.0  0.07564244419336319  0.6116838455200195  0.40503400564193726  1.0000
+  Cd  Cd2       1.0  0.2800348997116089  0.3181479871273041  0.40210479497909546  1.0000
+  Cd  Cd3       1.0  0.5849783420562744  0.977838933467865  0.09983982890844345  1.0000
+  Cd  Cd4       1.0  0.46914130449295044  0.578507661819458  0.1670701801776886  1.0000

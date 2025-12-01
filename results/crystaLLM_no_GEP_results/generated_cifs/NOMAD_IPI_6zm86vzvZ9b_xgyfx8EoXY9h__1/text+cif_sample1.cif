@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       ClCrGaInIr2PbTcZr
+_chemical_formula_sum              "Cl1 Cr1 Ga1 In1 Ir2 Pb1 Tc1 Zr1"
+_cell_length_a       6.222240056188133
+_cell_length_b       7.5987504738857
+_cell_length_c       7.984785079956055
+_cell_angle_alpha    125.32051058159777
+_cell_angle_beta     91.40393444777567
+_cell_angle_gamma    89.3393757540285
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.7768313884735107  0.3088415563106537  0.7665639519691466  1.0000
+  Cr  Cr1       1.0  0.7797189950942993  0.169922336935997  0.7171303629875183  1.0000
+  Ga  Ga1       1.0  0.2742108702659607  0.8968611359596251  0.8475215435028075  1.0000
+  In  In1       1.0  0.08077007532119751  0.13865835964679718  0.3571223020553589  1.0000
+  Ir  Ir1       1.0  0.7773326635360718  0.7326593995094298  0.2088455110788345  1.0000
+  Ir  Ir2       1.0  0.2773539423942566  0.11402932554483412  0.26073238253593445  1.0000
+  Pb  Pb1       1.0  0.77541184425354  0.32483628392219543  0.09885689616203307  1.0000
+  Tc  Tc1       1.0  0.2776750326156616  0.4945604503154754  0.9851220846176146  1.0000
+  Zr  Zr1       1.0  0.27570563554763794  0.17051807045936584  0.6014482975006104  1.0000

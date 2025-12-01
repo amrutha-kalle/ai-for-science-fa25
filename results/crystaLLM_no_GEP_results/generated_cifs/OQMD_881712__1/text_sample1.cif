@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Au4Li2Nb2U
+_chemical_formula_sum              "Au4 Li2 Nb2 U1"
+_cell_length_a       3.920860274908235
+_cell_length_b       4.379831660800246
+_cell_length_c       7.895892143249512
+_cell_angle_alpha    94.9557674652637
+_cell_angle_beta     106.51777723383194
+_cell_angle_gamma    124.6148312486667
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.0892870053648949  0.22440628707408908  0.2947574555873871  1.0000
+  Au  Au2       1.0  0.6286060810089111  0.1164619028568268  0.9085211753845215  1.0000
+  Au  Au3       1.0  0.3837890326976776  0.06534456461668015  0.8550107479095459  1.0000
+  Au  Au4       1.0  0.9935834407806396  0.13034141063690186  0.9412725567817688  1.0000
+  Li  Li1       1.0  0.9297688603401185  0.9935020804405214  0.8471934795379639  1.0000
+  Li  Li2       1.0  0.8550254702568054  0.37800702452659607  0.6686186194419861  1.0000
+  Nb  Nb1       1.0  0.6528086066246033  0.29752475023269653  0.9046693444252014  1.0000
+  Nb  Nb2       1.0  0.49069955945014954  0.8283303380012512  0.542959988117218  1.0000
+  U   U1        1.0  0.36880993843078613  0.6913712024688721  0.2126612514257431  1.0000

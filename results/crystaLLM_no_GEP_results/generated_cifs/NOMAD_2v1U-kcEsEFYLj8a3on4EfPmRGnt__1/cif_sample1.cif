@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoI2ReRuSc
+_chemical_formula_sum              "Co1 I2 Re1 Ru1 Sc1"
+_cell_length_a       5.310720281912334
+_cell_length_b       5.624528672310041
+_cell_length_c       7.151086807250977
+_cell_angle_alpha    82.93888543229893
+_cell_angle_beta     77.16127051159002
+_cell_angle_gamma    66.81812480135748
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.786015510559082  0.08084787428379059  0.5335618257522583  1.0000
+  I   I1        1.0  0.783774733543396  0.14201855659484863  0.602153480052948  1.0000
+  I   I2        1.0  0.26240241527557373  0.8722206950187683  0.4561525881290436  1.0000
+  Re  Re1       1.0  0.2688194215297699  0.14534518122673035  0.8501453399658203  1.0000
+  Ru  Ru1       1.0  0.28909480571746826  0.5854429006576538  0.5177705883979797  1.0000
+  Sc  Sc1       1.0  0.760164737701416  0.6905593276023865  0.333999365568161  1.0000

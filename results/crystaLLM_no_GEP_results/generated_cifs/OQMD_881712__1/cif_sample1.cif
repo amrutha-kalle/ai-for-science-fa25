@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       ILiNb4NiSbZn
+_chemical_formula_sum              "I1 Li1 Nb4 Ni1 Sb1 Zn1"
+_cell_length_a       6.155971650659249
+_cell_length_b       6.42037240990842
+_cell_length_c       6.998632907867432
+_cell_angle_alpha    107.63073285342178
+_cell_angle_beta     107.96939075495736
+_cell_angle_gamma    111.22836265545973
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.7130388021469116  0.49926823377609253  0.35200509428977966  1.0000
+  Li  Li1       1.0  0.7161871790885925  0.660971462726593  0.7616150379180908  1.0000
+  Nb  Nb1       1.0  0.2143150269985199  0.156235009431839  0.3773174285888672  1.0000
+  Nb  Nb2       1.0  0.2139110118150711  0.6883658170700073  0.8906975984573364  1.0000
+  Nb  Nb3       1.0  0.21539613604545593  0.15397736430168152  0.24366259574890137  1.0000
+  Nb  Nb4       1.0  0.7176876068115234  0.08752785623073578  0.04965570196509361  1.0000
+  Ni  Ni1       1.0  0.719368577003479  0.42571598291397095  0.30977290868759155  1.0000
+  Sb  Sb1       1.0  0.7153620719909668  0.8351450562477112  0.7008106708526611  1.0000
+  Zn  Zn1       1.0  0.21385841071605682  0.166906476020813  0.8058680891990662  1.0000

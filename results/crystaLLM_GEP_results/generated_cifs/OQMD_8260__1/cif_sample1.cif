@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlAs3N2
+_chemical_formula_sum              "Al1 As3 N2"
+_cell_length_a       4.60211220319731
+_cell_length_b       5.291079564993332
+_cell_length_c       5.989409446716309
+_cell_angle_alpha    114.45289158476517
+_cell_angle_beta     89.25047254639203
+_cell_angle_gamma    109.51229475077797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.6645256876945496  0.8316896557807922  0.2919865250587463  1.0000
+  As  As1       1.0  0.35951507091522217  0.3530419170856476  0.012077522464096527  1.0000
+  As  As2       1.0  0.28855016827583313  0.11654236167669295  0.4010364115238189  1.0000
+  As  As3       1.0  0.9699009656906128  0.3314739465713501  0.09315437823534009  1.0000
+  N   N1        1.0  0.0483974851667881  0.8161924481391907  0.8907404541969298  1.0000
+  N   N2        1.0  0.6546865701675415  0.2924112379550934  0.29260408878326416  1.0000

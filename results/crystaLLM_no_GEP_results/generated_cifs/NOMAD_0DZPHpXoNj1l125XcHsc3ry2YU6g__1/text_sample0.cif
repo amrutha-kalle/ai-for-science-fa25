@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In4K3Ti
+_chemical_formula_sum              "In4 K3 Ti1"
+_cell_length_a       5.114273802942249
+_cell_length_b       4.36300533630402
+_cell_length_c       6.751346111297607
+_cell_angle_alpha    88.87224200094028
+_cell_angle_beta     88.47446218145491
+_cell_angle_gamma    129.39877912917322
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.5191004276275635  0.05192020907998085  0.7363117337226868  1.0000
+  In  In2       1.0  0.8174181580543518  0.4041655361652374  0.01599753275513649  1.0000
+  In  In3       1.0  0.807569682598114  0.11982791870832443  0.3402668535709381  1.0000
+  In  In4       1.0  0.2927314043045044  0.9897607564926147  0.14679045975208282  1.0000
+  K   K1        1.0  0.8118055462837219  0.9194608330726624  0.1683194935321808  1.0000
+  K   K2        1.0  0.07915890216827393  0.13885201513767242  0.7966710329055786  1.0000
+  K   K3        1.0  0.8130332231521606  0.4341062903404236  0.4478338956832886  1.0000
+  Ti  Ti1       1.0  0.31462326645851135  0.323942095041275  0.04578492417931557  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       GeHf2HgHoRhTeV
+_chemical_formula_sum              "Ge1 Hf2 Hg1 Ho1 Rh1 Te1 V1"
+_cell_length_a       4.491925220002896
+_cell_length_b       6.558929215132197
+_cell_length_c       7.171713829040527
+_cell_angle_alpha    120.9135853959352
+_cell_angle_beta     91.41286548906957
+_cell_angle_gamma    89.39713416887558
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.8158990144729614  0.9843205213546753  0.22723257541656489  1.0000
+  Hf  Hf1       1.0  0.818751871585846  0.48960113525390625  0.8929800987243653  1.0000
+  Hf  Hf2       1.0  0.8167918920516968  0.9920329451560974  0.5886849164962769  1.0000
+  Hg  Hg1       1.0  0.30286288261413574  0.2445453703403473  0.7232154607772827  1.0000
+  Ho  Ho1       1.0  0.8203256130218506  0.3138188123703003  0.9283723831176759  1.0000
+  Rh  Rh1       1.0  0.3195885121822357  0.49405330419540405  0.2457753270864487  1.0000
+  Te  Te1       1.0  0.3082989752292633  0.7805821895599365  0.38127547502517695  1.0000
+  V   V1        1.0  0.3162093460559845  0.29513299465179443  0.5862470269203186  1.0000

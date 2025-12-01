@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Mo4PbRu3
+_chemical_formula_sum              "Mo4 Pb1 Ru3"
+_cell_length_a       5.157655771854138
+_cell_length_b       6.626720584236171
+_cell_length_c       6.744227886199951
+_cell_angle_alpha    121.76469238626095
+_cell_angle_beta     90.67747551483188
+_cell_angle_gamma    90.29538614356552
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mo  Mo1       1.0  0.5448473691940308  0.10046623647212982  0.9706656932830812  1.0000
+  Mo  Mo2       1.0  0.5443880558013916  0.03241059556603432  0.6467694044113159  1.0000
+  Mo  Mo3       1.0  0.04335176572203636  0.5130957961082458  0.21454900503158567  1.0000
+  Mo  Mo4       1.0  0.5453296303749084  0.7326775193214417  0.2369511127471924  1.0000
+  Pb  Pb1       1.0  0.04062121361494064  0.0328870490193367  0.46090239286422735  1.0000
+  Ru  Ru1       1.0  0.0429634265601635  0.867952287197113  0.6048545837402344  1.0000
+  Ru  Ru2       1.0  0.043713394552469254  0.7103939056396484  0.5642902851104736  1.0000
+  Ru  Ru3       1.0  0.03720547631382942  0.38574665784835815  0.8102247714996338  1.0000

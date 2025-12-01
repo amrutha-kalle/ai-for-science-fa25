@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2ISbTbTe
+_chemical_formula_sum              "Fe2 I1 Sb1 Tb1 Te1"
+_cell_length_a       4.739158586627169
+_cell_length_b       5.865520373303911
+_cell_length_c       7.806644916534424
+_cell_angle_alpha    108.21760304287454
+_cell_angle_beta     88.3346565460595
+_cell_angle_gamma    105.93812325083864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.4744945764541626  0.5883501172065735  0.5578455328941345  1.0000
+  Fe  Fe2       1.0  0.9228053689002991  0.6940135359764099  0.5521741509437561  1.0000
+  I   I1        1.0  0.6233705282211304  0.3141370117664337  0.05477935075759889  1.0000
+  Sb  Sb1       1.0  0.9968540072441101  0.96503746509552  0.2843153178691864  1.0000
+  Tb  Tb1       1.0  0.15619850158691406  0.3756481409072876  0.19830197095870972  1.0000
+  Te  Te1       1.0  0.24193763732910156  0.1528681367635727  0.5719784498214722  1.0000

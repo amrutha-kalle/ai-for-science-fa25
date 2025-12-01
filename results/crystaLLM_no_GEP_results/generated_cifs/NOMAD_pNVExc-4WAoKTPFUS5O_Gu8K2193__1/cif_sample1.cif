@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AsCr2HPbScSiZn
+_chemical_formula_sum              "As1 Cr2 H1 Pb1 Sc1 Si1 Zn1"
+_cell_length_a       6.190416447103998
+_cell_length_b       6.1610562753645155
+_cell_length_c       6.316678047180176
+_cell_angle_alpha    63.1477963617673
+_cell_angle_beta     62.64742134143167
+_cell_angle_gamma    63.72692936386397
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.5979934334754944  0.18465463817119598  0.3508613407611847  1.0000
+  Cr  Cr1       1.0  0.5706024169921875  0.3089297115802765  0.504132866859436  1.0000
+  Cr  Cr2       1.0  0.5832405686378479  0.2737445831298828  0.7961450219154358  1.0000
+  H   H1        1.0  0.8467173576354982  0.7325261235237122  0.8323087692260742  1.0000
+  Pb  Pb1       1.0  0.0917138010263443  0.8192772269248962  0.25876283645629883  1.0000
+  Sc  Sc1       1.0  0.8446378707885743  0.10196895897388458  0.7099804282188416  1.0000
+  Si  Si1       1.0  0.12726756930351257  0.5359146595001221  0.9420996904373169  1.0000
+  Zn  Zn1       1.0  0.34876856207847595  0.15017935633659363  0.5563017129898071  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BCa4I2Tb
+_chemical_formula_sum              "B1 Ca4 I2 Tb1"
+_cell_length_a       5.8468693066749715
+_cell_length_b       6.0605283865213115
+_cell_length_c       9.370941162109375
+_cell_angle_alpha    75.94982977267311
+_cell_angle_beta     72.67966574911787
+_cell_angle_gamma    72.24881953790467
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.01077258214354515  0.06801559776067734  0.29098647832870483  1.0000
+  Ca  Ca1       1.0  0.5065910220146179  0.9843767881393434  0.10714369267225266  1.0000
+  Ca  Ca2       1.0  0.5100789666175842  0.28609439730644226  0.416668564081192  1.0000
+  Ca  Ca3       1.0  0.5049682855606079  0.563701868057251  0.48206406831741333  1.0000
+  Ca  Ca4       1.0  0.008691861294209957  0.6042475700378418  0.9909917712211609  1.0000
+  I   I1        1.0  0.0030839594546705484  0.5170732736587524  0.3025569021701812  1.0000
+  I   I2        1.0  0.013160147704184055  0.17237716913223267  0.6433137059211731  1.0000
+  Tb  Tb1       1.0  0.4980164766311646  0.03058802150189877  0.23052915930747986  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2MoOPb2Pd2
+_chemical_formula_sum              "F2 Mo1 O1 Pb2 Pd2"
+_cell_length_a       4.842080420163005
+_cell_length_b       6.260035158475996
+_cell_length_c       6.415310382843018
+_cell_angle_alpha    121.9783388555155
+_cell_angle_beta     90.97778366206741
+_cell_angle_gamma    87.44701172474146
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.019398560747504234  0.9499741196632385  0.2675883769989013  1.0000
+  F   F2        1.0  0.5208792686462402  0.5594333410263062  0.20083977282047272  1.0000
+  Mo  Mo1       1.0  0.5210059881210327  0.13898056745529175  0.6216460466384888  1.0000
+  O   O1        1.0  0.023021243512630463  0.6484859585762024  0.12213401496410363  1.0000
+  Pb  Pb1       1.0  0.5101714730262756  0.4776361584663391  0.4477478265762329  1.0000
+  Pb  Pb2       1.0  0.5211730003356934  0.5322427749633789  0.21185158193111417  1.0000
+  Pd  Pd1       1.0  0.020149651914834976  0.20941896736621857  0.17924417555332184  1.0000
+  Pd  Pd2       1.0  0.023459050804376602  0.880070149898529  0.8649406433105469  1.0000

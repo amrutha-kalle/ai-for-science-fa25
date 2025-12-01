@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al2B2RuTi2Tl2
+_chemical_formula_sum              "Al2 B2 Ru1 Ti2 Tl2"
+_cell_length_a       5.254530743640178
+_cell_length_b       5.286609493564114
+_cell_length_c       7.425108909606934
+_cell_angle_alpha    114.0077195154884
+_cell_angle_beta     111.09611166035344
+_cell_angle_gamma    90.91151566926432
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.19040942192077637  0.881946861743927  0.5672035813331604  1.0000
+  Al  Al2       1.0  0.4417455792427063  0.8652507066726685  0.07259762287139887  1.0000
+  B   B1        1.0  0.21969161927700043  0.8852903842926025  0.748468816280365  1.0000
+  B   B2        1.0  0.19202645123004913  0.41602766513824463  0.5911818742752075  1.0000
+  Ru  Ru1       1.0  0.4836803376674652  0.6252829432487488  0.5751231908798218  1.0000
+  Ti  Ti1       1.0  0.0710357055068016  0.3606832027435303  0.07259079068899155  1.0000
+  Ti  Ti2       1.0  0.06757722795009613  0.3563544452190399  0.054041936993598924  1.0000
+  Tl  Tl1       1.0  0.946037232875824  0.6541747450828552  0.6483035087585449  1.0000
+  Tl  Tl2       1.0  0.46397173404693604  0.11817111819982529  0.22742117941379547  1.0000

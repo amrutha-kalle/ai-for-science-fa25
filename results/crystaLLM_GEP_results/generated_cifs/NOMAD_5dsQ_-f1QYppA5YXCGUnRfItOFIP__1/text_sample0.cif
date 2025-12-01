@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2CrFeHf2MnRhTe
+_chemical_formula_sum              "Cd2 Cr1 Fe1 Hf2 Mn1 Rh1 Te1"
+_cell_length_a       5.799385985752574
+_cell_length_b       5.801991731536925
+_cell_length_c       5.912562847137451
+_cell_angle_alpha    63.95577347135247
+_cell_angle_beta     59.43164286263883
+_cell_angle_gamma    60.939856560744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.27645576000213623  0.24738086760044098  0.05495613813400268  1.0000
+  Cd  Cd2       1.0  0.5382802486419678  0.718050479888916  0.3480757474899292  1.0000
+  Cr  Cr1       1.0  0.9348737597465515  0.03716837987303734  0.8451698422431945  1.0000
+  Fe  Fe1       1.0  0.43116289377212524  0.5499621033668518  0.5543202757835388  1.0000
+  Hf  Hf1       1.0  0.9330551028251648  0.4857500195503235  0.5550493001937866  1.0000
+  Hf  Hf2       1.0  0.9343803524971008  0.0649898573756218  0.5536137223243713  1.0000
+  Mn  Mn1       1.0  0.6824510097503662  0.8779120445251465  0.9411693215370177  1.0000
+  Rh  Rh1       1.0  0.18404991924762726  0.8915334939956665  0.22938187420368192  1.0000
+  Te  Te1       1.0  0.5006484389305115  0.536732017993927  0.3474811911582947  1.0000

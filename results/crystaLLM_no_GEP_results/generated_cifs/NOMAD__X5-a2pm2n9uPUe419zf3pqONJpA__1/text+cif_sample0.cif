@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       ClCoInIrNPb2PtSr
+_chemical_formula_sum              "Cl1 Co1 In1 Ir1 N1 Pb2 Pt1 Sr1"
+_cell_length_a       5.549468421191317
+_cell_length_b       5.675725329750675
+_cell_length_c       6.304933547973633
+_cell_angle_alpha    80.14538540029929
+_cell_angle_beta     75.25772038749676
+_cell_angle_gamma    67.30972292033006
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.24269258975982666  0.15657326579093933  0.46319282054901123  1.0000
+  Co  Co1       1.0  0.9102804064750671  0.35697418451309204  0.5529828667640686  1.0000
+  In  In1       1.0  0.42822298407554626  0.6229882836341858  0.7174404859542847  1.0000
+  Ir  Ir1       1.0  0.4141337275505066  0.43742823600769043  0.5945152640342712  1.0000
+  N   N1        1.0  0.7520701885223389  0.22066521644592285  0.6132799983024597  1.0000
+  Pb  Pb1       1.0  0.4188893735408783  0.9602586627006531  0.6877818703651428  1.0000
+  Pb  Pb2       1.0  0.9061130881309509  0.9669795632362366  0.08427419513463974  1.0000
+  Pt  Pt1       1.0  0.7489475607872009  0.06565014272928238  0.7480075359344482  1.0000
+  Sr  Sr1       1.0  0.2382252961397171  0.011380361393094063  0.7497326135635376  1.0000

@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B2Ba2InPbS
+_chemical_formula_sum              "B2 Ba2 In1 Pb1 S1"
+_cell_length_a       4.359393008539505
+_cell_length_b       4.716095584700475
+_cell_length_c       8.983588218688965
+_cell_angle_alpha    88.66009611218188
+_cell_angle_beta     90.14121195807685
+_cell_angle_gamma    119.31826381620826
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.53965163230896  0.6748465895652771  0.9497223496437073  1.0000
+  B   B2        1.0  0.5817521810531616  0.031073149293661118  0.033050645142793655  1.0000
+  Ba  Ba1       1.0  0.5625609159469604  0.6954266428947449  0.2845749258995056  1.0000
+  Ba  Ba2       1.0  0.1586184799671173  0.3472944498062134  0.0098423408344388  1.0000
+  In  In1       1.0  0.9740645885467529  0.687182605266571  0.8135290145874023  1.0000
+  Pb  Pb1       1.0  0.04005921259522438  0.6920210123062134  0.5456343293190002  1.0000
+  S   S1        1.0  0.13180507719516754  0.03712619096040726  0.2980155050754547  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       ClLu8
+_chemical_formula_sum              "Cl1 Lu8"
+_cell_length_a       4.468711449780917
+_cell_length_b       6.064859998046361
+_cell_length_c       8.604015350341797
+_cell_angle_alpha    121.2671216525586
+_cell_angle_beta     88.89298797247736
+_cell_angle_gamma    89.41650409580477
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.6694086194038391  0.8038934469223022  0.9776763319969177  1.0000
+  Lu  Lu1       1.0  0.1727067530155182  0.4691164493560791  0.912021279335022  1.0000
+  Lu  Lu2       1.0  0.17556342482566833  0.06848912686109543  0.7243817448616028  1.0000
+  Lu  Lu3       1.0  0.6556015610694885  0.904587984085083  0.3418504297733307  1.0000
+  Lu  Lu4       1.0  0.669083833694458  0.6268920302391052  0.5541064143180847  1.0000
+  Lu  Lu5       1.0  0.14954479038715363  0.6224454045295715  0.25758013129234314  1.0000
+  Lu  Lu6       1.0  0.5868441462516785  0.25858908891677856  0.2447821944952011  1.0000
+  Lu  Lu7       1.0  0.6297109127044678  0.014484837651252747  0.4775693714618683  1.0000
+  Lu  Lu8       1.0  0.6324890851974487  0.28594738245010376  0.18854348361492157  1.0000

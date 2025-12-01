@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FGeOP2Pb3
+_chemical_formula_sum              "F1 Ge1 O1 P2 Pb3"
+_cell_length_a       4.542365769630274
+_cell_length_b       5.524167402627414
+_cell_length_c       9.224408149719238
+_cell_angle_alpha    92.39771704753952
+_cell_angle_beta     95.47335954095831
+_cell_angle_gamma    95.866641267795
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.5829362273216248  0.047818493098020554  0.21669980883598328  1.0000
+  Ge  Ge1       1.0  0.7653897404670715  0.3562953472137451  0.9189199209213257  1.0000
+  O   O1        1.0  0.13307951390743256  0.7230162024497986  0.0029712007381021946  1.0000
+  P   P1        1.0  0.5885393619537354  0.7168169617652893  0.03552526608109474  1.0000
+  P   P2        1.0  0.5805477499961853  0.06971576064825058  0.22813405096530914  1.0000
+  Pb  Pb1       1.0  0.07970394939184189  0.10605675727128981  0.25736233592033386  1.0000
+  Pb  Pb2       1.0  0.6234536170959473  0.04963347688317299  0.4423081576824188  1.0000
+  Pb  Pb3       1.0  0.581993043422699  0.5962267518043518  0.7543365955352783  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BaHf2ZnZr5
+_chemical_formula_sum              "Ba1 Hf2 Zn1 Zr5"
+_cell_length_a       5.297467892367741
+_cell_length_b       5.692435687124526
+_cell_length_c       8.980100631713867
+_cell_angle_alpha    112.05623405696561
+_cell_angle_beta     89.85336005372632
+_cell_angle_gamma    89.51635965665822
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.821283757686615  0.5976141095161438  0.945452868938446  1.0000
+  Hf  Hf1       1.0  0.8247986435890198  0.08520630747079849  0.5114538669586182  1.0000
+  Hf  Hf2       1.0  0.3207586109638214  0.8694437742233276  0.3172934949398041  1.0000
+  Zn  Zn1       1.0  0.8219804167747498  0.8939878940582274  0.051027152687311145  1.0000
+  Zr  Zr1       1.0  0.8254902958869934  0.5965142846107483  0.8456316590309143  1.0000
+  Zr  Zr2       1.0  0.32476505637168884  0.30149680376052856  0.4370919167995453  1.0000
+  Zr  Zr3       1.0  0.8211308717727661  0.7097514271736145  0.5771059989929199  1.0000
+  Zr  Zr4       1.0  0.3215629756450653  0.6264667510986328  0.7334408760070801  1.0000
+  Zr  Zr5       1.0  0.32037806510925293  0.058138523250818246  0.7736253142356873  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       NiPb3Pd2W2
+_chemical_formula_sum              "Ni1 Pb3 Pd2 W2"
+_cell_length_a       4.197318475320407
+_cell_length_b       5.324730501581025
+_cell_length_c       6.502481937408447
+_cell_angle_alpha    91.76123317475111
+_cell_angle_beta     90.17664753366452
+_cell_angle_gamma    89.49020370351441
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.14723457396030426  0.06650954484939575  0.3170579671859741  1.0000
+  Pb  Pb1       1.0  0.6412816047668457  0.7510123252868652  0.7955432534217834  1.0000
+  Pb  Pb2       1.0  0.14513513445854187  0.7080935835838318  0.7784634232521057  1.0000
+  Pb  Pb3       1.0  0.1489379107952118  0.1432570517063141  0.11915294080972672  1.0000
+  Pd  Pd1       1.0  0.6501466631889343  0.3587324023246765  0.7632344961166382  1.0000
+  Pd  Pd2       1.0  0.649194061756134  0.8592735528945923  0.2503197491168976  1.0000
+  W   W1        1.0  0.14580504596233368  0.14409247040748596  0.23754782974719996  1.0000
+  W   W2        1.0  0.6481093168258667  0.0014358989428728819  0.5856283903121948  1.0000

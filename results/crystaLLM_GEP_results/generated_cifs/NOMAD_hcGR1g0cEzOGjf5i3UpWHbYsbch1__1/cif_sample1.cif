@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Al5Na2TeTi
+_chemical_formula_sum              "Al5 Na2 Te1 Ti1"
+_cell_length_a       6.346832552566454
+_cell_length_b       6.763658918993907
+_cell_length_c       7.681703090667725
+_cell_angle_alpha    69.48676399339634
+_cell_angle_beta     67.72753097026165
+_cell_angle_gamma    61.9497615659958
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.019840994849801064  0.7802302837371826  0.9225381016731262  1.0000
+  Al  Al2       1.0  0.1028427854180336  0.036615315824747086  0.36944872140884394  1.0000
+  Al  Al3       1.0  0.16851173341274261  0.3629376292228699  0.3422881364822387  1.0000
+  Al  Al4       1.0  0.18135157227516174  0.020237604156136513  0.5950116515159607  1.0000
+  Al  Al5       1.0  0.23217163980007172  0.7861031293869019  0.15824511647224426  1.0000
+  Na  Na1       1.0  0.6158626079559326  0.2999725937843323  0.6751698851585387  1.0000
+  Na  Na2       1.0  0.06792549043893814  0.2886160910129547  0.08212020248174666  1.0000
+  Te  Te1       1.0  0.2257784754037857  0.2896108329296112  0.9141147732734679  1.0000
+  Ti  Ti1       1.0  0.3536248207092285  0.5406570434570312  0.6215077042579651  1.0000

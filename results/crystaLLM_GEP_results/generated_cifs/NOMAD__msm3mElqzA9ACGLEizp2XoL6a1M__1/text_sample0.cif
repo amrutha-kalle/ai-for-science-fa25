@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2NaPr3
+_chemical_formula_sum              "Fe2 Na1 Pr3"
+_cell_length_a       4.15985322622322
+_cell_length_b       5.00826280646444
+_cell_length_c       5.786214828491211
+_cell_angle_alpha    103.26502169724188
+_cell_angle_beta     90.19107914943606
+_cell_angle_gamma    90.25098236675237
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.012640867382287979  0.7552216053009033  0.6433417201042175  1.0000
+  Fe  Fe2       1.0  0.5018576979637146  0.13831499218940735  0.3952467143535614  1.0000
+  Na  Na1       1.0  0.4947752952575683  0.10848560929298401  0.1256212741136551  1.0000
+  Pr  Pr1       1.0  0.006077070254832506  0.4073832333087921  0.3866344094276428  1.0000
+  Pr  Pr2       1.0  0.9880765080451964  0.1536165326833725  0.6499257683753967  1.0000
+  Pr  Pr3       1.0  0.49118375778198237  0.6179584264755249  0.912628471851349  1.0000

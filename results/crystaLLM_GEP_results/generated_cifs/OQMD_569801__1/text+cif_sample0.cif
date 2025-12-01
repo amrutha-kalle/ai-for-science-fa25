@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co4Na3P2
+_chemical_formula_sum              "Co4 Na3 P2"
+_cell_length_a       4.948153533669315
+_cell_length_b       5.610949583720212
+_cell_length_c       7.3372673988342285
+_cell_angle_alpha    100.05076742073669
+_cell_angle_beta     101.69699261462381
+_cell_angle_gamma    90.41292072291756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.22128388285636902  0.18474440276622772  0.6414784789085388  1.0000
+  Co  Co2       1.0  0.952299177646637  0.9606527090072633  0.6394486427307129  1.0000
+  Co  Co3       1.0  0.7583719491958618  0.456161767244339  0.5148608088493347  1.0000
+  Co  Co4       1.0  0.7037668228149414  0.6714957356452942  0.7040692567825317  1.0000
+  Na  Na1       1.0  0.28133323788642883  0.4794455766677857  0.14037731289863586  1.0000
+  Na  Na2       1.0  0.28919923305511475  0.7163671851158142  0.11485772579908371  1.0000
+  Na  Na3       1.0  0.9441077709197998  0.9969711303710939  0.3725905418395996  1.0000
+  P   P1        1.0  0.028908900916576385  0.7022654414176941  0.13825277984142303  1.0000
+  P   P2        1.0  0.7735114097595215  0.4489814341068268  0.1412239372730255  1.0000

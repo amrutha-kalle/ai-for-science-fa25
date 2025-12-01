@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca3HPtRh4
+_chemical_formula_sum              "Ca3 H1 Pt1 Rh4"
+_cell_length_a       5.069970628867324
+_cell_length_b       5.032637773077688
+_cell_length_c       7.430609226226807
+_cell_angle_alpha    66.78661831907253
+_cell_angle_beta     66.11393909114561
+_cell_angle_gamma    57.11093683270371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.42153239250183105  0.9627087116241455  0.39360740780830383  1.0000
+  Ca  Ca2       1.0  0.15018078684806824  0.29281580448150635  0.38078340888023376  1.0000
+  Ca  Ca3       1.0  0.12786391377449036  0.7826404571533203  0.8511757850646973  1.0000
+  H   H1        1.0  0.526512622833252  0.019647808745503426  0.6755332350730896  1.0000
+  Pt  Pt1       1.0  0.5344566106796265  0.5873647332191467  0.8869009017944336  1.0000
+  Rh  Rh1       1.0  0.8792282938957214  0.03978011757135391  0.3919663727283478  1.0000
+  Rh  Rh2       1.0  0.9214435815811157  0.5710696578025818  0.988802433013916  1.0000
+  Rh  Rh3       1.0  0.22032895684242249  0.517779529094696  0.5726632475852966  1.0000
+  Rh  Rh4       1.0  0.30113041400909424  0.019613992422819138  0.11785982549190521  1.0000

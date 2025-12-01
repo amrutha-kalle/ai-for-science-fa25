@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       AsGeInV3Zn
+_chemical_formula_sum              "As1 Ge1 In1 V3 Zn1"
+_cell_length_a       4.390952307053899
+_cell_length_b       5.3822403362933775
+_cell_length_c       7.355538368225098
+_cell_angle_alpha    89.17309933342644
+_cell_angle_beta     89.79592163188124
+_cell_angle_gamma    97.84050098789058
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.14667820930480954  0.9753557443618773  0.4232507050037384  1.0000
+  Ge  Ge1       1.0  0.6231393814086914  0.7620640993118286  0.7747216820716858  1.0000
+  In  In1       1.0  0.11811906844377518  0.5757042765617371  0.13326798379421234  1.0000
+  V   V1        1.0  0.135157972574234  0.2393492758274078  0.5623939633369446  1.0000
+  V   V2        1.0  0.12047120928764343  0.8295324444770813  0.7878589630126953  1.0000
+  V   V3        1.0  0.6226531863212585  0.5146573185920715  0.7229279875755309  1.0000
+  Zn  Zn1       1.0  0.13131959736347198  0.3773539066314697  0.9911394119262695  1.0000

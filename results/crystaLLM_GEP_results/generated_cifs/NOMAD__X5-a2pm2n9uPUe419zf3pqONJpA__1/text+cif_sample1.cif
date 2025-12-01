@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sb2SmSr4Ti2
+_chemical_formula_sum              "Sb2 Sm1 Sr4 Ti2"
+_cell_length_a       6.9189097998082385
+_cell_length_b       7.354149421402394
+_cell_length_c       7.729964733123779
+_cell_angle_alpha    112.29578695937123
+_cell_angle_beta     111.00459587948974
+_cell_angle_gamma    96.73249607619738
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.7524505853652954  0.41516414284706116  0.7627013325691222  1.0000
+  Sb  Sb2       1.0  0.7209867835044861  0.8219754695892334  0.9906753301620482  1.0000
+  Sm  Sm1       1.0  0.4752662181854248  0.0655609667301178  0.809160828590393  1.0000
+  Sr  Sr1       1.0  0.722869336605072  0.11735927313566209  0.9944451451301574  1.0000
+  Sr  Sr2       1.0  0.7144522070884705  0.7036821246147156  0.41130691766738886  1.0000
+  Sr  Sr3       1.0  0.25241342186927795  0.8615111708641052  0.4256551861763  1.0000
+  Sr  Sr4       1.0  0.4620656967163086  0.33367568254470825  0.993190050125122  1.0000
+  Ti  Ti1       1.0  0.9775626063346863  0.31398487091064453  0.1622319370508194  1.0000
+  Ti  Ti2       1.0  0.23443657159805298  0.5428992509841919  0.5631058812141418  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AsBr3Cd2CrHSi
+_chemical_formula_sum              "As1 Br3 Cd2 Cr1 H1 Si1"
+_cell_length_a       6.635981342385568
+_cell_length_b       6.6201924403037165
+_cell_length_c       7.75279426574707
+_cell_angle_alpha    73.28397277839382
+_cell_angle_beta     71.09652112978785
+_cell_angle_gamma    70.68750383155549
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.28748995065689087  0.48685914278030396  0.02125056833028793  1.0000
+  Br  Br1       1.0  0.8300486207008363  0.22875197231769562  0.4134146869182586  1.0000
+  Br  Br2       1.0  0.7816878557205201  0.4407390356063843  0.5583173632621764  1.0000
+  Br  Br3       1.0  0.8263493776321412  0.11379524320363998  0.18010954558849332  1.0000
+  Cd  Cd1       1.0  0.39970356225967413  0.23020769655704498  0.8886079192161559  1.0000
+  Cd  Cd2       1.0  0.31614693999290466  0.9014245867729187  0.33211264014244074  1.0000
+  Cr  Cr1       1.0  0.666429877281189  0.21614816784858704  0.6154239773750304  1.0000
+  H   H1        1.0  0.5521059632301331  0.33456364274024963  0.6382586359977721  1.0000
+  Si  Si1       1.0  0.670981764793396  0.22944267094135284  0.42141041159629816  1.0000

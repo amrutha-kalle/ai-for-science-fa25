@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       In3SiSr2
+_chemical_formula_sum              "In3 Si1 Sr2"
+_cell_length_a       4.336130908217484
+_cell_length_b       4.841674945959792
+_cell_length_c       6.819156646728516
+_cell_angle_alpha    93.49429910558628
+_cell_angle_beta     92.76889574606619
+_cell_angle_gamma    87.63901103914763
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.23005527257919312  0.13146288692951202  0.516497015953064  1.0000
+  In  In2       1.0  0.7433512806892395  0.6557020545005798  0.53465735912323  1.0000
+  In  In3       1.0  0.23532047867774963  0.646502673625946  0.2185361683368683  1.0000
+  Si  Si1       1.0  0.7406477332115173  0.14321109652519226  0.015208614990115162  1.0000
+  Sr  Sr1       1.0  0.7417319416999817  0.6136151552200317  0.7217388153076172  1.0000
+  Sr  Sr2       1.0  0.23147283494472504  0.29620105028152466  0.21555133163928986  1.0000

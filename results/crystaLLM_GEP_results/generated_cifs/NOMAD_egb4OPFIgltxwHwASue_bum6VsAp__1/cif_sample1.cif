@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Hf2HgHo2Mo2Re
+_chemical_formula_sum              "Hf2 Hg1 Ho2 Mo2 Re1"
+_cell_length_a       5.264163242968049
+_cell_length_b       6.570668273248021
+_cell_length_c       6.737847328186035
+_cell_angle_alpha    124.6009706916608
+_cell_angle_beta     91.52836646263361
+_cell_angle_gamma    88.95123742644819
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.8664203882217407  0.03874141722917557  0.5884438753128052  1.0000
+  Hf  Hf2       1.0  0.8711256980895996  0.8490051031112671  0.7209035754203796  1.0000
+  Hg  Hg1       1.0  0.8637716174125671  0.4027746319770813  0.9210131168365479  1.0000
+  Ho  Ho1       1.0  0.8608531355857849  0.6135886907577515  0.7395660281181335  1.0000
+  Ho  Ho2       1.0  0.8695168495178223  0.1134924665093422  0.2860771119594574  1.0000
+  Mo  Mo1       1.0  0.3700371980667114  0.10849227011203766  0.2610016465187073  1.0000
+  Mo  Mo2       1.0  0.36115753650665283  0.6407654285430908  0.11067375540733337  1.0000
+  Re  Re1       1.0  0.36478903889656067  0.5438103079795837  0.9136319160461426  1.0000

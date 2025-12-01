@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al2AsIK2PbZr
+_chemical_formula_sum              "Al2 As1 I1 K2 Pb1 Zr1"
+_cell_length_a       5.697366886161967
+_cell_length_b       5.852757601865553
+_cell_length_c       9.417024612426758
+_cell_angle_alpha    90.09905208710435
+_cell_angle_beta     91.29257960896491
+_cell_angle_gamma    92.72978223848882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.9494636058807373  0.6535670161247253  0.837526798248291  1.0000
+  Al  Al2       1.0  0.8476395010948181  0.7870354056358337  0.2822761833667755  1.0000
+  As  As1       1.0  0.3957854211330414  0.20514430105686188  0.6671302914619446  1.0000
+  I   I1        1.0  0.12731602787971497  0.4177703857421875  0.8766781091690063  1.0000
+  K   K1        1.0  0.4180348515510559  0.7596246600151062  0.12187923491001129  1.0000
+  K   K2        1.0  0.8569859266281128  0.4458942711353302  0.030136656016111374  1.0000
+  Pb  Pb1       1.0  0.12245757132768631  0.5331677198410034  0.06233426183462143  1.0000
+  Zr  Zr1       1.0  0.612517237663269  0.4348111152648926  0.7589049935340881  1.0000

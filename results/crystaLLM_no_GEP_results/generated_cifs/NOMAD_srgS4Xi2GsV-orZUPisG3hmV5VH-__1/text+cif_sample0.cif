@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Nb4NiSb4
+_chemical_formula_sum              "Nb4 Ni1 Sb4"
+_cell_length_a       5.6162949348633555
+_cell_length_b       5.683773117446042
+_cell_length_c       5.80409574508667
+_cell_angle_alpha    52.76530430223103
+_cell_angle_beta     51.144794863951226
+_cell_angle_gamma    57.851909038598464
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.059960801154375076  0.09102051705121994  0.17080003023147583  1.0000
+  Nb  Nb2       1.0  0.5630238652229309  0.21565011143684387  0.11911872029304504  1.0000
+  Nb  Nb3       1.0  0.05974940210580826  0.3080497980117798  0.600150465965271  1.0000
+  Nb  Nb4       1.0  0.060923971235752106  0.8713247776031494  0.4123898446559906  1.0000
+  Ni  Ni1       1.0  0.06936769932508469  0.22658178210258484  0.3465317487716675  1.0000
+  Sb  Sb1       1.0  0.5627588033676147  0.29413360357284546  0.8310272097587585  1.0000
+  Sb  Sb2       1.0  0.5614134669303894  0.5663176774978638  0.11455205082893372  1.0000
+  Sb  Sb3       1.0  0.07023384422063828  0.7353246808052063  0.9782932996749878  1.0000
+  Sb  Sb4       1.0  0.5613781213760376  0.4776061177253723  0.14432089030742645  1.0000

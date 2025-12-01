@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       CrGeHK2PbZnZr
+_chemical_formula_sum              "Cr1 Ge1 H1 K2 Pb1 Zn1 Zr1"
+_cell_length_a       5.284670969044987
+_cell_length_b       5.2520687601800775
+_cell_length_c       7.939580917358398
+_cell_angle_alpha    89.14196916030797
+_cell_angle_beta     89.72217384751106
+_cell_angle_gamma    90.16753309454951
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cr  Cr1       1.0  0.588623583316803  0.5031495690345764  0.3777151107788086  1.0000
+  Ge  Ge1       1.0  0.32600024342536926  0.7071830630302429  0.43801742792129517  1.0000
+  H   H1        1.0  0.8295858502388002  0.9985664486885071  0.9504755139350891  1.0000
+  K   K1        1.0  0.079022616147995  0.24938897788524628  0.07975121587514877  1.0000
+  K   K2        1.0  0.07781276851892471  0.041809432208538055  0.25396159291267395  1.0000
+  Pb  Pb1       1.0  0.5742154121398926  0.17713211476802826  0.02984759956598282  1.0000
+  Zn  Zn1       1.0  0.5633518695831299  0.674643874168396  0.4575605094432831  1.0000
+  Zr  Zr1       1.0  0.8217892050743104  0.15994893014431  0.4458441436290741  1.0000

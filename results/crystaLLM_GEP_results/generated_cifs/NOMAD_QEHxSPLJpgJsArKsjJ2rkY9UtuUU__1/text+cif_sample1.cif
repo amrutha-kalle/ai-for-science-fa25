@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ba2FIr4RhRu
+_chemical_formula_sum              "Ba2 F1 Ir4 Rh1 Ru1"
+_cell_length_a       4.214075738638673
+_cell_length_b       4.1609770094430925
+_cell_length_c       11.169404983520508
+_cell_angle_alpha    100.73619423757141
+_cell_angle_beta     92.7950231516695
+_cell_angle_gamma    105.17313996839914
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.741679847240448  0.6443688869476318  0.8217177987098694  1.0000
+  Ba  Ba2       1.0  0.35731232166290283  0.37995496392250055  0.8329526782035828  1.0000
+  F   F1        1.0  0.4158603847026825  0.3732520937919616  0.3266649842262268  1.0000
+  Ir  Ir1       1.0  0.40706726908683777  0.8676741123199462  0.3511480689048767  1.0000
+  Ir  Ir2       1.0  0.9145256876945496  0.8869601488113402  0.33921152353286743  1.0000
+  Ir  Ir3       1.0  0.41319844126701355  0.8597561120986937  0.046721938997507095  1.0000
+  Ir  Ir4       1.0  0.2517060339450836  0.6604052782058716  0.5830765962600708  1.0000
+  Rh  Rh1       1.0  0.2362508624792099  0.15673494338989258  0.223943829536438  1.0000
+  Ru  Ru1       1.0  0.8639829754829407  0.14565794169902802  0.3899259865283966  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       BiILiSb3
+_chemical_formula_sum              "Bi1 I1 Li1 Sb3"
+_cell_length_a       5.976552132552866
+_cell_length_b       6.019890191142839
+_cell_length_c       5.850614547729492
+_cell_angle_alpha    67.95814135245904
+_cell_angle_beta     55.90637273189048
+_cell_angle_gamma    48.22372643488309
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.48781847953796387  0.486306369304657  0.09945448487997055  1.0000
+  I   I1        1.0  0.007543521467596247  0.8564721345901489  0.102094478905201  1.0000
+  Li  Li1       1.0  0.12736211717128754  0.4272465109825134  0.2192939668893814  1.0000
+  Sb  Sb1       1.0  0.4701348543167114  0.661378800868988  0.7798840999603271  1.0000
+  Sb  Sb2       1.0  0.012039662338793278  0.8258035182952881  0.41081124544143677  1.0000
+  Sb  Sb3       1.0  0.6285958886146545  0.5463220477104187  0.7698966860771179  1.0000

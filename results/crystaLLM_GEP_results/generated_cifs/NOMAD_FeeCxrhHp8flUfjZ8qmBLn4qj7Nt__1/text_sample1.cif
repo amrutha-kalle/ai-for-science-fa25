@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlClSe3Te4
+_chemical_formula_sum              "Al1 Cl1 Se3 Te4"
+_cell_length_a       5.64814177592714
+_cell_length_b       6.641120107526071
+_cell_length_c       6.798655033111572
+_cell_angle_alpha    70.79408609671262
+_cell_angle_beta     62.7485469086499
+_cell_angle_gamma    63.11526388443575
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8626776933670044  0.7197632193565369  0.6192909479141235  1.0000
+  Cl  Cl1       1.0  0.9826762080192566  0.2871936857700348  0.2284126877784729  1.0000
+  Se  Se1       1.0  0.5005948543548584  0.7069772481918335  0.9635506272315979  1.0000
+  Se  Se2       1.0  0.5002500414848328  0.1660916656255722  0.35111141204833984  1.0000
+  Se  Se3       1.0  0.49413424730300903  0.9721071720123291  0.86111980676651  1.0000
+  Te  Te1       1.0  0.3201274573802948  0.5537623763084412  0.13229353725910187  1.0000
+  Te  Te2       1.0  0.07276265323162079  0.9746741652488708  0.8973872661590576  1.0000
+  Te  Te3       1.0  0.5870090126991272  0.7222800850868225  0.8507463932037354  1.0000
+  Te  Te4       1.0  0.9455370306968689  0.4045965373516083  0.4586475193500519  1.0000

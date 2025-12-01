@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       As4MnZr
+_chemical_formula_sum              "As4 Mn1 Zr1"
+_cell_length_a       5.0670041011077105
+_cell_length_b       6.237657983945674
+_cell_length_c       6.505607604980469
+_cell_angle_alpha    126.54110833247907
+_cell_angle_beta     90.19852049101573
+_cell_angle_gamma    89.81545090898067
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.9425657391548157  0.6422781944274902  0.5852409601211548  1.0000
+  As  As2       1.0  0.9279811978340149  0.08318454027175903  0.6853162050247192  1.0000
+  As  As3       1.0  0.43190476298332214  0.7898030877113342  0.984677255153656  1.0000
+  As  As4       1.0  0.9216419458389282  0.5391154289245605  0.37303227186203003  1.0000
+  Mn  Mn1       1.0  0.4339441955089569  0.08367931097745895  0.9052360653877258  1.0000
+  Zr  Zr1       1.0  0.4328503906726837  0.09756559133529663  0.9671095609664917  1.0000

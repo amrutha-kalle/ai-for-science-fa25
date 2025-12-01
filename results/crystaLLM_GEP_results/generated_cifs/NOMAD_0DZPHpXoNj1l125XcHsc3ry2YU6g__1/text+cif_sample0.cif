@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In5KTi2
+_chemical_formula_sum              "In5 K1 Ti2"
+_cell_length_a       4.781106993442354
+_cell_length_b       5.116203900024117
+_cell_length_c       8.425875663757324
+_cell_angle_alpha    91.11537220574147
+_cell_angle_beta     90.06316729625789
+_cell_angle_gamma    116.17035747460638
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.4855839014053345  0.5303777456283569  0.006358135025948286  1.0000
+  In  In2       1.0  0.8590434193611145  0.8959423899650574  0.8508706092834473  1.0000
+  In  In3       1.0  0.5093149542808533  0.8614389896392822  0.9692227840423584  1.0000
+  In  In4       1.0  0.43512314558029175  0.1778123676776886  0.6814600229263306  1.0000
+  In  In5       1.0  0.8755260109901428  0.385961651802063  0.2920263111591339  1.0000
+  K   K1        1.0  0.9167121648788452  0.6663354635238647  0.4982185661792755  1.0000
+  Ti  Ti1       1.0  0.4273868501186371  0.1819864958524704  0.7838165163993835  1.0000
+  Ti  Ti2       1.0  0.18654240667819977  0.91904616355896  0.50969398021698  1.0000

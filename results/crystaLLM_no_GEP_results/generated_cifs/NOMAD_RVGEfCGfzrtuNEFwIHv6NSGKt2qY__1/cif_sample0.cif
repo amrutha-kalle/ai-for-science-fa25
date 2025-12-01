@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ge2In2Sr2
+_chemical_formula_sum              "Ge2 In2 Sr2"
+_cell_length_a       5.1905565727971545
+_cell_length_b       5.541484101825539
+_cell_length_c       5.648123264312744
+_cell_angle_alpha    44.68018104284986
+_cell_angle_beta     58.11064340947805
+_cell_angle_gamma    64.1108817406361
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ge  Ge1       1.0  0.8609008193016052  0.6966659426689148  0.027162382379174232  1.0000
+  Ge  Ge2       1.0  0.8227798938751221  0.3432481288909912  0.37050384283065796  1.0000
+  In  In1       1.0  0.3451061248779297  0.01873689889907837  0.0172598734498024  1.0000
+  In  In2       1.0  0.24195276200771332  0.5298773646354675  0.886793851852417  1.0000
+  Sr  Sr1       1.0  0.5771368741989136  0.8992374539375304  0.26931384205818176  1.0000
+  Sr  Sr2       1.0  0.8750744462013245  0.1933094710111618  0.7128456234931946  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CoFeSc3Tl
+_chemical_formula_sum              "Co1 Fe1 Sc3 Tl1"
+_cell_length_a       4.8999882141183235
+_cell_length_b       4.763415633487426
+_cell_length_c       5.335762023925781
+_cell_angle_alpha    71.13227054873482
+_cell_angle_beta     66.98976551639342
+_cell_angle_gamma    66.81375194199413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.7966956496238708  0.7285770773887634  0.875809371471405  1.0000
+  Fe  Fe1       1.0  0.7897710204124451  0.3157837688922882  0.20886021852493286  1.0000
+  Sc  Sc1       1.0  0.3251535892486572  0.8977733850479126  0.8311110734939575  1.0000
+  Sc  Sc2       1.0  0.28945857286453247  0.2526906728744507  0.5774082541465759  1.0000
+  Sc  Sc3       1.0  0.3052975833415985  0.6247862577438354  0.6794792413711548  1.0000
+  Tl  Tl1       1.0  0.8326905369758606  0.6044744849205017  0.36516401171684265  1.0000

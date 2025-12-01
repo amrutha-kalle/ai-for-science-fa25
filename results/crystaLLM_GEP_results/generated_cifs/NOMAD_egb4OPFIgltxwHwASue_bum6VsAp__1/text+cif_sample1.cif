@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HfHgHo2IrReRhU
+_chemical_formula_sum              "Hf1 Hg1 Ho2 Ir1 Re1 Rh1 U1"
+_cell_length_a       4.493730543510425
+_cell_length_b       6.579894497050392
+_cell_length_c       7.160694599151611
+_cell_angle_alpha    121.79645307766572
+_cell_angle_beta     93.79880309062108
+_cell_angle_gamma    89.69135617472882
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.6687131524085999  0.8467081785202025  0.7541125416755676  1.0000
+  Hg  Hg1       1.0  0.13948889076709747  0.10609646886587142  0.15587428212165833  1.0000
+  Ho  Ho1       1.0  0.41258862614631653  0.08631599694490433  0.694141149520874  1.0000
+  Ho  Ho2       1.0  0.14061963558197021  0.3457746207714081  0.3423558175563812  1.0000
+  Ir  Ir1       1.0  0.17534580826759338  0.6519559621810913  0.9194788336753844  1.0000
+  Re  Re1       1.0  0.14538361132144928  0.3457137942314148  0.2562174797058105  1.0000
+  Rh  Rh1       1.0  0.9009968042373657  0.6104283332824707  0.3950957953929901  1.0000
+  U   U1        1.0  0.6597124934196472  0.596176028251648  0.2000720798969268  1.0000

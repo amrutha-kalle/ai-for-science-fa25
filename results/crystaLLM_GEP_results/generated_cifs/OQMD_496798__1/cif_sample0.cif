@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Lu2Zn6
+_chemical_formula_sum              "Lu2 Zn6"
+_cell_length_a       5.180469367279542
+_cell_length_b       6.052247665177591
+_cell_length_c       6.8223042488098145
+_cell_angle_alpha    114.29159943921297
+_cell_angle_beta     108.87773963016616
+_cell_angle_gamma    92.17684950047331
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.4741119146347046  0.5758181810379028  0.20153364539146423  1.0000
+  Lu  Lu2       1.0  0.7860968112945557  0.8059530854225159  0.045452699065208504  1.0000
+  Zn  Zn1       1.0  0.2596089541912079  0.8273377418518066  0.8501186370849609  1.0000
+  Zn  Zn2       1.0  0.4696146249771118  0.08557017892599106  0.5354526042938232  1.0000
+  Zn  Zn3       1.0  0.964597761631012  0.08793089538812637  0.49771732091903687  1.0000
+  Zn  Zn4       1.0  0.2591336667537689  0.960446298122406  0.7439579963684082  1.0000
+  Zn  Zn5       1.0  0.007506160065531731  0.31041082739830017  0.755325973033905  1.0000
+  Zn  Zn6       1.0  0.47229331731796265  0.602837324142456  0.2566787898540497  1.0000

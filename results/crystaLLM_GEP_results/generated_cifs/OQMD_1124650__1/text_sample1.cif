@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AgNpRh2Sc2SiY2
+_chemical_formula_sum              "Ag1 Np1 Rh2 Sc2 Si1 Y2"
+_cell_length_a       5.317704812708738
+_cell_length_b       6.324261658184156
+_cell_length_c       6.665093898773193
+_cell_angle_alpha    139.39928796853508
+_cell_angle_beta     110.65031871573439
+_cell_angle_gamma    83.26532579431687
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.46516102552413935  0.5253214836120607  0.02266637980937964  1.0000
+  Np  Np1       1.0  0.023602599278092398  0.005836395081132733  0.4803536236286164  1.0000
+  Rh  Rh1       1.0  0.23829968273639676  0.6664939522743226  0.43097892403602606  1.0000
+  Rh  Rh2       1.0  0.971827745437622  0.1602611541748047  0.02000689879059792  1.0000
+  Sc  Sc1       1.0  0.04881888255476957  0.3441873192787173  0.9569374918937685  1.0000
+  Sc  Sc2       1.0  0.8416329622268677  0.05267157778143883  0.02460655011236668  1.0000
+  Si  Si1       1.0  0.9816499352455138  0.019676921889185937  0.6621313691139221  1.0000
+  Y   Y1        1.0  0.5217050313949585  0.44142538309097307  0.7463632225990297  1.0000
+  Y   Y2        1.0  0.48957005143165583  0.44558137655258184  0.06881748139858251  1.0000

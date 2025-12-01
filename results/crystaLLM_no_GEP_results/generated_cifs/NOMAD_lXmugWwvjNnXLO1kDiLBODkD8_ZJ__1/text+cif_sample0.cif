@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaClIPt3TaTcZn
+_chemical_formula_sum              "Ca1 Cl1 I1 Pt3 Ta1 Tc1 Zn1"
+_cell_length_a       6.775701635719476
+_cell_length_b       6.535548392820168
+_cell_length_c       7.0045857429504395
+_cell_angle_alpha    70.51659434772405
+_cell_angle_beta     68.69338861839715
+_cell_angle_gamma    64.6259583082603
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8949306607246399  0.7424705028533936  0.7987246513366699  1.0000
+  Cl  Cl1       1.0  0.4123440384864807  0.43699309229850763  0.44291168451309204  1.0000
+  I   I1        1.0  0.477203369140625  0.3271711766719818  0.36225980520248413  1.0000
+  Pt  Pt1       1.0  0.8840450644493103  0.0495603121817112  0.14615637063980103  1.0000
+  Pt  Pt2       1.0  0.9187899827957153  0.6600743532180786  0.4409709870815277  1.0000
+  Pt  Pt3       1.0  0.7406954169273376  0.5496765375137329  0.06373780220746994  1.0000
+  Ta  Ta1       1.0  0.8980778455734253  0.4299976229667663  0.8378212451934814  1.0000
+  Tc  Tc1       1.0  0.4036858081817627  0.38165438175201416  0.8116310834884644  1.0000
+  Zn  Zn1       1.0  0.39066338539123535  0.04603971540927887  0.7889636754989624  1.0000

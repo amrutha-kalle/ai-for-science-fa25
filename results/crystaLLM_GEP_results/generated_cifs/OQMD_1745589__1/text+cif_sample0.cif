@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       BBa4NiP2
+_chemical_formula_sum              "B1 Ba4 Ni1 P2"
+_cell_length_a       5.255806148605099
+_cell_length_b       5.821555700018796
+_cell_length_c       5.986949920654297
+_cell_angle_alpha    66.5436379242611
+_cell_angle_beta     64.23844301158402
+_cell_angle_gamma    63.05177599531736
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.9275490045547485  0.29128408432006836  0.12353677302598953  1.0000
+  Ba  Ba1       1.0  0.21524924039840698  0.5788821578025818  0.796421468257904  1.0000
+  Ba  Ba2       1.0  0.2603604197502136  0.20708401501178741  0.7950645089149475  1.0000
+  Ba  Ba3       1.0  0.39527586102485657  0.8180594444274902  0.5127824544906616  1.0000
+  Ba  Ba4       1.0  0.7333454489707947  0.8935644030570984  0.29025232791900635  1.0000
+  Ni  Ni1       1.0  0.7771744132041931  0.12233124673366547  0.7945510149002075  1.0000
+  P   P1        1.0  0.06888402253389359  0.6393886208534241  0.7962601184844971  1.0000
+  P   P2        1.0  0.6510694026947021  0.2183237075805664  0.2890821397304535  1.0000

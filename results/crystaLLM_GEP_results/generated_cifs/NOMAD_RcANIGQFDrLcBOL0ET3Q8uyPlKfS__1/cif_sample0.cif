@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       B4CeHoIn
+_chemical_formula_sum              "B4 Ce1 Ho1 In1"
+_cell_length_a       3.8039559200009734
+_cell_length_b       4.058406458159588
+_cell_length_c       8.436481475830078
+_cell_angle_alpha    89.04582970685938
+_cell_angle_beta     88.6542869344796
+_cell_angle_gamma    97.44961590965866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.13566751778125763  0.25798648595809937  0.380691260099411  1.0000
+  B   B2        1.0  0.631852388381958  0.24957121908664703  0.2719319760799408  1.0000
+  B   B3        1.0  0.6274331212043762  0.7557440400123596  0.8722277283668518  1.0000
+  B   B4        1.0  0.6393013596534729  0.7284519672393799  0.6331382989883423  1.0000
+  Ce  Ce1       1.0  0.6120814085006714  0.5778940320014954  0.3698125183582306  1.0000
+  Ho  Ho1       1.0  0.12508879601955414  0.7764854431152344  0.1264565885066986  1.0000
+  In  In1       1.0  0.12616145610809326  0.24661630392074585  0.6214993000030516  1.0000

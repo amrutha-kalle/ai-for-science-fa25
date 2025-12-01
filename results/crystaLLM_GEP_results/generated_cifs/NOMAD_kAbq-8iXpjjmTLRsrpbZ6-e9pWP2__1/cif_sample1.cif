@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       FIrPPb2Ru2Zr
+_chemical_formula_sum              "F1 Ir1 P1 Pb2 Ru2 Zr1"
+_cell_length_a       4.551146958023486
+_cell_length_b       5.1146802650504135
+_cell_length_c       6.479877948760986
+_cell_angle_alpha    113.5941820709705
+_cell_angle_beta     90.96758191834827
+_cell_angle_gamma    88.93844663015379
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.6564549207687378  0.5513233542442322  0.891768991947174  1.0000
+  Ir  Ir1       1.0  0.4139055013656616  0.6862704753875732  0.5610117316246033  1.0000
+  P   P1        1.0  0.05454977601766586  0.4489368498325348  0.5906715989112854  1.0000
+  Pb  Pb1       1.0  0.6939312219619751  0.8508627414703369  0.4046980440616607  1.0000
+  Pb  Pb2       1.0  0.03561946749687195  0.19466175138950348  0.19518415629863736  1.0000
+  Ru  Ru1       1.0  0.021678537130355835  0.9336391687393188  0.8996107578277587  1.0000
+  Ru  Ru2       1.0  0.6901550889015198  0.3372977375984192  0.06394194811582567  1.0000
+  Zr  Zr1       1.0  0.30580058693885803  0.0434177927672863  0.14738629758358002  1.0000

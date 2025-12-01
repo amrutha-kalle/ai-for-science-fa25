@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       HInPb5Sb
+_chemical_formula_sum              "H1 In1 Pb5 Sb1"
+_cell_length_a       6.252052744991738
+_cell_length_b       5.45530297370329
+_cell_length_c       6.304435729980469
+_cell_angle_alpha    58.221766211815314
+_cell_angle_beta     62.15666071980614
+_cell_angle_gamma    56.14577885463877
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.43313330411911016  0.13769754767417908  0.6878765821456909  1.0000
+  In  In1       1.0  0.21179719269275668  0.1346973180770874  0.18426088988780975  1.0000
+  Pb  Pb1       1.0  0.7090133428573608  0.7545962929725647  0.4866381287574768  1.0000
+  Pb  Pb2       1.0  0.17517989873886108  0.2201749086380005  0.2265852689743042  1.0000
+  Pb  Pb3       1.0  0.6919401288032532  0.44122955203056335  0.08006620407104492  1.0000
+  Pb  Pb4       1.0  0.20563560724258426  0.28294581174850464  0.7080867886543274  1.0000
+  Pb  Pb5       1.0  0.7097309827804565  0.8581181168556213  0.17569099366664886  1.0000
+  Sb  Sb1       1.0  0.2134877294301987  0.4888879954814911  0.025162212550640106  1.0000

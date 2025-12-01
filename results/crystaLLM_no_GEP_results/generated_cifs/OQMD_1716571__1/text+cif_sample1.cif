@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F3IMoZn3
+_chemical_formula_sum              "F3 I1 Mo1 Zn3"
+_cell_length_a       3.9314484018003357
+_cell_length_b       4.182902229359582
+_cell_length_c       7.954761505126953
+_cell_angle_alpha    107.13805055991804
+_cell_angle_beta     91.06316767367758
+_cell_angle_gamma    87.20387715228532
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.34422728419303894  0.1592312455177307  0.5036765336990356  1.0000
+  F   F2        1.0  0.8538964986801147  0.0880756676197052  0.6348530054092408  1.0000
+  F   F3        1.0  0.8709110617637634  0.015948103740811348  0.37294372916221624  1.0000
+  I   I1        1.0  0.3554438352584839  0.5183475613594055  0.43897986412048345  1.0000
+  Mo  Mo1       1.0  0.35435062646865845  0.09155970811843872  0.07847157865762712  1.0000
+  Zn  Zn1       1.0  0.8576627373695374  0.12272743135690689  0.40498277544975286  1.0000
+  Zn  Zn2       1.0  0.35682299733161926  0.019216004759073257  0.5132802724838257  1.0000
+  Zn  Zn3       1.0  0.8567618727684021  0.142380490899086  0.6276528239250184  1.0000

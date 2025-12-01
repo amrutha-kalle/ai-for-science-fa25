@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BaHoInLaLuNbPb2Re
+_chemical_formula_sum              "Ba1 Ho1 In1 La1 Lu1 Nb1 Pb2 Re1"
+_cell_length_a       4.956877350789133
+_cell_length_b       6.104186158756431
+_cell_length_c       9.171529769897461
+_cell_angle_alpha    95.1105087510281
+_cell_angle_beta     97.6510858963569
+_cell_angle_gamma    90.28116424244867
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ba  Ba1       1.0  0.5564641356468201  0.9662787318229675  0.76515132188797  1.0000
+  Ho  Ho1       1.0  0.5500307679176331  0.3609047532081604  0.2908642888069153  1.0000
+  In  In1       1.0  0.055265508592128754  0.7036030888557434  0.3250786364078522  1.0000
+  La  La1       1.0  0.05507900193333626  0.6973415613174438  0.007277298253029585  1.0000
+  Lu  Lu1       1.0  0.05488485097885132  0.5577391386032104  0.4300636351108551  1.0000
+  Nb  Nb1       1.0  0.06188967823982239  0.49373915791511536  0.021191967651247978  1.0000
+  Pb  Pb1       1.0  0.5595762729644775  0.490488201379776  0.3229558765888214  1.0000
+  Pb  Pb2       1.0  0.5588316917419434  0.9742016196250916  0.9113006591796875  1.0000
+  Re  Re1       1.0  0.6388617753982544  0.2180754542350769  0.8440778851509094  1.0000

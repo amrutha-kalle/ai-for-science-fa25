@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       HHf3KLi
+_chemical_formula_sum              "H1 Hf3 K1 Li1"
+_cell_length_a       5.2638445418375825
+_cell_length_b       5.107754566799872
+_cell_length_c       7.8234543800354
+_cell_angle_alpha    93.04466790616335
+_cell_angle_beta     89.7559902506862
+_cell_angle_gamma    110.94938669038864
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.9524049758911133  0.30621176958084106  0.6708348393440247  1.0000
+  Hf  Hf1       1.0  0.938184380531311  0.662116527557373  0.4754618108272552  1.0000
+  Hf  Hf2       1.0  0.4342482388019562  0.6603965163230896  0.008263234980404377  1.0000
+  Hf  Hf3       1.0  0.43104591965675354  0.5981168746948242  0.03692815452814102  1.0000
+  K   K1        1.0  0.9477137327194214  0.8250431418418884  0.735641837120056  1.0000
+  Li  Li1       1.0  0.450947105884552  0.7071216702461243  0.5087125301361084  1.0000

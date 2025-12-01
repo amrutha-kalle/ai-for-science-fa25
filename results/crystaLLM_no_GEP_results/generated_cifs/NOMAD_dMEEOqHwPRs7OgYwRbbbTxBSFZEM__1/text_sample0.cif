@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaHg8
+_chemical_formula_sum              "Ca1 Hg8"
+_cell_length_a       5.314281523441855
+_cell_length_b       4.378333140556014
+_cell_length_c       12.412715911865234
+_cell_angle_alpha    109.89835404320843
+_cell_angle_beta     91.20168634604877
+_cell_angle_gamma    116.98445334353698
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.26013994216918945  0.49269470572471624  0.4986319839954376  1.0000
+  Hg  Hg1       1.0  0.7502893805503845  0.5575538277626038  0.9672501683235168  1.0000
+  Hg  Hg2       1.0  0.2603778839111328  0.4593489468097687  0.9233335256576538  1.0000
+  Hg  Hg3       1.0  0.34131744503974915  0.6246479153633118  0.7420541048049927  1.0000
+  Hg  Hg4       1.0  0.7822447419166565  0.11393681168556213  0.7131561636924744  1.0000
+  Hg  Hg5       1.0  0.37612077593803406  0.4327969551086426  0.9122946262359619  1.0000
+  Hg  Hg6       1.0  0.36543169617652893  0.5514488220214844  0.18004439771175385  1.0000
+  Hg  Hg7       1.0  0.7688879370689392  0.3411753475666046  0.3840697705745697  1.0000
+  Hg  Hg8       1.0  0.35208433866500854  0.21751490235328674  0.8031662106513977  1.0000

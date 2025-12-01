@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       In7Ti
+_chemical_formula_sum              "In7 Ti1"
+_cell_length_a       5.184682478502634
+_cell_length_b       5.6801765262502535
+_cell_length_c       7.455699920654297
+_cell_angle_alpha    100.03695377222233
+_cell_angle_beta     89.25699425712823
+_cell_angle_gamma    116.77643948181108
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.04109660163521767  0.7970942258834839  0.4913596212863922  1.0000
+  In  In2       1.0  0.9980124831199646  0.9518238306045532  0.7208864688873291  1.0000
+  In  In3       1.0  0.5245346426963806  0.6436646580696106  0.12503165006637573  1.0000
+  In  In4       1.0  0.031859733164310455  0.4586755335330963  0.8262757062911987  1.0000
+  In  In5       1.0  0.020668093115091324  0.44833889603614807  0.7533242106437683  1.0000
+  In  In6       1.0  0.5395464301109314  0.9780260324478149  0.8352193832397461  1.0000
+  In  In7       1.0  0.5282354950904846  0.25918689370155334  0.9934960007667543  1.0000
+  Ti  Ti1       1.0  0.5417022109031677  0.7911162972450256  0.557023286819458  1.0000

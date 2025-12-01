@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FGeHo4Tb2Zr
+_chemical_formula_sum              "F1 Ge1 Ho4 Tb2 Zr1"
+_cell_length_a       5.221316103640493
+_cell_length_b       7.011566976061937
+_cell_length_c       7.228354454040527
+_cell_angle_alpha    117.79559206814089
+_cell_angle_beta     90.94537685585279
+_cell_angle_gamma    89.83935154657433
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.12591232359409332  0.286744624376297  0.7150916457176208  1.0000
+  Ge  Ge1       1.0  0.4010016918182373  0.8074563741683961  0.33105623722076416  1.0000
+  Ho  Ho1       1.0  0.6218873262405396  0.8149501681327821  0.9667477607727051  1.0000
+  Ho  Ho2       1.0  0.1304088979959488  0.9866226911544801  0.711885392665863  1.0000
+  Ho  Ho3       1.0  0.12146031111478807  0.305742084980011  0.3284304440021515  1.0000
+  Ho  Ho4       1.0  0.12210870534181596  0.7914921641349794  0.6636950373649597  1.0000
+  Tb  Tb1       1.0  0.8718201518058777  0.9358709454536439  0.22045345604419708  1.0000
+  Tb  Tb2       1.0  0.6163090467453003  0.2980600595474243  0.4281827509403229  1.0000
+  Zr  Zr1       1.0  0.6219850778579712  0.8059692978858949  0.6009448766708374  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cl3HHgIr3Sn
+_chemical_formula_sum              "Cl3 H1 Hg1 Ir3 Sn1"
+_cell_length_a       4.653250691341361
+_cell_length_b       7.239397671713823
+_cell_length_c       6.965945243835449
+_cell_angle_alpha    119.56013165409573
+_cell_angle_beta     90.70034024820755
+_cell_angle_gamma    89.44299364463741
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.704282283782959  0.2148787826299667  0.953234374523163  1.0000
+  Cl  Cl2       1.0  0.2012198120355606  0.21425423026084897  0.4409411251544953  1.0000
+  Cl  Cl3       1.0  0.7064762711524963  0.9010877609252929  0.3457852303981782  1.0000
+  H   H1        1.0  0.7025953531265259  0.4417641460895538  0.8386319279670716  1.0000
+  Hg  Hg1       1.0  0.2037986367940903  0.20519581437110898  0.8652868270874025  1.0000
+  Ir  Ir1       1.0  0.7037627100944519  0.7129901647567748  0.49952831864357  1.0000
+  Ir  Ir2       1.0  0.20483443140983582  0.20662416517734525  0.18930143117904666  1.0000
+  Ir  Ir3       1.0  0.7023501396179199  0.7585620284080504  0.8449765443801881  1.0000
+  Sn  Sn1       1.0  0.20228450000286102  0.7153033018112182  0.4194274842739106  1.0000

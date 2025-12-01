@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       LiSTbTi4TlZr
+_chemical_formula_sum              "Li1 S1 Tb1 Ti4 Tl1 Zr1"
+_cell_length_a       5.95111636389543
+_cell_length_b       5.753697779525177
+_cell_length_c       6.229790687561035
+_cell_angle_alpha    59.558429486131466
+_cell_angle_beta     60.57149874693701
+_cell_angle_gamma    59.08484343618392
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Li  Li1       1.0  0.06987521797418594  0.06406395137310028  0.05573931708931922  1.0000
+  S   S1        1.0  0.2210845947265625  0.43046286702156067  0.39138084650039673  1.0000
+  Tb  Tb1       1.0  0.5758825540542603  0.572041928768158  0.05448085814714425  1.0000
+  Ti  Ti1       1.0  0.016027461737394333  0.10688890516757965  0.720944344997406  1.0000
+  Ti  Ti2       1.0  0.5047240853309631  0.10563688725233078  0.830185055732727  1.0000
+  Ti  Ti3       1.0  0.4593384861946106  0.8861803412437439  0.33497232198715204  1.0000
+  Ti  Ti4       1.0  0.01712808571755886  0.5988194942474365  0.14429748058319092  1.0000
+  Tl  Tl1       1.0  0.06770049035549164  0.0691022276878357  0.5504772067070007  1.0000
+  Zr  Zr1       1.0  0.5700756311416626  0.5757944583892822  0.549856662750244  1.0000

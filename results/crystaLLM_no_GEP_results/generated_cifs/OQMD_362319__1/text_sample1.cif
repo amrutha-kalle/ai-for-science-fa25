@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Al5BZr2
+_chemical_formula_sum              "Al5 B1 Zr2"
+_cell_length_a       5.597058174840908
+_cell_length_b       5.930226154103351
+_cell_length_c       6.243043422698975
+_cell_angle_alpha    84.5632598874908
+_cell_angle_beta     71.92450664839504
+_cell_angle_gamma    64.97852968260298
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.4149780571460724  0.31880348920822144  0.34980323910713196  1.0000
+  Al  Al2       1.0  0.9094565510749817  0.555726170539856  0.5691522359848022  1.0000
+  Al  Al3       1.0  0.41031286120414734  0.5549837946891785  0.12116032838821411  1.0000
+  Al  Al4       1.0  0.9077730178833008  0.5676367878913879  0.46087706089019775  1.0000
+  Al  Al5       1.0  0.9096826910972595  0.50075763463974  0.04196442663669586  1.0000
+  B   B1        1.0  0.9138680696487427  0.12527717649936676  0.2127983719110489  1.0000
+  Zr  Zr1       1.0  0.41769900918006897  0.23935648798942566  0.23271214962005615  1.0000
+  Zr  Zr2       1.0  0.9165624976158142  0.7763638496398926  0.09077571332454681  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FePb3PrSb2Sr2
+_chemical_formula_sum              "Fe1 Pb3 Pr1 Sb2 Sr2"
+_cell_length_a       5.526709531957131
+_cell_length_b       7.005213303738706
+_cell_length_c       8.197270393371582
+_cell_angle_alpha    90.27843130002384
+_cell_angle_beta     89.83692036559978
+_cell_angle_gamma    89.48442361517303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.7017271518707275  0.6384193301200867  0.5186794400215149  1.0000
+  Pb  Pb1       1.0  0.8614645004272461  0.3802998960018158  0.8692654967308044  1.0000
+  Pb  Pb2       1.0  0.19169358909130096  0.9940713644027709  0.5203410983085632  1.0000
+  Pb  Pb3       1.0  0.7301216721534729  0.6424220204353333  0.7082040309906006  1.0000
+  Pr  Pr1       1.0  0.7216250896453857  0.957121193408966  0.1512797325849533  1.0000
+  Sb  Sb1       1.0  0.19793079793453217  0.6324527859687805  0.5235584378242493  1.0000
+  Sb  Sb2       1.0  0.196061372756958  0.6451854705810547  0.15581358969211578  1.0000
+  Sr  Sr1       1.0  0.35888874530792236  0.45907735824584955  0.6623111367225647  1.0000
+  Sr  Sr2       1.0  0.12076690793037415  0.1042480245232582  0.019110990688204765  1.0000

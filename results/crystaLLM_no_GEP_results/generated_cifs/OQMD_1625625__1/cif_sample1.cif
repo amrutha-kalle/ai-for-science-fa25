@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       GdNi3P2ScTi2
+_chemical_formula_sum              "Gd1 Ni3 P2 Sc1 Ti2"
+_cell_length_a       5.374968581311097
+_cell_length_b       5.532859861312767
+_cell_length_c       5.460226535797119
+_cell_angle_alpha    105.46070214507233
+_cell_angle_beta     104.47336747359594
+_cell_angle_gamma    106.10512416270264
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Gd  Gd1       1.0  0.1836501657962799  0.19679763913154602  0.0372615307569504  1.0000
+  Ni  Ni1       1.0  0.7083619236946106  0.9892986416816711  0.70921128988266  1.0000
+  Ni  Ni2       1.0  0.40809476375579834  0.2816777527332306  0.23262277245521545  1.0000
+  Ni  Ni3       1.0  0.686061441898346  0.04105289652943611  0.28032219409942627  1.0000
+  P   P1        1.0  0.572681188583374  0.6130132675170898  0.38693967461586  1.0000
+  P   P2        1.0  0.08613051474094391  0.3065749704837799  0.9993203282356262  1.0000
+  Sc  Sc1       1.0  0.1948358416557312  0.1002030074596405  0.8411362767219543  1.0000
+  Ti  Ti1       1.0  0.2203287035226822  0.6100170612335205  0.7414612770080566  1.0000
+  Ti  Ti2       1.0  0.4291793406009674  0.27214065194129944  0.322754830121994  1.0000

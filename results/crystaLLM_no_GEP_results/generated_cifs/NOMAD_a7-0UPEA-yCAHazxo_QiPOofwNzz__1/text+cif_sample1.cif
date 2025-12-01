@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BiCdGeLa3Ti2Zn
+_chemical_formula_sum              "Bi1 Cd1 Ge1 La3 Ti2 Zn1"
+_cell_length_a       5.493121254820435
+_cell_length_b       5.343866731330349
+_cell_length_c       9.208130836486816
+_cell_angle_alpha    111.35396317927705
+_cell_angle_beta     106.7261005760433
+_cell_angle_gamma    90.70901245267268
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.1654774397611618  0.3867941200733185  0.10904185473918915  1.0000
+  Cd  Cd1       1.0  0.6675448417663574  0.0936870276927948  0.8145944476127625  1.0000
+  Ge  Ge1       1.0  0.14963942766189575  0.8063386082649231  0.9966568946838379  1.0000
+  La  La1       1.0  0.6632429957389832  0.5427988171577454  0.059224311262369156  1.0000
+  La  La2       1.0  0.6695533990859985  0.11335989087820053  0.9169797301292419  1.0000
+  La  La3       1.0  0.1661490648984909  0.703827440738678  0.6126096844673157  1.0000
+  Ti  Ti1       1.0  0.16599038243293762  0.4193490743637085  0.039543893188238144  1.0000
+  Ti  Ti2       1.0  0.6660959720611572  0.2135819047689438  0.10987116396427155  1.0000
+  Zn  Zn1       1.0  0.16209545731544495  0.49337124824523926  0.4419587552547455  1.0000

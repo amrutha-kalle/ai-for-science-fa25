@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AuIMn7
+_chemical_formula_sum              "Au1 I1 Mn7"
+_cell_length_a       6.528917332314925
+_cell_length_b       6.472467129811173
+_cell_length_c       6.523138999938965
+_cell_angle_alpha    62.40228552774362
+_cell_angle_beta     61.46723628451638
+_cell_angle_gamma    57.73723340389889
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.7955825924873352  0.3821779787540436  0.38655668497085566  1.0000
+  I   I1        1.0  0.258845716714859  0.030425898730754852  0.882424831390381  1.0000
+  Mn  Mn1       1.0  0.7498014569282532  0.4486076831817627  0.2873188853263855  1.0000
+  Mn  Mn2       1.0  0.2493378221988678  0.5893640518188477  0.11519934982061387  1.0000
+  Mn  Mn3       1.0  0.7509075403213501  0.2860599458217621  0.7937299013137818  1.0000
+  Mn  Mn4       1.0  0.7540668249130249  0.28623151779174805  0.14784580469131464  1.0000
+  Mn  Mn5       1.0  0.24607858061790466  0.20848260819911957  0.7540936470031739  1.0000
+  Mn  Mn6       1.0  0.26209959387779236  0.810632586479187  0.6300636529922485  1.0000
+  Mn  Mn7       1.0  0.752463161945343  0.5374651551246643  0.11079166084527971  1.0000

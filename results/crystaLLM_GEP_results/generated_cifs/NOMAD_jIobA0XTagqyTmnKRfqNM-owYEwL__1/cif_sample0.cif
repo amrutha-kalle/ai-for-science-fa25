@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Nb2Ru3Ti
+_chemical_formula_sum              "Nb2 Ru3 Ti1"
+_cell_length_a       3.947518251867727
+_cell_length_b       4.23121348789601
+_cell_length_c       6.150071620941162
+_cell_angle_alpha    92.72345621280522
+_cell_angle_beta     93.335690218252
+_cell_angle_gamma    92.80919934768073
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.42412459850311274  0.36303576827049255  0.28857505321502686  1.0000
+  Nb  Nb2       1.0  0.8074945211410522  0.6467121839523315  0.5571807026863098  1.0000
+  Ru  Ru1       1.0  0.2716310918331146  0.8840333223342896  0.793345868587494  1.0000
+  Ru  Ru2       1.0  0.883582830429077  0.3242579400539398  0.5556055307388306  1.0000
+  Ru  Ru3       1.0  0.1613379865884781  0.09469964355230331  0.23903855681419373  1.0000
+  Ti  Ti1       1.0  0.31639736890792847  0.6392027139663696  0.5526472330093384  1.0000

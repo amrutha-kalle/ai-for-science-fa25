@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       B2GeHPd3Pu
+_chemical_formula_sum              "B2 Ge1 H1 Pd3 Pu1"
+_cell_length_a       2.711049580641701
+_cell_length_b       5.518747910835216
+_cell_length_c       4.8699212074279785
+_cell_angle_alpha    78.28962365830387
+_cell_angle_beta     75.175127392473
+_cell_angle_gamma    74.90898477542538
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  B   B1        1.0  0.3953426778316498  0.5333163738250732  0.9638584852218629  1.0000
+  B   B2        1.0  0.9248714447021485  0.9048749804496766  0.5183386206626892  1.0000
+  Ge  Ge1       1.0  0.6908323168754578  0.8691850304603578  0.7187199592590332  1.0000
+  H   H1        1.0  0.39829820394515986  0.9851853251457215  0.9090164899826051  1.0000
+  Pd  Pd1       1.0  0.9067679643630983  0.8978459835052491  0.386178582906723  1.0000
+  Pd  Pd2       1.0  0.6628308296203613  0.6851790547370911  0.07671840488910675  1.0000
+  Pd  Pd3       1.0  0.42355737090110784  0.26714590191841125  0.05273966118693352  1.0000
+  Pu  Pu1       1.0  0.9211773276329042  0.7958305478096008  0.6730877757072449  1.0000

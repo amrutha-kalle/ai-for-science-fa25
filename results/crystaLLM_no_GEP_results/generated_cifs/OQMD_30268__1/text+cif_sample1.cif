@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Fe2GaY2Zn
+_chemical_formula_sum              "Fe2 Ga1 Y2 Zn1"
+_cell_length_a       5.380108683465698
+_cell_length_b       4.760024158908699
+_cell_length_c       5.392057418823242
+_cell_angle_alpha    113.07606739710786
+_cell_angle_beta     112.32340776295852
+_cell_angle_gamma    128.2884116846866
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.9475770592689514  0.8337677717208861  0.5668047070503234  1.0000
+  Fe  Fe2       1.0  0.4494258761405945  0.36993840336799616  0.9032464623451233  1.0000
+  Ga  Ga1       1.0  0.4484250247478485  0.20471216738224024  0.20522971451282498  1.0000
+  Y   Y1        1.0  0.20747734606266022  0.4726569652557373  0.13312099874019623  1.0000
+  Y   Y2        1.0  0.4368763566017151  0.620252788066864  0.6663402318954468  1.0000
+  Zn  Zn1       1.0  0.9518634080886841  0.2255458980798721  0.03227051720023154  1.0000

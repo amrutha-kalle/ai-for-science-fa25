@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Lu5Sc3Zn
+_chemical_formula_sum              "Lu5 Sc3 Zn1"
+_cell_length_a       4.241678247328977
+_cell_length_b       2.873977853402559
+_cell_length_c       6.632272720336914
+_cell_angle_alpha    147.18995522697887
+_cell_angle_beta     93.65506401705925
+_cell_angle_gamma    91.6410932759092
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Lu  Lu1       1.0  0.30613675713539124  0.4021877348423003  0.4658841490745544  1.0000
+  Lu  Lu2       1.0  0.25211450457572937  0.19129785895347606  0.8855098485946655  1.0000
+  Lu  Lu3       1.0  0.8584157228469849  0.9817860722541808  0.1687806248664856  1.0000
+  Lu  Lu4       1.0  0.7311144471168518  0.9349279403686523  0.8057332038879395  1.0000
+  Lu  Lu5       1.0  0.3032642900943756  0.21378241479396817  0.11236404627561569  1.0000
+  Sc  Sc1       1.0  0.6270714402198792  0.6714315414428711  0.7886396646499634  1.0000
+  Sc  Sc2       1.0  0.27011823654174805  0.41317158937454235  0.3985141813755036  1.0000
+  Sc  Sc3       1.0  0.1817805916070938  0.9276400804519653  0.2817705571651459  1.0000
+  Zn  Zn1       1.0  0.5428985953330994  0.9360180497169494  0.3211941123008728  1.0000

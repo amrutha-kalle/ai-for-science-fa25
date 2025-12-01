@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       AlAs2C2Cl
+_chemical_formula_sum              "Al1 As2 C2 Cl1"
+_cell_length_a       4.461524013236883
+_cell_length_b       3.929355757447675
+_cell_length_c       7.523695945739746
+_cell_angle_alpha    106.92457456266392
+_cell_angle_beta     104.3997917513159
+_cell_angle_gamma    86.96548978130646
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.8778387904167175  0.9593763947486879  0.2365840375423431  1.0000
+  As  As1       1.0  0.37945541739463806  0.9934033155441285  0.8754156827926635  1.0000
+  As  As2       1.0  0.577677845954895  0.4361639618873597  0.7033796310424805  1.0000
+  C   C1        1.0  0.012204158119857313  0.46794083714485174  0.4053122997283935  1.0000
+  C   C2        1.0  0.108403779566288  0.9710492491722108  0.6237972378730774  1.0000
+  Cl  Cl1       1.0  0.37402117252349854  0.7354835867881776  0.8700526952743529  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       CIPRu2Zr
+_chemical_formula_sum              "C1 I1 P1 Ru2 Zr1"
+_cell_length_a       4.85079586043425
+_cell_length_b       5.102576554731924
+_cell_length_c       5.568079471588135
+_cell_angle_alpha    90.84435861738457
+_cell_angle_beta     89.83488754639976
+_cell_angle_gamma    108.24211353250529
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.814207136631012  0.48916733264923096  0.34149906039237976  1.0000
+  I   I1        1.0  0.06535881757736206  0.9549777507781982  0.8519476056098938  1.0000
+  P   P1        1.0  0.5909130573272705  0.19617973268032074  0.5575288534164428  1.0000
+  Ru  Ru1       1.0  0.3252982497215271  0.048020314425230026  0.1495191156864166  1.0000
+  Ru  Ru2       1.0  0.07819999754428864  0.2700367867946625  0.0824732705950737  1.0000
+  Zr  Zr1       1.0  0.5333496332168579  0.22417035698890686  0.6447603106498718  1.0000

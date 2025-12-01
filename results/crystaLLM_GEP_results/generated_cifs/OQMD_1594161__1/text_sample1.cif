@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Ho3TbYb2
+_chemical_formula_sum              "Ho3 Tb1 Yb2"
+_cell_length_a       4.26137536549865
+_cell_length_b       3.957260934616696
+_cell_length_c       3.988961935043335
+_cell_angle_alpha    27.843412468839563
+_cell_angle_beta     35.54367367459034
+_cell_angle_gamma    59.33970426036209
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ho  Ho1       1.0  0.20095236599445343  0.13691589236259463  0.38613650202751154  1.0000
+  Ho  Ho2       1.0  0.19216378033161163  0.7081258296966552  0.8630222082138062  1.0000
+  Ho  Ho3       1.0  0.18991883099079146  0.8107730150222778  0.11211287230253207  1.0000
+  Tb  Tb1       1.0  0.72908616065979  0.06533130258321763  0.4424819946289062  1.0000
+  Yb  Yb1       1.0  0.1910480260848999  0.45548254251480097  0.8469594120979309  1.0000
+  Yb  Yb2       1.0  0.6954853534698486  0.4095729887485504  0.6995223164558412  1.0000

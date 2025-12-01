@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co5Na4
+_chemical_formula_sum              "Co5 Na4"
+_cell_length_a       4.640899763825033
+_cell_length_b       4.5138395505916025
+_cell_length_c       11.09470272064209
+_cell_angle_alpha    90.46638626698964
+_cell_angle_beta     90.67939521826678
+_cell_angle_gamma    90.75269864080141
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.2681207060813904  0.2538905143737793  0.453935831785202  1.0000
+  Co  Co2       1.0  0.017900271341204643  0.48023635149002075  0.5922422409057617  1.0000
+  Co  Co3       1.0  0.5221062302589417  0.28377076983451843  0.3628501892089844  1.0000
+  Co  Co4       1.0  0.5209940075874329  0.04185887798666954  0.5808164477348328  1.0000
+  Co  Co5       1.0  0.01808144897222519  0.23249591886997223  0.4528549611568451  1.0000
+  Na  Na1       1.0  0.5247734785079956  0.7139232754707336  0.7610939145088196  1.0000
+  Na  Na2       1.0  0.018932459875941277  0.6656471490859985  0.09208638966083527  1.0000
+  Na  Na3       1.0  0.5247926712036133  0.15589842200279236  0.2829483151435852  1.0000
+  Na  Na4       1.0  0.02012145146727562  0.30311715602874756  0.03559214621782303  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       F2ILiScZn3
+_chemical_formula_sum              "F2 I1 Li1 Sc1 Zn3"
+_cell_length_a       4.775291705927967
+_cell_length_b       4.620226651247093
+_cell_length_c       7.056290149688721
+_cell_angle_alpha    103.00153268072171
+_cell_angle_beta     90.66747717717851
+_cell_angle_gamma    92.15807229234156
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.9046796560287476  0.37588798999786377  0.975215494632721  1.0000
+  F   F2        1.0  0.8892229199409485  0.43144211173057556  0.5743304491043091  1.0000
+  I   I1        1.0  0.8954648971557617  0.8527721762657166  0.17186690866947174  1.0000
+  Li  Li1       1.0  0.39454951882362366  0.9906176924705505  0.5658467411994934  1.0000
+  Sc  Sc1       1.0  0.40068161487579346  0.27749499678611755  0.2521522641181946  1.0000
+  Zn  Zn1       1.0  0.39917537569999695  0.25415563583374023  0.22947478294372559  1.0000
+  Zn  Zn2       1.0  0.39821210503578186  0.4598581790924072  0.38609060645103455  1.0000
+  Zn  Zn3       1.0  0.8992545008659363  0.437354177236557  0.45307841897010803  1.0000

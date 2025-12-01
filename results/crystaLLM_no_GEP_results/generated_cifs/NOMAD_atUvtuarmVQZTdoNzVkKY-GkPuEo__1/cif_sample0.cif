@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ca2GeHInOPbPdPt
+_chemical_formula_sum              "Ca2 Ge1 H1 In1 O1 Pb1 Pd1 Pt1"
+_cell_length_a       6.186909614079731
+_cell_length_b       5.73468901871113
+_cell_length_c       4.999752998352051
+_cell_angle_alpha    14.818090086215989
+_cell_angle_beta     48.37677357175624
+_cell_angle_gamma    55.48944462698032
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.7597247362136841  0.4588574171066284  0.4985173344612122  1.0000
+  Ca  Ca2       1.0  0.7359230518341064  0.6084356307983397  0.27094420790672313  1.0000
+  Ge  Ge1       1.0  0.7368802428245544  0.08861887454986572  0.047017704695463215  1.0000
+  H   H1        1.0  0.23255525529384613  0.08610169589519502  0.9552161693572998  1.0000
+  In  In1       1.0  0.23391108214855194  0.08358673006296159  0.5658444762229919  1.0000
+  O   O1        1.0  0.7136557698249818  0.056145895272493376  0.22717507183551783  1.0000
+  Pb  Pb1       1.0  0.7422620058059692  0.4260831475257873  0.26290652155876165  1.0000
+  Pd  Pd1       1.0  0.2557135224342346  0.9337926506996155  0.884764075279236  1.0000
+  Pt  Pt1       1.0  0.2502892315387726  0.6474376320838929  0.41014704108238215  1.0000

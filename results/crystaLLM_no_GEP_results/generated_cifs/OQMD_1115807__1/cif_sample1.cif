@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       HHfNi4Pb2Sc
+_chemical_formula_sum              "H1 Hf1 Ni4 Pb2 Sc1"
+_cell_length_a       5.389565423231047
+_cell_length_b       5.590621642397155
+_cell_length_c       6.284946441650391
+_cell_angle_alpha    83.69038863611758
+_cell_angle_beta     71.8499390842095
+_cell_angle_gamma    66.69964125746672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  H   H1        1.0  0.5428775548934937  0.80483478307724  0.26692062616348267  1.0000
+  Hf  Hf1       1.0  0.543682336807251  0.8526030778884888  0.31093528866767883  1.0000
+  Ni  Ni1       1.0  0.5466755628585815  0.7554056644439697  0.9853373765945436  1.0000
+  Ni  Ni2       1.0  0.5482950210571289  0.4799038767814636  0.1213914528489113  1.0000
+  Ni  Ni3       1.0  0.5476603507995605  0.8421696424484253  0.0570364035665989  1.0000
+  Ni  Ni4       1.0  0.048459917306900024  0.7472290992736816  0.4636752903461457  1.0000
+  Pb  Pb1       1.0  0.04701278358697891  0.016948701813817024  0.16510015726089478  1.0000
+  Pb  Pb2       1.0  0.03013918176293373  0.7477245926856995  0.3220032751560211  1.0000
+  Sc  Sc1       1.0  0.5538455843925476  0.3705228567123413  0.8838891983032228  1.0000

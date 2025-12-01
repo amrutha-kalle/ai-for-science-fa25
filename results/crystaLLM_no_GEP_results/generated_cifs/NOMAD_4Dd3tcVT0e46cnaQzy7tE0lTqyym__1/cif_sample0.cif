@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Bi2CoGeLaSb
+_chemical_formula_sum              "Bi2 Co1 Ge1 La1 Sb1"
+_cell_length_a       6.132493316935046
+_cell_length_b       5.583365516564945
+_cell_length_c       6.87624979019165
+_cell_angle_alpha    113.87540827665721
+_cell_angle_beta     108.9687691717267
+_cell_angle_gamma    118.10759375876893
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.7999805808067322  0.14700588583946228  0.8377797603607178  1.0000
+  Bi  Bi2       1.0  0.6970735192298889  0.49933165311813354  0.6763102412223816  1.0000
+  Co  Co1       1.0  0.19115327298641205  0.5874428749084473  0.452361136674881  1.0000
+  Ge  Ge1       1.0  0.8039882779121399  0.03491887077689171  0.7509666085243225  1.0000
+  La  La1       1.0  0.29277732968330383  0.4962272047996521  0.49021339416503906  1.0000
+  Sb  Sb1       1.0  0.18929067254066467  0.7275579571723938  0.17805126309394836  1.0000

@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       As5Cu2Se2
+_chemical_formula_sum              "As5 Cu2 Se2"
+_cell_length_a       5.7665501464652404
+_cell_length_b       5.864240325777888
+_cell_length_c       6.4358625411987305
+_cell_angle_alpha    117.51506034508509
+_cell_angle_beta     117.16789925726013
+_cell_angle_gamma    89.20119210309927
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.7861939072608948  0.09926644712686539  0.4756429791450501  1.0000
+  As  As2       1.0  0.18439924716949463  0.7688063383102417  0.19912883639335635  1.0000
+  As  As3       1.0  0.47033312916755676  0.5518864393234253  0.690625011920929  1.0000
+  As  As4       1.0  0.4705764651298523  0.32092413306236267  0.719239115715027  1.0000
+  As  As5       1.0  0.290373295545578  0.11473704129457475  0.5382911562919617  1.0000
+  Cu  Cu1       1.0  0.10395197570323944  0.045273058116436005  0.03864487260580063  1.0000
+  Cu  Cu2       1.0  0.08262491971254349  0.6867453455924988  0.2069845497608185  1.0000
+  Se  Se1       1.0  0.6774147152900696  0.2253016829490662  0.2382302433252335  1.0000
+  Se  Se2       1.0  0.15588809549808502  0.003702964168041945  0.7431457638740541  1.0000

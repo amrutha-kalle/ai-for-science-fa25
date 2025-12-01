@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       In3LiLuV2
+_chemical_formula_sum              "In3 Li1 Lu1 V2"
+_cell_length_a       4.181707917477632
+_cell_length_b       4.206098075785912
+_cell_length_c       6.695172309875488
+_cell_angle_alpha    90.45649940260122
+_cell_angle_beta     86.25674185501076
+_cell_angle_gamma    119.67174717565646
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.6326826810836792  0.8727867603302002  0.294859915971756  1.0000
+  In  In2       1.0  0.11484033614397049  0.6554009318351746  0.602571427822113  1.0000
+  In  In3       1.0  0.32684361934661865  0.8232245445251465  0.42494654655456543  1.0000
+  Li  Li1       1.0  0.07248149067163467  0.9786702394485474  0.05302035063505173  1.0000
+  Lu  Lu1       1.0  0.6201990246772766  0.7019962072372437  0.5976090431213379  1.0000
+  V   V1        1.0  0.5912232995033264  0.6913906931877136  0.7730417847633362  1.0000
+  V   V2        1.0  0.13225655257701874  0.013434899970889091  0.22881080210208893  1.0000

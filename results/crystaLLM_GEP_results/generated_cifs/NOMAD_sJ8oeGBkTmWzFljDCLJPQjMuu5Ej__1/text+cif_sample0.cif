@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AgAl5K2
+_chemical_formula_sum              "Ag1 Al5 K2"
+_cell_length_a       4.7634043881036225
+_cell_length_b       5.750461218219022
+_cell_length_c       7.428084850311279
+_cell_angle_alpha    105.08621613359212
+_cell_angle_beta     89.71104281982454
+_cell_angle_gamma    106.8435927612013
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.24143894016742704  0.7051677703857422  0.8944454193115234  1.0000
+  Al  Al1       1.0  0.7832415103912354  0.08184066414833069  0.19375649094581604  1.0000
+  Al  Al2       1.0  0.7878592610359192  0.7211200594902039  0.39284732937812805  1.0000
+  Al  Al3       1.0  0.10099412500858307  0.763391375541687  0.8294854164123535  1.0000
+  Al  Al4       1.0  0.49752128124237055  0.18829602003097534  0.9432049989700317  1.0000
+  Al  Al5       1.0  0.09273075312376022  0.9309979677200317  0.3154465854167938  1.0000
+  K   K1        1.0  0.17347325384616852  0.2724197208881378  0.713921308517456  1.0000
+  K   K2        1.0  0.1819058209657669  0.5083118081092834  0.7010365128517151  1.0000

@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Co2IO2Sb
+_chemical_formula_sum              "Co2 I1 O2 Sb1"
+_cell_length_a       5.76461598647402
+_cell_length_b       5.168202220854207
+_cell_length_c       6.10486364364624
+_cell_angle_alpha    65.25124522457733
+_cell_angle_beta     62.20608247410664
+_cell_angle_gamma    51.77820673658371
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.604587733745575  0.41535094380378723  0.5742986798286438  1.0000
+  Co  Co2       1.0  0.10653790831565857  0.49453461170196533  0.49474599957466125  1.0000
+  I   I1        1.0  0.16776910424232483  0.5826574563980103  0.35090547800064087  1.0000
+  O   O1        1.0  0.8565699458122253  0.6769059300422668  0.5876797437667847  1.0000
+  O   O2        1.0  0.6255767941474915  0.9837900400161743  0.9938012361526489  1.0000
+  Sb  Sb1       1.0  0.2501392066478729  0.0677184909582138  0.8286057710647583  1.0000

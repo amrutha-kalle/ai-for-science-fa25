@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Sc5Se2TiTl
+_chemical_formula_sum              "Sc5 Se2 Ti1 Tl1"
+_cell_length_a       5.357393138782536
+_cell_length_b       6.572984295653949
+_cell_length_c       7.737223148345947
+_cell_angle_alpha    111.85183154159789
+_cell_angle_beta     108.30461904678415
+_cell_angle_gamma    90.82883953806557
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.1254083514213562  0.7856463193893433  0.7088133096694946  1.0000
+  Sc  Sc2       1.0  0.3790487051010132  0.06359320878982544  0.2541678547859192  1.0000
+  Sc  Sc3       1.0  0.7083925008773804  0.3217695951461792  0.6996215581893921  1.0000
+  Sc  Sc4       1.0  0.8210344314575195  0.9100131988525391  0.11228006333112717  1.0000
+  Sc  Sc5       1.0  0.08567322045564651  0.3862282931804657  0.3303142189979553  1.0000
+  Se  Se1       1.0  0.31422320008277893  0.9033195376396179  0.45198336243629456  1.0000
+  Se  Se2       1.0  0.8195601105690002  0.3855842053890228  0.11547703295946121  1.0000
+  Ti  Ti1       1.0  0.17394156754016876  0.753263533115387  0.6494321823120117  1.0000
+  Tl  Tl1       1.0  0.6704618334770203  0.8023672699928284  0.7222921848297119  1.0000

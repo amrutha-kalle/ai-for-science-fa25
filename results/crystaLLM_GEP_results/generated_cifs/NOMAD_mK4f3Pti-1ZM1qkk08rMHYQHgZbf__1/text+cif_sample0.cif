@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Cd2Ge3Pd4
+_chemical_formula_sum              "Cd2 Ge3 Pd4"
+_cell_length_a       4.255478338595985
+_cell_length_b       6.645222110383262
+_cell_length_c       8.064291000366211
+_cell_angle_alpha    96.87991954951356
+_cell_angle_beta     88.47863191182722
+_cell_angle_gamma    88.76359857203104
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.5145213007926941  0.1681516170501709  0.8141134381294249  1.0000
+  Cd  Cd2       1.0  0.01071147620677948  0.16524910926818848  0.9041339159011841  1.0000
+  Ge  Ge1       1.0  0.5122568607330322  0.5183079242706299  0.9025186896324158  1.0000
+  Ge  Ge2       1.0  0.015864979475736618  0.17203488945960999  0.3119323253631592  1.0000
+  Ge  Ge3       1.0  0.006422900594770908  0.6593853831291199  0.8270678520202637  1.0000
+  Pd  Pd1       1.0  0.015288140624761581  0.23150849342346191  0.09814605861902237  1.0000
+  Pd  Pd2       1.0  0.5117650628089905  0.7851293683052063  0.6331428289413452  1.0000
+  Pd  Pd3       1.0  0.510399341583252  0.7998557686805725  0.4739460349082947  1.0000
+  Pd  Pd4       1.0  0.008029753342270851  0.7987286448478699  0.4174887537956238  1.0000

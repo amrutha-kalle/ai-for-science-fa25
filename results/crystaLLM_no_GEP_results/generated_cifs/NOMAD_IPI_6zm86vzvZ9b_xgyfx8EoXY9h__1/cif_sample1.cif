@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CCl2GaIrPbPt3
+_chemical_formula_sum              "C1 Cl2 Ga1 Ir1 Pb1 Pt3"
+_cell_length_a       6.379969776560464
+_cell_length_b       6.278212217680963
+_cell_length_c       6.803035736083984
+_cell_angle_alpha    90.40210550225828
+_cell_angle_beta     89.87591532607875
+_cell_angle_gamma    90.94249438979368
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  C   C1        1.0  0.10822193324565887  0.5241675972938538  0.9405959844589233  1.0000
+  Cl  Cl1       1.0  0.6073604226112366  0.5290430784225464  0.8717944025993347  1.0000
+  Cl  Cl2       1.0  0.6745466589927673  0.8165469765663148  0.2879958152770996  1.0000
+  Ga  Ga1       1.0  0.6218747496604919  0.9324486851692201  0.882125198841095  1.0000
+  Ir  Ir1       1.0  0.9101719260215759  0.5678206086158752  0.16782908141613007  1.0000
+  Pb  Pb1       1.0  0.414278119802475  0.3140093684196472  0.2850606143474579  1.0000
+  Pt  Pt1       1.0  0.11322193592786789  0.5015043616294861  0.2484060823917389  1.0000
+  Pt  Pt2       1.0  0.614091157913208  0.05134429410099984  0.047835975885391235  1.0000
+  Pt  Pt3       1.0  0.15916354954242706  0.8406828045845033  0.9592276215553284  1.0000

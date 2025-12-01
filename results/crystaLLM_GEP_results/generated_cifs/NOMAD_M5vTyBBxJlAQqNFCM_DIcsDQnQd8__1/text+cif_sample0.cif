@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       AlBBi2NbNiSbTi2
+_chemical_formula_sum              "Al1 B1 Bi2 Nb1 Ni1 Sb1 Ti2"
+_cell_length_a       5.874461507741865
+_cell_length_b       6.059129319520665
+_cell_length_c       6.772035598754883
+_cell_angle_alpha    62.89001112524205
+_cell_angle_beta     61.96105973845776
+_cell_angle_gamma    59.54878714206168
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Al  Al1       1.0  0.7261667251586914  0.5832694172859192  0.35425227880477905  1.0000
+  B   B1        1.0  0.8424983024597168  0.9368867278099059  0.8807423710823059  1.0000
+  Bi  Bi1       1.0  0.9306185245513916  0.4489778578281402  0.976848304271698  1.0000
+  Bi  Bi2       1.0  0.3673395514488221  0.9700030684471129  0.7863153219223022  1.0000
+  Nb  Nb1       1.0  0.6415630578994751  0.6953456401824951  0.1811058074235916  1.0000
+  Ni  Ni1       1.0  0.27499985694885254  0.38954949378967285  0.330075740814209  1.0000
+  Sb  Sb1       1.0  0.38893720507621765  0.2078898847103119  0.8213939666748047  1.0000
+  Ti  Ti1       1.0  0.4199441373348236  0.9492307901382445  0.008954950608313084  1.0000
+  Ti  Ti2       1.0  0.8592535257339478  0.9416772723197936  0.8250941634178162  1.0000

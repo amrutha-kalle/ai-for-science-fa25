@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       FeIrPd2PtSbTi2Zr
+_chemical_formula_sum              "Fe1 Ir1 Pd2 Pt1 Sb1 Ti2 Zr1"
+_cell_length_a       6.32696455213515
+_cell_length_b       6.337267566436487
+_cell_length_c       6.749791622161865
+_cell_angle_alpha    60.5985432787095
+_cell_angle_beta     62.66659339281696
+_cell_angle_gamma    60.458412089396916
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.6599828600883484  0.04842275008559227  0.631378173828125  1.0000
+  Ir  Ir1       1.0  0.9525668025016785  0.7698534727096558  0.5341758728027344  1.0000
+  Pd  Pd1       1.0  0.14436250925064087  0.9739910364151001  0.22985731065273277  1.0000
+  Pd  Pd2       1.0  0.44448593258857727  0.7674440145492554  0.08152195066213608  1.0000
+  Pt  Pt1       1.0  0.953284740447998  0.6983548998832703  0.28563186526298523  1.0000
+  Sb  Sb1       1.0  0.7416067123413086  0.5239346623420715  0.5288370251655579  1.0000
+  Ti  Ti1       1.0  0.6722609400749207  0.9900299310684204  0.4887766540050506  1.0000
+  Ti  Ti2       1.0  0.2026010900735855  0.3459194302558899  0.2133888006210327  1.0000
+  Zr  Zr1       1.0  0.2325441837310791  0.34511029720306396  0.5742440223693848  1.0000

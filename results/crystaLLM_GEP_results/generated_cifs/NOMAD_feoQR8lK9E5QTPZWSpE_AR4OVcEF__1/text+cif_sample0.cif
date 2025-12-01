@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CaClGaGe2HfTb3
+_chemical_formula_sum              "Ca1 Cl1 Ga1 Ge2 Hf1 Tb3"
+_cell_length_a       5.064864753262185
+_cell_length_b       7.6653246068414305
+_cell_length_c       7.447246551513672
+_cell_angle_alpha    119.52252566081923
+_cell_angle_beta     89.63354857337784
+_cell_angle_gamma    89.41460382942154
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ca  Ca1       1.0  0.8372474908828735  0.40670090913772583  0.8828973174095155  1.0000
+  Cl  Cl1       1.0  0.32728078961372375  0.6775628924369812  0.5244897007942201  1.0000
+  Ga  Ga1       1.0  0.8259004950523376  0.7031497955322266  0.04967049881815911  1.0000
+  Ge  Ge1       1.0  0.32248732447624207  0.4086100459098816  0.5048563480377197  1.0000
+  Ge  Ge2       1.0  0.8537790179252625  0.4065713882446289  0.49928966164588934  1.0000
+  Hf  Hf1       1.0  0.8346792459487915  0.9152373671531677  0.9282527565956117  1.0000
+  Tb  Tb1       1.0  0.8327139616012573  0.9015403389930725  0.2659152448177339  1.0000
+  Tb  Tb2       1.0  0.33323198556900024  0.9076816439628601  0.8181195259094239  1.0000
+  Tb  Tb3       1.0  0.3387155532836914  0.3927322328090668  0.5635075569152832  1.0000

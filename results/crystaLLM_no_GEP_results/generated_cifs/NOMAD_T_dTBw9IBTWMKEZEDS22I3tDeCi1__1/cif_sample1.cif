@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       As3CIZr
+_chemical_formula_sum              "As3 C1 I1 Zr1"
+_cell_length_a       4.98878644639221
+_cell_length_b       6.333598049056599
+_cell_length_c       6.8300065994262695
+_cell_angle_alpha    126.69593996014008
+_cell_angle_beta     89.62551094592219
+_cell_angle_gamma    87.69826088645418
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.022191889584064484  0.6090224981307983  0.447088360786438  1.0000
+  As  As2       1.0  0.534915566444397  0.8423784971237183  0.8615706562995911  1.0000
+  As  As3       1.0  0.03191626816987991  0.08543983846902847  0.3681093156337738  1.0000
+  C   C1        1.0  0.029954373836517334  0.0122901052236557  0.3589625656604767  1.0000
+  I   I1        1.0  0.02213975414633751  0.6936994194984436  0.9201388359069824  1.0000
+  Zr  Zr1       1.0  0.5225298404693604  0.16772480309009552  0.6468027830123901  1.0000

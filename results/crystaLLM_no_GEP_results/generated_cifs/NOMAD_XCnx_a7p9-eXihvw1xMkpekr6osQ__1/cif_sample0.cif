@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       AsCr3GaLiSb2
+_chemical_formula_sum              "As1 Cr3 Ga1 Li1 Sb2"
+_cell_length_a       6.100627331922466
+_cell_length_b       5.799949337632964
+_cell_length_c       6.019780158996582
+_cell_angle_alpha    58.699798565263755
+_cell_angle_beta     58.717680986617985
+_cell_angle_gamma    56.74476794896482
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.2815415859222412  0.3687257468700409  0.8515915274620056  1.0000
+  Cr  Cr1       1.0  0.39563050866127014  0.7304725050926208  0.13894648849964142  1.0000
+  Cr  Cr2       1.0  0.9156088829040528  0.3648948073387146  0.7320267558097839  1.0000
+  Cr  Cr3       1.0  0.8799859881401063  0.8363350033760071  0.622443437576294  1.0000
+  Ga  Ga1       1.0  0.9145947694778443  0.6212220191955566  0.5752190351486206  1.0000
+  Li  Li1       1.0  0.9407367706298829  0.8433073163032532  0.19406233727931976  1.0000
+  Sb  Sb1       1.0  0.41620737314224243  0.16720056533813477  0.7712095975875854  1.0000
+  Sb  Sb2       1.0  0.4434652924537659  0.218186616897583  0.8513275980949402  1.0000

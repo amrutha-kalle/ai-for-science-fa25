@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       As2CaFPt3SiZr
+_chemical_formula_sum              "As2 Ca1 F1 Pt3 Si1 Zr1"
+_cell_length_a       4.034803482598827
+_cell_length_b       4.641439727133111
+_cell_length_c       8.390122413635254
+_cell_angle_alpha    90.85020590480183
+_cell_angle_beta     91.69883717908424
+_cell_angle_gamma    104.05074777352576
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  As  As1       1.0  0.40062007308006287  0.11864881217479706  0.12173866480588913  1.0000
+  As  As2       1.0  0.9348837733268738  0.25366416573524475  0.4211287200450897  1.0000
+  Ca  Ca1       1.0  0.9056220054626465  0.6079424023628235  0.42832186818122864  1.0000
+  F   F1        1.0  0.3535771369934082  0.03809189051389694  0.40288111567497253  1.0000
+  Pt  Pt1       1.0  0.38059476017951965  0.6589619517326355  0.0957496240735054  1.0000
+  Pt  Pt2       1.0  0.37678346037864685  0.9224551320075989  0.013383924961090088  1.0000
+  Pt  Pt3       1.0  0.4410841166973114  0.2387288361787796  0.3733195960521698  1.0000
+  Si  Si1       1.0  0.3932441473007202  0.7256153225898743  0.5951544642448426  1.0000
+  Zr  Zr1       1.0  0.8849650621414185  0.583042323589325  0.5679546594619751  1.0000

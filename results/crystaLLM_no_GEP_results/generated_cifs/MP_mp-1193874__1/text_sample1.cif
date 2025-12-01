@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       BrOU5
+_chemical_formula_sum              "Br1 O1 U5"
+_cell_length_a       5.183929885405827
+_cell_length_b       5.840726267038275
+_cell_length_c       6.910781383514404
+_cell_angle_alpha    118.27014633121128
+_cell_angle_beta     98.39329467529701
+_cell_angle_gamma    103.74468282104809
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.03848348185420036  0.6902191638946533  0.4941974282264709  1.0000
+  O   O1        1.0  0.9883661270141602  0.9779518842697144  0.697180449962616  1.0000
+  U   U1        1.0  0.8379815816879272  0.4940909147262573  0.9650681018829345  1.0000
+  U   U2        1.0  0.5631310343742371  0.6894029974937439  0.15252901613712316  1.0000
+  U   U3        1.0  0.05660298839211464  0.09003306180238724  0.47988310456275934  1.0000
+  U   U4        1.0  0.5549689531326294  0.7354669570922852  0.6925424933433533  1.0000
+  U   U5        1.0  0.37635084986686707  0.7632033228874207  0.3800169229507447  1.0000

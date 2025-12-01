@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       BrFP2PdReRhTi2
+_chemical_formula_sum              "Br1 F1 P2 Pd1 Re1 Rh1 Ti2"
+_cell_length_a       5.0252134482020425
+_cell_length_b       5.082990129613831
+_cell_length_c       7.0251288414001465
+_cell_angle_alpha    111.58052299593783
+_cell_angle_beta     108.25489181521823
+_cell_angle_gamma    89.66000628540672
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.2161729335784912  0.9764495491981506  0.3469016253948211  1.0000
+  F   F1        1.0  0.29979127645492554  0.6368895769119263  0.9224877357482909  1.0000
+  P   P1        1.0  0.5294737815856934  0.6102333068847656  0.21477884054183957  1.0000
+  P   P2        1.0  0.7920630574226379  0.13500750064849854  0.7416536808013915  1.0000
+  Pd  Pd1       1.0  0.791942298412323  0.1326894462108612  0.4674925506114959  1.0000
+  Re  Re1       1.0  0.8040440082550049  0.8876693844795227  0.20991230010986325  1.0000
+  Rh  Rh1       1.0  0.35588061809539795  0.0146826496347785  0.5338629484176636  1.0000
+  Ti  Ti1       1.0  0.8533273339271545  0.6634390354156494  0.9778438210487365  1.0000
+  Ti  Ti2       1.0  0.8374879956245422  0.7078738808631897  0.26378974318504333  1.0000

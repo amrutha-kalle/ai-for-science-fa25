@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       CoHo3IN2Te2
+_chemical_formula_sum              "Co1 Ho3 I1 N2 Te2"
+_cell_length_a       6.760433116957731
+_cell_length_b       6.426522630542469
+_cell_length_c       8.48344612121582
+_cell_angle_alpha    77.7943595796012
+_cell_angle_beta     72.9868501666608
+_cell_angle_gamma    62.54557187298849
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.4068186581134796  0.5745453834533691  0.22440241277217865  1.0000
+  Ho  Ho1       1.0  0.2156272679567337  0.6325518488883972  0.4682314097881317  1.0000
+  Ho  Ho2       1.0  0.6989623308181763  0.2524242401123047  0.37588563561439514  1.0000
+  Ho  Ho3       1.0  0.8920120000839232  0.5559700727462769  0.5899887084960938  1.0000
+  I   I1        1.0  0.4101022481918335  0.49316889047622675  0.6704962253570557  1.0000
+  N   N1        1.0  0.9036052227020263  0.4070609807968139  0.34749290347099304  1.0000
+  N   N2        1.0  0.3663977682590485  0.7473359704017638  0.11493654549121857  1.0000
+  Te  Te1       1.0  0.39993488788604736  0.056995157152414315  0.27401575446128845  1.0000
+  Te  Te2       1.0  0.9233076572418212  0.6426549553871155  0.42301946878433233  1.0000

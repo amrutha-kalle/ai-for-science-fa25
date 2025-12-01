@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Ni3Pb2Ti3Zn
+_chemical_formula_sum              "Ni3 Pb2 Ti3 Zn1"
+_cell_length_a       5.09663746368721
+_cell_length_b       5.589499615722029
+_cell_length_c       5.702463150024414
+_cell_angle_alpha    89.20186921695549
+_cell_angle_beta     89.18230982167186
+_cell_angle_gamma    89.91372591386074
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ni  Ni1       1.0  0.26228949427604675  0.5986507534980774  0.15236470103263855  1.0000
+  Ni  Ni2       1.0  0.7647614479064941  0.5305076241493225  0.7359021306037903  1.0000
+  Ni  Ni3       1.0  0.2789572775363922  0.2624146342277527  0.6521447896957397  1.0000
+  Pb  Pb1       1.0  0.263858437538147  0.6903145909309387  0.600123941898346  1.0000
+  Pb  Pb2       1.0  0.765497624874115  0.6043205261230469  0.943953812122345  1.0000
+  Ti  Ti1       1.0  0.2692677080631256  0.22444649040699002  0.6827228665351868  1.0000
+  Ti  Ti2       1.0  0.2573884427547455  0.7903506755828857  0.16992540657520294  1.0000
+  Ti  Ti3       1.0  0.7658398747444153  0.9579920768737792  0.06945141404867172  1.0000
+  Zn  Zn1       1.0  0.76580411195755  0.4145283102989197  0.21802741289138794  1.0000

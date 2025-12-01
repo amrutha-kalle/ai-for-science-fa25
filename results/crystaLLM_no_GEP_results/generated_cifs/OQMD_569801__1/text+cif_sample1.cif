@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       Co3FGaINaPbPd
+_chemical_formula_sum              "Co3 F1 Ga1 I1 Na1 Pb1 Pd1"
+_cell_length_a       5.645116018606261
+_cell_length_b       5.468137176603723
+_cell_length_c       7.24327278137207
+_cell_angle_alpha    63.37311658098281
+_cell_angle_beta     67.14251549801223
+_cell_angle_gamma    59.47699938196174
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.5396981239318848  0.8691617846488953  0.10482648760080344  1.0000
+  Co  Co2       1.0  0.47782018780708313  0.058824293315410614  0.9398391842842102  1.0000
+  Co  Co3       1.0  0.05055692419409752  0.6773234009742737  0.674789309501648  1.0000
+  F   F1        1.0  0.5553663372993469  0.12104533612728119  0.5731784701347351  1.0000
+  Ga  Ga1       1.0  0.008949474431574345  0.436276912689209  0.3477686941623688  1.0000
+  I   I1        1.0  0.342781126499176  0.6545634269714355  0.5284053087234497  1.0000
+  Na  Na1       1.0  0.3612973690032959  0.48916351795196533  0.36535048484802246  1.0000
+  Pb  Pb1       1.0  0.06538709998130798  0.8762286901473999  0.16856512427330017  1.0000
+  Pd  Pd1       1.0  0.9987295866012572  0.4887215495109558  0.31678915023803716  1.0000
