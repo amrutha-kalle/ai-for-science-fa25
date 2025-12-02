@@ -11,73 +11,76 @@ from pymatgen.core import Composition
 from pymatgen.io.cif import CifBlock
 from pymatgen.symmetry.groups import SpaceGroup
 from pymatgen.core.operations import SymmOp
-# from ase.optimize import BFGS
-# from ase.vibrations import Vibrations
-# from mace.calculators import mace_mp
-# from ase import Atoms
+from ase.optimize import BFGS
+from ase.vibrations import Vibrations
+from mace.calculators import mace_mp
+from ase import Atoms
 import numpy as np
 import os
 import csv
 import tqdm
 
 
+calc = mace_mp()
+
 # ----------------------------
 # Convert CIF string → ASE Atoms
 # ----------------------------
-# def cif_to_ase(cif_string):
-#     struct = Structure.from_str(cif_string, fmt="cif")
-#     symbols = [str(s.specie) for s in struct]
-#     positions = struct.frac_coords @ struct.lattice.matrix
-#     cell = struct.lattice.matrix
-#     return Atoms(symbols=symbols, positions=positions, cell=cell, pbc=True)
+def cif_to_ase(cif_string):
+    struct = Structure.from_str(cif_string, fmt="cif")
+    symbols = [str(s.specie) for s in struct]
+    positions = struct.frac_coords @ struct.lattice.matrix
+    cell = struct.lattice.matrix
+    return Atoms(symbols=symbols, positions=positions, cell=cell, pbc=True)
 
-# # ----------------------------
-# # Relax structure using MLFF
-# # ----------------------------
-# def relax_structure(atoms):
-#     atoms = atoms.copy()
-#     calc = mace_mp()
-#     atoms.set_calculator(calc)
-#     dyn = BFGS(atoms, logfile=None)
-#     dyn.run(fmax=0.03)     # convergence threshold
-#     return atoms
+# ----------------------------
+# Relax structure using MLFF
+# ----------------------------
+def relax_structure(atoms):
+    atoms = atoms.copy()
+    # calc = mace_mp()
+    atoms.calc = calc
+    # atoms.set_calculator(calc)
+    dyn = BFGS(atoms, logfile=None)
+    dyn.run(fmax=0.03)     # convergence threshold
+    return atoms
 
-# # ----------------------------
-# # Compute phonons (local minimum check)
-# # ----------------------------
-# def compute_phonons(atoms, indices=None):
-#     """
-#     indices = list of atom indices to displace, or None for all atoms.
-#     """
-#     atoms = atoms.copy()
-#     calc = mace_mp()
-#     atoms.set_calculator(calc)
+# ----------------------------
+# Compute phonons (local minimum check)
+# ----------------------------
 
-#     vib = Vibrations(atoms, indices=indices)
-#     vib.run()
-#     freqs = vib.get_frequencies()  # in cm^-1
-#     vib.clean()
-#     return freqs
 
-# # ----------------------------
-# # Full metastability evaluation
-# # ----------------------------
-# def evaluate_metastability(cif_string, phonon_subset=None):
-#     atoms = cif_to_ase(cif_string)
+def compute_phonons(atoms, indices=None):
+    """
+    indices = list of atom indices to displace, or None for all atoms.
+    """
+    atoms = atoms.copy()
+    atoms.calc = calc
+    vib = Vibrations(atoms, indices=indices)
+    vib.run()
+    freqs = vib.get_frequencies()  # in cm^-1
+    vib.clean()
+    return freqs
 
-#     # 1. Relaxation
-#     relaxed = relax_structure(atoms)
-#     energy = relaxed.get_potential_energy() / len(relaxed)
+# ----------------------------
+# Full metastability evaluation
+# ----------------------------
+def evaluate_metastability(cif_string, phonon_subset=None):
+    atoms = cif_to_ase(cif_string)
 
-#     # 2. Dynamical stability via phonons
-#     freqs = compute_phonons(relaxed, indices=phonon_subset)
-#     n_imag = np.sum(freqs < 0)
+    # 1. Relaxation
+    relaxed = relax_structure(atoms)
+    energy = relaxed.get_potential_energy() / len(relaxed)
 
-#     return {
-#         "energy_eV_per_atom": energy,
-#         "num_imaginary_modes": int(n_imag),
-#         "is_dynamically_stable": (n_imag == 0)
-#     }
+    # 2. Dynamical stability via phonons
+    freqs = compute_phonons(relaxed, indices=phonon_subset)
+    n_imag = np.sum(freqs < 0)
+
+    return {
+        "energy_eV_per_atom": energy,
+        "num_imaginary_modes": int(n_imag),
+        "is_dynamically_stable": (n_imag == 0)
+    }
 
 def extract_data_formula(cif_str):
     match = re.search(r"data_([A-Za-z0-9]+)\n", cif_str)
@@ -123,7 +126,10 @@ def atom_site_multiplicity_consistent(cif_str):
 
 # Returns true if the stated space group is consistent with the detected space group
 def space_group_consistent(cif_str):
-    structure = Structure.from_str(cif_str, fmt="cif")
+    try:
+        structure = Structure.from_str(cif_str, fmt="cif")
+    except:
+        return "invalid cif"
     parser = CifParser.from_str(cif_str)
     cif_data = parser.as_dict()
     
@@ -220,7 +226,10 @@ def bond_length_reasonableness_score(cif_str, tolerance=0.32, h_factor=2.5):
 
             bond_count += 1
 
-    normalized_score = score / bond_count
+    if bond_count != 0:
+        normalized_score = score / bond_count
+    else:
+        normalized_score = 0
 
     return normalized_score
 
@@ -339,6 +348,8 @@ if __name__ == "__main__":
         f_cons = formula_consistent(cif)
         a_cons = atom_site_multiplicity_consistent(cif)
         sg_cons = space_group_consistent(cif)
+        if sg_cons == "invalid cif":
+            continue
         bond = bond_length_reasonableness_score(cif)
         valid = f_cons and a_cons and sg_cons and bond >= 0.7
 
@@ -349,8 +360,8 @@ if __name__ == "__main__":
                 "num_imaginary_modes": None,
                 "is_dynamically_stable": None
             }
-        # else:
-            # meta = evaluate_metastability(cif)
+        else:
+            meta = evaluate_metastability(cif)
         
         electro_stats = electronegativity_stats(cif)
 

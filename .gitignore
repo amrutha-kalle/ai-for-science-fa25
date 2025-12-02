@@ -18,3 +18,7 @@ chem_no_GEP/
 crystal_gen/
 prelim_chem/
 junk
+results/GEP_results
+results/no_GEP_results
+GEP
+no_GEP
