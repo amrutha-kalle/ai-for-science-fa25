@@ -12,3 +12,8 @@ chemeleon/data/my-ds/.env
 src/.env
 chemeleon/data/my-ds/prompts
 src/junk.ipynb
+ex.py
+chem_GEP/
+chem_no_GEP/
+crystal_gen/
+prelim_chem/

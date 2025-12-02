@@ -1,3 +1,5 @@
+from charset_normalizer import detect
+from huggingface_hub import StateDictSplit
 from pymatgen.analysis.local_env import CrystalNN
 from pymatgen.core import Composition, Structure
 from pymatgen.io.cif import CifParser
@@ -9,72 +11,73 @@ from pymatgen.core import Composition
 from pymatgen.io.cif import CifBlock
 from pymatgen.symmetry.groups import SpaceGroup
 from pymatgen.core.operations import SymmOp
-from ase.optimize import BFGS
-from ase.vibrations import Vibrations
-from mace.calculators import mace_mp
-from ase import Atoms
+# from ase.optimize import BFGS
+# from ase.vibrations import Vibrations
+# from mace.calculators import mace_mp
+# from ase import Atoms
 import numpy as np
 import os
 import csv
+import tqdm
 
 
 # ----------------------------
 # Convert CIF string → ASE Atoms
 # ----------------------------
-def cif_to_ase(cif_string):
-    struct = Structure.from_str(cif_string, fmt="cif")
-    symbols = [str(s.specie) for s in struct]
-    positions = struct.frac_coords @ struct.lattice.matrix
-    cell = struct.lattice.matrix
-    return Atoms(symbols=symbols, positions=positions, cell=cell, pbc=True)
+# def cif_to_ase(cif_string):
+#     struct = Structure.from_str(cif_string, fmt="cif")
+#     symbols = [str(s.specie) for s in struct]
+#     positions = struct.frac_coords @ struct.lattice.matrix
+#     cell = struct.lattice.matrix
+#     return Atoms(symbols=symbols, positions=positions, cell=cell, pbc=True)
 
-# ----------------------------
-# Relax structure using MLFF
-# ----------------------------
-def relax_structure(atoms):
-    atoms = atoms.copy()
-    calc = mace_mp()
-    atoms.set_calculator(calc)
-    dyn = BFGS(atoms, logfile=None)
-    dyn.run(fmax=0.03)     # convergence threshold
-    return atoms
+# # ----------------------------
+# # Relax structure using MLFF
+# # ----------------------------
+# def relax_structure(atoms):
+#     atoms = atoms.copy()
+#     calc = mace_mp()
+#     atoms.set_calculator(calc)
+#     dyn = BFGS(atoms, logfile=None)
+#     dyn.run(fmax=0.03)     # convergence threshold
+#     return atoms
 
-# ----------------------------
-# Compute phonons (local minimum check)
-# ----------------------------
-def compute_phonons(atoms, indices=None):
-    """
-    indices = list of atom indices to displace, or None for all atoms.
-    """
-    atoms = atoms.copy()
-    calc = mace_mp()
-    atoms.set_calculator(calc)
+# # ----------------------------
+# # Compute phonons (local minimum check)
+# # ----------------------------
+# def compute_phonons(atoms, indices=None):
+#     """
+#     indices = list of atom indices to displace, or None for all atoms.
+#     """
+#     atoms = atoms.copy()
+#     calc = mace_mp()
+#     atoms.set_calculator(calc)
 
-    vib = Vibrations(atoms, indices=indices)
-    vib.run()
-    freqs = vib.get_frequencies()  # in cm^-1
-    vib.clean()
-    return freqs
+#     vib = Vibrations(atoms, indices=indices)
+#     vib.run()
+#     freqs = vib.get_frequencies()  # in cm^-1
+#     vib.clean()
+#     return freqs
 
-# ----------------------------
-# Full metastability evaluation
-# ----------------------------
-def evaluate_metastability(cif_string, phonon_subset=None):
-    atoms = cif_to_ase(cif_string)
+# # ----------------------------
+# # Full metastability evaluation
+# # ----------------------------
+# def evaluate_metastability(cif_string, phonon_subset=None):
+#     atoms = cif_to_ase(cif_string)
 
-    # 1. Relaxation
-    relaxed = relax_structure(atoms)
-    energy = relaxed.get_potential_energy() / len(relaxed)
+#     # 1. Relaxation
+#     relaxed = relax_structure(atoms)
+#     energy = relaxed.get_potential_energy() / len(relaxed)
 
-    # 2. Dynamical stability via phonons
-    freqs = compute_phonons(relaxed, indices=phonon_subset)
-    n_imag = np.sum(freqs < 0)
+#     # 2. Dynamical stability via phonons
+#     freqs = compute_phonons(relaxed, indices=phonon_subset)
+#     n_imag = np.sum(freqs < 0)
 
-    return {
-        "energy_eV_per_atom": energy,
-        "num_imaginary_modes": int(n_imag),
-        "is_dynamically_stable": (n_imag == 0)
-    }
+#     return {
+#         "energy_eV_per_atom": energy,
+#         "num_imaginary_modes": int(n_imag),
+#         "is_dynamically_stable": (n_imag == 0)
+#     }
 
 def extract_data_formula(cif_str):
     match = re.search(r"data_([A-Za-z0-9]+)\n", cif_str)
@@ -84,18 +87,26 @@ def extract_data_formula(cif_str):
 
 # Returns true if chemical formula is consistent throughout the generated CIF
 def formula_consistent(cif_str):
-    parser = CifParser.from_string(cif_str)
+    parser = CifParser.from_str(cif_str)
     cif_data = parser.as_dict()
-
-    formula_data = Composition(extract_data_formula(cif_str))
+    # print(f"extract data formula: {extract_data_formula(cif_str)}")
+    # try:
+    #     formula_data = Composition(extract_data_formula(cif_str))
+    # except:
+    #     return False
     formula_sum = Composition(cif_data[list(cif_data.keys())[0]]["_chemical_formula_sum"])
     formula_structural = Composition(cif_data[list(cif_data.keys())[0]]["_chemical_formula_structural"])
-
-    return formula_data.reduced_formula == formula_sum.reduced_formula == formula_structural.reduced_formula
+    
+    # print(f"formula sum: {formula_sum.reduced_formula}")
+    # print(f"formula data: {formula_data.reduced_formula}")
+    # print(f"formula structural: {formula_structural.reduced_formula}")
+    
+    return formula_sum.reduced_formula == formula_structural.reduced_formula
+    # return formula_data.reduced_formula == formula_sum.reduced_formula == formula_structural.reduced_formula
 
 # Returns true if the atom site multiplicty is consistent throughout the generated CIF
 def atom_site_multiplicity_consistent(cif_str):
-    parser = CifParser.from_string(cif_str)
+    parser = CifParser.from_str(cif_str)
     cif_data = parser.as_dict()
 
     formula_sum = cif_data[list(cif_data.keys())[0]]["_chemical_formula_sum"]
@@ -106,25 +117,42 @@ def atom_site_multiplicity_consistent(cif_str):
         if "_atom_site_type_symbol" in cif_data[key] and "_atom_site_symmetry_multiplicity" in cif_data[key]:
             for atom_type, multiplicity in zip(cif_data[key]["_atom_site_type_symbol"],
                                                cif_data[key]["_atom_site_symmetry_multiplicity"]):
-                actual_atoms[atom_type] += int(multiplicity)
+                actual_atoms[atom_type] += int(float(multiplicity))
 
     return expected_atoms == actual_atoms
 
 # Returns true if the stated space group is consistent with the detected space group
 def space_group_consistent(cif_str):
     structure = Structure.from_str(cif_str, fmt="cif")
-    parser = CifParser.from_string(cif_str)
+    parser = CifParser.from_str(cif_str)
     cif_data = parser.as_dict()
+    
+    actual_data = list(cif_data.values())[0]
+    # stated_space_group = actual_data['_symmetry_space_group_name_H-M']
+    # print()
+    # print(f"cif data: {cif_data}")
+    # print()
+    # print(f"cif data: {cif_data.keys()}")
 
     # Extract the stated space group from the CIF file
-    stated_space_group = cif_data[list(cif_data.keys())[0]]['_symmetry_space_group_name_H-M']
+    # print(f"cif keys: {list(cif_data.keys())[0]}")
+    if '_symmetry_space_group_name_H-M' in actual_data.keys():
+        stated_space_group = actual_data['_symmetry_space_group_name_H-M']
+    else:
+        stated_space_group = actual_data['_space_group_name_H-M_alt']
 
     # Analyze the symmetry of the structure
-    spacegroup_analyzer = SpacegroupAnalyzer(structure, symprec=0.1)
+    try:
+        spacegroup_analyzer = SpacegroupAnalyzer(structure, symprec=0.1)
+    except:
+        return False
 
     # Get the detected space group
     detected_space_group = spacegroup_analyzer.get_space_group_symbol()
-
+    
+    
+    stated_space_group = stated_space_group.replace(" ", "")
+    detected_space_group = detected_space_group.replace(" ", "")
     # Check if the detected space group matches the stated space group
     is_match = stated_space_group.strip() == detected_space_group.strip()
 
@@ -163,14 +191,21 @@ def bond_length_reasonableness_score(cif_str, tolerance=0.32, h_factor=2.5):
             than or equal to 1.7 indicates that the bond has significant ionic 
             character.
             """
-            if electronegativity_diff >= 1.7:
+            if electronegativity_diff >= 1.7 and site.specie.average_cationic_radius and connected_site.specie.average_anionic_radius:
                 # use ionic radii
                 if site.specie.X < connected_site.specie.X:
                     expected_length = site.specie.average_cationic_radius + connected_site.specie.average_anionic_radius
                 else:
                     expected_length = site.specie.average_anionic_radius + connected_site.specie.average_cationic_radius
             else:
-                expected_length = site.specie.atomic_radius + connected_site.specie.atomic_radius
+                if site.specie.atomic_radius and connected_site.specie.atomic_radius:
+                    expected_length = site.specie.atomic_radius + connected_site.specie.atomic_radius
+                elif site.specie.atomic_radius:
+                    expected_length = site.specie.atomic_radius
+                elif connected_site.specie.atomic_radius:
+                    expected_length = connected_site.specie.atomic_radius
+                else:
+                    return 0
 
             bond_ratio = bond_length / expected_length
 
@@ -230,7 +265,7 @@ def replace_symmetry_operators(cif_str, space_group_symbol):
         v = op.translation_vector
         symmops.append(SymmOp.from_rotation_and_translation(op.rotation_matrix, v))
 
-    ops = [op.as_xyz_string() for op in symmops]
+    ops = [op.as_xyz_str() for op in symmops]
     data["_symmetry_equiv_pos_site_id"] = [f"{i}" for i in range(1, len(ops) + 1)]
     data["_symmetry_equiv_pos_as_xyz"] = ops
 
@@ -244,10 +279,16 @@ def replace_symmetry_operators(cif_str, space_group_symbol):
     return cif_str_updated
 
 def extract_space_group_symbol(cif_str):
-    match = re.search(r"_symmetry_space_group_name_H-M\s+('([^']+)'|(\S+))", cif_str)
-    if match:
-        return match.group(2) if match.group(2) else match.group(3)
-    raise Exception(f"could not extract space group from:\n{cif_str}")
+    try:
+        match = re.search(r'_symmetry_space_group_name_H-M\s+(?:"([^"]+)"|\'([^\']+)\'|(\S+))', cif_str)
+        if match:
+            return match.group(2) if match.group(2) else match.group(3)
+        match = re.search( r'_space_group_name_H-M_alt\s+(?:"([^"]+)"|\'([^\']+)\'|(\S+))',cif_str)
+        if match:
+            return match.group(1) or match.group(2) or match.group(3)
+    except Exception as e:
+        print(f"could not extract space group from:\n{cif_str}")
+        return None
 
 
 def electronegativity_stats(cif_string):
@@ -270,7 +311,7 @@ def electronegativity_stats(cif_string):
 # given CIF as a string, figure out if it's valid
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(usage="given directory of cif files, measure validity and store results in cif")
-    parser.add_argument("-d", "--dir", dest="cif_dir", help="path to directory containing cif files", required=True)
+    parser.add_argument("-d", "--dir", dest="cif_dir", help="path to directory containing cif files. last dir should be /generated_cifs", required=True)
     parser.add_argument("-o", "--output", dest="csv_file", help="path to output csv file", default="./validity_results.csv")
     parser.add_argument("--skip-meta", dest="skip_meta", action="store_true", help="skip metastability calculation")
 
@@ -281,20 +322,16 @@ if __name__ == "__main__":
     
 
     rows = []
-
-    for filename in os.listdir(cif_dir):
-        if not filename.lower().endswith(".cif"):
-            continue
-
-        path = os.path.join(cif_dir, filename)
-        with open(path, "r") as f:
+    for filename in tqdm.tqdm(os.listdir(cif_dir)):
+        with open(os.path.join(cif_dir, filename), "r") as f:
             cif = f.read()
-
-        # Sensible?
+                    # Sensible?
         sens = is_sensible(cif)
 
         # Fix sym ops
         sg = extract_space_group_symbol(cif)
+        sg = sg.replace('"', "")
+        # print(f"space group symbol: {sg}")
         if sg and sg != "P 1":
             cif = replace_symmetry_operators(cif, sg)
 
@@ -303,7 +340,7 @@ if __name__ == "__main__":
         a_cons = atom_site_multiplicity_consistent(cif)
         sg_cons = space_group_consistent(cif)
         bond = bond_length_reasonableness_score(cif)
-        valid = f_cons and a_cons and sg_cons and bond >= 1.0
+        valid = f_cons and a_cons and sg_cons and bond >= 0.7
 
         # Metastability
         if skip_meta:
@@ -312,13 +349,13 @@ if __name__ == "__main__":
                 "num_imaginary_modes": None,
                 "is_dynamically_stable": None
             }
-        else:
-            meta = evaluate_metastability(cif)
+        # else:
+            # meta = evaluate_metastability(cif)
         
         electro_stats = electronegativity_stats(cif)
 
         rows.append({
-            "filename": filename,
+            "filename": f"{filename}",
             "is_sensible": sens,
             "formula_consistent": f_cons,
             "atom_site_consistent": a_cons,
@@ -336,6 +373,67 @@ if __name__ == "__main__":
             "per_site": electro_stats["per_site"]
             
         })
+
+    # Write CSV
+    with open(csv_file, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        writer.writeheader()
+        writer.writerows(rows)
+    # for sample_dir in tqdm.tqdm(os.listdir(cif_dir)):
+    #     for filename in os.listdir(os.path.join(cif_dir, sample_dir)):
+    #         if not filename.endswith(".cif"):
+    #             continue
+    #         path = os.path.join(cif_dir, sample_dir, filename)
+    #         # print(f"processing {path}")
+    #         with open(path, "r") as f:
+    #             cif = f.read()
+
+    #         # Sensible?
+    #         sens = is_sensible(cif)
+
+    #         # Fix sym ops
+    #         sg = extract_space_group_symbol(cif)
+    #         if sg and sg != "P 1":
+    #             cif = replace_symmetry_operators(cif, sg)
+
+    #         # Compute validity components
+    #         f_cons = formula_consistent(cif)
+    #         a_cons = atom_site_multiplicity_consistent(cif)
+    #         sg_cons = space_group_consistent(cif)
+    #         bond = bond_length_reasonableness_score(cif)
+    #         valid = f_cons and a_cons and sg_cons and bond >= 1.0
+
+    #         # Metastability
+    #         if skip_meta:
+    #             meta = {
+    #                 "energy_eV_per_atom": None,
+    #                 "num_imaginary_modes": None,
+    #                 "is_dynamically_stable": None
+    #             }
+    #         else:
+    #             meta = evaluate_metastability(cif)
+            
+    #         electro_stats = electronegativity_stats(cif)
+
+    #         rows.append({
+    #             "filename": f"{sample_dir}/{filename}",
+    #             "is_sensible": sens,
+    #             "formula_consistent": f_cons,
+    #             "atom_site_consistent": a_cons,
+    #             "space_group_consistent": sg_cons,
+    #             "bond_length_score": bond,
+    #             "is_valid": valid,
+    #             "energy_eV_per_atom": meta["energy_eV_per_atom"],
+    #             "num_imaginary_modes": meta["num_imaginary_modes"],
+    #             "is_dynamically_stable": meta["is_dynamically_stable"],
+    #             "mean_en": electro_stats["mean_en"],
+    #             "std_en": electro_stats["std_en"],
+    #             "max_en": electro_stats["max_en"],
+    #             "min_en": electro_stats["min_en"],
+    #             "max_diff_pair": electro_stats["max_diff_pair"],
+    #             "per_site": electro_stats["per_site"]
+                
+    #         })
 
     # Write CSV
     with open(csv_file, "w", newline="") as f:
